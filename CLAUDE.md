@@ -14,6 +14,7 @@ Notional operations orders for Squad Training Exercises (STX) and Field Leadersh
 
 - `STX/` — Squad Training Exercise lanes (evaluated STX lanes at Camp Blanding)
 - `FLX/` — Field Leadership Exercise materials (multi-day company-level staff exercise)
+- `April-TLP-Training/` — April Phase 2 TLP training plan, COA analysis, and track-specific materials
 - `POI/` — TLP instructional slides and imagery
 - `reference/` — Format references, inject cards, grid references, quick-reference guides
 - `tools/` — Blank OPORD template and other standalone tools

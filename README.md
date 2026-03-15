@@ -14,6 +14,7 @@ All content is written in GitHub Flavored Markdown and automatically converted t
   - [Static Operations](#static-operations)
   - [DSCA Operations (Hurricane Response)](#dsca-operations-hurricane-response)
 - [Inject Card System](#inject-card-system)
+- [April TLP Training](#april-tlp-training)
 - [Field Leadership Exercise (FLX)](#field-leadership-exercise-flx)
 
 ## Templates and References
@@ -86,6 +87,14 @@ To keep iterations fresh during multiple training runs, use the inject card syst
 - [Timeline Pressure Cards](inject-cards-timeline-pressure.html) - Time constraint variations (10 cards)
 
 **Quick Start:** Select 1-3 inject cards from different categories per iteration to create unique scenarios without needing new OPORDs.
+
+## April TLP Training
+
+Phase 2 TLP-focused training to prepare 24 Officer Candidates for Phase 3. Two concurrent tracks from the same AO — a Combat Arms track running full lane execution with blanks, and a Fundamentals track focused on planning repetitions.
+
+- [April TLP Training Plan](April-TLP-Training/index.html) - Planning notes, COA comparison, resource requirements, and decisions needed
+- [COA 1: LTA with Blanks](April-TLP-Training/COA1-LTA-with-blanks.html) - Local Training Area, zero transport time, ~16 hours usable training (recommended)
+- [COA 2: S9/S10 Training Areas](April-TLP-Training/COA2-S9-S10-training-areas.html) - Alternate AO, requires re-gridding and leader's recon
 
 ## Field Leadership Exercise (FLX)
 

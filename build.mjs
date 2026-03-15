@@ -12,6 +12,7 @@ const REF = 'reference';
 const TOOLS = 'tools';
 const ASSETS = 'assets';
 const POI = 'POI';
+const APRIL_TLP = 'April-TLP-Training';
 
 // Files to skip (not content — meta/build files)
 const SKIP_FILES = new Set(['AGENTS.md', 'CLAUDE.md']);
@@ -153,6 +154,28 @@ if (existsSync(FLX_PROPS)) {
 // --- Copy POI directory (slides, images) ---
 if (existsSync(POI)) {
   copyDir(POI, join(DIST, POI));
+}
+
+// --- April TLP Training (subdirectory like FLX) ---
+if (existsSync(APRIL_TLP)) {
+  mkdirSync(join(DIST, APRIL_TLP), { recursive: true });
+
+  // Convert README.md to index.html for this section
+  const aprilReadme = join(APRIL_TLP, 'README.md');
+  if (existsSync(aprilReadme)) {
+    renderMarkdown(aprilReadme, join(DIST, APRIL_TLP, 'index.html'), {
+      title: 'April TLP Training',
+      isIndex: true,
+    });
+  }
+
+  // Convert remaining markdown files
+  for (const file of readdirSync(APRIL_TLP)) {
+    if (!file.endsWith('.md')) continue;
+    if (file === 'README.md') continue;
+    if (shouldSkip(file)) continue;
+    renderMarkdown(join(APRIL_TLP, file), join(DIST, APRIL_TLP, file.replace('.md', '.html')));
+  }
 }
 
 console.log('\nBuild complete.');
