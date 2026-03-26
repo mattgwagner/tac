@@ -170,12 +170,17 @@ No priority of indirect fires designated. Mortar support available through compa
    - **Objective Report:** Upon securing squad objective — report status, enemy situation, and disposition.
    - **LACE Report:** Upon reaching objective.
 
-**5. Coordination Between Squads:**
+**5. Essential Elements of Friendly Information (EEFI):**
+   1. SP/LD times and locations
+   2. Friendly unit positions and boundaries
+   3. Casualty status and combat strength
+
+**6. Coordination Between Squads:**
    - Squads operate independently within their zones. Lateral coordination at zone boundaries is the responsibility of adjacent squad leaders.
    - Squads report contact via SALUTE on the platoon net; adjacent squads monitor but continue their own missions unless directed otherwise by the PL.
    - Squads requiring support request it through the PL.
 
-**6.** This OPORD is effective immediately upon distribution.
+**7.** This OPORD is effective immediately upon distribution.
 
 ---
 
@@ -222,3 +227,7 @@ No priority of indirect fires designated. Mortar support available through compa
    - Password: Fly
    - Running Password: Secure
    - Combination: 11
+
+**4. Audible Signals:**
+   - Shift Fire: 2 whistle blasts
+   - Cease Fire: 3 whistle blasts

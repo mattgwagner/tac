@@ -151,14 +151,19 @@ None.
    5. Friendly casualty in the assault element requiring immediate MEDEVAC
    6. Civilian presence on or near the objective preventing planned fires
 
-**4. Reporting:**
+**4. Essential Elements of Friendly Information (EEFI):**
+   1. SP/LD times and locations
+   2. Friendly unit positions and boundaries
+   3. Casualty status and combat strength
+
+**5. Reporting:**
    - **Report to higher when SP'ing or crossing the line of departure.**
    - **In Position Report:** Upon occupying the ORP and the SBF position.
    - **SALUTE Report:** Upon visual confirmation of enemy, including the OP.
    - **ACE Report:** Upon seizure and consolidation on the objective.
    - **LACE Report:** Upon consolidation.
 
-**5.** This OPORD is effective immediately upon distribution.
+**6.** This OPORD is effective immediately upon distribution.
 
 ---
 
@@ -205,3 +210,7 @@ None.
    - Password: Strike
    - Running Password: Junction
    - Combination: 7
+
+**4. Audible Signals:**
+   - Shift Fire: 2 whistle blasts
+   - Cease Fire: 3 whistle blasts

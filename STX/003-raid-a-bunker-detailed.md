@@ -149,13 +149,18 @@ None.
    4. Any friendly casualty during the assault requiring immediate MEDEVAC
    5. Civilian presence at or near the bunker complex
 
-**4. Reporting:**
+**4. Essential Elements of Friendly Information (EEFI):**
+   1. SP/LD times and locations
+   2. Friendly unit positions and boundaries
+   3. Casualty status and combat strength
+
+**5. Reporting:**
    - **Report to higher when SP'ing or crossing the line of departure.**
    - **In Position Report:** Upon occupying the ORP or objective.
    - **LACE Report:** At least once during operation and upon re-establishment of ORP.
    - **SALUTE Report:** Upon sighting enemy forces or indicators.
 
-**5.** This OPORD is effective immediately upon distribution.
+**6.** This OPORD is effective immediately upon distribution.
 
 ---
 
@@ -202,3 +207,7 @@ None.
    - Password: Apache
    - Running Password: Secure
    - Combination: 9
+
+**4. Audible Signals:**
+   - Shift Fire: 2 whistle blasts
+   - Cease Fire: 3 whistle blasts

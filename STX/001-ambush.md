@@ -147,13 +147,18 @@ None.
    3. Civilian presence in or adjacent to the kill zone at time of execution
    4. Any friendly casualty that reduces the assault element below minimum effective strength
 
-**4. Reporting:**
+**4. Essential Elements of Friendly Information (EEFI):**
+   1. SP/LD times and locations
+   2. Friendly unit positions and boundaries
+   3. Casualty status and combat strength
+
+**5. Reporting:**
    - **SALUTE Report:** Upon enemy visual confirmation.
    - **Report to higher when SP'ing or crossing the line of departure.**
    - **In Position Report:** Upon occupying the ambush site or ORP.
    - **LACE Report:** After ambush, within ______ minutes.
 
-**5.** This OPORD is effective immediately upon distribution.
+**6.** This OPORD is effective immediately upon distribution.
 
 ---
 
@@ -199,3 +204,7 @@ None.
    - Password: Falcon
    - Running Password: Secure
    - Combination: 11
+
+**4. Audible Signals:**
+   - Shift Fire: 2 whistle blasts
+   - Cease Fire: 3 whistle blasts
