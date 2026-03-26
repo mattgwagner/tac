@@ -88,14 +88,6 @@ To keep iterations fresh during multiple training runs, use the inject card syst
 
 **Quick Start:** Select 1-3 inject cards from different categories per iteration to create unique scenarios without needing new OPORDs.
 
-## April TLP Training
-
-Phase 2 TLP-focused training to prepare 24 Officer Candidates for Phase 3. Two concurrent tracks from the same AO — a Combat Arms track running full lane execution with blanks, and a Fundamentals track focused on planning repetitions.
-
-- [April TLP Training Plan](April-TLP-Training/index.html) - Planning notes, COA comparison, resource requirements, and decisions needed
-- [COA 1: LTA with Blanks](April-TLP-Training/COA1-LTA-with-blanks.html) - Local Training Area, zero transport time, ~16 hours usable training (recommended)
-- [COA 2: S9/S10 Training Areas](April-TLP-Training/COA2-S9-S10-training-areas.html) - Alternate AO, requires re-gridding and leader's recon
-
 ## Field Leadership Exercise (FLX)
 
 The FLX is a multi-day company-level staff exercise where candidates plan and execute a series of tactical operations under a single operational framework. FLX materials — including the cadre brief, company staff guide, and sequential operation orders — are available to cadre separately.
