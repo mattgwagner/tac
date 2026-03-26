@@ -2,8 +2,15 @@ import { mkdirSync, readdirSync, readFileSync, writeFileSync, copyFileSync, exis
 import { join, basename, extname } from 'path';
 import { marked } from 'marked';
 
-// Configure marked for GitHub Flavored Markdown
-marked.use({ gfm: true });
+// Configure marked for GitHub Flavored Markdown with heading IDs
+const renderer = new marked.Renderer();
+renderer.heading = function ({ text, depth }) {
+  // Generate a slug from heading text (strip HTML tags first)
+  const raw = text.replace(/<[^>]*>/g, '');
+  const slug = raw.toLowerCase().replace(/[^\w]+/g, '-').replace(/(^-|-$)/g, '');
+  return `<h${depth} id="${slug}">${text}</h${depth}>\n`;
+};
+marked.use({ gfm: true, renderer });
 
 const DIST = 'dist';
 const STX = 'STX';
