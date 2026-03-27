@@ -10,7 +10,7 @@
 >
 > **Mission Summary:** 1st Platoon attacks to seize OBJ HERRERA to deny REAPER use of a key road junction and enable follow-on operations.
 >
-> **Destination:** OBJ HERRERA at MP 0602 1565, AO COTTO.
+> **Destination:** OBJ HERRERA at MP 0600 1523, AO COTTO.
 >
 > **Actions on Objective:** Platoon will establish an ORP, conduct leader's reconnaissance, isolate and suppress the objective, assault and seize the road junction, consolidate, and report.
 >
@@ -18,7 +18,7 @@
 >
 > **OPFOR/Training Wrinkles:**
 > - REAPER OP along Bradenton Ave south of the junction detects the SBF element during occupation — tests candidate's reaction to early detection and ability to adapt the plan.
-> - Civilian foot traffic along Jacksonville Street during actions on the objective — tests ROE discipline and fire control measures.
+> - Civilian foot traffic along Arcadia Street during actions on the objective — tests ROE discipline and fire control measures.
 > - REAPER counterattack from the north through the woodline after the assault begins — tests whether the candidate planned for the MDCOA and positioned the security element effectively.
 > - Fallen tree or wire obstacle across the primary assault route through the woodline — tests adaptability and ability to designate alternate routes under pressure.
 > - REAPER RPK shifts fires from the Bradenton Ave corridor to the assault element's avenue of approach from the west — tests the SBF element's ability to identify and suppress the support weapon.
@@ -49,9 +49,9 @@ Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. AO
 
 ### b. Area of Operations
 
-**1. Terrain.** The AO consists of flat terrain with sandy soils and dense pine and hardwood forests throughout. Thick vegetation and tree canopy severely limit observation and fields of fire except along improved roads and clearings. Jacksonville Street runs east-west through the northern portion of the AO. Bradenton Avenue runs north-south, intersecting Jacksonville Street at the objective. These improved roads are the primary avenues of approach and the only locations offering extended fields of fire. The woods between and surrounding the roads provide excellent concealment for dismounted movement but restrict visibility to under 50 meters in most areas.
+**1. Terrain.** The AO consists of flat terrain with sandy soils and dense pine and hardwood forests throughout. Thick vegetation and tree canopy severely limit observation and fields of fire except along improved roads and clearings. Arcadia Street runs east-west through the southern portion of the AO. Bradenton Avenue runs north-south, intersecting Arcadia Street at the objective. These improved roads are the primary avenues of approach and the only locations offering extended fields of fire. The woods between and surrounding the roads provide excellent concealment for dismounted movement but restrict visibility to under 50 meters in most areas.
 
-   - **Key Terrain:** The road junction of Jacksonville Street and Bradenton Avenue at OBJ HERRERA (MP 0602 1565) controls north-south and east-west movement through AO COTTO. The woodlines surrounding the junction on all sides provide covered and concealed avenues of approach for dismounted elements. Bradenton Avenue south of the junction provides a cleared lane of fire into the objective from the south.
+   - **Key Terrain:** The road junction of Arcadia Street and Bradenton Avenue at OBJ HERRERA (MP 0600 1523) controls north-south and east-west movement through AO COTTO. The woodlines surrounding the junction on all sides provide covered and concealed avenues of approach for dismounted elements. Bradenton Avenue south of the junction provides a cleared lane of fire into the objective from the south.
 
 **2. Weather.**
    - Skies: ________
@@ -64,13 +64,13 @@ Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. AO
    - EENT: ____
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
-A reinforced squad-sized REAPER element occupies prepared fighting positions in the vicinity of OBJ HERRERA on the north side of Jacksonville Street, north of the junction with Bradenton Avenue. They are equipped with small arms and a support weapon and are using the road junction to control local movement. A 2-man observation post is positioned south along Bradenton Avenue to provide early warning.
+A reinforced squad-sized REAPER element occupies prepared fighting positions in the vicinity of OBJ HERRERA on the north side of Arcadia Street, north of the junction with Bradenton Avenue. They are equipped with small arms and a support weapon and are using the road junction to control local movement. A 2-man observation post is positioned south along Bradenton Avenue to provide early warning.
 
 **1. Composition.** 6-8 REAPER personnel with small arms and 1 RPK (or equivalent support weapon) in prepared fighting positions with overhead cover. A 2-man OP is positioned along Bradenton Avenue south of the junction.
 
-**2. Disposition.** REAPER main body occupies prepared positions on the north side of Jacksonville Street at the junction with Bradenton Avenue (MP 0602 1565). The RPK is positioned to cover the Bradenton Avenue corridor from the south — the most likely avenue of approach. Fighting positions are oriented south and southwest. Dense woods to the north provide them cover from that direction. They have limited observation to the east and west due to thick vegetation but can observe south along Bradenton Avenue and east-west along Jacksonville Street. A 2-man OP is positioned approximately 200m south along Bradenton Avenue to detect approaching forces and provide early warning.
+**2. Disposition.** REAPER main body occupies prepared positions on the north side of Arcadia Street at the junction with Bradenton Avenue (MP 0600 1523). The RPK is positioned to cover the Bradenton Avenue corridor from the south — the most likely avenue of approach. Fighting positions are oriented south and southwest. Dense woods to the north provide them cover from that direction. They have limited observation to the east and west due to thick vegetation but can observe south along Bradenton Avenue and east-west along Arcadia Street. A 2-man OP is positioned approximately 200m south along Bradenton Avenue to detect approaching forces and provide early warning.
 
-**3. Most Probable Course of Action (MPCOA).** REAPER defends from prepared positions using the RPK to suppress along the Bradenton Avenue corridor. The OP provides early warning, fires a burst to alert the main body, and withdraws north to the main defensive position. If the main body is overwhelmed, REAPER attempts to withdraw north into the dense woods or east along Jacksonville Street, prioritizing survival over holding the position.
+**3. Most Probable Course of Action (MPCOA).** REAPER defends from prepared positions using the RPK to suppress along the Bradenton Avenue corridor. The OP provides early warning, fires a burst to alert the main body, and withdraws north to the main defensive position. If the main body is overwhelmed, REAPER attempts to withdraw north into the dense woods or east along Arcadia Street, prioritizing survival over holding the position.
 
 **4. Most Dangerous Course of Action (MDCOA).** REAPER has a reinforcement element of 3-4 personnel positioned further north along the Bradenton Avenue corridor. Upon contact, the main body defends in place while the reinforcement element counterattacks from the north through the woodline to strike the assault element's flank. The RPK shifts fires from the Bradenton Avenue corridor to the assault element's avenue of approach from the west, catching the assault force in a crossfire between the prepared positions and the counterattack.
 
@@ -83,7 +83,7 @@ A reinforced squad-sized REAPER element occupies prepared fighting positions in 
 **3. Commander's Intent.** Seize OBJ HERRERA to deny REAPER use of the road junction and establish conditions for follow-on operations.
 
 ### e. Civil Considerations
-Civilians may be present in the area, particularly along Jacksonville Street. Avoid civilian casualties and collateral damage.
+Civilians may be present in the area, particularly along Arcadia Street. Avoid civilian casualties and collateral damage.
 
 ### f. Attachments and Detachments
 None.
@@ -92,7 +92,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon attacks to seize OBJ HERRERA (MP 0602 1565) NLT ____ in order to deny REAPER use of the road junction and enable follow-on operations in AO COTTO.
+1st Platoon attacks to seize OBJ HERRERA (MP 0600 1523) NLT ____ in order to deny REAPER use of the road junction and enable follow-on operations in AO COTTO.
 
 ---
 
@@ -116,17 +116,17 @@ None.
 
 **1. 1st Squad (Support by Fire — Shaping Operation):**
 
-- **TASK:** From the ORP (MP 0586 1552), move east through the woodline to a support-by-fire position on Bradenton Avenue south of OBJ HERRERA (IVO MP 0601 1555), oriented north. On the PL's signal, initiate suppressive fire north along the Bradenton Avenue corridor into REAPER positions at the junction. Engage and suppress the RPK position. Shift or cease fires on order as 2nd Squad enters the objective.
+- **TASK:** From the ORP (MP 0586 1518), move east through the woodline to a support-by-fire position on Bradenton Avenue south of OBJ HERRERA (IVO MP 0600 1515), oriented north. On the PL's signal, initiate suppressive fire north along the Bradenton Avenue corridor into REAPER positions at the junction. Engage and suppress the RPK position. Shift or cease fires on order as 2nd Squad enters the objective.
 - **PURPOSE:** Fix REAPER in their fighting positions and neutralize the support weapon so 2nd Squad can close on and assault through the objective without receiving aimed fire.
 
 **2. 2nd Squad (Assault — Decisive Operation):**
 
-- **TASK:** From the ORP, move north through the woodline to an assault position west of OBJ HERRERA. On order, assault east through the objective, crossing Jacksonville Street and clearing through REAPER fighting positions on the north side of the junction (MP 0602 1565). Destroy REAPER forces and seize the road junction. Signal "objective secured" upon completion.
+- **TASK:** From the ORP, move north through the woodline to an assault position west of OBJ HERRERA. On order, assault east through the objective, crossing Arcadia Street and clearing through REAPER fighting positions on the north side of the junction (MP 0600 1523). Destroy REAPER forces and seize the road junction. Signal "objective secured" upon completion.
 - **PURPOSE:** Destroy the enemy force on the objective and seize the key terrain that controls movement through AO COTTO.
 
 **3. 3rd Squad (Security — Shaping Operation):**
 
-- **TASK:** Depart the ORP first. Establish a blocking position north of OBJ HERRERA along Bradenton Avenue (IVO MP 0602 1575) to isolate the objective and interdict REAPER reinforcements from the north. Orient observation and fires north and east. Maintain the position through the assault. Collapse security last during platoon consolidation and move to the objective.
+- **TASK:** Depart the ORP first. Establish a blocking position north of OBJ HERRERA along Bradenton Avenue (IVO MP 0600 1530) to isolate the objective and interdict REAPER reinforcements from the north. Orient observation and fires north and east. Maintain the position through the assault. Collapse security last during platoon consolidation and move to the objective.
 - **PURPOSE:** Prevent REAPER reinforcement from the north so 2nd Squad fights only the force currently at the junction, and secure the platoon's withdrawal route.
 
 ### f. Coordinating Instructions
@@ -138,16 +138,16 @@ None.
    4. Positively identify targets before firing.
 
 **2. Priority Intelligence Requirements (PIR):**
-   1. Confirm REAPER positions and strength at OBJ HERRERA, specifically their orientation along Jacksonville Street and Bradenton Avenue.
+   1. Confirm REAPER positions and strength at OBJ HERRERA, specifically their orientation along Arcadia Street and Bradenton Avenue.
    2. Locate and confirm the REAPER OP south of the junction along Bradenton Avenue.
-   3. Identify any REAPER reinforcement routes from the north through the woodline or along Avenue C.
-   4. Assess civilian presence in the area, particularly along Jacksonville Street and in the vicinity of structures east of the objective.
+   3. Identify any REAPER reinforcement routes from the north through the woodline or along Clearwater Avenue.
+   4. Assess civilian presence in the area, particularly along Arcadia Street and in the vicinity of structures east of the objective.
 
 **3. Commander's Critical Information Requirements (CCIR):**
    1. Enemy strength or disposition at OBJ HERRERA significantly different from the intelligence estimate
    2. REAPER OP detected on approach route — early warning compromised or not neutralized
    3. Loss of the support-by-fire position or inability to achieve fire superiority over the RPK
-   4. REAPER reinforcements approaching from the north along Avenue C or through the woodline
+   4. REAPER reinforcements approaching from the north along Clearwater Avenue or through the woodline
    5. Friendly casualty in the assault element requiring immediate MEDEVAC
    6. Civilian presence on or near the objective preventing planned fires
 

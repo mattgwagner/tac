@@ -57,11 +57,10 @@ The following grids are used in current OPORDs:
 | 008 - Patrol Base Ops | `MP 0580 1520` | PB THUNDER | Wooded area south of FOB |
 | 013 - Establish COP | `MP 0600 1550` | COP Seggel | West of FOB, facility complex |
 | 015 - Patrol Base (Co) | `MP 0580 1520` | PB THUNDER (Company) | Same PB site, company-level operation |
-| 016 - Deliberate Attack | `MP 0602 1565` | OBJ HERRERA | Jacksonville St / Bradenton Ave junction |
-| 016 - Deliberate Attack | `MP 0586 1552` | ORP | Woodline west of Bradenton Ave |
-| 016 - Deliberate Attack | `MP 0601 1555` | 1st Squad SBF | Bradenton Ave south of OBJ |
-| 016 - Deliberate Attack | `MP 0602 1575` | 3rd Squad Security (North) | Bradenton Ave north of OBJ |
-| 016 - Deliberate Attack | `MP 0612 1565` | 3rd Squad Security (East) | Jacksonville St east of OBJ |
+| 016 - Deliberate Attack | `MP 0600 1523` | OBJ HERRERA | Arcadia St / Bradenton Ave junction |
+| 016 - Deliberate Attack | `MP 0586 1518` | ORP | Woodline west-southwest of OBJ |
+| 016 - Deliberate Attack | `MP 0600 1515` | 1st Squad SBF | Bradenton Ave south of OBJ |
+| 016 - Deliberate Attack | `MP 0600 1530` | 3rd Squad Security (North) | Bradenton Ave north of OBJ |
 
 ---
 
