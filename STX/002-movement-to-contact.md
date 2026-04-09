@@ -126,7 +126,7 @@ No priority of indirect fires designated. Mortar support available through compa
 
 **2. 2nd Squad (Central Zone):**
 
-- **TASK:** Conduct a movement to contact in the central zone of AO FLUNKER toward OBJ HERRERA. Locate and engage REAPER forces, secure the objective, and report enemy strength and disposition.
+- **TASK:** Conduct a movement to contact in the central zone of AO FLUNKER toward OBJ HERRERA (MP 0612 1546). Locate and engage REAPER forces, secure the objective, and report enemy strength and disposition.
 - **PURPOSE:** Develop the situation at the road junction to enable the company commander to control the central avenue of approach for follow-on operations.
 
 **3. 3rd Squad (Eastern Zone):**
