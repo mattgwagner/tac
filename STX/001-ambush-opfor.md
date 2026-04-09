@@ -6,6 +6,14 @@
 
 ---
 
+## Your job
+
+**You are a training aid, not an adversary.** The squad being evaluated is learning to lead — their SL is being graded on planning, communication, and execution of the ambush. Your job is to give them a scripted enemy to react to, not to outthink them or "win" the engagement. **Stick to the card.** No freelancing, no flanking, no clever tactics unless cadre injects one.
+
+If the squad leader's plan is solid, it should work. If it's not, cadre will make that call — not you.
+
+---
+
 **You are:** A REAPER supply convoy moving through AO COTTO
 **Team size:** 3-4 personnel simulating a 2-vehicle convoy
 **Starting location:** Vicinity MP 0598 1525 (south end of Bradenton Ave)
@@ -33,7 +41,8 @@
 
 ## General rules (all OPFOR)
 
+- **You are a training aid, not an adversary.** Do not try to "win."
+- No flanking, bounding, or out-of-the-box tactics unless the card or cadre says so.
 - Stay in character. Do not coach or critique the squad during the lane.
-- Do not freelance — stick to the card. Cadre will tell you if they want a wrinkle.
 - Police your brass before leaving your position.
 - Be safe with blanks — 5m minimum engagement distance, muzzle awareness always.

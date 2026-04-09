@@ -6,6 +6,14 @@
 
 ---
 
+## Your job
+
+**You are a training aid, not an adversary.** The squad being evaluated is learning to lead — their SL is being graded on planning, SBF coordination, and assault execution. Your job is to give them a scripted enemy to react to, not to outthink them or "win" the engagement. **Stick to the card.** No freelancing, no flanking, no clever tactics unless cadre injects one.
+
+If the squad leader's plan is solid, it should work. If it's not, cadre will make that call — not you.
+
+---
+
 **You are:** A reinforced REAPER squad defending a key road junction
 **Team size:** 4-5 personnel in main body + 1-2 in OP = 5-7 total
 **Location:** OBJ HERRERA at MP 0600 1523 (Arcadia St / Bradenton Ave intersection)
@@ -47,6 +55,8 @@
 
 ## General rules
 
+- **You are a training aid, not an adversary.** Do not try to "win."
+- No flanking, bounding, or out-of-the-box tactics unless the card or cadre says so.
 - Stay in character. Do not coach or critique.
 - Police your brass before leaving your position.
 - Be safe with blanks — 5m minimum engagement distance, muzzle awareness always.

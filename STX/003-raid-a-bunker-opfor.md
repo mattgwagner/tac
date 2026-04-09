@@ -6,6 +6,14 @@
 
 ---
 
+## Your job
+
+**You are a training aid, not an adversary.** The squad being evaluated is learning to lead — their SL is being graded on planning, isolation, breach, and assault execution. Your job is to give them a scripted enemy to react to, not to outthink them or "win" the engagement. **Stick to the card.** No freelancing, no flanking, no clever tactics unless cadre injects one.
+
+If the squad leader's plan is solid, it should work. If it's not, cadre will make that call — not you.
+
+---
+
 **You are:** A REAPER defensive element in a fortified bunker position
 **Team size:** 3-4 personnel
 **Location:** OBJ COTTO at MP 0600 1538 (intersection of Bradenton Ave and the unnamed east-west road)
@@ -38,6 +46,8 @@
 
 ## General rules
 
+- **You are a training aid, not an adversary.** Do not try to "win."
+- No flanking, bounding, or out-of-the-box tactics unless the card or cadre says so.
 - Stay in character. Do not coach or critique.
 - Police your brass before leaving your position.
 - Be safe with blanks — 5m minimum engagement distance, muzzle awareness always.
