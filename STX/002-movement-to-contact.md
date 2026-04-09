@@ -121,7 +121,7 @@ No priority of indirect fires designated. Mortar support available through compa
 
 **1. 1st Squad (Western Zone):**
 
-- **TASK:** Conduct a movement to contact in the western zone of AO FLUNKER toward OBJ BAINTON. Locate and engage REAPER forces, secure the objective, and report enemy strength and disposition.
+- **TASK:** Conduct a movement to contact in the western zone of AO FLUNKER toward OBJ BAINTON (MP 0600 1538). Locate and engage REAPER forces, secure the objective, and report enemy strength and disposition.
 - **PURPOSE:** Clear the western approaches to deny REAPER use of the Bradenton Ave corridor for reinforcement or withdrawal.
 
 **2. 2nd Squad (Central Zone):**
@@ -131,7 +131,7 @@ No priority of indirect fires designated. Mortar support available through compa
 
 **3. 3rd Squad (Eastern Zone):**
 
-- **TASK:** Conduct a movement to contact in the eastern zone of AO FLUNKER toward OBJ BARLOW. Locate and engage REAPER forces, secure the objective, and report enemy strength and disposition.
+- **TASK:** Conduct a movement to contact in the eastern zone of AO FLUNKER toward OBJ BARLOW (MP 0613 1532). Locate and engage REAPER forces, secure the objective, and report enemy strength and disposition.
 - **PURPOSE:** Clear the eastern sector to prevent REAPER from using the built-up area as a defensive strongpoint or staging area.
 
 **4. Platoon Leader:**
