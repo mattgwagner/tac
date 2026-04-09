@@ -41,14 +41,14 @@ Each tactical OPORD is available in two versions. Use **Detailed** for early ite
 
 ### Evaluated Missions (Wooded Terrain)
 
-| # | Mission | Complexity | Description | Mission Command | Detailed |
-|---|---------|-----------|-------------|-----------------|----------|
-| 001 | [Ambush at Crossroads](001-ambush-detailed.html) | Moderate | Hasty ambush on a REAPER convoy at a road junction. Assault, support-by-fire, and security elements. | [view](001-ambush.html) · [kml](001-ambush.kml) | [view](001-ambush-detailed.html) |
-| 002 | [Movement to Contact](002-movement-to-contact-detailed.html) | Moderate | Advance to locate and engage REAPER forces. Lead, overwatch, and reserve elements with progressive commitment. | [view](002-movement-to-contact.html) · [kml](002-movement-to-contact.kml) | [view](002-movement-to-contact-detailed.html) |
-| 003 | [Raid on Bunker](003-raid-a-bunker-detailed.html) | Higher | Raid a fortified REAPER bunker position. Assault, SBF, and security with breach and withdrawal. | [view](003-raid-a-bunker.html) · [kml](003-raid-a-bunker.kml) | [view](003-raid-a-bunker-detailed.html) |
-| 005 | [Area/Zone Reconnaissance](005-area-zone-reconnaissance-detailed.html) | Lower | Locate and assess REAPER positions without decisive engagement. Two recon elements plus ORP security/QRF. | [view](005-area-zone-reconnaissance.html) · [kml](005-area-zone-reconnaissance.kml) | [view](005-area-zone-reconnaissance-detailed.html) |
-| 016 | [Seize the Crossroads](016-deliberate-attack-detailed.html) | Moderate | Deliberate attack to seize a road junction. SBF, assault from covered approach, and security isolation. | [view](016-deliberate-attack.html) | [view](016-deliberate-attack-detailed.html) |
-| 009 | [Tactical Road March](009-tactical-road-march-detailed.html) | Lower | Tactical movement from assembly area to release point. Point security, main body, and rear security. | [view](009-tactical-road-march.html) · [kml](009-tactical-road-march.kml) | [view](009-tactical-road-march-detailed.html) |
+| # | Mission | Complexity | Description | Mission Command | Detailed | OPFOR |
+|---|---------|-----------|-------------|-----------------|----------|-------|
+| 001 | [Ambush at Crossroads](001-ambush-detailed.html) | Moderate | Hasty ambush on a REAPER convoy at a road junction. Assault, support-by-fire, and security elements. | [view](001-ambush.html) · [kml](001-ambush.kml) | [view](001-ambush-detailed.html) | [card](001-ambush-opfor.html) |
+| 002 | [Movement to Contact](002-movement-to-contact-detailed.html) | Moderate | Advance to locate and engage REAPER forces. Lead, overwatch, and reserve elements with progressive commitment. | [view](002-movement-to-contact.html) · [kml](002-movement-to-contact.kml) | [view](002-movement-to-contact-detailed.html) | [card](002-movement-to-contact-opfor.html) |
+| 003 | [Raid on Bunker](003-raid-a-bunker-detailed.html) | Higher | Raid a fortified REAPER bunker position. Assault, SBF, and security with breach and withdrawal. | [view](003-raid-a-bunker.html) · [kml](003-raid-a-bunker.kml) | [view](003-raid-a-bunker-detailed.html) | [card](003-raid-a-bunker-opfor.html) |
+| 005 | [Area/Zone Reconnaissance](005-area-zone-reconnaissance-detailed.html) | Lower | Locate and assess REAPER positions without decisive engagement. Two recon elements plus ORP security/QRF. | [view](005-area-zone-reconnaissance.html) · [kml](005-area-zone-reconnaissance.kml) | [view](005-area-zone-reconnaissance-detailed.html) | — |
+| 016 | [Seize the Crossroads](016-deliberate-attack-detailed.html) | Moderate | Deliberate attack to seize a road junction. SBF, assault from covered approach, and security isolation. | [view](016-deliberate-attack.html) | [view](016-deliberate-attack-detailed.html) | [card](016-deliberate-attack-opfor.html) |
+| 009 | [Tactical Road March](009-tactical-road-march-detailed.html) | Lower | Tactical movement from assembly area to release point. Point security, main body, and rear security. | [view](009-tactical-road-march.html) · [kml](009-tactical-road-march.kml) | [view](009-tactical-road-march-detailed.html) | — |
 
 ### MOUT Training Scenarios
 
