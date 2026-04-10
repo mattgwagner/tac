@@ -208,9 +208,9 @@ Priority of fires to 2nd Squad. Mortar support is available through company on r
 ### c. Signal
 
 **1. PACE Plan:**
-   - Primary: Radio — 36.425 SC/PT (Company Net)
-   - Alternate: Radio — 36.625 SC/PT (Platoon Net)
-   - Contingency: Cell phone (platoon leader to company commander)
+   - Primary: Radio — 36.625 SC/PT (Platoon Net)
+   - Alternate: Radio — 36.425 SC/PT (Company Net)
+   - Contingency: Red star cluster (pre-planned signal: shift/lift fires)
    - Emergency: Runner
 
 **2. Call Signs:**

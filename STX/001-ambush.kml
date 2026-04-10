@@ -58,14 +58,14 @@
 
     <Placemark>
       <name>2nd SQD Ambush (Northwestern)</name>
-      <description>Independent linear ambush at OBJ KLENDATHU. Orient west onto unnamed N-S road. Break contact east to ORP.</description>
+      <description>Independent linear ambush at OBJ KLENDATHU. Orient east onto unnamed N-S road. Break contact west to ORP.</description>
       <styleUrl>#style-friendly</styleUrl>
       <Point><coordinates>-81.9757450,29.9675220,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
       <name>3rd SQD Ambush (Southwestern)</name>
-      <description>Independent linear ambush at OBJ MALZ. Orient south onto Clearwater Ave. Break contact north to ORP.</description>
+      <description>Independent linear ambush at OBJ MALZ. Orient north onto Clearwater Ave. Break contact south to ORP.</description>
       <styleUrl>#style-friendly</styleUrl>
       <Point><coordinates>-81.9767750,29.9656230,0</coordinates></Point>
     </Placemark>

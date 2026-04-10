@@ -253,8 +253,8 @@ Not applicable (DSCA operation).
 
 **1. PACE Plan:**
    - Primary: Radio — 36.425 SC/PT (Company Net)
-   - Alternate: Cell phone (may be degraded)
-   - Contingency: Cell phone (platoon leader to company commander)
+   - Alternate: Iridium satellite phone (commercial comms degraded)
+   - Contingency: HF manpack radio (platoon leader to company commander)
    - Emergency: Return to staging area
 
 **2. Call Signs:**

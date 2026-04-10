@@ -194,9 +194,9 @@ Defensive fires planned for likely REAPER avenues of approach. Each squad respon
 ### c. Signal
 
 **1. PACE Plan:**
-   - Primary: Radio — 36.425 SC/PT (Company Net)
-   - Alternate: Radio — 36.625 SC/PT (Platoon Net)
-   - Contingency: Cell phone (platoon leader to company commander)
+   - Primary: Radio — 36.625 SC/PT (Platoon Net)
+   - Alternate: Radio — 36.425 SC/PT (Company Net)
+   - Contingency: HF manpack radio (patrol base CP to higher)
    - Emergency: Runner
 
 **2. Call Signs:**

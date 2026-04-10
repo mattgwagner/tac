@@ -189,9 +189,9 @@ Fires are limited to self-defense only. Avoid engagement unless necessary to bre
 ### c. Signal
 
 **1. PACE Plan:**
-   - Primary: Radio — 36.425 SC/PT (Company Net)
-   - Alternate: Radio — 36.625 SC/PT (Platoon Net)
-   - Contingency: Cell phone (platoon leader to company commander)
+   - Primary: Radio — 36.625 SC/PT (Platoon Net)
+   - Alternate: Radio — 36.425 SC/PT (Company Net)
+   - Contingency: Iridium satellite phone (platoon leader to company commander)
    - Emergency: Runner
 
 **2. Call Signs:**

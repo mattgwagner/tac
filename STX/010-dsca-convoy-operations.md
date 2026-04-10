@@ -223,8 +223,8 @@ Not applicable (DSCA operation).
 
 **1. PACE Plan:**
    - Primary: Radio — 36.425 SC/PT (Company Net)
-   - Alternate: Cell phone (Convoy Commander to Company TOC)
-   - Contingency: Cell phone (platoon leader to company commander)
+   - Alternate: Iridium satellite phone (Convoy Commander to Company TOC)
+   - Contingency: HF manpack radio (platoon leader to company commander)
    - Emergency: Runner/messenger at halts
 
 **2. Call Signs:**

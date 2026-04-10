@@ -209,9 +209,9 @@ A Company establishes PB THUNDER through a deliberate occupation. The main effor
 ### c. Signal
 
 **1. PACE Plan:**
-   - Primary: Radio — 36.425 SC/PT (Company Net)
-   - Alternate: Radio — 36.625 SC/PT (Platoon Net)
-   - Contingency: Cell phone (platoon leader to company commander)
+   - Primary: Radio — 36.625 SC/PT (Platoon Net)
+   - Alternate: Radio — 36.425 SC/PT (Company Net)
+   - Contingency: HF manpack radio (company CP to battalion)
    - Emergency: Runner
 
 **2. Call Signs:**

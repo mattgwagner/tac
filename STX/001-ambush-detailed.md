@@ -130,12 +130,12 @@ Priority of fires to 2nd Squad. Mortar support is available through company on r
 
 **2. 2nd Squad (Independent Ambush — Northwestern Segment):**
 
-- **TASK:** Conduct a linear ambush at OBJ KLENDATHU (MP 0585 1559) along the unnamed N-S road in the western LTA. Occupy an ORP in the woodline east of the road and emplace ambush positions oriented west onto the road, initiating on the REAPER patrol moving north to south. Destroy the patrol in the kill zone and break contact east to the ORP. Report enemy strength and disposition.
+- **TASK:** Conduct a linear ambush at OBJ KLENDATHU (MP 0585 1559) along the unnamed N-S road in the western LTA. Occupy an ORP in the woodline west of the road and emplace ambush positions oriented east onto the road, initiating on the REAPER patrol moving north to south. Destroy the patrol in the kill zone and break contact west to the ORP. Report enemy strength and disposition.
 - **PURPOSE:** Deny REAPER the use of the western movement corridor and disrupt courier traffic in the northwestern sector of AO COTTO.
 
 **3. 3rd Squad (Independent Ambush — Southwestern Segment):**
 
-- **TASK:** Conduct a linear ambush at OBJ TANGO (MP 0575 1538) along Clearwater Ave approaching the unnamed road intersection. Occupy an ORP in the woodline north of Clearwater Ave and emplace ambush positions oriented south onto the road, initiating on the REAPER patrol moving east to west through the intersection. Destroy the patrol in the kill zone and break contact north to the ORP. Report enemy strength and disposition.
+- **TASK:** Conduct a linear ambush at OBJ TANGO (MP 0575 1538) along Clearwater Ave approaching the unnamed road intersection. Occupy an ORP in the woodline south of Clearwater Ave and emplace ambush positions oriented north onto the road, initiating on the REAPER patrol moving east to west through the intersection. Destroy the patrol in the kill zone and break contact south to the ORP. Report enemy strength and disposition.
 - **PURPOSE:** Deny REAPER the use of the southwestern road junction and disrupt dismounted patrol movement in that portion of AO COTTO.
 
 ### e. Coordinating Instructions
