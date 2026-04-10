@@ -116,7 +116,7 @@ None.
 **End State:** All three road junctions seized, REAPER forces destroyed or displaced at each site, squads consolidated on their objectives with hasty perimeters, platoon prepared for follow-on operations, no friendly forces decisively engaged.
 
 ### b. Concept of Operations
-1st Platoon conducts a decentralized deliberate attack on three independent road junctions in AO COTTO. Each squad executes its own squad-level attack on its assigned junction: establish a squad ORP, conduct leader's reconnaissance, set a squad-internal support element to suppress, assault through the junction from a covered approach, and consolidate. **3rd Squad is the main effort.** Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports. The PL monitors all squads; the PSG trails as QRF.
+1st Platoon conducts a decentralized deliberate attack on three independent road junctions in AO COTTO. Each squad executes its own squad-level attack on its assigned junction: establish a squad ORP, conduct leader's reconnaissance, set a squad-internal support element to suppress, assault through the junction from a covered approach, and consolidate. **3rd Squad is the main effort.** Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
 
 ### c. Scheme of Fires
 Priority of fires to 3rd Squad. Mortar support is available through company on request; any squad may request fires through the PL.
@@ -137,16 +137,6 @@ Priority of fires to 3rd Squad. Mortar support is available through company on r
 
 - **TASK:** Conduct a deliberate attack to seize OBJ FORGE (MP 0607 1555) on Bradenton Avenue near the FOB north entrance. Establish a squad ORP in the woodline west or south of the objective. Conduct leader's reconnaissance. Designate a squad-internal support element to suppress REAPER fighting positions from a covered position south of the objective. Assault through the position from a covered approach in the woodline, clearing REAPER fighting positions. Consolidate on the objective with a hasty perimeter oriented north and east. Report.
 - **PURPOSE:** Deny REAPER use of the northern Bradenton Avenue junction, secure the northern approach to the FOB, and enable friendly movement into the northern portion of AO COTTO.
-
-**4. Platoon Leader:**
-
-- **TASK:** Monitor and coordinate all three squads during independent attack operations. Position to maintain communications with all elements. Provide guidance and allocate supporting fires as the situation develops.
-- **PURPOSE:** Maintain situational awareness across the AO and enable squad leaders to make timely tactical decisions at their objectives.
-
-**5. Platoon Sergeant:**
-
-- **TASK:** Trail the platoon. Be prepared to move to any squad requiring reinforcement or casualty evacuation. Maintain platoon accountability.
-- **PURPOSE:** Provide the PL flexibility to support any squad without pulling an adjacent squad off its mission.
 
 ### e. Coordinating Instructions
 

@@ -116,7 +116,7 @@ None.
 **End State:** All three NAIs reconnoitered, REAPER elements located and assessed, intelligence reported to higher, squads consolidated and prepared for follow-on operations, no friendly forces decisively engaged or compromised.
 
 ### b. Concept of Operations
-1st Platoon conducts a decentralized area reconnaissance across three independent squad NAIs in AO COTTO. Each squad moves to its assigned NAI using covered and concealed routes, establishes observation, collects intelligence, and returns to friendly lines. **1st Squad is the main effort.** Squad leaders select their own routes, observation positions, and reporting cycles. Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports. The PL monitors all squads; the PSG trails as QRF.
+1st Platoon conducts a decentralized area reconnaissance across three independent squad NAIs in AO COTTO. Each squad moves to its assigned NAI using covered and concealed routes, establishes observation, collects intelligence, and returns to friendly lines. **1st Squad is the main effort.** Squad leaders select their own routes, observation positions, and reporting cycles. Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
 
 ### c. Scheme of Fires
 Priority of fires to 1st Squad. Fires are limited to self-defense only. Avoid engagement unless necessary to break contact. Mortar support is available through company on request to support disengagement.
@@ -137,16 +137,6 @@ Priority of fires to 1st Squad. Fires are limited to self-defense only. Avoid en
 
 - **TASK:** Conduct an area reconnaissance of NAI BAINTON (MP 0575 1524), the Arcadia St / Clearwater Ave intersection in the southwestern LTA. Use covered and concealed routes to establish observation of the intersection and surrounding vegetation. Locate any REAPER OP, assess strength and activity, and identify likely positions and terrain. Use noise and light discipline and avoid detection. Report findings via SALUTE format. Return to friendly lines upon completion or if compromised.
 - **PURPOSE:** Confirm or deny REAPER presence in the southwestern sector of AO COTTO so the company can protect the flank during follow-on operations.
-
-**4. Platoon Leader:**
-
-- **TASK:** Monitor and coordinate all three squads during independent reconnaissance operations. Position to maintain communications with all elements. Consolidate intelligence reports from all squads and forward to higher headquarters.
-- **PURPOSE:** Maintain situational awareness across the AO and build a consolidated intelligence picture that the company commander can use to plan follow-on operations.
-
-**5. Platoon Sergeant:**
-
-- **TASK:** Trail the platoon. Be prepared to move to any squad requiring reinforcement or casualty evacuation. Maintain platoon accountability.
-- **PURPOSE:** Provide the PL flexibility to support a compromised squad without pulling an adjacent squad off its mission.
 
 ### e. Coordinating Instructions
 

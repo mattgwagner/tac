@@ -116,7 +116,7 @@ None.
 **End State:** REAPER patrols destroyed or displaced at all three sites, squads consolidated and prepared for follow-on operations, no friendly forces decisively engaged.
 
 ### b. Concept of Operations
-1st Platoon conducts a decentralized ambush operation across three independent squad sites in AO COTTO. Each squad moves to its assigned area, emplaces its own ambush, initiates on a small REAPER patrol, and withdraws. **2nd Squad is the main effort.** Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports. The PL monitors all squads; the PSG trails as QRF.
+1st Platoon conducts a decentralized ambush operation across three independent squad sites in AO COTTO. Each squad moves to its assigned area, emplaces its own ambush, initiates on a small REAPER patrol, and withdraws. **2nd Squad is the main effort.** Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
 
 ### c. Scheme of Fires
 Priority of fires to 2nd Squad. Mortar support is available through company on request; any squad may request fires through the PL.
@@ -137,16 +137,6 @@ Priority of fires to 2nd Squad. Mortar support is available through company on r
 
 - **TASK:** Conduct a linear ambush at OBJ TANGO (MP 0575 1538) along Clearwater Ave approaching the unnamed road intersection. Occupy an ORP in the woodline north of Clearwater Ave and emplace ambush positions oriented south onto the road, initiating on the REAPER patrol moving east to west through the intersection. Destroy the patrol in the kill zone and break contact north to the ORP. Report enemy strength and disposition.
 - **PURPOSE:** Deny REAPER the use of the southwestern road junction and disrupt dismounted patrol movement in that portion of AO COTTO.
-
-**4. Platoon Leader:**
-
-- **TASK:** Monitor and coordinate all three squads during independent ambush operations. Position to maintain communications with all elements. Provide guidance and allocate supporting fires as the situation develops.
-- **PURPOSE:** Maintain situational awareness across the AO and enable squad leaders to make timely tactical decisions at their sites.
-
-**5. Platoon Sergeant:**
-
-- **TASK:** Trail the platoon. Be prepared to move to any squad requiring reinforcement or casualty evacuation. Maintain platoon accountability.
-- **PURPOSE:** Provide the PL flexibility to support any squad without pulling an adjacent squad off its mission.
 
 ### e. Coordinating Instructions
 

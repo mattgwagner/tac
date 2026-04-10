@@ -116,7 +116,7 @@ None.
 **End State:** REAPER patrols destroyed or displaced at all three sites, squads consolidated and prepared for follow-on operations, no friendly forces decisively engaged.
 
 ### b. Concept of Operations
-1st Platoon conducts a decentralized ambush operation across three independent squad sites in AO COTTO. Each squad moves to its assigned area, emplaces its own ambush, initiates on a small REAPER patrol, and withdraws. **2nd Squad is the main effort.** Squad leaders select their own ambush layout, positions, initiation method, and withdrawal route. Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports. The PL monitors all squads; the PSG trails as QRF.
+1st Platoon conducts a decentralized ambush operation across three independent squad sites in AO COTTO. Each squad moves to its assigned area, emplaces its own ambush, initiates on a small REAPER patrol, and withdraws. **2nd Squad is the main effort.** Squad leaders select their own ambush layout, positions, initiation method, and withdrawal route. Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
 
 ### c. Scheme of Fires
 Priority of fires to 2nd Squad. Mortar support is available through company on request; any squad may request fires through the PL.

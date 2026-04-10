@@ -131,7 +131,7 @@ A Company conducts a mounted area reconnaissance of designated sectors in Bay Co
 **End State:** All assigned sectors reconnoitered, route conditions and infrastructure status reported, potential POD sites identified, company consolidated and prepared for follow-on operations.
 
 ### b. Concept of Operations
-A Company conducts mounted reconnaissance of Bay County in four sectors. 1st Platoon reconnoiters Sectors 1 and 2 (US-231 corridor and Panama City urban area) as the main effort — this covers the primary supply corridor. 2nd Platoon reconnoiters Sectors 3 and 4 (SR-77 and western Bay County) for alternate routes. 3rd Platoon maintains security of the staging area and serves as QRF. Squads may operate independently within sectors at PL discretion based on communications. Upon completion, platoons consolidate at the staging area for debrief.
+A Company conducts mounted reconnaissance of Bay County in four sectors. 1st Platoon reconnoiters Sectors 1 and 2 (US-231 corridor and Panama City urban area) as the main effort — this covers the primary supply corridor. 2nd Platoon reconnoiters Sectors 3 and 4 (SR-77 and western Bay County) for alternate routes. 3rd Platoon maintains security of the staging area and serves as QRF. Squads may operate independently within sectors based on communications. Upon completion, platoons consolidate at the staging area for debrief.
 
 ### c. Scheme of Fires
 Not applicable (DSCA operation).

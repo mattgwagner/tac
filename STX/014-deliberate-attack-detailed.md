@@ -117,7 +117,7 @@ None.
 **End State:** All three REAPER CPs destroyed, intelligence materials collected and reported, squads consolidated and prepared for follow-on operations, no friendly forces decisively engaged.
 
 ### b. Concept of Operations
-1st Platoon conducts a decentralized deliberate attack on three independent small REAPER command post positions in AO COTTO. Each squad executes its own squad-level attack on its assigned CP: establish a squad ORP, conduct leader's reconnaissance, set a squad-internal support element, assault through the CP, conduct a hasty SSE, and consolidate. **2nd Squad is the main effort.** Speed is critical at each site: the assault must overrun the CP before staff can destroy intelligence materials or displace. Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports. The PL monitors all squads; the PSG trails as QRF.
+1st Platoon conducts a decentralized deliberate attack on three independent small REAPER command post positions in AO COTTO. Each squad executes its own squad-level attack on its assigned CP: establish a squad ORP, conduct leader's reconnaissance, set a squad-internal support element, assault through the CP, conduct a hasty SSE, and consolidate. **2nd Squad is the main effort.** Speed is critical at each site: the assault must overrun the CP before staff can destroy intelligence materials or displace. Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
 
 ### c. Scheme of Fires
 Priority of fires to 2nd Squad. Mortar support is available through company on request; any squad may request fires through the PL.
@@ -138,16 +138,6 @@ Priority of fires to 2nd Squad. Mortar support is available through company on r
 
 - **TASK:** Conduct a deliberate attack to destroy the small REAPER CP at OBJ BARLOW (MP 0611 1530) in the Conex City center. Establish a squad ORP in covered terrain west or south of Conex City. Conduct leader's reconnaissance. Designate a squad-internal support element to suppress REAPER fighting positions and cover entrances to the CP structure. Assault through the structure, clearing REAPER personnel and destroying equipment. Conduct a hasty SSE of documents, maps, and communications materials. Consolidate and report.
 - **PURPOSE:** Destroy REAPER command and control in the eastern portion of AO COTTO and deny REAPER the ability to coordinate operations from the Conex City built-up area.
-
-**4. Platoon Leader:**
-
-- **TASK:** Monitor and coordinate all three squads during independent attack operations. Position to maintain communications with all elements. Provide guidance and allocate supporting fires as the situation develops. Consolidate intelligence reports from hasty SSE and forward to higher headquarters.
-- **PURPOSE:** Maintain situational awareness across the AO and ensure intelligence collected from the three CPs is consolidated and reported to the company commander.
-
-**5. Platoon Sergeant:**
-
-- **TASK:** Trail the platoon. Be prepared to move to any squad requiring reinforcement or casualty evacuation. Maintain platoon accountability.
-- **PURPOSE:** Provide the PL flexibility to support any squad without pulling an adjacent squad off its mission.
 
 ### e. Coordinating Instructions
 

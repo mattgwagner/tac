@@ -112,7 +112,7 @@ None.
 **End State:** All three REAPER nodes destroyed, friendly forces consolidated, intelligence reported to higher, platoon prepared for follow-on operations.
 
 ### b. Concept of Operations
-1st Platoon conducts a decentralized raid operation across three independent squad objectives in AO HERRERA. Each squad moves to its assigned objective, establishes its own squad-level isolation/support/assault, destroys the small REAPER node, and consolidates. **3rd Squad is the main effort.** Squad leaders select their own approach routes, actions on the objective, and withdrawal routes. Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports. The PL monitors all squads; the PSG trails as QRF.
+1st Platoon conducts a decentralized raid operation across three independent squad objectives in AO HERRERA. Each squad moves to its assigned objective, establishes its own squad-level isolation/support/assault, destroys the small REAPER node, and consolidates. **3rd Squad is the main effort.** Squad leaders select their own approach routes, actions on the objective, and withdrawal routes. Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
 
 ### c. Scheme of Fires
 Priority of fires to 3rd Squad. Mortar support is available through company on request; any squad may request fires through the PL.
