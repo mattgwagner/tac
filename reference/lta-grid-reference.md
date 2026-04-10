@@ -10,6 +10,12 @@ This document provides grid references for key locations within the Local Traini
 
 ![Camp Blanding LTA with Grid Overlay](../assets/cbjtc-lta-google.png)
 
+### HawgOps MGRS-Gridded Imagery
+
+Satellite imagery with 100m MGRS grid overlay (eastings 054–066, northings 151–157). Use this view to validate grid references against terrain and road intersections.
+
+![Camp Blanding LTA with MGRS Grid (HawgOps)](../assets/cbjtc-lta-hawgops.png)
+
 ---
 
 ## Grids by Category
@@ -70,3 +76,4 @@ The following grids are used in current OPORDs:
 - Grids are 8-digit (10m accuracy) for training purposes.
 - When modifying OPORDs, ensure all grid references are updated consistently throughout the document.
 - Consider terrain features and line-of-sight when selecting alternate grids.
+- Grids above have been visually validated against the HawgOps MGRS-gridded imagery (2026-04-10). All references agree with terrain and street features to within 8-digit (10m) training tolerance.
