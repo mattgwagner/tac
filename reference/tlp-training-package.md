@@ -493,7 +493,6 @@ The following Operations Orders are maintained in the OCS OPORD Repository for u
 | 003 | [Raid on Bunker](003-raid-a-bunker.md) | High | 003-raid-a-bunker.md |
 | 004 | [Clear Dismount City](004-clear-dismount-city.md) | High | 004-clear-dismount-city.md |
 | 005 | [Area/Zone Reconnaissance](005-area-zone-reconnaissance.md) | Low-Medium | 005-area-zone-reconnaissance.md |
-| 006 | [Base Defense](006-base-defense.md) | Medium | 006-base-defense.md |
 | 007 | [Forward Passage of Lines](007-forward-passage-of-lines.md) | High | 007-forward-passage-of-lines.md |
 | 008 | [Patrol Base Operations](008-patrol-base-operations.md) | Medium | 008-patrol-base-operations.md |
 
@@ -513,7 +512,6 @@ The following Operations Orders are maintained in the OCS OPORD Repository for u
 - [OPORD 005 (Area Reconnaissance)](005-area-zone-reconnaissance.md) - Stealth focus, different success criteria
 
 **Night Iterations (Coaching Focus):**
-- [OPORD 006 (Base Defense)](006-base-defense.md) - Static operations suitable for limited visibility training
 - [OPORD 008 (Patrol Base Operations)](008-patrol-base-operations.md) - Security priorities, sustainment focus
 
 **Advanced Iterations (Second Cycle or High Performers):**

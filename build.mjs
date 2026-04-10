@@ -47,13 +47,27 @@ function renderMarkdown(mdPath, outputPath, options = {}) {
   // Convert markdown to HTML body
   let body = marked.parse(md);
 
-  // Rewrite relative paths for files flattened to dist root.
-  // Source files in subdirectories use ../assets/ or ../reference/ paths,
-  // but since output is flattened to dist/, we strip the ../ prefix.
+  // Rewrite .md link targets to .html (skip external URLs and pure anchors).
+  // Preserves #anchor or ?query suffixes.
+  body = body.replace(
+    /href="((?!https?:|mailto:|#)[^"]*?)\.md([#?"])/g,
+    'href="$1.html$2'
+  );
+
+  // Rewrite relative paths based on output location.
+  // Source files in subdirectories use ../assets/, ../reference/, ../POI/, etc.
   if (options.flatten) {
-    body = body.replace(/(?:src|href)="\.\.\/assets\//g, (match) => match.replace('../assets/', 'assets/'));
-    body = body.replace(/(?:src|href)="\.\.\/reference\//g, (match) => match.replace('../reference/', ''));
-    body = body.replace(/(?:src|href)="\.\.\/tools\//g, (match) => match.replace('../tools/', ''));
+    // Output flattened to dist/ root: strip ../ for siblings that live at dist/
+    // reference/ and tools/ are flattened to dist root (no directory segment)
+    // assets/ and POI/ are copied as directories to dist/assets/ and dist/POI/
+    body = body.replace(/(src|href)="\.\.\/(assets|POI)\//g, '$1="$2/');
+    body = body.replace(/(src|href)="\.\.\/(reference|tools)\//g, '$1="');
+  } else {
+    // Output in a subdirectory (e.g. dist/FLX/): reference/ and tools/ are
+    // flattened to dist root, so from the subdir go up one level and drop
+    // the directory segment. assets/ and POI/ still exist as dist/assets/ and
+    // dist/POI/, so ../assets/ and ../POI/ remain correct as-is.
+    body = body.replace(/(src|href)="\.\.\/(reference|tools)\//g, '$1="../');
   }
 
   // Inject into template
