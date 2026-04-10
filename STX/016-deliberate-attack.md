@@ -92,7 +92,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon attacks to seize OBJ HERRERA (MP 0600 1523) NLT ____ in order to deny REAPER use of the road junction and enable follow-on operations in AO COTTO.
+1st Platoon attacks to seize OBJ HERRERA (MP 0600 1523) NLT ____ in order to deny REAPER use of the road junction and enable follow-on company operations in AO COTTO.
 
 ---
 

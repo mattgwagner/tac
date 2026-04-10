@@ -113,7 +113,7 @@ Civilians in Bay County are stressed—many have been without adequate food, wat
 
 ## 2. MISSION
 
-A Company establishes and operates Points of Distribution at designated locations in Bay County NLT ____ to distribute emergency relief supplies to affected civilians in support of Hurricane DELTA relief operations.
+A Company establishes and operates Points of Distribution at designated locations in Bay County NLT ____ in order to distribute emergency relief supplies to affected civilians in support of Hurricane DELTA response operations.
 
 ---
 

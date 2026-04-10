@@ -97,7 +97,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon conducts a tactical road march from the assembly area to RP THUNDER (MP 0615 1560) NLT ____ to position the platoon for follow-on operations in AO COTTO.
+1st Platoon conducts a tactical road march from the assembly area to RP THUNDER (MP 0615 1560) NLT ____ in order to posture the platoon for follow-on operations in AO COTTO.
 
 ---
 

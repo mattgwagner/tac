@@ -87,7 +87,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon attacks to destroy the REAPER command post at OBJ HERRERA (MP 0600 1523) NLT ____ in order to disrupt REAPER command and control in AO COTTO and enable follow-on operations.
+1st Platoon attacks to destroy the REAPER command post at OBJ HERRERA (MP 0600 1523) NLT ____ in order to disrupt REAPER command and control in AO COTTO and enable follow-on company operations.
 
 ---
 

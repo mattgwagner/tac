@@ -93,7 +93,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon clears, seizes, and secures OBJ FLUNKER (MP 0611 1530) NLT ____ to eliminate REAPER forces, deny REAPER a base of operations, and enable occupation by friendly forces.
+1st Platoon clears OBJ FLUNKER (MP 0611 1530) NLT ____ in order to destroy REAPER forces, deny REAPER a base of operations, and enable follow-on friendly occupation of AO COTTO.
 
 ---
 

@@ -95,7 +95,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon establishes and occupies Patrol Base THUNDER (vicinity MP 0580 1520) NLT 2200 to provide security, enable sustainment, and prepare for follow-on operations in AO COTTO.
+1st Platoon occupies Patrol Base THUNDER (vicinity MP 0580 1520) NLT 2200 in order to provide continuous security, enable sustainment, and posture the platoon for follow-on operations in AO COTTO.
 
 ---
 

@@ -101,7 +101,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon attacks in AO COTTO NLT ____ to seize key road junctions, deny REAPER freedom of movement, and enable follow-on operations.
+1st Platoon attacks in AO COTTO NLT ____ in order to seize key road junctions, deny REAPER freedom of movement, and enable follow-on company operations.
 
 ---
 

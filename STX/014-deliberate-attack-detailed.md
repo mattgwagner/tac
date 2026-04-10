@@ -102,7 +102,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon attacks in AO COTTO NLT ____ to destroy REAPER command post positions, collect intelligence materials, and disrupt REAPER command and control in the AO.
+1st Platoon attacks in AO COTTO NLT ____ in order to destroy REAPER command post positions, collect intelligence materials, and disrupt REAPER command and control throughout the AO.
 
 ---
 

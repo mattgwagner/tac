@@ -116,7 +116,7 @@ None.
 
 ## 2. MISSION
 
-A Company conducts mounted area reconnaissance of designated sectors in Bay County NLT ____ to assess damage, identify hazards, and report conditions to enable follow-on relief operations in support of Hurricane DELTA response.
+A Company conducts a mounted area reconnaissance of designated sectors in Bay County NLT ____ in order to assess damage, identify hazards, and enable follow-on relief operations in support of Hurricane DELTA response.
 
 ---
 

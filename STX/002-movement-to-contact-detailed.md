@@ -100,7 +100,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon conducts a movement to contact in AO FLUNKER NLT ____ to locate and engage REAPER forces and assess their strength and disposition.
+1st Platoon conducts a movement to contact in AO FLUNKER NLT ____ in order to develop the situation, destroy REAPER forces in the AO, and enable follow-on company operations.
 
 ---
 

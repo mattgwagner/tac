@@ -101,7 +101,7 @@ None.
 
 ## 2. MISSION
 
-A Company conducts logistics convoy operations from Camp Blanding Joint Training Center to the Bay County Staging Area NLT ____ to deliver emergency relief supplies in support of Hurricane DELTA relief operations.
+A Company conducts a logistics convoy from Camp Blanding Joint Training Center to the Bay County Staging Area NLT ____ in order to deliver emergency relief supplies in support of Hurricane DELTA response operations.
 
 ---
 

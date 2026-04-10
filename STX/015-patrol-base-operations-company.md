@@ -100,7 +100,7 @@ Company receives priority of battalion 81mm mortar fires on request.
 
 ## 2. MISSION
 
-A Company establishes and occupies Patrol Base THUNDER (vicinity MP 0580 1520) NLT ____ to provide area security, enable company-level sustainment, and prepare for follow-on operations in AO COTTO.
+A Company occupies Patrol Base THUNDER (vicinity MP 0580 1520) NLT ____ in order to provide area security, enable company-level sustainment, and posture the company for follow-on operations in AO COTTO.
 
 ---
 

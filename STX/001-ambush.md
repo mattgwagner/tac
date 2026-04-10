@@ -101,7 +101,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon conducts ambushes in AO COTTO NLT ____ to destroy small REAPER patrols and disrupt REAPER movement across the AO.
+1st Platoon conducts ambushes in AO COTTO NLT ____ in order to destroy REAPER patrols and disrupt REAPER movement throughout the AO.
 
 ---
 

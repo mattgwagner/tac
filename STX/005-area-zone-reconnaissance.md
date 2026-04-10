@@ -94,7 +94,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon conducts an area reconnaissance of AO COTTO NLT ____ to locate REAPER positions, assess REAPER strength and disposition, and identify key terrain features to enable follow-on operations.
+1st Platoon conducts an area reconnaissance in AO COTTO NLT ____ in order to locate REAPER elements and identify key terrain, enabling follow-on company operations.
 
 ---
 

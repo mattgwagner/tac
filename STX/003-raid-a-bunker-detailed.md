@@ -100,7 +100,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon conducts raids in AO HERRERA NLT ____ to destroy small REAPER support nodes and disrupt REAPER operations in the AO.
+1st Platoon conducts raids in AO HERRERA NLT ____ in order to destroy REAPER support nodes and disrupt REAPER operations throughout the AO.
 
 ---
 
