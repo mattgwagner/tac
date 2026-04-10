@@ -6,27 +6,33 @@
 
 > **CADRE / OPFOR NOTES**
 >
-> **Complexity:** Moderate | **Recommended Phase:** RUN (Day Iterations)
+> **Complexity:** Lower to Moderate | **Recommended Phase:** WALK (Blocks 3-4), RUN (Day Iterations)
 >
-> **Mission Summary:** 1st Platoon is tasked to conduct a linear ambush along a key supply route to destroy REAPER forces and disrupt REAPER logistics.
+> **Mission Summary:** 1st Platoon conducts three independent squad ambushes in AO COTTO against small REAPER resupply patrols. Each squad operates at its own ambush site — no coordination across squads is required.
 >
-> **Destination:** OBJ FLUNKER at MP 0600 1530, AO COTTO.
+> **Training Focus:** This OPORD is designed to evaluate **individual squad leader planning and decision-making**. The PL issues the platoon OPORD, but each squad leader must conduct their own TLP — analyzing terrain, selecting an ambush site layout, assigning assault/support/security within the squad, and issuing a squad OPORD. Cadre should assign one evaluator per squad to observe the SL's planning process and tactical decisions.
 >
-> **Actions on Objective:** Platoon will establish an ORP, move to the ambush site, set up assault, support, and security elements, initiate the ambush on the REAPER convoy, and withdraw in an organized manner.
+> **Destinations:**
+> - 1st Squad → OBJ FLUNKER (vic MP 0600 1530)
+> - 2nd Squad → OBJ KLENDATHU (vic MP 0585 1559)
+> - 3rd Squad → OBJ TANGO (vic MP 0575 1538)
+>
+> **Actions on Objective:** Each squad independently emplaces a linear ambush at its assigned site, initiates on a small REAPER patrol (3-4 personnel), and withdraws. Squads do not depend on or wait for adjacent squads.
 >
 > **Evaluation Timeline:** For evaluated iterations, candidates will receive this OPORD and have 75 minutes to complete TLP Steps 1-8 before SP. Execution window is 60 minutes. AAR is 15 minutes.
 >
 > **OPFOR/Training Wrinkles:**
-> - Simulate a lightly armed convoy with the ability to reinforce or withdraw.
-> - Introduce a civilian vehicle or non-combatant to test ROE and decision-making.
-> - OPFOR may attempt to flank or counterattack if the ambush is detected early.
-> - Cadre can inject communication/equipment failures or unexpected convoy timing changes to challenge flexibility.
+> - Deploy one small REAPER patrol (3-4 personnel) per ambush site, operating independently.
+> - Each patrol transits its assigned road segment on cadre signal.
+> - Introduce a civilian or non-combatant at one site to test ROE.
+> - Cadre may inject patrol timing changes, equipment malfunctions, or intel updates per site.
+> - If manning is limited, rotate one OPFOR team across sites between iterations.
 >
 > **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
 >
 > **See Also:** [LTA Grid Reference](../reference/lta-grid-reference.md)
 >
-> **Iteration Guidance:** This is the mission command version — squad tasks state outcomes without prescribing specific positioning or movement. For the first iteration with a new class or candidates who need additional scaffolding, use [001-ambush-detailed.md](001-ambush-detailed.md) instead.
+> **Iteration Guidance:** This is the mission command version — squad tasks state outcomes without prescribing specific ambush layout or positioning. For the first iteration with a new class or candidates who need additional scaffolding, use [001-ambush-detailed.md](001-ambush-detailed.md) instead.
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 
@@ -44,13 +50,13 @@ Platoon Sergeant
 ## 1. SITUATION
 
 ### a. Area of Interest
-Clay County, Florida, in the vicinity of Starke and Highway 16. AO COTTO encompasses the crossroads at MP 0600 1530 and surrounding woodlines, bounded to the north by Highway 16, to the east by the Starke city limits, to the south by the old railroad bed, and to the west by the pine forest edge.
+Clay County, Florida, in the vicinity of Starke and Highway 16. AO COTTO is bounded to the north by Highway 16, to the east by the Starke city limits, to the south by the old railroad bed, and to the west by the pine forest edge.
 
 ### b. Area of Operations
 
 **1. Terrain.** Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, ponds, marshes, and wetlands. Vegetation provides concealment and limits long-range observation. Roads and trails serve as likely avenues of approach for both friendly and enemy forces. Terrain and soil conditions may restrict vehicle movement, especially in wet areas.
 
-   - **Key Terrain:** OBJ FLUNKER at MP 0600 1530 is decisive for controlling movement through the area. The adjacent woodlines provide concealment for the assault and support elements. Elevated ground to the north and south offers observation and fields of fire.
+   - **Key Terrain:** Bradenton Avenue is a north-south improved road and the primary REAPER resupply route through the central AO. The unnamed north-south road in the western LTA is a secondary REAPER movement corridor. The intersection of Clearwater Avenue and the unnamed road in the southwestern LTA is a dismounted transit point. Woodlines along each road segment provide concealment for any dismounted element; visibility off the roads is under 50 meters in most areas.
 
 **2. Weather.**
    - Skies: ________
@@ -63,26 +69,30 @@ Clay County, Florida, in the vicinity of Starke and Highway 16. AO COTTO encompa
    - EENT: ____
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
-REAPER forces consist of a lightly armed irregular force, likely affiliated with a regional militia group. They are equipped with small arms, possible support weapons, and have experience operating in rural environments. They are capable of basic convoy operations and may attempt to reinforce or withdraw if engaged.
+REAPER forces are a lightly armed irregular force running small resupply and courier patrols across AO COTTO. They are equipped with small arms, move in 3-4 man dismounted elements, and are familiar with local terrain. Patrols travel independently of each other along different routes and do not mutually support.
 
-**1. Composition.** 2 vehicles, 6-8 REAPER personnel, AK-47s, possible support weapons (e.g., HMG).
+**1. Composition.** Three small REAPER patrols, each 3-4 personnel with small arms. Total 9-12 combatants distributed across AO COTTO.
 
-**2. Disposition.** REAPER forces are typically dispersed in small groups along key supply routes and maintain a low profile to avoid detection. The convoy travels south to north along Bradenton Ave through AO COTTO. They are prepared to consolidate quickly at critical points if threatened and may use scouts or lookouts to monitor friendly movement.
+**2. Disposition.** REAPER patrols move along three different road segments:
+   - One patrol along Bradenton Avenue in the central AO, moving south to north.
+   - One patrol along the unnamed north-south road in the western LTA, moving north to south.
+   - One patrol along Clearwater Avenue through the intersection with the unnamed road in the southwestern LTA, moving east to west.
+   Patrols maintain a low profile and do not communicate with each other.
 
-**3. Most Probable Course of Action (MPCOA).** Upon initiation of the ambush, REAPER forces return limited, inaccurate fire, then rapidly withdraw along a secondary route to avoid further engagement. They may abandon vehicles or wounded, and attempt to regroup at a safe distance. Reinforcements are unlikely to arrive in time to decisively affect the engagement.
+**3. Most Probable Course of Action (MPCOA).** Each REAPER patrol moves along its assigned route at a relaxed pace, relying on terrain and vegetation for concealment. Upon being ambushed, the patrol returns limited, inaccurate fire and attempts to break contact away from the kill zone. Patrols do not reinforce each other.
 
-**4. Most Dangerous Course of Action (MDCOA).** A nearby REAPER quick reaction force rapidly reinforces the ambushed convoy, coordinating a counterattack with flanking or encirclement maneuvers against the platoon. REAPER forces employ indirect fire or IEDs to disrupt friendly withdrawal and attempts to inflict maximum casualties before friendly forces can break contact.
+**4. Most Dangerous Course of Action (MDCOA).** A REAPER QRF from an unknown location rapidly reinforces one of the ambushed patrols. REAPER patrols coordinate loosely across sites by radio and adjust timing to arrive at an ambush site together, threatening to mass against a single squad.
 
 ### d. Friendly Forces
 
 **1. Higher Headquarters:** A Co. 4th BN – 211th INF.
 
-**2. Mission.** A Company conducts ambush operations to disable REAPER supply route in AO COTTO.
+**2. Mission.** A Company disrupts REAPER supply and courier movement in AO COTTO through independent squad ambushes.
 
-**3. Commander's Intent.** Destroy REAPER convoy and seize supplies to ensure safe passage for friendly forces.
+**3. Commander's Intent.** Destroy small REAPER patrols and deny REAPER the use of multiple cross-AO movement routes.
 
 ### e. Civil Considerations
-Local civilians frequent the area. Ambush must minimize risk to non-combatants and avoid civilian casualties to maintain good relations.
+Local civilians frequent the area. Ambushes must minimize risk to non-combatants and avoid civilian casualties to maintain good relations.
 
 ### f. Attachments and Detachments
 None.
@@ -91,7 +101,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon conducts an ambush at OBJ FLUNKER (MP 0600 1530) NLT ____ in order to destroy REAPER forces and disrupt REAPER supply lines.
+1st Platoon conducts an ambush NLT ____ at OBJ FLUNKER (MP 0600 1530), OBJ KLENDATHU (MP 0585 1559), and OBJ TANGO (MP 0575 1538) in AO COTTO to destroy small REAPER patrols and disrupt REAPER movement across the AO.
 
 ---
 
@@ -99,34 +109,34 @@ None.
 
 ### a. Commander's Intent
 
-**Purpose:** Disrupt REAPER logistics and deny REAPER resupply capability along the supply route through AO COTTO.
+**Purpose:** Disrupt REAPER logistics and courier movement by denying REAPER the free use of multiple movement routes through AO COTTO.
 
-**Key Tasks:** (1) Destroy the REAPER convoy. (2) Seize REAPER supplies and materiel. (3) Withdraw without decisive engagement by REAPER reinforcements.
+**Key Tasks:** (1) Each squad destroys a small REAPER patrol in its assigned area. (2) Each squad breaks contact and withdraws without decisive engagement. (3) Squads maintain freedom to execute independently throughout the engagement.
 
-**End State:** REAPER convoy destroyed, supplies seized, friendly forces consolidated at ORP and prepared for follow-on operations.
+**End State:** REAPER patrols destroyed or displaced at all three sites, squads consolidated and prepared for follow-on operations, no friendly forces decisively engaged.
 
 ### b. Concept of Operations
-1st Platoon conducts a linear ambush at OBJ FLUNKER. The platoon occupies an ORP, then moves to establish the ambush site along REAPER's expected south-to-north route of movement. The assault element, as the main effort, initiates the ambush and destroys the convoy. The support element provides flanking suppressive fire to fix the enemy in the kill zone. The security element isolates the ambush site against reinforcement or escape. Upon completion, the platoon withdraws by echelon to the ORP.
+1st Platoon conducts a decentralized ambush operation across three independent squad sites in AO COTTO. Each squad moves to its assigned area, emplaces its own ambush, initiates on a small REAPER patrol, and withdraws. **2nd Squad is the main effort.** Squad leaders select their own ambush layout, positions, initiation method, and withdrawal route. Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports. The PL monitors all squads; the PSG trails as QRF.
 
 ### c. Scheme of Fires
-1st Squad, as the decisive effort, has priority of indirect fires. Mortar support available through company on request.
+Priority of fires to 2nd Squad. Mortar support is available through company on request; any squad may request fires through the PL.
 
 ### d. Tasks to Subordinate Units
 
-**1. 1st Squad (Assault — Decisive Operation):**
+**1. 1st Squad (Independent Ambush — Western Segment):**
 
-- **TASK:** Occupy concealed assault positions along the kill zone at OBJ FLUNKER. Initiate the ambush when the convoy is fully in the kill zone, destroy REAPER vehicles and personnel, and seize enemy materiel. Withdraw to the ORP on order.
-- **PURPOSE:** Destroy the convoy before REAPER can organize a response, creating the conditions for the platoon to seize supplies and withdraw.
+- **TASK:** Conduct a linear ambush at OBJ FLUNKER (MP 0600 1530) along Bradenton Ave. Destroy the REAPER patrol transiting the segment and break contact to an assembly area. Report enemy strength and disposition.
+- **PURPOSE:** Deny REAPER the use of Bradenton Ave as a resupply route through the western portion of AO COTTO.
 
-**2. 2nd Squad (Support — Shaping Operation):**
+**2. 2nd Squad (Independent Ambush — Northwestern Segment):**
 
-- **TASK:** Occupy a support-by-fire position on the north end of the kill zone. On initiation, deliver suppressive fire to fix REAPER forces in the kill zone. Be prepared to shift fires to block REAPER reinforcements. Withdraw to ORP on order.
-- **PURPOSE:** Prevent REAPER from maneuvering out of the kill zone so 1st Squad can destroy the convoy decisively.
+- **TASK:** Conduct a linear ambush at OBJ KLENDATHU (MP 0585 1559) along the unnamed N-S road in the western LTA. Destroy the REAPER patrol transiting the segment and break contact to an assembly area. Report enemy strength and disposition.
+- **PURPOSE:** Deny REAPER the use of the western movement corridor and disrupt courier traffic in the northwestern sector of AO COTTO.
 
-**3. 3rd Squad (Security — Shaping Operation):**
+**3. 3rd Squad (Independent Ambush — Southwestern Segment):**
 
-- **TASK:** Establish a security perimeter to observe for REAPER reinforcements and cover the flanks and rear of the ambush site. Interdict any REAPER forces attempting to reinforce or withdraw. Collapse security last during platoon withdrawal and consolidate at the ORP.
-- **PURPOSE:** Ensure the ambush force is not surprised by REAPER reinforcements, and secure the withdrawal route so the platoon can break contact cleanly.
+- **TASK:** Conduct a linear ambush at OBJ TANGO (MP 0575 1538) at the Clearwater Ave / unnamed road intersection. Destroy the REAPER patrol transiting the intersection and break contact to an assembly area. Report enemy strength and disposition.
+- **PURPOSE:** Deny REAPER the use of the southwestern road junction and disrupt dismounted patrol movement in that portion of AO COTTO.
 
 ### e. Coordinating Instructions
 
@@ -137,15 +147,16 @@ None.
    4. Positively identify targets before firing.
 
 **2. Priority Intelligence Requirements (PIR):**
-   1. Confirm number and types of vehicles in the REAPER convoy.
-   2. Monitor for changes in REAPER route or reinforcements.
-   3. Assess civilian presence before execution.
+   1. Confirm REAPER patrol composition at each site.
+   2. Monitor for changes in REAPER routes or reinforcements.
+   3. Assess civilian presence at each site before execution.
 
 **3. Commander's Critical Information Requirements (CCIR):**
-   1. Compromise or detection of friendly positions prior to initiation
-   2. Enemy force composition exceeds platoon capability (armored vehicles, crew-served weapons, or reinforced squad+)
-   3. Civilian presence in or adjacent to the kill zone at time of execution
-   4. Any friendly casualty that reduces the assault element below minimum effective strength
+   1. Compromise or detection of a squad prior to initiation at any site
+   2. Enemy force composition at a site exceeds squad capability (reinforced element or crew-served weapons)
+   3. Civilian presence in or adjacent to any kill zone at time of execution
+   4. Any friendly casualty that reduces a squad below minimum effective strength
+   5. REAPER forces massing against a single squad from multiple sites
 
 **4. Essential Elements of Friendly Information (EEFI):**
    1. SP/LD times and locations
@@ -153,12 +164,17 @@ None.
    3. Casualty status and combat strength
 
 **5. Reporting:**
-   - **SALUTE Report:** Upon enemy visual confirmation.
    - **Report to higher when SP'ing or crossing the line of departure.**
-   - **In Position Report:** Upon occupying the ambush site or ORP.
+   - **SALUTE Report:** Upon enemy visual confirmation.
+   - **In Position Report:** Upon occupying an ambush site or ORP.
    - **LACE Report:** After ambush, within ______ minutes.
 
-**6.** This OPORD is effective immediately upon distribution.
+**6. Coordination Between Squads:**
+   - Squads operate independently at their assigned sites. Lateral coordination is not required.
+   - Squads report contact via SALUTE on the platoon net; adjacent squads monitor but continue their own missions unless directed otherwise by the PL.
+   - Squads requiring support request it through the PL.
+
+**7.** This OPORD is effective immediately upon distribution.
 
 ---
 
@@ -178,7 +194,7 @@ None.
 ## 5. COMMAND AND SIGNAL
 
 ### a. Command
-1. Platoon Leader at PLT CP.
+1. Platoon Leader monitors from a position that maintains communications with all squads.
 2. Succession of Command: PL, PSG, 1st SL, 2nd SL, 3rd SL.
 
 ### b. Control

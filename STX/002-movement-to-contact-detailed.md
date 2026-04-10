@@ -115,10 +115,10 @@ None.
 **End State:** REAPER forces located and assessed in all three zones, squad objectives secured, friendly forces maintaining tactical advantage and prepared for follow-on operations.
 
 ### b. Concept of Operations
-1st Platoon conducts a decentralized movement to contact across three assigned squad zones in AO FLUNKER. Each squad advances toward its own objective at its own pace, locating and engaging REAPER forces within its assigned zone. **Main effort: none designated; squads are weighted equally** and operate in parallel within their zones. The PL retains freedom to re-weight the main effort once initial contact develops the situation. Squad leaders select their own movement techniques, formations, and routes based on their analysis of terrain and enemy situation. Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports. The PL monitors all squads and coordinates as needed. The PSG trails, prepared to support any squad requiring reinforcement or casualty evacuation.
+1st Platoon conducts a decentralized movement to contact across three assigned squad zones in AO FLUNKER. Each squad advances toward its own objective at its own pace, locating and engaging REAPER forces within its assigned zone. **1st Squad is the main effort.** Squad leaders select their own movement techniques, formations, and routes based on their analysis of terrain and enemy situation. Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports. The PL monitors all squads; the PSG trails as QRF.
 
 ### c. Scheme of Fires
-**Priority of fires: first squad in decisive contact.** Mortar support available through company on request; any squad may request fires through the PL. Once the PL confirms decisive engagement in a zone, that squad becomes the priority of indirect fires until contact is broken or the PL shifts priority.
+Priority of fires to 1st Squad. Mortar support is available through company on request; any squad may request fires through the PL.
 
 ### d. Tasks to Subordinate Units
 

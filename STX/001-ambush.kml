@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
-  <name>OPORD 001 - Ambush at Crossroads</name>
-  <description>OBJ FLUNKER - 1st PLT, A CO, 4-211 INF. FOR TRAINING USE ONLY.</description>
+  <name>OPORD 001 - Three Independent Ambushes</name>
+  <description>AO COTTO - 1st PLT, A CO, 4-211 INF. Three independent squad ambush sites. FOR TRAINING USE ONLY.</description>
 
   <Style id="style-enemy">
     <IconStyle>
@@ -20,60 +20,56 @@
     </IconStyle>
     <LabelStyle><color>ffff6600</color><scale>0.9</scale></LabelStyle>
   </Style>
-  <Style id="style-security">
-    <IconStyle>
-      <color>ffff6600</color>
-      <scale>1.0</scale>
-      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href></Icon>
-    </IconStyle>
-    <LabelStyle><color>ffff6600</color><scale>0.9</scale></LabelStyle>
-  </Style>
-  <Style id="style-killzone">
-    <LineStyle>
-      <color>ff0000ff</color>
-      <width>4</width>
-    </LineStyle>
-  </Style>
 
-  <Placemark>
-    <name>OBJ FLUNKER (Kill Zone)</name>
-    <description>MP 0600 1530 - Linear ambush site along Bradenton Ave. REAPER convoy route S-N. 2 vehicles, 6-8 PAX, AK-47s, possible HMG.</description>
-    <styleUrl>#style-enemy</styleUrl>
-    <Point><coordinates>-81.974171,29.965662,0</coordinates></Point>
-  </Placemark>
+  <Folder>
+    <name>Enemy Objectives</name>
 
-  <Placemark>
-    <name>1st SQD (Assault - Decisive)</name>
-    <description>MP 0600 1530 - Concealed assault positions along kill zone at OBJ FLUNKER. Initiates ambush, destroys convoy.</description>
-    <styleUrl>#style-friendly</styleUrl>
-    <Point><coordinates>-81.974271,29.965662,0</coordinates></Point>
-  </Placemark>
+    <Placemark>
+      <name>OBJ FLUNKER (1st SQD)</name>
+      <description>MP 0600 1530 - Linear ambush site along Bradenton Ave. Small REAPER patrol 3-4 PAX, moving S to N.</description>
+      <styleUrl>#style-enemy</styleUrl>
+      <Point><coordinates>-81.9742557,29.9649434,0</coordinates></Point>
+    </Placemark>
 
-  <Placemark>
-    <name>2nd SQD (SBF - Shaping)</name>
-    <description>MP 0600 1534 - North end of kill zone. Suppressive fire to fix REAPER in kill zone. Shift fires to block reinforcements from N.</description>
-    <styleUrl>#style-friendly</styleUrl>
-    <Point><coordinates>-81.974171,29.966024,0</coordinates></Point>
-  </Placemark>
+    <Placemark>
+      <name>OBJ KLENDATHU (2nd SQD)</name>
+      <description>MP 0585 1559 - Linear ambush site along unnamed N-S road, western LTA. Small REAPER patrol 3-4 PAX, moving N to S.</description>
+      <styleUrl>#style-enemy</styleUrl>
+      <Point><coordinates>-81.9757450,29.9675220,0</coordinates></Point>
+    </Placemark>
 
-  <Placemark>
-    <name>3rd SQD (Security - Shaping)</name>
-    <description>MP 0610 1550 - Security perimeter. Observes for REAPER reinforcements, covers flanks and rear. Interdicts reinforcement/withdrawal.</description>
-    <styleUrl>#style-security</styleUrl>
-    <Point><coordinates>-81.9732369,29.9667557,0</coordinates></Point>
-  </Placemark>
+    <Placemark>
+      <name>OBJ TANGO (3rd SQD)</name>
+      <description>MP 0575 1538 - Linear ambush site at Clearwater Ave / unnamed road intersection, SW LTA. Small REAPER patrol 3-4 PAX, moving E to W.</description>
+      <styleUrl>#style-enemy</styleUrl>
+      <Point><coordinates>-81.9767750,29.9656230,0</coordinates></Point>
+    </Placemark>
+  </Folder>
 
-  <Placemark>
-    <name>Kill Zone (Bradenton Ave)</name>
-    <description>Linear ambush kill zone along Bradenton Ave, S to N.</description>
-    <styleUrl>#style-killzone</styleUrl>
-    <LineString>
-      <coordinates>
-        -81.974171,29.965300,0
-        -81.974171,29.966024,0
-      </coordinates>
-    </LineString>
-  </Placemark>
+  <Folder>
+    <name>Squad Ambush Sites</name>
+
+    <Placemark>
+      <name>1st SQD Ambush (Western)</name>
+      <description>Independent linear ambush at OBJ FLUNKER. Orient east onto Bradenton Ave. Break contact west to ORP.</description>
+      <styleUrl>#style-friendly</styleUrl>
+      <Point><coordinates>-81.9742557,29.9649434,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>2nd SQD Ambush (Northwestern)</name>
+      <description>Independent linear ambush at OBJ KLENDATHU. Orient west onto unnamed N-S road. Break contact east to ORP.</description>
+      <styleUrl>#style-friendly</styleUrl>
+      <Point><coordinates>-81.9757450,29.9675220,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>3rd SQD Ambush (Southwestern)</name>
+      <description>Independent linear ambush at OBJ TANGO. Orient south onto Clearwater Ave. Break contact north to ORP.</description>
+      <styleUrl>#style-friendly</styleUrl>
+      <Point><coordinates>-81.9767750,29.9656230,0</coordinates></Point>
+    </Placemark>
+  </Folder>
 
 </Document>
 </kml>

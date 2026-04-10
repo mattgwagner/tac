@@ -6,27 +6,33 @@
 
 > **CADRE / OPFOR NOTES**
 >
-> **Complexity:** Higher | **Recommended Phase:** RUN (Day Iterations)
+> **Complexity:** Lower to Moderate | **Recommended Phase:** WALK (Blocks 3-4), RUN (Day Iterations)
 >
-> **Mission Summary:** 1st Platoon is tasked to conduct a raid to eliminate REAPER forces and secure a fortified position in AO HERRERA.
+> **Mission Summary:** 1st Platoon conducts three independent squad raids on small REAPER nodes in AO HERRERA. Each squad destroys its own small target (OP, cache, or relay); no coordination across squads is required.
 >
-> **Destination:** REAPER bunker (OBJ COTTO) near MP 0600 1538, AO HERRERA.
+> **Training Focus:** This OPORD is designed to evaluate **individual squad leader planning and decision-making**. The PL issues the platoon OPORD, but each squad leader must conduct their own TLP for a squad-sized raid — planning isolation, support, and assault elements within the squad. Cadre should assign one evaluator per squad to observe the SL's planning process and tactical decisions.
 >
-> **Actions on Objective:** Platoon will establish an ORP, move to the objective, isolate the enemy position, breach and clear the bunker, and withdraw in an organized manner. Assault, support, and security elements will be employed per doctrine.
+> **Destinations:**
+> - 1st Squad → OBJ COTTO (vic MP 0600 1538) — small REAPER OP/cache at Bradenton intersection
+> - 2nd Squad → OBJ WHISKEY (vic MP 0613 1532) — small commo relay/cache in Conex City NE building
+> - 3rd Squad → OBJ ZULU (vic MP 0575 1524) — small REAPER OP at Arcadia / Clearwater intersection
+>
+> **Actions on Objective:** Each squad independently moves to its own objective, destroys the small REAPER node (2-4 personnel), and consolidates. Squads do not depend on or wait for adjacent squads.
 >
 > **Evaluation Timeline:** For evaluated iterations, candidates will receive this OPORD and have 75 minutes to complete TLP Steps 1-8 before SP. Execution window is 60 minutes. AAR is 15 minutes.
 >
 > **OPFOR/Training Wrinkles:**
-> - Simulate a determined defense with prepared positions and possible IEDs.
-> - Introduce a counterattack or reinforcement attempt during/after the assault.
-> - Use civilian role-players to test ROE.
-> - Inject unexpected obstacles, booby traps, or time-sensitive intelligence.
+> - Deploy one small REAPER node (2-4 personnel) per objective, operating independently.
+> - Each node is a small OP, cache, or relay — NOT a fortified bunker. Squad-sized raid, not platoon.
+> - Introduce a civilian or non-combatant at one site to test ROE.
+> - Cadre may inject counter-recon, early detection, or equipment malfunctions per site.
+> - If manning is limited, rotate one OPFOR team across sites between iterations.
 >
 > **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
 >
 > **See Also:** [LTA Grid Reference](../reference/lta-grid-reference.md)
 >
-> **Iteration Guidance:** This is the mission command version — squad tasks state outcomes without prescribing specific positioning or movement. For the first iteration with a new class or candidates who need additional scaffolding, use [003-raid-a-bunker-detailed.md](003-raid-a-bunker-detailed.md) instead, which includes specific grids, directions, and team assignments.
+> **Iteration Guidance:** This is the mission command version — squad tasks state outcomes without prescribing specific positioning or movement. For the first iteration with a new class or candidates who need additional scaffolding, use [003-raid-a-bunker-detailed.md](003-raid-a-bunker-detailed.md) instead.
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 
@@ -48,9 +54,9 @@ Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. AO
 
 ### b. Area of Operations
 
-**1. Terrain.** The AO consists of flat terrain with sandy soils and dense pine and hardwood forests throughout. Thick vegetation and tree canopy severely limit observation and fields of fire except along improved roads and clearings. Bradenton Avenue runs north-south through the center of the AO. An unnamed improved road intersects Bradenton Avenue at the objective location, running east-west. These roads are the only locations offering extended fields of fire; visibility in the surrounding woods is under 50 meters in most areas. The terrain is uniformly flat with no significant elevation changes.
+**1. Terrain.** The AO consists of flat terrain with sandy soils and dense pine and hardwood forests throughout. Thick vegetation and tree canopy severely limit observation and fields of fire except along improved roads and clearings. Visibility in the surrounding woods is under 50 meters in most areas. Bradenton Avenue runs north-south through the center of the AO, Clearwater Avenue runs north-south in the west, and Arcadia Street runs east-west in the south. Conex City sits on the east side of the AO with small structures providing concealment.
 
-   - **Key Terrain:** OBJ COTTO (bunker) at MP 0600 1538, located at the intersection of Bradenton Avenue and the unnamed east-west road. The bunker position controls movement along both road corridors. Bradenton Avenue south of the intersection provides a cleared lane of fire into the objective from the south. The dense woodlines west and southwest of the intersection provide concealed avenues of approach for dismounted assault elements. Bradenton Avenue north of the intersection is the most likely reinforcement route for REAPER. The unnamed road east of the intersection is the most likely escape route.
+   - **Key Terrain:** OBJ COTTO (MP 0600 1538) at the Bradenton Ave / unnamed E-W road intersection. OBJ WHISKEY (MP 0613 1532) in the Conex City NE structure. OBJ ZULU (MP 0575 1524) at the Arcadia St / Clearwater Ave junction in the SW corner of the AO. Woodlines surrounding each objective provide concealed avenues of approach for dismounted elements.
 
 **2. Weather.**
    - Skies: ________
@@ -63,26 +69,26 @@ Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. AO
    - EENT: ____
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
-REAPER forces are a determined irregular force, likely associated with a regional militia or paramilitary group. They are equipped with small arms, heavy weapons, and may employ defensive positions and improvised explosive devices. They are experienced in defending fixed positions and may attempt to reinforce or counterattack if threatened.
+REAPER forces have established small, distributed support nodes across AO HERRERA — observation posts, hasty caches, and a low-power relay station. These nodes enable REAPER freedom of action in the AO but are lightly manned and not mutually supporting. Each node is staffed by 2-4 REAPER personnel with small arms.
 
-**1. Composition.** 4-5 REAPER combatants, AK-47s, 1 HMG, possible IEDs.
+**1. Composition.** Three small REAPER nodes, each 2-4 combatants with small arms. Total 6-12 combatants distributed across AO HERRERA.
 
-**2. Disposition.** REAPER forces occupy a fortified bunker position at the intersection of Bradenton Avenue and the unnamed east-west road (MP 0600 1538). Fighting positions are oriented south along Bradenton Avenue and east along the unnamed road. Dense woods to the west and north limit their observation in those directions. They maintain an OP along Bradenton Avenue south of the bunker and are capable of reinforcing from positions further north along the Bradenton Avenue corridor.
+**2. Disposition.** REAPER nodes are dispersed across the AO, with one node at each squad objective. Positions are lightly prepared — hasty fighting positions, concealment, or occupied buildings — not fortified bunkers. Nodes operate independently with no lateral coordination.
 
-**3. Most Probable Course of Action (MPCOA).** REAPER forces defend from prepared positions using small arms and the HMG, oriented south and east along the road corridors. If the assault is effective, they withdraw east along the unnamed road or north into the dense woods along Bradenton Avenue, prioritizing survival over holding the position. They may employ obstacles or delay measures along approach routes.
+**3. Most Probable Course of Action (MPCOA).** Each REAPER node defends its position with small arms when contacted, then attempts to break contact and withdraw once the assault element closes. Nodes do not reinforce each other. If overrun, REAPER personnel attempt to destroy sensitive materials before being captured or killed.
 
-**4. Most Dangerous Course of Action (MDCOA).** REAPER forces have reinforcements positioned further north along Bradenton Avenue. Upon contact, they launch a counterattack from the north through the woodline while the main body defends in place. They employ pre-placed IEDs or booby traps along Bradenton Avenue south of the bunker to disrupt the support element and the withdrawal route.
+**4. Most Dangerous Course of Action (MDCOA).** REAPER nodes detect friendly movement early and alert each other by radio. A REAPER QRF from an unknown location reinforces one of the objectives. Nodes attempt to mass against a single squad while the others withdraw.
 
 ### d. Friendly Forces
 
 **1. Higher Headquarters:** A Co. 4th BN – 211th INF.
 
-**2. Mission.** A Company eliminates REAPER forces in AO Starke to secure area for follow-on operations.
+**2. Mission.** A Company destroys REAPER support nodes in AO HERRERA to disrupt enemy operations and enable follow-on maneuver.
 
-**3. Commander's Intent.** Destroy REAPER bunker and hostile forces to allow freedom of movement for friendly forces.
+**3. Commander's Intent.** Destroy small REAPER nodes across AO HERRERA to deny REAPER distributed support and freedom of action.
 
 ### e. Civil Considerations
-Civilians reside near AO. Protect non-combatants and prevent collateral damage.
+Civilians reside near AO HERRERA. Protect non-combatants and prevent collateral damage.
 
 ### f. Attachments and Detachments
 None.
@@ -91,7 +97,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon conducts a raid of OBJ COTTO in AO HERRERA NLT ____ to eliminate REAPER forces and secure the area of operations.
+1st Platoon conducts three independent squad raids in AO HERRERA NLT ____ to destroy small REAPER support nodes and disrupt REAPER operations in the AO.
 
 ---
 
@@ -99,34 +105,34 @@ None.
 
 ### a. Commander's Intent
 
-**Purpose:** Deny REAPER a fortified defensive position and restore friendly freedom of movement along the Bradenton Avenue corridor in AO HERRERA.
+**Purpose:** Destroy REAPER distributed support nodes across AO HERRERA to deny REAPER freedom of action and set conditions for follow-on operations.
 
-**Key Tasks:** (1) Isolate OBJ COTTO to prevent REAPER reinforcement or escape. (2) Breach and destroy the bunker position. (3) Eliminate REAPER combatants at the objective.
+**Key Tasks:** (1) Each squad destroys the small REAPER node at its assigned objective. (2) Each squad collects any materials of intelligence value found on the objective. (3) Squads consolidate after the raid and report findings.
 
-**End State:** OBJ COTTO destroyed, REAPER forces at the objective eliminated, friendly forces consolidated at ORP and prepared for follow-on operations.
+**End State:** All three REAPER nodes destroyed, friendly forces consolidated, intelligence reported to higher, platoon prepared for follow-on operations.
 
 ### b. Concept of Operations
-1st Platoon conducts a raid on OBJ COTTO in two phases. In **Phase 1 (Set)**, the platoon occupies an ORP in the woodline southwest of the objective. The PL conducts a leader's reconnaissance. The security element moves first to isolate the objective, then the support element occupies a position south of the objective to fix the enemy. In **Phase 2 (Strike)**, the support element initiates suppressive fire and the assault element, as the main effort, breaches and clears the bunker from the west. Upon seizure, the platoon withdraws by echelon to the ORP.
+1st Platoon conducts a decentralized raid operation across three independent squad objectives in AO HERRERA. Each squad moves to its assigned objective, establishes its own squad-level isolation/support/assault, destroys the small REAPER node, and consolidates. **3rd Squad is the main effort.** Squad leaders select their own approach routes, actions on the objective, and withdrawal routes. Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports. The PL monitors all squads; the PSG trails as QRF.
 
 ### c. Scheme of Fires
-1st Squad, as the decisive effort, has priority of indirect fires. Mortar support available through company on request.
+Priority of fires to 3rd Squad. Mortar support is available through company on request; any squad may request fires through the PL.
 
 ### d. Tasks to Subordinate Units
 
-**1. 1st Squad (Assault — Decisive Operation):**
+**1. 1st Squad (Independent Raid — OBJ COTTO):**
 
-- **TASK:** Move from the ORP to an assault position near OBJ COTTO. On the PL's signal, assault and clear the fortified bunker position. Eliminate REAPER combatants and signal "objective secured" upon completion. Withdraw to the ORP on order.
-- **PURPOSE:** Destroy the bunker and eliminate the defending force so the platoon can complete the raid and withdraw before REAPER reinforcement.
+- **TASK:** Conduct a squad raid at OBJ COTTO (MP 0600 1538) to destroy the small REAPER OP / cache at the Bradenton Ave intersection. Eliminate REAPER personnel at the objective, collect materials of intelligence value, and consolidate. Report enemy strength and findings.
+- **PURPOSE:** Destroy REAPER presence at a key road intersection and deny REAPER the use of this position for observation or resupply.
 
-**2. 2nd Squad (Support by Fire — Shaping Operation):**
+**2. 2nd Squad (Independent Raid — OBJ WHISKEY):**
 
-- **TASK:** Occupy a support-by-fire position with observation of OBJ COTTO. On the PL's signal, suppress REAPER positions at the objective. Shift or cease fires on order as 1st Squad enters the objective. Withdraw on order during the platoon withdrawal.
-- **PURPOSE:** Fix REAPER in their fighting positions so 1st Squad can close on and breach the bunker without receiving aimed fire.
+- **TASK:** Conduct a squad raid at OBJ WHISKEY (MP 0613 1532) to destroy the small REAPER commo relay / cache in the Conex City NE building. Eliminate REAPER personnel at the objective, collect materials of intelligence value, and consolidate. Report enemy strength and findings.
+- **PURPOSE:** Destroy REAPER communications node in Conex City and degrade REAPER's ability to coordinate across the AO.
 
-**3. 3rd Squad (Security — Shaping Operation):**
+**3. 3rd Squad (Independent Raid — OBJ ZULU):**
 
-- **TASK:** Move to isolate OBJ COTTO prior to the assault. Block REAPER reinforcement and escape routes. Maintain positions through the assault. Collapse security last during platoon withdrawal and consolidate at the ORP.
-- **PURPOSE:** Isolate the objective so REAPER cannot reinforce or escape during the assault, ensuring 1st Squad fights only the force currently at the bunker.
+- **TASK:** Conduct a squad raid at OBJ ZULU (MP 0575 1524) to destroy the small REAPER OP at the Arcadia Street / Clearwater Avenue intersection. Eliminate REAPER personnel at the objective, collect materials of intelligence value, and consolidate. Report enemy strength and findings.
+- **PURPOSE:** Destroy REAPER observation capability in the southwestern AO and deny REAPER early warning of friendly movement into the sector.
 
 ### e. Coordinating Instructions
 
@@ -137,17 +143,18 @@ None.
    4. Report civilian casualties immediately.
 
 **2. Priority Intelligence Requirements (PIR):**
-   1. Confirm REAPER positions and strength at OBJ COTTO, specifically their orientation along Bradenton Avenue and the unnamed east-west road.
-   2. Identify REAPER reinforcement positions north along Bradenton Avenue or along Avenue C.
-   3. Confirm presence of IEDs or obstacles along Bradenton Avenue south of the bunker and along approach routes.
-   4. Assess civilian presence near the objective, particularly along the unnamed east-west road.
+   1. Confirm REAPER personnel count and weapons at each node.
+   2. Identify any crew-served weapons, obstacles, or prepared positions at any objective.
+   3. Collect materials of intelligence value (documents, maps, radios, notebooks) from any objective.
+   4. Assess civilian presence at each objective.
 
 **3. Commander's Critical Information Requirements (CCIR):**
-   1. Enemy strength at OBJ COTTO exceeds expected composition (reinforced or crew-served weapons present)
-   2. IED or obstacle on approach routes preventing timely assault
-   3. Compromise of the assault force prior to actions on the objective
-   4. Any friendly casualty during the assault requiring immediate MEDEVAC
-   5. Civilian presence at or near the bunker complex
+   1. Enemy strength at any objective exceeds expected composition (reinforced or crew-served weapons present)
+   2. Obstacle or IED on approach routes preventing timely assault
+   3. Compromise of an assault force prior to actions on the objective
+   4. Any friendly casualty during an assault requiring immediate MEDEVAC
+   5. Civilian presence at or near an objective preventing planned fires
+   6. REAPER forces massing against a single squad from multiple objectives
 
 **4. Essential Elements of Friendly Information (EEFI):**
    1. SP/LD times and locations
@@ -156,11 +163,16 @@ None.
 
 **5. Reporting:**
    - **Report to higher when SP'ing or crossing the line of departure.**
-   - **In Position Report:** Upon occupying the ORP or objective.
-   - **LACE Report:** At least once during operation and upon re-establishment of ORP.
+   - **In Position Report:** Upon occupying an ORP or objective.
+   - **LACE Report:** At least once during operation and upon consolidation.
    - **SALUTE Report:** Upon sighting enemy forces or indicators.
 
-**6.** This OPORD is effective immediately upon distribution.
+**6. Coordination Between Squads:**
+   - Squads operate independently at their assigned objectives. Lateral coordination is not required.
+   - Squads report contact via SALUTE on the platoon net; adjacent squads monitor but continue their own missions unless directed otherwise by the PL.
+   - Squads requiring support request it through the PL.
+
+**7.** This OPORD is effective immediately upon distribution.
 
 ---
 
@@ -181,7 +193,7 @@ None.
 ## 5. COMMAND AND SIGNAL
 
 ### a. Command
-1. Platoon Leader at PLT CP.
+1. Platoon Leader monitors from a position that maintains communications with all squads.
 2. Succession of Command: PL, PSG, 1st SL, 2nd SL, 3rd SL.
 
 ### b. Control

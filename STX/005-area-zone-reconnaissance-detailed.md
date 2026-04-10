@@ -6,30 +6,33 @@
 
 > **CADRE / OPFOR NOTES**
 >
-> **Complexity:** Lower | **Recommended Phase:** WALK (Blocks 1-2), RUN (Day Iterations)
+> **Complexity:** Lower | **Recommended Phase:** WALK (Blocks 3-4), RUN (Day Iterations)
 >
-> **Mission Summary:** 1st Platoon is tasked to conduct an area reconnaissance in AO COTTO to locate REAPER positions, assess REAPER strength and disposition, and identify key terrain features.
+> **Mission Summary:** 1st Platoon conducts three independent squad area reconnaissance missions in AO COTTO. Each squad reconnoiters its own Named Area of Interest (NAI) and reports. No coordination across squads is required.
 >
-> **Destination:** AO COTTO, bounded by Highway 16 (north), old railroad bed (south), Starke city limits (east), and pine forest edge (west). Focus area around suspected REAPER position at MP 0613 1532.
+> **Training Focus:** This OPORD is designed to evaluate **individual squad leader planning and decision-making**. The PL issues the platoon OPORD, but each squad leader must conduct their own TLP for a squad-sized area reconnaissance — planning a covered/concealed route, observation plan, reporting cycle, and actions on contact. Cadre should assign one evaluator per squad to observe the SL's planning process and tactical decisions.
 >
-> **Actions on Objective:** Platoon will establish an ORP, conduct reconnaissance of the area using zone or area reconnaissance techniques, collect intelligence on enemy positions and activities, and report findings to higher headquarters.
+> **Destinations:**
+> - 1st Squad → NAI HERRERA (vic MP 0613 1532) — suspected REAPER position in Conex City NE
+> - 2nd Squad → NAI BARLOW (vic MP 0602 1565) — Bradenton / Jacksonville intersection
+> - 3rd Squad → NAI BAINTON (vic MP 0575 1524) — Arcadia / Clearwater intersection
 >
-> **Training Focus:** This OPORD is ideal for early TLP training due to its simpler mission focus. Candidates can concentrate on planning products, reconnaissance fundamentals, and reporting without the added complexity of direct engagement.
+> **Actions on Objective:** Each squad independently moves to its assigned NAI, conducts an area reconnaissance, collects intelligence on REAPER presence, activity, and key terrain, and returns to friendly lines without decisive engagement. Squads do not depend on or wait for adjacent squads.
 >
 > **Evaluation Timeline:** For evaluated iterations, candidates will receive this OPORD and have 75 minutes to complete TLP Steps 1-8 before SP. Execution window is 60 minutes. AAR is 15 minutes.
 >
 > **OPFOR/Training Wrinkles:**
-> - Enemy may be static in defensive positions or mobile in small patrols.
-> - Introduce false indicators or decoy positions to test candidate's analytical skills.
-> - OPFOR may detect friendly reconnaissance and attempt to counter-recon or withdraw.
-> - Cadre can inject time constraints, weather changes, or equipment failures.
-> - Test ability to avoid detection while gathering intelligence.
+> - Deploy one small REAPER element (2-4 personnel) per NAI, operating independently. Positions may be static defensive, OP, or small patrol.
+> - Introduce false indicators or decoy positions at one NAI to test candidate analytical skills.
+> - OPFOR may detect friendly reconnaissance and attempt counter-recon or withdrawal.
+> - Cadre may inject time constraints, weather changes, or equipment failures per site.
+> - If manning is limited, rotate one OPFOR element across NAIs between iterations.
 >
 > **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
 >
 > **See Also:** [LTA Grid Reference](../reference/lta-grid-reference.md)
 >
-> **Iteration Guidance:** This is the detailed version with specific sector grids. For evaluated iterations and later runs where squad leaders should plan independently, use [005-area-zone-reconnaissance.md](005-area-zone-reconnaissance.md) instead.
+> **Iteration Guidance:** This is the detailed version with specific NAI grids and reconnaissance focus areas for each squad. For evaluated iterations and later runs where squad leaders should plan independently, use [005-area-zone-reconnaissance.md](005-area-zone-reconnaissance.md) instead.
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 
@@ -47,13 +50,13 @@ Platoon Sergeant
 ## 1. SITUATION
 
 ### a. Area of Interest
-Clay County, Florida, in the vicinity of Starke and Highway 16. AO COTTO encompasses the area bounded to the north by Highway 16, to the east by the Starke city limits, to the south by the old railroad bed, and to the west by the pine forest edge. Suspected enemy activity centered around MP 0613 1532.
+Clay County, Florida, in the vicinity of Starke and Highway 16. AO COTTO encompasses the area bounded to the north by Highway 16, to the east by the Starke city limits, to the south by the old railroad bed, and to the west by the pine forest edge.
 
 ### b. Area of Operations
 
-**1. Terrain.** Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, ponds, marshes, and wetlands. Vegetation provides concealment and limits long-range observation. Roads and trails serve as likely avenues of approach for both friendly and enemy forces. Terrain and soil conditions may restrict vehicle movement, especially in wet areas.
+**1. Terrain.** Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, ponds, marshes, and wetlands. Vegetation provides concealment and limits long-range observation to under 50 meters off improved roads. Roads and trails serve as likely avenues of approach for both friendly and enemy forces. Terrain and soil conditions may restrict vehicle movement, especially in wet areas.
 
-   - **Key Terrain:** The suspected REAPER position at MP 0613 1532 is the focus of reconnaissance. The area north and south of the objective is relatively open, limiting observation positions. Woodlines to the east and west provide concealment for reconnaissance elements approaching the objective.
+   - **Key Terrain:** NAI HERRERA (MP 0613 1532) is the northeast building in the Conex City complex and a suspected REAPER occupied position. NAI BARLOW (MP 0602 1565) is the Bradenton Ave / Jacksonville St intersection, a likely movement control point. NAI BAINTON (MP 0575 1524) is the Arcadia St / Clearwater Ave intersection in the southwestern LTA, a potential REAPER OP or transit point. Woodlines surrounding each NAI provide concealed observation positions.
 
 **2. Weather.**
    - Skies: ________
@@ -66,23 +69,27 @@ Clay County, Florida, in the vicinity of Starke and Highway 16. AO COTTO encompa
    - EENT: ____
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
-REAPER forces consist of a small irregular force, likely operating from concealed positions within AO COTTO. They are equipped with small arms and may have support weapons. They are experienced in local terrain and employ security measures to avoid detection.
+REAPER forces are a lightly armed irregular force operating from small concealed positions across AO COTTO. They employ security measures to avoid detection, use terrain and vegetation for concealment, and are familiar with local avenues of approach. Small REAPER elements are suspected at each of the three NAIs but exact strength, composition, and activity are unknown — this is the purpose of the reconnaissance mission.
 
-**1. Composition.** Estimated 4-6 REAPER personnel, small arms, possible support weapons, in concealed or defensive positions.
+**1. Composition.** Three small REAPER elements, each 2-4 personnel with small arms. Total 6-12 combatants distributed across AO COTTO.
 
-**2. Disposition.** REAPER forces are likely dispersed in small groups throughout the area, using terrain and vegetation for concealment. They maintain security patrols and observation posts to detect friendly reconnaissance. Exact locations unknown – this is the purpose of the reconnaissance mission.
+**2. Disposition.** REAPER elements are dispersed across the AO:
+   - NAI HERRERA (MP 0613 1532): suspected occupied position in or around the Conex City NE building. May be static defensive or working out of the structure.
+   - NAI BARLOW (MP 0602 1565): suspected OP or movement control element at the Bradenton / Jacksonville intersection. Likely using the surrounding woodline for concealment.
+   - NAI BAINTON (MP 0575 1524): suspected OP at the Arcadia / Clearwater intersection. Likely using vegetation and terrain for concealment.
+   Elements operate independently with no lateral coordination.
 
-**3. Most Probable Course of Action (MPCOA).** REAPER forces maintain static defensive positions or conduct limited patrols within the area. If detected, they attempt to break contact and withdraw rather than engage decisively. They may use decoy positions or false indicators to mislead friendly reconnaissance.
+**3. Most Probable Course of Action (MPCOA).** Each REAPER element maintains a static position or conducts limited local security patrols. If friendly reconnaissance is detected, the element breaks contact and withdraws rather than engaging decisively. Elements do not reinforce each other.
 
-**4. Most Dangerous Course of Action (MDCOA).** REAPER forces detect friendly reconnaissance and initiate an ambush or counter-reconnaissance operation. They coordinate with additional elements to encircle or fix the reconnaissance platoon, seeking to prevent intelligence collection or inflict casualties.
+**4. Most Dangerous Course of Action (MDCOA).** A REAPER element detects friendly reconnaissance early and initiates a counter-reconnaissance ambush, attempting to fix or inflict casualties on the squad to prevent intelligence collection. REAPER elements coordinate by radio across sites and reposition to threaten more than one squad.
 
 ### d. Friendly Forces
 
 **1. Higher Headquarters:** A Co. 4th BN – 211th INF.
 
-**2. Mission.** A Company conducts reconnaissance operations to locate and assess REAPER forces in AO COTTO.
+**2. Mission.** A Company develops the intelligence picture in AO COTTO to enable follow-on operations by reconnoitering three NAIs simultaneously.
 
-**3. Commander's Intent.** Gather intelligence on REAPER positions, strength, and disposition to enable follow-on operations and prevent REAPER freedom of action.
+**3. Commander's Intent.** Locate and assess REAPER elements across AO COTTO without compromise, and report intelligence that enables the company commander to plan follow-on operations.
 
 ### e. Civil Considerations
 Local civilians may be present in the area. Reconnaissance must minimize detection and avoid contact with non-combatants to maintain operational security and good relations.
@@ -94,7 +101,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon conducts an area reconnaissance of AO COTTO NLT ____ to locate REAPER positions, assess REAPER strength and disposition, and identify key terrain features to enable follow-on operations.
+1st Platoon conducts three independent squad area reconnaissance missions in AO COTTO NLT ____ to locate REAPER elements at NAI HERRERA (MP 0613 1532), NAI BARLOW (MP 0602 1565), and NAI BAINTON (MP 0575 1524), assess strength and disposition, and report to enable follow-on operations.
 
 ---
 
@@ -102,34 +109,44 @@ None.
 
 ### a. Commander's Intent
 
-**Purpose:** Provide the company commander intelligence on REAPER forces in AO COTTO to enable planning and execution of follow-on operations.
+**Purpose:** Develop the intelligence picture of REAPER forces across AO COTTO to enable the company commander to plan follow-on operations against a known enemy picture.
 
-**Key Tasks:** (1) Locate REAPER positions within AO COTTO. (2) Assess REAPER strength, disposition, and defensive preparations. (3) Identify key terrain that affects friendly or enemy operations.
+**Key Tasks:** (1) Each squad locates and assesses the REAPER element at its assigned NAI. (2) Each squad reports intelligence in SALUTE format via the platoon net. (3) Squads avoid decisive engagement and return to friendly lines without compromise.
 
-**End State:** REAPER positions located, strength and disposition assessed, intelligence reported to higher, friendly forces consolidated at ORP without compromise.
+**End State:** All three NAIs reconnoitered, REAPER elements located and assessed, intelligence reported to higher, squads consolidated and prepared for follow-on operations, no friendly forces decisively engaged or compromised.
 
 ### b. Concept of Operations
-1st Platoon conducts an area reconnaissance of AO COTTO from a secure ORP. Two reconnaissance elements move to assigned sectors using covered and concealed routes, collecting intelligence on REAPER positions, activities, and terrain. A security element remains at the ORP to provide a rally point and QRF capability. The platoon avoids decisive engagement — the mission is intelligence collection, not destruction. Upon completion or compromise, elements return to the ORP for consolidation and reporting.
+1st Platoon conducts a decentralized area reconnaissance across three independent squad NAIs in AO COTTO. Each squad moves to its assigned NAI using covered and concealed routes, establishes observation, collects intelligence, and returns to friendly lines. **1st Squad is the main effort.** Squad leaders select their own routes, observation positions, and reporting cycles. Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports. The PL monitors all squads; the PSG trails as QRF.
 
 ### c. Scheme of Fires
-Fires are limited to self-defense only. Avoid engagement unless necessary to break contact. Indirect fire support available through company on request to support disengagement.
+Priority of fires to 1st Squad. Fires are limited to self-defense only. Avoid engagement unless necessary to break contact. Mortar support is available through company on request to support disengagement.
 
 ### d. Tasks to Subordinate Units
 
-**1. 1st Squad (Reconnaissance — Northern Sector):**
+**1. 1st Squad (Independent Area Reconnaissance — NAI HERRERA):**
 
-- **TASK:** Conduct reconnaissance of the northern sector of AO COTTO, focusing on the area north and east of MP 0613 1532. Locate REAPER positions, assess activity, and identify defensive preparations, obstacles, and key terrain. Use covered and concealed routes, maintain noise and light discipline, and avoid detection. Report findings via SALUTE format. Return to ORP upon completion or if compromised.
-- **PURPOSE:** Confirm or deny REAPER presence in the northern sector so the company can plan follow-on operations against a known enemy picture.
+- **TASK:** Conduct an area reconnaissance of NAI HERRERA (MP 0613 1532), the northeast building in the Conex City complex. Use covered and concealed routes to establish observation of the structure and surrounding area. Locate REAPER positions, assess strength, composition, and activity, and identify any defensive preparations or obstacles. Use noise and light discipline and avoid detection. Report findings via SALUTE format as intelligence is developed. Return to friendly lines upon completion or if compromised.
+- **PURPOSE:** Confirm or deny REAPER presence in the Conex City NE structure, the most likely REAPER occupied position in AO COTTO, to enable the company to plan follow-on operations.
 
-**2. 2nd Squad (Reconnaissance — Southern Sector):**
+**2. 2nd Squad (Independent Area Reconnaissance — NAI BARLOW):**
 
-- **TASK:** Conduct reconnaissance of the southern sector of AO COTTO, focusing on the area south and west of MP 0613 1532 — including the suspected REAPER position. Locate REAPER positions, assess activity, and identify defensive preparations, obstacles, and key terrain. Use covered and concealed routes, maintain noise and light discipline, and avoid detection. Report findings via SALUTE format. Return to ORP upon completion or if compromised.
-- **PURPOSE:** Develop the intelligence picture in the sector most likely to contain REAPER's main position, enabling the company to identify objectives for follow-on operations.
+- **TASK:** Conduct an area reconnaissance of NAI BARLOW (MP 0602 1565), the Bradenton Ave / Jacksonville St intersection. Use covered and concealed routes through the woodlines to establish observation of the intersection. Locate any REAPER OP or movement control element, assess strength and activity, and identify avenues of approach and withdrawal. Use noise and light discipline and avoid detection. Report findings via SALUTE format. Return to friendly lines upon completion or if compromised.
+- **PURPOSE:** Develop the intelligence picture at a key movement control point in the northern portion of AO COTTO to enable the company to plan movement through or around the intersection.
 
-**3. 3rd Squad (ORP Security / QRF):**
+**3. 3rd Squad (Independent Area Reconnaissance — NAI BAINTON):**
 
-- **TASK:** Establish and secure the ORP. Maintain 360-degree security during reconnaissance operations. Monitor radio traffic from reconnaissance elements. Be prepared to move to support a compromised squad or provide suppressive fire to enable extraction. Account for all personnel upon return.
-- **PURPOSE:** Ensure the reconnaissance elements have a secure base to return to and a responsive QRF if compromised, preventing a tactical emergency from becoming a decisive engagement.
+- **TASK:** Conduct an area reconnaissance of NAI BAINTON (MP 0575 1524), the Arcadia St / Clearwater Ave intersection in the southwestern LTA. Use covered and concealed routes to establish observation of the intersection and surrounding vegetation. Locate any REAPER OP, assess strength and activity, and identify likely positions and terrain. Use noise and light discipline and avoid detection. Report findings via SALUTE format. Return to friendly lines upon completion or if compromised.
+- **PURPOSE:** Confirm or deny REAPER presence in the southwestern sector of AO COTTO so the company can protect the flank during follow-on operations.
+
+**4. Platoon Leader:**
+
+- **TASK:** Monitor and coordinate all three squads during independent reconnaissance operations. Position to maintain communications with all elements. Consolidate intelligence reports from all squads and forward to higher headquarters.
+- **PURPOSE:** Maintain situational awareness across the AO and build a consolidated intelligence picture that the company commander can use to plan follow-on operations.
+
+**5. Platoon Sergeant:**
+
+- **TASK:** Trail the platoon. Be prepared to move to any squad requiring reinforcement or casualty evacuation. Maintain platoon accountability.
+- **PURPOSE:** Provide the PL flexibility to support a compromised squad without pulling an adjacent squad off its mission.
 
 ### e. Coordinating Instructions
 
@@ -140,26 +157,36 @@ Fires are limited to self-defense only. Avoid engagement unless necessary to bre
    4. Report enemy contact immediately but maintain mission focus on intelligence collection.
 
 **2. Priority Intelligence Requirements (PIR):**
-   1. Confirm exact location of REAPER positions.
-   2. Assess REAPER strength, composition, and equipment.
-   3. Identify REAPER defensive positions, obstacles, and security measures.
-   4. Assess terrain features that affect friendly or REAPER operations.
-   5. Monitor for REAPER patrols or movement.
+   1. Confirm or deny REAPER presence at each NAI.
+   2. Assess REAPER strength, composition, and equipment at each NAI.
+   3. Identify REAPER defensive preparations, OPs, obstacles, and security measures at each NAI.
+   4. Identify terrain features at each NAI that affect friendly or REAPER operations.
 
 **3. Commander's Critical Information Requirements (CCIR):**
-   1. Compromise of any reconnaissance element
-   2. Enemy force size or disposition significantly different from the intelligence estimate
-   3. Discovery of prepared defensive positions, obstacles, or IEDs on likely avenues of approach
-   4. Loss of communication with any reconnaissance element
+   1. Compromise or detection of any squad
+   2. Enemy force size or disposition at any NAI significantly different from the intelligence estimate
+   3. Discovery of prepared defensive positions, obstacles, or IEDs on approach routes
+   4. Loss of communication with any squad for more than 10 minutes
+   5. Civilian presence that prevents effective observation of a NAI
 
-**4. Reporting:**
+**4. Essential Elements of Friendly Information (EEFI):**
+   1. SP/LD times and locations
+   2. Friendly unit positions and boundaries
+   3. Reconnaissance objectives and NAIs
+
+**5. Reporting:**
    - **Report to higher when SP'ing or crossing the line of departure.**
-   - **In Position Report:** Upon occupying the ORP.
+   - **In Position Report:** Upon occupying an observation position.
    - **SALUTE Report:** Upon sighting enemy forces or indicators.
-   - **Intelligence Report:** Upon completion of reconnaissance or at designated times.
-   - **LACE Report:** At end of reconnaissance phase or upon return to ORP.
+   - **Intelligence Report:** As intelligence is developed or at designated times.
+   - **LACE Report:** Upon return to friendly lines.
 
-**5.** This OPORD is effective immediately upon distribution.
+**6. Coordination Between Squads:**
+   - Squads operate independently at their assigned NAIs. Lateral coordination is not required.
+   - Squads report contact via SALUTE on the platoon net; adjacent squads monitor but continue their own missions unless directed otherwise by the PL.
+   - Squads requiring support request it through the PL.
+
+**7.** This OPORD is effective immediately upon distribution.
 
 ---
 
@@ -180,7 +207,7 @@ Fires are limited to self-defense only. Avoid engagement unless necessary to bre
 ## 5. COMMAND AND SIGNAL
 
 ### a. Command
-1. Platoon Leader at PLT CP.
+1. Platoon Leader monitors from a position that maintains communications with all squads.
 2. Succession of Command: PL, PSG, 1st SL, 2nd SL, 3rd SL.
 
 ### b. Control

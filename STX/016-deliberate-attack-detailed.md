@@ -8,26 +8,31 @@
 >
 > **Complexity:** Moderate | **Recommended Phase:** RUN (Day Iterations)
 >
-> **Mission Summary:** 1st Platoon attacks to seize OBJ HERRERA to deny REAPER use of a key road junction and enable follow-on operations.
+> **Mission Summary:** 1st Platoon conducts three independent squad deliberate attacks to seize key road junctions in AO COTTO. Each squad seizes its own junction and denies REAPER freedom of movement through that point. No coordination across squads is required.
 >
-> **Destination:** OBJ HERRERA at MP 0600 1523, AO COTTO.
+> **Training Focus:** This OPORD is designed to evaluate **individual squad leader planning and decision-making** for a squad-sized deliberate attack to seize key terrain. The PL issues the platoon OPORD, but each squad leader must conduct their own TLP — planning isolation, a support element, an assault element, and actions on the objective. Cadre should assign one evaluator per squad to observe the SL's planning process and tactical decisions.
 >
-> **Actions on Objective:** Platoon will establish an ORP, conduct leader's reconnaissance, isolate and suppress the objective, assault and seize the road junction, consolidate, and report.
+> **Destinations:**
+> - 1st Squad → OBJ ANVIL (vic MP 0600 1538) — Bradenton Ave / unnamed E-W road junction
+> - 2nd Squad → OBJ HAMMER (vic MP 0575 1524) — Arcadia St / Clearwater Ave junction
+> - 3rd Squad → OBJ FORGE (vic MP 0607 1555) — Bradenton Ave north, vicinity FOB north entrance
+>
+> **Actions on Objective:** Each squad independently establishes a squad ORP, conducts leader's reconnaissance, sets a squad-internal support element, assaults through the junction, destroys or displaces REAPER forces, and consolidates on the objective. Squads do not depend on or wait for adjacent squads.
 >
 > **Evaluation Timeline:** For evaluated iterations, candidates will receive this OPORD and have 75 minutes to complete TLP Steps 1-8 before SP. Execution window is 60 minutes. AAR is 15 minutes.
 >
 > **OPFOR/Training Wrinkles:**
-> - REAPER OP along Bradenton Ave south of the junction detects the SBF element during occupation — tests candidate's reaction to early detection and ability to adapt the plan.
-> - Civilian foot traffic along Arcadia Street during actions on the objective — tests ROE discipline and fire control measures.
-> - REAPER counterattack from the north through the woodline after the assault begins — tests whether the candidate planned for the MDCOA and positioned the security element effectively.
-> - Fallen tree or wire obstacle across the primary assault route through the woodline — tests adaptability and ability to designate alternate routes under pressure.
-> - REAPER RPK shifts fires from the Bradenton Ave corridor to the assault element's avenue of approach from the west — tests the SBF element's ability to identify and suppress the support weapon.
+> - Deploy one small REAPER element (3-4 personnel with small arms) in hasty fighting positions at each junction.
+> - Civilian foot traffic at one junction during actions on the objective — tests ROE discipline and fire control.
+> - Fallen tree or wire obstacle across an assault route — tests adaptability and alternate route selection.
+> - REAPER element at one junction withdraws early, forcing the squad to pursue or consolidate on an empty objective.
+> - If manning is limited, rotate one OPFOR element across sites between iterations.
 >
 > **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
 >
 > **See Also:** [LTA Grid Reference](../reference/lta-grid-reference.md)
 >
-> **Iteration Guidance:** This is the detailed version with specific grids, movement directions, and positioning. For evaluated iterations and later runs where squad leaders should plan independently, use [016-deliberate-attack.md](016-deliberate-attack.md) instead.
+> **Iteration Guidance:** This is the detailed version with specific approach guidance and scaffolding for each squad. For evaluated iterations and later runs where squad leaders should plan independently, use [016-deliberate-attack.md](016-deliberate-attack.md) instead.
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 
@@ -49,9 +54,9 @@ Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. AO
 
 ### b. Area of Operations
 
-**1. Terrain.** The AO consists of flat terrain with sandy soils and dense pine and hardwood forests throughout. Thick vegetation and tree canopy severely limit observation and fields of fire except along improved roads and clearings. Arcadia Street runs east-west through the southern portion of the AO. Bradenton Avenue runs north-south, intersecting Arcadia Street at the objective. These improved roads are the primary avenues of approach and the only locations offering extended fields of fire. The woods between and surrounding the roads provide excellent concealment for dismounted movement but restrict visibility to under 50 meters in most areas.
+**1. Terrain.** The AO consists of flat terrain with sandy soils and dense pine and hardwood forests throughout. Thick vegetation and tree canopy severely limit observation and fields of fire except along improved roads and clearings. Bradenton Avenue runs north-south through the AO. Arcadia Street runs east-west in the south. Clearwater Avenue runs north-south in the west. The improved roads are the primary avenues of approach and the only locations offering extended fields of fire. The woods between and surrounding the roads provide excellent concealment for dismounted movement but restrict visibility to under 50 meters in most areas.
 
-   - **Key Terrain:** The road junction of Arcadia Street and Bradenton Avenue at OBJ HERRERA (MP 0600 1523) controls north-south and east-west movement through AO COTTO. The woodlines surrounding the junction on all sides provide covered and concealed avenues of approach for dismounted elements. Bradenton Avenue south of the junction provides a cleared lane of fire into the objective from the south.
+   - **Key Terrain:** OBJ ANVIL (MP 0600 1538) is the Bradenton Ave / unnamed E-W road junction and controls north-south movement through the central portion of the AO. OBJ HAMMER (MP 0575 1524) is the Arcadia St / Clearwater Ave junction and controls movement in the southwestern sector. OBJ FORGE (MP 0607 1555) is on Bradenton Avenue in the vicinity of the FOB north entrance and controls movement into the northern built-up area. Woodlines surrounding each junction provide covered and concealed avenues of approach for dismounted elements.
 
 **2. Weather.**
    - Skies: ________
@@ -64,26 +69,30 @@ Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. AO
    - EENT: ____
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
-A reinforced squad-sized REAPER element occupies prepared fighting positions in the vicinity of OBJ HERRERA on the north side of Arcadia Street, north of the junction with Bradenton Avenue. They are equipped with small arms and a support weapon and are using the road junction to control local movement. A 2-man observation post is positioned south along Bradenton Avenue to provide early warning.
+REAPER forces occupy three small, independent positions at key road junctions across AO COTTO to control local movement and interdict friendly forces. Each position is lightly manned with small arms in hasty fighting positions. REAPER elements operate independently and are not mutually supporting.
 
-**1. Composition.** 6-8 REAPER personnel with small arms and 1 RPK (or equivalent support weapon) in prepared fighting positions with overhead cover. A 2-man OP is positioned along Bradenton Avenue south of the junction.
+**1. Composition.** Three small REAPER elements, each 3-4 personnel with small arms in hasty fighting positions. Total 9-12 combatants distributed across AO COTTO.
 
-**2. Disposition.** REAPER main body occupies prepared positions on the north side of Arcadia Street at the junction with Bradenton Avenue (MP 0600 1523). The RPK is positioned to cover the Bradenton Avenue corridor from the south — the most likely avenue of approach. Fighting positions are oriented south and southwest. Dense woods to the north provide them cover from that direction. They have limited observation to the east and west due to thick vegetation but can observe south along Bradenton Avenue and east-west along Arcadia Street. A 2-man OP is positioned approximately 200m south along Bradenton Avenue to detect approaching forces and provide early warning.
+**2. Disposition.** REAPER elements are dispersed across the AO:
+   - OBJ ANVIL (MP 0600 1538): hasty fighting positions at the Bradenton / unnamed E-W road junction, oriented south and east along the improved roads.
+   - OBJ HAMMER (MP 0575 1524): hasty fighting positions at the Arcadia / Clearwater junction, oriented south along Clearwater Avenue and east along Arcadia Street. Using vegetation for concealment.
+   - OBJ FORGE (MP 0607 1555): hasty fighting positions along Bradenton Avenue near the FOB north entrance, oriented south along the improved road.
+   Elements operate independently with no lateral coordination.
 
-**3. Most Probable Course of Action (MPCOA).** REAPER defends from prepared positions using the RPK to suppress along the Bradenton Avenue corridor. The OP provides early warning, fires a burst to alert the main body, and withdraws north to the main defensive position. If the main body is overwhelmed, REAPER attempts to withdraw north into the dense woods or east along Arcadia Street, prioritizing survival over holding the position.
+**3. Most Probable Course of Action (MPCOA).** Each REAPER element defends its junction with small arms. If contact is decisive, the element withdraws into covered terrain rather than holding the position. Elements do not reinforce each other.
 
-**4. Most Dangerous Course of Action (MDCOA).** REAPER has a reinforcement element of 3-4 personnel positioned further north along the Bradenton Avenue corridor. Upon contact, the main body defends in place while the reinforcement element counterattacks from the north through the woodline to strike the assault element's flank. The RPK shifts fires from the Bradenton Avenue corridor to the assault element's avenue of approach from the west, catching the assault force in a crossfire between the prepared positions and the counterattack.
+**4. Most Dangerous Course of Action (MDCOA).** REAPER elements detect friendly movement early, alert each other by radio, and reposition to ambush the assault element from an unexpected direction. A REAPER QRF from an unknown location rapidly reinforces one of the objectives.
 
 ### d. Friendly Forces
 
 **1. Higher Headquarters:** A Co. 4th BN – 211th INF.
 
-**2. Mission.** A Company attacks to seize key terrain in AO COTTO to deny REAPER freedom of movement.
+**2. Mission.** A Company attacks to seize key road junctions across AO COTTO to deny REAPER freedom of movement and enable follow-on operations.
 
-**3. Commander's Intent.** Seize OBJ HERRERA to deny REAPER use of the road junction and establish conditions for follow-on operations.
+**3. Commander's Intent.** Seize three key road junctions across AO COTTO to deny REAPER freedom of movement and establish conditions for follow-on operations.
 
 ### e. Civil Considerations
-Civilians may be present in the area, particularly along Arcadia Street. Avoid civilian casualties and collateral damage.
+Civilians may be present in the area, particularly along Arcadia Street and near the FOB. Avoid civilian casualties and collateral damage.
 
 ### f. Attachments and Detachments
 None.
@@ -92,7 +101,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon attacks to seize OBJ HERRERA (MP 0600 1523) NLT ____ in order to deny REAPER use of the road junction and enable follow-on operations in AO COTTO.
+1st Platoon conducts three independent squad deliberate attacks in AO COTTO NLT ____ to seize OBJ ANVIL (MP 0600 1538), OBJ HAMMER (MP 0575 1524), and OBJ FORGE (MP 0607 1555), deny REAPER freedom of movement through the key road junctions, and enable follow-on operations.
 
 ---
 
@@ -100,34 +109,44 @@ None.
 
 ### a. Commander's Intent
 
-**Purpose:** Deny REAPER control of the key road junction at OBJ HERRERA to enable friendly freedom of movement through AO COTTO.
+**Purpose:** Deny REAPER control of key road junctions across AO COTTO to enable friendly freedom of movement and establish conditions for follow-on operations.
 
-**Key Tasks:** (1) Seize OBJ HERRERA. (2) Destroy or displace REAPER forces at the junction. (3) Consolidate on the objective and prepare for follow-on operations.
+**Key Tasks:** (1) Each squad seizes its assigned road junction. (2) Each squad destroys or displaces REAPER forces at the junction. (3) Squads consolidate on their objectives and report.
 
-**End State:** OBJ HERRERA seized, REAPER forces destroyed or displaced, platoon consolidated on the objective with a hasty perimeter oriented north and east.
+**End State:** All three road junctions seized, REAPER forces destroyed or displaced at each site, squads consolidated on their objectives with hasty perimeters, platoon prepared for follow-on operations, no friendly forces decisively engaged.
 
 ### b. Concept of Operations
-1st Platoon conducts a deliberate attack to seize OBJ HERRERA in two phases. In **Phase 1 (Set)**, the platoon occupies an ORP in the woodline west of the objective. The PL conducts a leader's reconnaissance. The security element moves first to isolate the objective, then the support element occupies a position south of the objective to fix the enemy. In **Phase 2 (Strike)**, the support element initiates suppressive fire and the assault element, as the main effort, attacks through the objective from the west — exploiting the enemy's limited observation off the improved roads. Upon seizure, the platoon consolidates on the objective and reports.
+1st Platoon conducts a decentralized deliberate attack on three independent road junctions in AO COTTO. Each squad executes its own squad-level attack on its assigned junction: establish a squad ORP, conduct leader's reconnaissance, set a squad-internal support element to suppress, assault through the junction from a covered approach, and consolidate. **3rd Squad is the main effort.** Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports. The PL monitors all squads; the PSG trails as QRF.
 
 ### c. Scheme of Fires
-2nd Squad, as the decisive effort, has priority of indirect fires. Mortar support is available through company on request.
+Priority of fires to 3rd Squad. Mortar support is available through company on request; any squad may request fires through the PL.
 
 ### d. Tasks to Subordinate Units
 
-**1. 1st Squad (Support by Fire — Shaping Operation):**
+**1. 1st Squad (Independent Deliberate Attack — OBJ ANVIL):**
 
-- **TASK:** From the ORP (MP 0586 1518), move east through the woodline to a support-by-fire position on Bradenton Avenue south of OBJ HERRERA (IVO MP 0600 1515), oriented north. On the PL's signal, initiate suppressive fire north along the Bradenton Avenue corridor into REAPER positions at the junction. Engage and suppress the RPK position. Shift or cease fires on order as 2nd Squad enters the objective.
-- **PURPOSE:** Fix REAPER in their fighting positions and neutralize the support weapon so 2nd Squad can close on and assault through the objective without receiving aimed fire.
+- **TASK:** Conduct a deliberate attack to seize OBJ ANVIL (MP 0600 1538) at the Bradenton Ave / unnamed E-W road junction. Establish a squad ORP in the woodline west or south of the objective. Conduct leader's reconnaissance. Designate a squad-internal support element to suppress REAPER fighting positions from a covered position south of the junction. Assault through the junction from a covered approach in the western woodline, clearing REAPER positions. Consolidate on the objective with a hasty perimeter oriented north and east. Report.
+- **PURPOSE:** Deny REAPER use of the central Bradenton Avenue junction and enable friendly freedom of movement through the central portion of AO COTTO.
 
-**2. 2nd Squad (Assault — Decisive Operation):**
+**2. 2nd Squad (Independent Deliberate Attack — OBJ HAMMER):**
 
-- **TASK:** From the ORP, move north through the woodline to an assault position west of OBJ HERRERA. On order, assault east through the objective, crossing Arcadia Street and clearing through REAPER fighting positions on the north side of the junction (MP 0600 1523). Destroy REAPER forces and seize the road junction. Signal "objective secured" upon completion.
-- **PURPOSE:** Destroy the enemy force on the objective and seize the key terrain that controls movement through AO COTTO.
+- **TASK:** Conduct a deliberate attack to seize OBJ HAMMER (MP 0575 1524) at the Arcadia St / Clearwater Ave junction. Establish a squad ORP in the woodline north or west of the objective. Conduct leader's reconnaissance. Designate a squad-internal support element to suppress REAPER fighting positions from a covered position west of the junction. Assault through the junction from a covered approach, clearing REAPER positions. Consolidate on the objective with a hasty perimeter oriented south and east. Report.
+- **PURPOSE:** Deny REAPER use of the southwestern road junction and protect the platoon's western flank during follow-on operations.
 
-**3. 3rd Squad (Security — Shaping Operation):**
+**3. 3rd Squad (Independent Deliberate Attack — OBJ FORGE):**
 
-- **TASK:** Depart the ORP first. Establish a blocking position north of OBJ HERRERA along Bradenton Avenue (IVO MP 0600 1530) to isolate the objective and interdict REAPER reinforcements from the north. Orient observation and fires north and east. Maintain the position through the assault. Collapse security last during platoon consolidation and move to the objective.
-- **PURPOSE:** Prevent REAPER reinforcement from the north so 2nd Squad fights only the force currently at the junction, and secure the platoon's withdrawal route.
+- **TASK:** Conduct a deliberate attack to seize OBJ FORGE (MP 0607 1555) on Bradenton Avenue near the FOB north entrance. Establish a squad ORP in the woodline west or south of the objective. Conduct leader's reconnaissance. Designate a squad-internal support element to suppress REAPER fighting positions from a covered position south of the objective. Assault through the position from a covered approach in the woodline, clearing REAPER fighting positions. Consolidate on the objective with a hasty perimeter oriented north and east. Report.
+- **PURPOSE:** Deny REAPER use of the northern Bradenton Avenue junction, secure the northern approach to the FOB, and enable friendly movement into the northern portion of AO COTTO.
+
+**4. Platoon Leader:**
+
+- **TASK:** Monitor and coordinate all three squads during independent attack operations. Position to maintain communications with all elements. Provide guidance and allocate supporting fires as the situation develops.
+- **PURPOSE:** Maintain situational awareness across the AO and enable squad leaders to make timely tactical decisions at their objectives.
+
+**5. Platoon Sergeant:**
+
+- **TASK:** Trail the platoon. Be prepared to move to any squad requiring reinforcement or casualty evacuation. Maintain platoon accountability.
+- **PURPOSE:** Provide the PL flexibility to support any squad without pulling an adjacent squad off its mission.
 
 ### e. Coordinating Instructions
 
@@ -138,18 +157,18 @@ None.
    4. Positively identify targets before firing.
 
 **2. Priority Intelligence Requirements (PIR):**
-   1. Confirm REAPER positions and strength at OBJ HERRERA, specifically their orientation along Arcadia Street and Bradenton Avenue.
-   2. Locate and confirm the REAPER OP south of the junction along Bradenton Avenue.
-   3. Identify any REAPER reinforcement routes from the north through the woodline or along Clearwater Avenue.
-   4. Assess civilian presence in the area, particularly along Arcadia Street and in the vicinity of structures east of the objective.
+   1. Confirm REAPER positions and strength at each junction.
+   2. Identify REAPER avenues of approach, withdrawal, and reinforcement.
+   3. Assess civilian presence at each junction before execution.
+   4. Identify obstacles, IEDs, or prepared fighting positions on likely assault routes.
 
 **3. Commander's Critical Information Requirements (CCIR):**
-   1. Enemy strength or disposition at OBJ HERRERA significantly different from the intelligence estimate
-   2. REAPER OP detected on approach route — early warning compromised or not neutralized
-   3. Loss of the support-by-fire position or inability to achieve fire superiority over the RPK
-   4. REAPER reinforcements approaching from the north along Clearwater Avenue or through the woodline
-   5. Friendly casualty in the assault element requiring immediate MEDEVAC
-   6. Civilian presence on or near the objective preventing planned fires
+   1. Enemy strength or disposition at any objective significantly different from the intelligence estimate
+   2. REAPER force at any objective has withdrawn before the assault
+   3. Loss of a squad support element or inability to achieve fire superiority
+   4. REAPER reinforcements approaching any objective
+   5. Friendly casualty in any squad requiring immediate MEDEVAC
+   6. Civilian presence on or near any objective preventing planned fires
 
 **4. Essential Elements of Friendly Information (EEFI):**
    1. SP/LD times and locations
@@ -158,12 +177,17 @@ None.
 
 **5. Reporting:**
    - **Report to higher when SP'ing or crossing the line of departure.**
-   - **In Position Report:** Upon occupying the ORP and the SBF position.
-   - **SALUTE Report:** Upon visual confirmation of enemy, including the OP.
+   - **In Position Report:** Upon occupying a squad ORP.
+   - **SALUTE Report:** Upon visual confirmation of enemy.
    - **ACE Report:** Upon seizure and consolidation on the objective.
    - **LACE Report:** Upon consolidation.
 
-**6.** This OPORD is effective immediately upon distribution.
+**6. Coordination Between Squads:**
+   - Squads operate independently at their assigned objectives. Lateral coordination is not required.
+   - Squads report contact via SALUTE on the platoon net; adjacent squads monitor but continue their own missions unless directed otherwise by the PL.
+   - Squads requiring support request it through the PL.
+
+**7.** This OPORD is effective immediately upon distribution.
 
 ---
 
@@ -184,7 +208,7 @@ None.
 ## 5. COMMAND AND SIGNAL
 
 ### a. Command
-1. Platoon Leader at PLT CP.
+1. Platoon Leader monitors from a position that maintains communications with all squads.
 2. Succession of Command: PL, PSG, 1st SL, 2nd SL, 3rd SL.
 
 ### b. Control
