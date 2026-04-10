@@ -37,51 +37,51 @@ Mission Command versions (for advanced iterations only) are listed separately at
 
 OPORDs used as classroom walkthroughs for the CRAWL phase of TLP training. Instructors pause after each paragraph to discuss information extraction. These missions can also be run as evaluated lanes — they are listed again in the tables below when applicable.
 
-| # | Mission | Description | OPORD |
-|---|---------|-------------|-------|
-| 014 | [Deliberate Attack on Enemy CP](014-deliberate-attack-detailed.html) | Step-by-step TLP practical exercise walking candidates through each paragraph of the OPORD. Pairs with the [TLP Slides](POI/Slides-RevealJS.html). Also available as an evaluated lane below. | [walkthrough](014-deliberate-attack-walkthrough.html) · [OPORD](014-deliberate-attack-detailed.html) · [kml](014-deliberate-attack.kml) |
+| # | Mission | Description | OPORD | KML |
+|---|---------|-------------|-------|-----|
+| 014 | [Deliberate Attack on Enemy CP](014-deliberate-attack-detailed.html) | Step-by-step TLP practical exercise walking candidates through each paragraph of the OPORD. Pairs with the [TLP Slides](POI/Slides-RevealJS.html). Also available as an evaluated lane below. | [walkthrough](014-deliberate-attack-walkthrough.html) · [OPORD](014-deliberate-attack-detailed.html) | [kml](014-deliberate-attack.kml) |
 
 ### Evaluated Missions (Wooded Terrain)
 
-| # | Mission | Complexity | Description | OPORD | OPFOR |
-|---|---------|-----------|-------------|-------|-------|
-| 001 | [Ambush at Crossroads](001-ambush-detailed.html) | Moderate | Hasty ambush on a REAPER convoy at a road junction. Assault, support-by-fire, and security elements. | [view](001-ambush-detailed.html) · [kml](001-ambush.kml) | [card](001-ambush-opfor.html) |
-| 002 | [Movement to Contact](002-movement-to-contact-detailed.html) | Moderate | Advance to locate and engage REAPER forces. Lead, overwatch, and reserve elements with progressive commitment. | [view](002-movement-to-contact-detailed.html) · [kml](002-movement-to-contact.kml) | [card](002-movement-to-contact-opfor.html) |
-| 003 | [Raid on Bunker](003-raid-a-bunker-detailed.html) | Higher | Raid a fortified REAPER bunker position. Assault, SBF, and security with breach and withdrawal. | [view](003-raid-a-bunker-detailed.html) · [kml](003-raid-a-bunker.kml) | [card](003-raid-a-bunker-opfor.html) |
-| 005 | [Area/Zone Reconnaissance](005-area-zone-reconnaissance-detailed.html) | Lower | Locate and assess REAPER positions without decisive engagement. Two recon elements plus ORP security/QRF. | [view](005-area-zone-reconnaissance-detailed.html) · [kml](005-area-zone-reconnaissance.kml) | — |
-| 016 | [Seize the Crossroads](016-deliberate-attack-detailed.html) | Moderate | Deliberate attack to seize a road junction. SBF, assault from covered approach, and security isolation. | [view](016-deliberate-attack-detailed.html) | [card](016-deliberate-attack-opfor.html) |
-| 014 | [Deliberate Attack on Enemy CP](014-deliberate-attack-detailed.html) | Moderate | Deliberate attack to destroy a REAPER forward command post. Assault, SBF, security, and hasty SSE of the CP site post-seizure. | [view](014-deliberate-attack-detailed.html) · [kml](014-deliberate-attack.kml) | [card](014-deliberate-attack-opfor.html) |
+| # | Mission | Complexity | Description | OPORD | KML | OPFOR |
+|---|---------|-----------|-------------|-------|-----|-------|
+| 001 | [Ambush at Crossroads](001-ambush-detailed.html) | Moderate | Hasty ambush on a REAPER convoy at a road junction. Assault, support-by-fire, and security elements. | [view](001-ambush-detailed.html) | [kml](001-ambush.kml) | [card](001-ambush-opfor.html) |
+| 002 | [Movement to Contact](002-movement-to-contact-detailed.html) | Moderate | Advance to locate and engage REAPER forces. Lead, overwatch, and reserve elements with progressive commitment. | [view](002-movement-to-contact-detailed.html) | [kml](002-movement-to-contact.kml) | [card](002-movement-to-contact-opfor.html) |
+| 003 | [Raid on Bunker](003-raid-a-bunker-detailed.html) | Higher | Raid a fortified REAPER bunker position. Assault, SBF, and security with breach and withdrawal. | [view](003-raid-a-bunker-detailed.html) | [kml](003-raid-a-bunker.kml) | [card](003-raid-a-bunker-opfor.html) |
+| 005 | [Area/Zone Reconnaissance](005-area-zone-reconnaissance-detailed.html) | Lower | Locate and assess REAPER positions without decisive engagement. Two recon elements plus ORP security/QRF. | [view](005-area-zone-reconnaissance-detailed.html) | [kml](005-area-zone-reconnaissance.kml) | — |
+| 016 | [Seize the Crossroads](016-deliberate-attack-detailed.html) | Moderate | Deliberate attack to seize a road junction. SBF, assault from covered approach, and security isolation. | [view](016-deliberate-attack-detailed.html) | — | [card](016-deliberate-attack-opfor.html) |
+| 014 | [Deliberate Attack on Enemy CP](014-deliberate-attack-detailed.html) | Moderate | Deliberate attack to destroy a REAPER forward command post. Assault, SBF, security, and hasty SSE of the CP site post-seizure. | [view](014-deliberate-attack-detailed.html) | [kml](014-deliberate-attack.kml) | [card](014-deliberate-attack-opfor.html) |
 
 ### MOUT Training Scenarios
 
-| # | Mission | Complexity | Description | OPORD |
-|---|---------|-----------|-------------|-------|
-| 004 | [Clear Dismount City](004-clear-dismount-city-detailed.html) | Highest | Clear, seize, and secure urban terrain (OBJ FLUNKER). Building-by-building clearing with assault, support, and security elements. | [view](004-clear-dismount-city-detailed.html) · [kml](004-clear-dismount-city.kml) |
+| # | Mission | Complexity | Description | OPORD | KML |
+|---|---------|-----------|-------------|-------|-----|
+| 004 | [Clear Dismount City](004-clear-dismount-city-detailed.html) | Highest | Clear, seize, and secure urban terrain (OBJ FLUNKER). Building-by-building clearing with assault, support, and security elements. | [view](004-clear-dismount-city-detailed.html) | [kml](004-clear-dismount-city.kml) |
 
 ### Static Operations
 
-| # | Mission | Complexity | Description | OPORD |
-|---|---------|-----------|-------------|-------|
-| 008 | [Patrol Base Operations](008-patrol-base-operations-detailed.html) | Moderate | Establish and occupy a patrol base for sustained operations. Sector defense, LP/OPs, priorities of work, and QRF. | [view](008-patrol-base-operations-detailed.html) · [kml](008-patrol-base-operations.kml) |
-| 015 | [Patrol Base Operations (Company)](015-patrol-base-operations-company.html) | Higher | Company-level patrol base with screening element and reserve. CO issues tasks to three platoons: defense, screen, and QRF. | [view](015-patrol-base-operations-company.html) · [kml](015-patrol-base-operations-company.kml) |
+| # | Mission | Complexity | Description | OPORD | KML |
+|---|---------|-----------|-------------|-------|-----|
+| 008 | [Patrol Base Operations](008-patrol-base-operations-detailed.html) | Moderate | Establish and occupy a patrol base for sustained operations. Sector defense, LP/OPs, priorities of work, and QRF. | [view](008-patrol-base-operations-detailed.html) | [kml](008-patrol-base-operations.kml) |
+| 015 | [Patrol Base Operations (Company)](015-patrol-base-operations-company.html) | Higher | Company-level patrol base with screening element and reserve. CO issues tasks to three platoons: defense, screen, and QRF. | [view](015-patrol-base-operations-company.html) | [kml](015-patrol-base-operations-company.kml) |
 
 ### Supporting Tasks
 
 Movement and coordination tasks used to position a force for a subsequent operation, not missions in their own right. Use these only as supplements to the real lanes when cadre specifically want to train these tasks — they are generally better suited to multi-unit exercises like the FLX.
 
-| # | Task | Description | OPORD |
-|---|------|-------------|-------|
-| 009 | [Tactical Road March](009-tactical-road-march-detailed.html) | Tactical movement from assembly area to release point. Point security, main body, and rear security. | [view](009-tactical-road-march-detailed.html) · [kml](009-tactical-road-march.kml) |
+| # | Task | Description | OPORD | KML |
+|---|------|-------------|-------|-----|
+| 009 | [Tactical Road March](009-tactical-road-march-detailed.html) | Tactical movement from assembly area to release point. Point security, main body, and rear security. | [view](009-tactical-road-march-detailed.html) | [kml](009-tactical-road-march.kml) |
 
 ### DSCA Operations (Hurricane Response)
 
 These OPORDs support TLP planning exercises focused on Defense Support of Civil Authorities (DSCA) operations. Set during a fictional Hurricane DELTA response in Florida, they introduce leaders to real-world National Guard domestic operations including convoy movements, reconnaissance, and humanitarian assistance. These are planning exercises only — leaders develop orders but do not execute.
 
-| # | Mission | Description | Formats |
-|---|---------|-------------|---------|
-| 010 | [Hurricane Relief Convoy](010-dsca-convoy-operations.html) | DSCA convoy operations through damaged infrastructure to deliver relief supplies. | [view](010-dsca-convoy-operations.html) · [kml](010-dsca-convoy-operations.kml) |
-| 011 | [Mounted Area Reconnaissance](011-dsca-mounted-reconnaissance.html) | DSCA mounted reconnaissance to assess infrastructure damage and route conditions. | [view](011-dsca-mounted-reconnaissance.html) · [kml](011-dsca-mounted-reconnaissance.kml) |
-| 012 | [Point of Distribution Operations](012-dsca-point-of-distribution.html) | DSCA humanitarian distribution operations with civilian interface management. | [view](012-dsca-point-of-distribution.html) · [kml](012-dsca-point-of-distribution.kml) |
+| # | Mission | Description | OPORD | KML |
+|---|---------|-------------|-------|-----|
+| 010 | [Hurricane Relief Convoy](010-dsca-convoy-operations.html) | DSCA convoy operations through damaged infrastructure to deliver relief supplies. | [view](010-dsca-convoy-operations.html) | [kml](010-dsca-convoy-operations.kml) |
+| 011 | [Mounted Area Reconnaissance](011-dsca-mounted-reconnaissance.html) | DSCA mounted reconnaissance to assess infrastructure damage and route conditions. | [view](011-dsca-mounted-reconnaissance.html) | [kml](011-dsca-mounted-reconnaissance.kml) |
+| 012 | [Point of Distribution Operations](012-dsca-point-of-distribution.html) | DSCA humanitarian distribution operations with civilian interface management. | [view](012-dsca-point-of-distribution.html) | [kml](012-dsca-point-of-distribution.kml) |
 
 ### Mission Command Versions (advanced iterations only)
 

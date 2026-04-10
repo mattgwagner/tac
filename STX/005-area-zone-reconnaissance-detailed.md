@@ -101,7 +101,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon conducts an area reconnaissance NLT ____ at NAI HERRERA (MP 0613 1532), NAI BARLOW (MP 0602 1565), and NAI BAINTON (MP 0575 1524) in AO COTTO to locate REAPER elements, assess strength and disposition, and report to enable follow-on operations.
+1st Platoon conducts an area reconnaissance in AO COTTO NLT ____ to locate REAPER elements, assess strength and disposition, and report to enable follow-on operations.
 
 ---
 

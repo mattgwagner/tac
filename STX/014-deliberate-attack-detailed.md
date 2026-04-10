@@ -102,7 +102,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon attacks NLT ____ to destroy REAPER command post positions at OBJ HERRERA (MP 0600 1523), OBJ BAINTON (MP 0602 1565), and OBJ BARLOW (MP 0611 1530) in AO COTTO, collect intelligence materials, and disrupt REAPER command and control in the AO.
+1st Platoon attacks in AO COTTO NLT ____ to destroy REAPER command post positions, collect intelligence materials, and disrupt REAPER command and control in the AO.
 
 ---
 

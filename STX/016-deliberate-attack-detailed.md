@@ -101,7 +101,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon attacks NLT ____ to seize OBJ ANVIL (MP 0600 1538), OBJ HAMMER (MP 0575 1524), and OBJ FORGE (MP 0607 1555) in AO COTTO to deny REAPER freedom of movement through the key road junctions and enable follow-on operations.
+1st Platoon attacks in AO COTTO NLT ____ to seize key road junctions, deny REAPER freedom of movement, and enable follow-on operations.
 
 ---
 

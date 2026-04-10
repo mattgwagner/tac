@@ -56,7 +56,7 @@ Clay County, Florida, in the vicinity of Starke and Highway 16. AO FLUNKER inclu
 
 **1. Terrain.** Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, ponds, marshes, and wetlands. Vegetation provides concealment and limits long-range observation. Roads and trails serve as likely avenues of approach for both friendly and enemy forces. Terrain and soil conditions may restrict vehicle movement, especially in wet areas.
 
-   - **Key Terrain:** The road junction near OBJ HERRERA (MP 0612 1546) controls access to the eastern sector. The Bradenton Ave corridor in the western sector provides a north-south avenue of approach. Conex City (vic MP 0613 1532) offers concealment and defensive positions in the eastern sector. Woodlines throughout the AO provide covered and concealed movement. Dense vegetation limits observation to under 50 meters off road corridors.
+   - **Key Terrain:** The road junction south of the FOB controls access to the eastern sector. The Bradenton Avenue corridor in the western sector provides a north-south avenue of approach. Conex City offers concealment and defensive positions in the eastern sector. Woodlines throughout the AO provide covered and concealed movement. Dense vegetation limits observation to under 50 meters off road corridors.
 
 **2. Weather.**
    - Skies: ________
@@ -74,9 +74,9 @@ REAPER forces are a small, organized group of irregular fighters, likely part of
 **1. Composition.** Three independent REAPER teams, each 2-3 combatants with small arms and a possible crew-served weapon. Total 6-9 combatants distributed across AO FLUNKER.
 
 **2. Disposition.** REAPER teams are dispersed across the AO, with one team operating in each sector:
-   - Western team: vic OBJ BAINTON (MP 0600 1538), using the Bradenton Ave intersection and surrounding woodlines for concealment.
-   - Central team: vic OBJ HERRERA (MP 0612 1546), using the road junction and vegetation for observation and defense.
-   - Eastern team: vic OBJ BARLOW (MP 0613 1532), using the structures and concealment in and around Conex City.
+   - Western team: vicinity the Bradenton Avenue intersection (vic MP 0600 1538), using the road junction and surrounding woodlines for concealment.
+   - Central team: vicinity the road junction south of the FOB (vic MP 0612 1546), using the junction and vegetation for observation and defense.
+   - Eastern team: vicinity Conex City (vic MP 0613 1532), using the structures and concealment in and around the built-up area.
 
 **3. Most Probable Course of Action (MPCOA).** Each REAPER team initiates harassing fire from concealed positions when friendly forces enter its area, then breaks contact to avoid being fixed. Teams may leave behind simple obstacles or early warning devices but do not attempt to decisively engage. Each team fights independently without reinforcement from adjacent teams.
 
@@ -100,7 +100,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon conducts a movement to contact in AO FLUNKER NLT ____ to locate and engage REAPER forces in assigned squad zones and assess their strength and disposition.
+1st Platoon conducts a movement to contact in AO FLUNKER NLT ____ to locate and engage REAPER forces and assess their strength and disposition.
 
 ---
 

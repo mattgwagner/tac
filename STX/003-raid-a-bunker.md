@@ -97,7 +97,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon conducts a raid NLT ____ at OBJ COTTO (MP 0600 1538), OBJ WHISKEY (MP 0613 1532), and OBJ ZULU (MP 0575 1524) in AO HERRERA to destroy small REAPER support nodes and disrupt REAPER operations in the AO.
+1st Platoon conducts raids in AO HERRERA NLT ____ to destroy small REAPER support nodes and disrupt REAPER operations in the AO.
 
 ---
 

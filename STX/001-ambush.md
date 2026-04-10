@@ -101,7 +101,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon conducts an ambush NLT ____ at OBJ FLUNKER (MP 0600 1530), OBJ KLENDATHU (MP 0585 1559), and OBJ TANGO (MP 0575 1538) in AO COTTO to destroy small REAPER patrols and disrupt REAPER movement across the AO.
+1st Platoon conducts ambushes in AO COTTO NLT ____ to destroy small REAPER patrols and disrupt REAPER movement across the AO.
 
 ---
 
