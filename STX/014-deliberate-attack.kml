@@ -37,37 +37,37 @@
 
   <Placemark>
     <name>OBJ HERRERA</name>
-    <description>MP 0602 1565 - Road junction of Jacksonville St and Bradenton Ave. REAPER 4-6 PAX, small arms, hasty fighting positions N side of Jacksonville St. Oriented S and SW along Bradenton Ave corridor. Limited observation into woodlines.</description>
+    <description>MP 0600 1523 - Road junction of Arcadia St and Bradenton Ave. REAPER 3-4 PAX (1-2 CP staff non-combatants + 2 security), small arms, hasty fighting positions N side of Arcadia St. Oriented S and SW along Bradenton Ave corridor. Limited observation into woodlines.</description>
     <styleUrl>#style-enemy</styleUrl>
-    <Point><coordinates>-81.9740792,29.9681031,0</coordinates></Point>
+    <Point><coordinates>-81.9742495,29.9643118,0</coordinates></Point>
   </Placemark>
 
   <Placemark>
     <name>ORP</name>
-    <description>MP 0586 1552 - Woodline W of Bradenton Ave. PLT ORP. 3rd SQD provides security. PL conducts leader's recon from here.</description>
+    <description>MP 0586 1518 - Woodline W of Bradenton Ave, SW of OBJ. PLT ORP. 3rd SQD provides security. PL conducts leader's recon from here.</description>
     <styleUrl>#style-friendly</styleUrl>
-    <Point><coordinates>-81.9757259,29.9669178,0</coordinates></Point>
+    <Point><coordinates>-81.9755347,29.9638603,0</coordinates></Point>
   </Placemark>
 
   <Placemark>
     <name>1st SQD (SBF - Shaping)</name>
-    <description>MP 0601 1552 - Bradenton Ave S of OBJ, oriented N. Initiate suppressive fire N along Bradenton Ave corridor into REAPER positions. Shift/cease fires on order as 2nd SQD enters OBJ.</description>
+    <description>MP 0600 1517 - Bradenton Ave S of OBJ, oriented N. Initiate suppressive fire N along Bradenton Ave corridor into REAPER positions. Shift/cease fires on order as 2nd SQD enters OBJ.</description>
     <styleUrl>#style-friendly</styleUrl>
-    <Point><coordinates>-81.9741714,29.9669293,0</coordinates></Point>
+    <Point><coordinates>-81.9742495,29.9637700,0</coordinates></Point>
   </Placemark>
 
   <Placemark>
     <name>2nd SQD (Assault - Decisive)</name>
-    <description>From ORP, move N through woodline to assault position W of OBJ. On order, assault E through OBJ crossing Jacksonville St. Destroy REAPER and seize road junction.</description>
+    <description>From ORP, move N through woodline to assault position W of OBJ. On order, assault E through OBJ crossing Bradenton Ave. Destroy REAPER and seize road junction.</description>
     <styleUrl>#style-friendly</styleUrl>
-    <Point><coordinates>-81.9748792,29.9681031,0</coordinates></Point>
+    <Point><coordinates>-81.9750000,29.9643118,0</coordinates></Point>
   </Placemark>
 
   <Placemark>
     <name>3rd SQD (Security / Reserve)</name>
-    <description>MP 0586 1552 - Secure ORP. Rear security during assault. Prepared to reinforce 1st or 2nd SQD or establish blocking position N of OBJ vs REAPER reinforcement.</description>
+    <description>MP 0586 1518 - Secure ORP. Rear security during assault. Prepared to reinforce 1st or 2nd SQD or establish blocking position N of OBJ vs REAPER reinforcement.</description>
     <styleUrl>#style-security</styleUrl>
-    <Point><coordinates>-81.9757259,29.9667178,0</coordinates></Point>
+    <Point><coordinates>-81.9755347,29.9636700,0</coordinates></Point>
   </Placemark>
 
   <Placemark>
@@ -76,10 +76,10 @@
     <styleUrl>#style-assault-route</styleUrl>
     <LineString>
       <coordinates>
-        -81.9757259,29.9669178,0
-        -81.9755000,29.9675000,0
-        -81.9748792,29.9681031,0
-        -81.9740792,29.9681031,0
+        -81.9755347,29.9638603,0
+        -81.9752000,29.9641000,0
+        -81.9750000,29.9643118,0
+        -81.9742495,29.9643118,0
       </coordinates>
     </LineString>
   </Placemark>

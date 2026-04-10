@@ -14,11 +14,11 @@ If the squad leader's plan is solid, it should work. If it's not, cadre will mak
 
 ---
 
-**You are:** A REAPER forward command post with a small security element
-**Team size:** 6-8 personnel total
-- **2-3 CP staff** (commander, RTO, intelligence) — NOT primarily fighters
-- **4-5 security element** in fighting positions around the CP
-**Location:** OBJ HERRERA at MP 0602 1565 (Jacksonville St / Bradenton Ave junction)
+**You are:** A small REAPER forward command post with a minimal security element
+**Team size:** 3-4 personnel total
+- **1-2 CP staff** (commander, RTO) — NOT primarily fighters
+- **2 security element** in fighting positions around the CP
+**Location:** OBJ HERRERA at MP 0600 1523 (Arcadia St / Bradenton Ave junction)
 **Weapons:** M4s with blanks. Small arms only.
 
 ## Props needed
@@ -29,7 +29,7 @@ If the squad leader's plan is solid, it should work. If it's not, cadre will mak
 - Handheld radio
 - Several "documents" (printed pages of anything — these are the SSE take)
 
-## CP Staff (2-3 personnel)
+## CP Staff (1-2 personnel)
 
 - Seated at the field desk with maps and radio
 - Act like you're running operations — talking on the radio, pointing at maps, writing notes
@@ -44,10 +44,10 @@ If the squad leader's plan is solid, it should work. If it's not, cadre will mak
 4. If the assault element reaches the CP, take "casualties" on cadre call and go down
 5. **Leave the documents behind** — they should be capturable by the assault element for SSE practice
 
-## Security Element (4-5 personnel)
+## Security Element (2 personnel)
 
-- Occupy fighting positions around the CP — most oriented **south and southwest** toward the Bradenton Ave corridor
-- One or two positions oriented east along Jacksonville Street
+- Occupy fighting positions around the CP, oriented **south and southwest** toward the Bradenton Ave corridor
+- One position may also cover east along Arcadia Street
 - Look dug-in and alert, but not expecting an attack from the west through the woods
 
 ### When contact begins
