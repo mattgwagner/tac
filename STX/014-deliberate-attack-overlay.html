@@ -93,20 +93,11 @@
   <rect x="80" y="95" width="900" height="680" fill="url(#woods)" stroke="black" stroke-width="1.5"/>
 
   <!--
-    COORDINATE SYSTEM:
-    Easting range: 0578 to 0618 = 40 units across 900px = 22.5 px/unit
-    Northing range: 1540 to 1574 = 34 units across 680px = 20 px/unit
-
-    px_x(E) = 80 + (E - 578) * 22.5
-    px_y(N) = 95 + (1574 - N) * 20
-
-    KEY POSITIONS:
-    OBJ  (0602, 1565): x=620, y=275
-    SBF  (0601, 1552): x=597, y=535
-    ORP  (0586, 1552): x=260, y=535
-    Jacksonville St:   y=275 (northing 1565)
-    Bradenton Ave:     x=597 (easting ~0601)
-    Intersection:      (597, 275)
+    SCHEMATIC OVERLAY (not to scale).
+    Tactical scheme: OBJ at Arcadia St / Bradenton Ave junction (MP 0600 1523).
+    SBF (1st SQD) on Bradenton Ave south of OBJ (MP 0600 1517).
+    ORP southwest in woodline (MP 0586 1518).
+    Assault element (2d SQD) maneuvers north through woods, then east into OBJ.
   -->
 
   <!-- ============================================= -->
@@ -146,12 +137,12 @@
 
   <!-- Grid labels - Northing (left) -->
   <g font-size="9" fill="#444" text-anchor="end">
-    <text x="76" y="179">70</text>
-    <text x="76" y="279">65</text>
-    <text x="76" y="379">60</text>
-    <text x="76" y="479">55</text>
-    <text x="76" y="579">50</text>
-    <text x="76" y="679">45</text>
+    <text x="76" y="179">28</text>
+    <text x="76" y="279">23</text>
+    <text x="76" y="379">18</text>
+    <text x="76" y="479">13</text>
+    <text x="76" y="579">08</text>
+    <text x="76" y="679">03</text>
   </g>
   <text x="76" y="770" font-size="8" fill="#444" text-anchor="end">15N↑</text>
 
@@ -160,45 +151,29 @@
   <!-- ============================================= -->
   <g>
     <!-- Road clearings (wider tan strip to show cleared area along roads) -->
-    <!-- Jacksonville St (E-W) -->
+    <!-- Arcadia St (E-W) - the OBJ road -->
     <rect x="80" y="265" width="900" height="20" fill="#c8b88a" opacity="0.7"/>
     <!-- Bradenton Ave (N-S) -->
     <rect x="588" y="95" width="18" height="680" fill="#c8b88a" opacity="0.7"/>
     <!-- Clearwater Ave (N-S, west side) -->
     <rect x="135" y="200" width="14" height="575" fill="#c8b88a" opacity="0.5"/>
-    <!-- Ave C (N-S, east side) -->
-    <rect x="800" y="95" width="14" height="680" fill="#c8b88a" opacity="0.5"/>
-    <!-- Arcadia St (E-W, south) -->
-    <rect x="80" y="635" width="900" height="16" fill="#c8b88a" opacity="0.5"/>
-    <!-- St Petersburg St (E-W) -->
-    <rect x="80" y="555" width="500" height="14" fill="#c8b88a" opacity="0.4"/>
-    <!-- Haines City St -->
-    <rect x="630" y="465" width="350" height="14" fill="#c8b88a" opacity="0.4"/>
+  </g>
 
+  <g>
     <!-- Road centerlines -->
-    <!-- Jacksonville St -->
+    <!-- Arcadia St -->
     <line x1="80" y1="275" x2="980" y2="275" stroke="#5a4a2a" stroke-width="2.5"/>
     <!-- Bradenton Ave -->
     <line x1="597" y1="95" x2="597" y2="775" stroke="#5a4a2a" stroke-width="2.5"/>
     <!-- Clearwater Ave -->
     <line x1="142" y1="200" x2="142" y2="775" stroke="#5a4a2a" stroke-width="1.5" stroke-dasharray="8,4"/>
-    <!-- Ave C -->
-    <line x1="807" y1="95" x2="807" y2="775" stroke="#5a4a2a" stroke-width="1.5" stroke-dasharray="8,4"/>
-    <!-- Arcadia St -->
-    <line x1="80" y1="643" x2="980" y2="643" stroke="#5a4a2a" stroke-width="1.5" stroke-dasharray="8,4"/>
-    <!-- St Petersburg St -->
-    <line x1="80" y1="562" x2="580" y2="562" stroke="#5a4a2a" stroke-width="1" stroke-dasharray="6,4"/>
-    <!-- Haines City St -->
-    <line x1="630" y1="472" x2="980" y2="472" stroke="#5a4a2a" stroke-width="1" stroke-dasharray="6,4"/>
   </g>
 
   <!-- Road labels -->
   <g font-size="10" fill="#3a2a0a" font-weight="bold">
-    <text x="300" y="270" transform="rotate(0)">JACKSONVILLE ST</text>
+    <text x="300" y="270" transform="rotate(0)">ARCADIA ST</text>
     <text x="604" y="720" transform="rotate(-90, 604, 720)" font-size="10">BRADENTON AVE</text>
     <text x="148" y="720" transform="rotate(-90, 148, 720)" font-size="9" font-weight="normal" fill="#5a4a2a">CLEARWATER AVE</text>
-    <text x="813" y="720" transform="rotate(-90, 813, 720)" font-size="9" font-weight="normal" fill="#5a4a2a">AVE C</text>
-    <text x="200" y="655" font-size="9" font-weight="normal" fill="#5a4a2a">ARCADIA ST</text>
   </g>
 
   <!-- ============================================= -->
@@ -208,18 +183,14 @@
   <!-- OBJ HERRERA - objective area -->
   <ellipse cx="610" cy="240" rx="70" ry="50" fill="url(#obj-hatch)" stroke="#CC0000" stroke-width="3"/>
   <text x="610" y="195" text-anchor="middle" font-size="14" font-weight="bold" fill="#CC0000">OBJ HERRERA</text>
-  <text x="610" y="182" text-anchor="middle" font-size="10" fill="#CC0000">MP 0602 1565</text>
+  <text x="610" y="182" text-anchor="middle" font-size="10" fill="#CC0000">MP 0600 1523</text>
 
   <!-- Enemy fighting positions (red inverted triangles) -->
   <g fill="#CC0000" opacity="0.8">
-    <!-- Enemy pos 1 - oriented south along Bradenton -->
+    <!-- Sec pos 1 - oriented south along Bradenton -->
     <polygon points="590,230 600,250 580,250" stroke="#CC0000" stroke-width="1"/>
-    <!-- Enemy pos 2 - at junction -->
-    <polygon points="610,225 620,245 600,245" stroke="#CC0000" stroke-width="1"/>
-    <!-- Enemy pos 3 - east along Jacksonville -->
-    <polygon points="640,230 650,250 630,250" stroke="#CC0000" stroke-width="1"/>
-    <!-- Enemy pos 4 - north side -->
-    <polygon points="620,215 630,235 610,235" stroke="#CC0000" stroke-width="1"/>
+    <!-- Sec pos 2 - at junction (covers east along Arcadia) -->
+    <polygon points="625,228 635,248 615,248" stroke="#CC0000" stroke-width="1"/>
   </g>
 
   <!-- Enemy orientation arrows (thin red) -->
@@ -231,7 +202,7 @@
   <text x="597" y="325" text-anchor="middle" font-size="8" fill="#CC0000" opacity="0.6">ENEMY OBS</text>
 
   <!-- REAPER label -->
-  <text x="610" y="215" text-anchor="middle" font-size="9" fill="#CC0000" font-style="italic">REAPER (4-6 PAX)</text>
+  <text x="610" y="215" text-anchor="middle" font-size="9" fill="#CC0000" font-style="italic">REAPER CP (3-4 PAX)</text>
 
   <!-- ============================================= -->
   <!-- FRIENDLY POSITIONS (BLUE) -->
@@ -244,7 +215,7 @@
   <line x1="232" y1="535" x2="235" y2="535" stroke="#0055AA" stroke-width="2.5"/>
   <line x1="285" y1="535" x2="288" y2="535" stroke="#0055AA" stroke-width="2.5"/>
   <text x="260" y="539" text-anchor="middle" font-size="13" font-weight="bold" fill="#0055AA">ORP</text>
-  <text x="260" y="580" text-anchor="middle" font-size="10" fill="#0055AA">MP 0586 1552</text>
+  <text x="260" y="580" text-anchor="middle" font-size="10" fill="#0055AA">MP 0586 1518</text>
   <!-- 3d SQD notation -->
   <text x="260" y="596" text-anchor="middle" font-size="9" fill="#0055AA" font-weight="bold">3d SQD (SEC/RES)</text>
 
@@ -257,7 +228,7 @@
     <rect x="609" y="528" width="10" height="14" fill="#0055AA" fill-opacity="0.2" stroke="#0055AA" stroke-width="1.5"/>
   </g>
   <text x="597" y="520" text-anchor="middle" font-size="13" font-weight="bold" fill="#0055AA">SBF</text>
-  <text x="597" y="560" text-anchor="middle" font-size="10" fill="#0055AA">MP 0601 1552</text>
+  <text x="597" y="560" text-anchor="middle" font-size="10" fill="#0055AA">MP 0600 1517</text>
   <text x="597" y="575" text-anchor="middle" font-size="9" fill="#0055AA" font-weight="bold">1st SQD</text>
 
   <!-- ============================================= -->
@@ -293,14 +264,14 @@
   <text x="465" y="256" text-anchor="middle" font-size="8" fill="#0055AA">(ASSAULT)</text>
 
   <!-- ============================================= -->
-  <!-- ENEMY REINFORCEMENT ROUTE (Ave C) -->
+  <!-- ENEMY REINFORCEMENT ROUTE (north along Bradenton) -->
   <!-- ============================================= -->
   <g opacity="0.5">
-    <line x1="807" y1="155" x2="807" y2="240" stroke="#CC0000" stroke-width="2" stroke-dasharray="8,4"
+    <line x1="597" y1="155" x2="597" y2="225" stroke="#CC0000" stroke-width="2" stroke-dasharray="8,4"
           marker-end="url(#arrow-red)"/>
-    <text x="830" y="200" font-size="8" fill="#CC0000" font-weight="bold">POSSIBLE</text>
-    <text x="830" y="210" font-size="8" fill="#CC0000" font-weight="bold">REINF RTE</text>
-    <text x="830" y="220" font-size="8" fill="#CC0000">(MDCOA)</text>
+    <text x="615" y="180" font-size="8" fill="#CC0000" font-weight="bold">POSSIBLE</text>
+    <text x="615" y="190" font-size="8" fill="#CC0000" font-weight="bold">REINF RTE</text>
+    <text x="615" y="200" font-size="8" fill="#CC0000">(MDCOA)</text>
   </g>
 
   <!-- ============================================= -->
@@ -317,13 +288,6 @@
   <text x="710" y="235" font-size="8" fill="#0055AA" font-weight="bold">CONSOLIDATE</text>
   <text x="710" y="245" font-size="8" fill="#0055AA">ON OBJ →</text>
   <text x="710" y="255" font-size="8" fill="#0055AA">ORIENT N/E</text>
-
-  <!-- ============================================= -->
-  <!-- RED HORSE HQ REFERENCE -->
-  <!-- ============================================= -->
-  <rect x="830" y="175" width="60" height="30" fill="#666" fill-opacity="0.3" stroke="#666" stroke-width="1"/>
-  <text x="860" y="194" text-anchor="middle" font-size="7" fill="#333">RED HORSE HQ</text>
-  <text x="860" y="203" text-anchor="middle" font-size="7" fill="#333">(STRUCTURES)</text>
 
   <!-- ============================================= -->
   <!-- NORTH ARROW -->

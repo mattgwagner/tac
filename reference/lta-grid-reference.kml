@@ -172,28 +172,28 @@
   <!-- OPORD 014 - DELIBERATE ATTACK -->
   <!-- ================================ -->
   <Folder>
-    <name>014 - Deliberate Attack</name>
-    <description>OBJ HERRERA - Seize road junction at Jacksonville St / Bradenton Ave</description>
+    <name>014 - Deliberate Attack on CP</name>
+    <description>OBJ HERRERA - Destroy REAPER forward CP at Arcadia St / Bradenton Ave junction</description>
 
     <Placemark>
       <name>014 OBJ HERRERA</name>
-      <description>MP 0602 1565 - Enemy bunker at Jacksonville St / Bradenton Ave junction. REAPER 4-6 PAX, small arms, hasty positions oriented S and SW.</description>
+      <description>MP 0600 1523 - REAPER forward CP at Arcadia St / Bradenton Ave junction. 3-4 PAX (1-2 CP staff non-combatants + 2 security), small arms, hasty positions oriented S and SW.</description>
       <styleUrl>#style-obj-enemy</styleUrl>
-      <Point><coordinates>-81.9740792,29.9681031,0</coordinates></Point>
+      <Point><coordinates>-81.9742495,29.9643118,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
       <name>014 ORP</name>
-      <description>MP 0586 1552 - Woodline west of Bradenton Ave. PLT ORP, 3d SQD security/reserve.</description>
+      <description>MP 0586 1518 - Woodline west-southwest of OBJ. PLT ORP, 3d SQD security/reserve.</description>
       <styleUrl>#style-friendly</styleUrl>
-      <Point><coordinates>-81.9757259,29.9669178,0</coordinates></Point>
+      <Point><coordinates>-81.9755347,29.9638603,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
       <name>014 SBF (1st SQD)</name>
-      <description>MP 0601 1552 - Bradenton Ave south of OBJ, oriented north. 1st SQD support by fire.</description>
+      <description>MP 0600 1517 - Bradenton Ave south of OBJ, oriented north. 1st SQD support by fire.</description>
       <styleUrl>#style-friendly</styleUrl>
-      <Point><coordinates>-81.9741714,29.9669293,0</coordinates></Point>
+      <Point><coordinates>-81.9742495,29.9637700,0</coordinates></Point>
     </Placemark>
   </Folder>
 
