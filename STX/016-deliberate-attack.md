@@ -107,7 +107,7 @@ None.
 **End State:** OBJ HERRERA seized, REAPER forces destroyed or displaced, platoon consolidated on the objective with a hasty perimeter oriented north and east.
 
 ### b. Concept of Operations
-1st Platoon conducts a deliberate attack to seize OBJ HERRERA in two phases. In **Phase 1 (Set)**, the platoon occupies an ORP in the woodline west of the objective. The PL conducts a leader's reconnaissance. The security element moves first to isolate the objective, then the support element occupies a position south of the objective to fix the enemy. In **Phase 2 (Strike)**, the support element initiates suppressive fire and the assault element, as the main effort, attacks through the objective from the west — exploiting the enemy's limited observation off the improved roads. Upon seizure, the platoon consolidates on the objective and reports.
+1st Platoon conducts a deliberate attack to seize OBJ HERRERA in two phases. In **Phase 1 (Set)**, the platoon occupies an ORP in the woodline west of the objective and conducts a leader's reconnaissance. The security element moves first to isolate the objective, then the support element occupies a position south of the objective to fix the enemy. In **Phase 2 (Strike)**, the support element initiates suppressive fire and the assault element, as the main effort, attacks through the objective from the west — exploiting the enemy's limited observation off the improved roads. Upon seizure, the platoon consolidates on the objective and reports.
 
 ### c. Scheme of Fires
 2nd Squad, as the decisive effort, has priority of indirect fires. Mortar support is available through company on request.

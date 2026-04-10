@@ -117,7 +117,7 @@ None.
 **End State:** Facilities cleared, perimeter secured with ECP controlling Bradenton Avenue approach, company CP operational on company and platoon nets, defensive positions prepared against indirect fire and ground attack from the northern and western approaches, platoon postured for sustained operations and follow-on missions.
 
 ### b. Concept of Operations
-1st Platoon conducts a three-phase operation to establish COP Seggel. In **Phase 1 (Approach)**, the platoon moves to the vicinity of the facility using concealed routes and establishes a security halt. The PL conducts a leader's reconnaissance to assess enemy presence and confirm the scheme of maneuver. In **Phase 2 (Clear)**, the assault element clears all facilities while the support element fixes any enemy resistance and the security element cordons the objective against reinforcement. In **Phase 3 (Occupy and Establish)**, the platoon transitions to defense — establishing entrance control, perimeter security oriented toward the most dangerous avenues of approach, and the company command post. Main effort shifts from the assault element (Phase 2) to the PSG and CP operations (Phase 3). A QRF capability is maintained throughout.
+1st Platoon conducts a three-phase operation to establish COP Seggel. In **Phase 1 (Approach)**, the platoon moves to the vicinity of the facility using concealed routes and establishes a security halt, and the leader's reconnaissance assesses enemy presence and confirms the scheme of maneuver. In **Phase 2 (Clear)**, the assault element clears all facilities while the support element fixes any enemy resistance and the security element cordons the objective against reinforcement. In **Phase 3 (Occupy and Establish)**, the platoon transitions to defense — establishing entrance control, perimeter security oriented toward the most dangerous avenues of approach, and the company command post. Main effort shifts from the assault element (Phase 2) to CP operations (Phase 3). A QRF capability is maintained throughout.
 
 ### c. Scheme of Fires
 1st Squad, as the decisive effort during Phase 2 (Clear), has priority of indirect fires. Priority of indirect fires remains with 1st Squad during Phase 3 (Occupy), covering the most dangerous avenue of approach. Indirect fire support available through company on request. Defensive fires planned for the Bradenton Avenue corridor (north and south) and the woodlines to the west, with particular attention to positions north of Jacksonville Street that could support REAPER indirect fire against the COP.
@@ -137,12 +137,7 @@ None.
 **3. 3rd Squad (Security, Phase 2 / Southern Defense & QRF, Phase 3):**
 
 - **TASK:** During Phase 2, establish a cordon in the woodlines north and west of COP Seggel to isolate the objective. Block REAPER reinforcement from the Jacksonville Street area (vic MP 0602 1565) and prevent escape into the dense forest west of the facility. Upon completion of clearing, transition to defend the southern sector of the COP perimeter along Bradenton Avenue south of the facility. Serve as the platoon QRF, prepared to reinforce any sector under attack. Identify and brief withdrawal routes south along Bradenton Avenue.
-- **PURPOSE:** Prevent REAPER from reinforcing or escaping during clearing, then secure the southern perimeter and provide the PL a responsive reserve against REAPER probes or counterattack.
-
-**4. Platoon Sergeant (CP Operations, Phase 3):**
-
-- **TASK:** Upon completion of Phase 2, designate and establish the company command post within a hardened building at COP Seggel. Establish battle tracking, maintain radio communications on both company net (36.425 SC/PT) and platoon net (36.625 SC/PT), coordinate logistics and sustainment, and manage the rest and security plan for sustained 48-hour operations.
-- **PURPOSE:** Enable company-level command and control from COP Seggel and sustain platoon operations for the duration of the mission.
+- **PURPOSE:** Prevent REAPER from reinforcing or escaping during clearing, then secure the southern perimeter and provide a responsive reserve against REAPER probes or counterattack.
 
 ### f. Coordinating Instructions
 

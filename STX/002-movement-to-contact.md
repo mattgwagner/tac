@@ -112,7 +112,7 @@ None.
 **End State:** REAPER forces located and assessed in all three zones, squad objectives secured, friendly forces maintaining tactical advantage and prepared for follow-on operations.
 
 ### b. Concept of Operations
-1st Platoon conducts a decentralized movement to contact across three assigned squad zones in AO FLUNKER. Each squad advances toward its own objective at its own pace, locating and engaging REAPER forces within its assigned zone. **1st Squad is the main effort.** Squad leaders select their own movement techniques, formations, and routes based on their analysis of terrain and enemy situation. Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports. The PL monitors all squads; the PSG trails as QRF.
+1st Platoon conducts a decentralized movement to contact across three assigned squad zones in AO FLUNKER. Each squad advances toward its own objective at its own pace, locating and engaging REAPER forces within its assigned zone. **1st Squad is the main effort.** Squad leaders select their own movement techniques, formations, and routes based on their analysis of terrain and enemy situation. Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
 
 ### c. Scheme of Fires
 Priority of fires to 1st Squad. Mortar support is available through company on request; any squad may request fires through the PL.

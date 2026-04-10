@@ -115,7 +115,7 @@ None.
 **End State:** All three REAPER nodes destroyed, friendly forces consolidated, intelligence reported to higher, platoon prepared for follow-on operations.
 
 ### b. Concept of Operations
-1st Platoon conducts a decentralized raid operation across three independent squad objectives in AO HERRERA. Each squad establishes its own squad ORP, conducts leader's recon, sets a squad-internal support element, and assaults the small REAPER node. **3rd Squad is the main effort.** Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports. The PL monitors all squads; the PSG trails as QRF.
+1st Platoon conducts a decentralized raid operation across three independent squad objectives in AO HERRERA. Each squad establishes its own squad ORP, conducts leader's recon, sets a squad-internal support element, and assaults the small REAPER node. **3rd Squad is the main effort.** Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
 
 ### c. Scheme of Fires
 Priority of fires to 3rd Squad. Mortar support is available through company on request; any squad may request fires through the PL.
@@ -136,16 +136,6 @@ Priority of fires to 3rd Squad. Mortar support is available through company on r
 
 - **TASK:** Conduct a squad raid at OBJ ZULU (MP 0575 1524). Establish a squad ORP in the woodline north or west of the Arcadia/Clearwater junction. From the ORP, set a squad support element oriented onto the REAPER position and assault from the concealed woodline. Eliminate REAPER personnel, collect materials of intelligence value, and consolidate at the ORP. Report enemy strength and findings.
 - **PURPOSE:** Destroy REAPER observation capability in the southwestern AO and deny REAPER early warning of friendly movement into the sector.
-
-**4. Platoon Leader:**
-
-- **TASK:** Monitor and coordinate all three squads during independent raid operations. Position to maintain communications with all elements. Provide guidance and allocate supporting fires as the situation develops.
-- **PURPOSE:** Maintain situational awareness across the AO and enable squad leaders to make timely tactical decisions at their objectives.
-
-**5. Platoon Sergeant:**
-
-- **TASK:** Trail the platoon. Be prepared to move to any squad requiring reinforcement or casualty evacuation. Maintain platoon accountability.
-- **PURPOSE:** Provide the PL flexibility to support any squad without pulling an adjacent squad off its mission.
 
 ### e. Coordinating Instructions
 
