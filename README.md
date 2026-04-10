@@ -12,6 +12,7 @@ All content is written in GitHub Flavored Markdown and automatically converted t
   - [Evaluated Missions (Wooded Terrain)](#evaluated-missions-wooded-terrain)
   - [MOUT Training Scenarios](#mout-training-scenarios)
   - [Static Operations](#static-operations)
+  - [Supporting Tasks](#supporting-tasks)
   - [DSCA Operations (Hurricane Response)](#dsca-operations-hurricane-response)
 - [Inject Card System](#inject-card-system)
 - [April TLP Training](#april-tlp-training)
@@ -47,7 +48,6 @@ Mission Command versions (for advanced iterations only) are listed separately at
 | 003 | [Raid on Bunker](003-raid-a-bunker-detailed.html) | Higher | Raid a fortified REAPER bunker position. Assault, SBF, and security with breach and withdrawal. | [view](003-raid-a-bunker-detailed.html) · [kml](003-raid-a-bunker.kml) | [card](003-raid-a-bunker-opfor.html) |
 | 005 | [Area/Zone Reconnaissance](005-area-zone-reconnaissance-detailed.html) | Lower | Locate and assess REAPER positions without decisive engagement. Two recon elements plus ORP security/QRF. | [view](005-area-zone-reconnaissance-detailed.html) · [kml](005-area-zone-reconnaissance.kml) | — |
 | 016 | [Seize the Crossroads](016-deliberate-attack-detailed.html) | Moderate | Deliberate attack to seize a road junction. SBF, assault from covered approach, and security isolation. | [view](016-deliberate-attack-detailed.html) | [card](016-deliberate-attack-opfor.html) |
-| 009 | [Tactical Road March](009-tactical-road-march-detailed.html) | Lower | Tactical movement from assembly area to release point. Point security, main body, and rear security. | [view](009-tactical-road-march-detailed.html) · [kml](009-tactical-road-march.kml) | — |
 
 ### MOUT Training Scenarios
 
@@ -62,6 +62,14 @@ Mission Command versions (for advanced iterations only) are listed separately at
 |---|---------|-----------|-------------|-------|
 | 008 | [Patrol Base Operations](008-patrol-base-operations-detailed.html) | Moderate | Establish and occupy a patrol base for sustained operations. Sector defense, LP/OPs, priorities of work, and QRF. | [view](008-patrol-base-operations-detailed.html) · [kml](008-patrol-base-operations.kml) |
 | 015 | [Patrol Base Operations (Company)](015-patrol-base-operations-company.html) | Higher | Company-level patrol base with screening element and reserve. CO issues tasks to three platoons: defense, screen, and QRF. | [view](015-patrol-base-operations-company.html) · [kml](015-patrol-base-operations-company.kml) |
+
+### Supporting Tasks
+
+Not a mission in its own right — a movement task used to position a force for a subsequent operation. Use as a supplement to the real lanes above when cadre want to train movement techniques on the approach.
+
+| # | Task | Description | OPORD |
+|---|------|-------------|-------|
+| 009 | [Tactical Road March](009-tactical-road-march-detailed.html) | Tactical movement from assembly area to release point. Point security, main body, and rear security. | [view](009-tactical-road-march-detailed.html) · [kml](009-tactical-road-march.kml) |
 
 ### DSCA Operations (Hurricane Response)
 
