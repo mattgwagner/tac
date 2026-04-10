@@ -8,7 +8,7 @@
 >
 > **Complexity:** Moderate | **Recommended Phase:** WALK (Blocks 3-4), RUN (Day Iterations)
 >
-> **Mission Summary:** 1st Platoon conducts three independent squad deliberate attacks against small REAPER command post positions in AO COTTO. Each squad destroys its own CP target and conducts hasty SSE.
+> **Mission Summary:** 1st Platoon conducts three independent squad deliberate attacks against small REAPER command post positions in AO COTTO. Each squad destroys its own CP target and conducts a hasty sensitive site exploitation (SSE).
 >
 > **Training Focus:** This OPORD is designed to evaluate **individual squad leader planning and decision-making** for a squad-sized deliberate attack. The PL issues the platoon OPORD, but each squad leader must conduct their own TLP — planning isolation, a support element, an assault element, actions on the objective, and a hasty SSE. Cadre should assign one evaluator per squad to observe the SL's planning process and tactical decisions.
 >
