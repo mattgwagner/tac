@@ -1,4 +1,4 @@
-# OPFOR CARD — 001 AMBUSH AT CROSSROADS
+# OPFOR CARD — 001 RASCZAK'S ROUGHNECKS
 
 **For the OPFOR team only. Do not share with the squad being evaluated.**
 

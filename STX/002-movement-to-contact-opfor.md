@@ -1,4 +1,4 @@
-# OPFOR CARD — 002 MOVEMENT TO CONTACT
+# OPFOR CARD — 002 BUG HUNT
 
 **For the OPFOR team only. Do not share with the squad being evaluated.**
 

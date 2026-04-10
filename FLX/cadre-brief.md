@@ -163,7 +163,7 @@ TACs own the evaluation mission — they write FLERs. The Infantry Cadre instruc
 
 ### Friday — Establish and Orient
 
-**[OPORD 001 — "KOBAYASHI MARU"](001-establish-cop.html)** *(Thursday brief → Friday execution)*
+**[OPORD 001 — "DRAGON ARMY"](001-establish-cop.html)** *(Thursday brief → Friday execution)*
 *Candidate PL receives the OPORD Thursday afternoon*
 
 The company commander issues the base order on Thursday. The candidate PL has Thursday afternoon and evening to conduct full TLPs: mission analysis, COA development, and issue their platoon OPORD to SLs. The order gives only a NLT time to have the COP established with the CP operational — the candidate PL must backwards plan the SP, movement, staging, clearance of the facility, and CP setup.
@@ -192,7 +192,7 @@ Use the movement phase to evaluate basic competence: formations, movement techni
 
 ---
 
-**[OPORD 002 — "MAP THE AO"](002-area-reconnaissance.html)** *(Area Reconnaissance, ~1300–1500)*
+**[OPORD 002 — "MAZER'S EYES"](002-area-reconnaissance.html)** *(Area Reconnaissance, ~1300–1500)*
 *Issued from COP Seggel once occupation is complete*
 
 The cadre (as PL) briefs the platoon order to all three SLs: the platoon needs to reconnoiter two NAIs while maintaining COP security. 1st Squad gets NAI 1 (Jacksonville Street corridor, MP 0602 1565). 2nd Squad gets NAI 2 (western woodlines / Clearwater Ave corridor, MP 0575 1538). 3rd Squad has COP security — ECP, perimeter, CP operations, and QRF. Each SL then plans how their squad executes their assigned task: patrol composition, routes, formations, actions on contact, rally points, reporting plan, timeline.
@@ -207,7 +207,7 @@ The cadre (as PL) briefs the platoon order to all three SLs: the platoon needs t
 
 ---
 
-**[FRAGO 007 — "CLEAR THE OP"](007-frago-clear-reaper-op.html)** *(~1530–1730)*
+**[FRAGO 007 — "XENOCIDE"](007-frago-clear-reaper-op.html)** *(~1530–1730)*
 *FRAGO issued at COP Seggel — reference OPORD 001*
 
 Recon patrols report a suspected REAPER observation post in a structure approximately 200 meters west of COP Seggel (vicinity MP 0580 1550). The OP has line of sight to the COP's western perimeter and the ECP. It is actively reporting our defensive layout and patrol patterns to REAPER higher. This is time-sensitive — clear it before dark.
@@ -290,7 +290,7 @@ This rotation also applies to SLs — candidates rotate into SL positions each l
 3. **~0630–0800 SL planning.** SLs conduct TLPs over chow (MRE) — mission analysis, scheme of maneuver, sand table, brief their squads. ~1.5 hours of planning time.
 4. **~0800 SP for MTC.**
 
-**[OPORD 008 — "FIRST LIGHT"](008-movement-to-contact.html)** *(Movement to Contact, ~0800–1000)*
+**[OPORD 008 — "THIRD INVASION"](008-movement-to-contact.html)** *(Movement to Contact, ~0800–1000)*
 *PL/PSG briefed Friday night, briefs SLs at Saturday stand-down*
 
 Overnight security observed REAPER movement in the woodlines northeast of COP Seggel, on the far side of Bradenton Avenue (vicinity MP 0620 1560). OP/LPs reported foot traffic, low-light signals, and radio transmissions. At least one REAPER probe was detected and repelled. REAPER appears to be maintaining observation — the company commander orders 1st Platoon to conduct a movement to contact to locate and engage.
@@ -309,7 +309,7 @@ Candidates are tired from overnight security operations — that's the point. Bu
 
 ---
 
-**[OPORD 003 — "CUT THE LINE"](003-ambush.html)** *(Ambush, ~1030–1230)*
+**[OPORD 003 — "ENDER'S GATE"](003-ambush.html)** *(Ambush, ~1030–1230)*
 *PL/PSG receives order during MTC execution (~0900). PL/PSG briefs SLs at chow/rest.*
 
 Recon from OPORD 002 identified a REAPER resupply route along Bradenton Avenue. Intel indicates regular supply runs moving north past MP 0600 1530. The company commander orders an ambush to cut the supply line and capture intelligence.
@@ -328,7 +328,7 @@ The OPORD is platoon-level only — no squad tasks assigned. The candidate PL/PS
 
 ---
 
-**[OPORD 004 — "IRON FIST"](004-clear-the-cache.html)** *(Cache Clearance — Capstone, ~1300–1800)*
+**[OPORD 004 — "LITTLE DOCTOR"](004-clear-the-cache.html)** *(Cache Clearance — Capstone, ~1300–1800)*
 *PL/PSG receives mission statement after the ambush. PL/PSG plans entire order independently.*
 
 Documents captured in the ambush reveal a REAPER weapons and materiel cache in the structure complex and CONEX yard south of COP Seggel (OBJ IRON, vicinity MP 0608 1530). The company commander orders 1st Platoon to clear the complex and destroy the cache. **This is the capstone.** The PL/PSG receives only a mission statement — no OPORD, no situation paragraph, no scheme of maneuver. They must plan the entire order independently: enemy analysis, scheme of maneuver, squad taskings, fires, sustainment, everything. **EENT is 1855 — this creates natural time pressure, but the operation is expected to take multiple hours including planning, staging, and execution.**
@@ -371,7 +371,7 @@ After the capstone, consolidate at COP Seggel or transition directly to ENDEX at
 | **THU** | AM | FLX Preparation Training (candidate-led) | — | All rated SLs (teaching blocks) |
 | **THU** | PM | Candidate PL receives OPORD 001, conducts TLPs, briefs SLs | 001 | PL |
 | **FRI** | 0700 | DFAC breakfast | — | — |
-| **FRI** | ~0730–1300 | SP → Movement → KOBAYASHI MARU / Establish COP (NLT 1300) | 001 | PL + all 3 SLs |
+| **FRI** | ~0730–1300 | SP → Movement → DRAGON ARMY / Establish COP (NLT 1300) | 001 | PL + all 3 SLs |
 | **FRI** | 1200–1300 | Chow/rest rotation | — | — |
 | **FRI** | ~1300–1500 | Area Reconnaissance | 002 | All 3 SLs (1 per squad) |
 | **FRI** | 1500–1530 | Chow/debrief | — | — |

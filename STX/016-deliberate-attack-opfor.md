@@ -1,4 +1,4 @@
-# OPFOR CARD — 016 SEIZE THE CROSSROADS
+# OPFOR CARD — 016 PLANET P
 
 **For the OPFOR team only. Do not share with the squad being evaluated.**
 

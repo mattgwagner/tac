@@ -2,7 +2,7 @@
 
 **References:** ATP 3-21.8, FM 3-90-2, ATP 3-55.6, ADRP 1-02
 
-**OPERATIONAL PLAN / ORDER #002 / CODE NAME: "MAP THE AO"**
+**OPERATIONAL PLAN / ORDER #002 / CODE NAME: "MAZER'S EYES"**
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 

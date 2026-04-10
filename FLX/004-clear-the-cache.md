@@ -2,7 +2,7 @@
 
 **References:** ATP 3-21.8, FM 3-90-1, ADRP 1-02
 
-**OPERATIONAL PLAN / ORDER #004 / CODE NAME: "IRON FIST"**
+**OPERATIONAL PLAN / ORDER #004 / CODE NAME: "LITTLE DOCTOR"**
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 

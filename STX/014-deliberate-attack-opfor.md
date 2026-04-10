@@ -1,4 +1,4 @@
-# OPFOR CARD — 014 DELIBERATE ATTACK ON ENEMY CP
+# OPFOR CARD — 014 BRAIN BUG
 
 **For the OPFOR team only. Do not share with the squad being evaluated.**
 

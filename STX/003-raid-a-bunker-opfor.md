@@ -1,4 +1,4 @@
-# OPFOR CARD — 003 RAID ON BUNKER
+# OPFOR CARD — 003 OPERATION ROYALTY
 
 **For the OPFOR team only. Do not share with the squad being evaluated.**
 
