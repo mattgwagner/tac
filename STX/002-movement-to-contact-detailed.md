@@ -115,10 +115,10 @@ None.
 **End State:** REAPER forces located and assessed in all three zones, squad objectives secured, friendly forces maintaining tactical advantage and prepared for follow-on operations.
 
 ### b. Concept of Operations
-1st Platoon conducts a movement to contact across three independent squad zones in AO FLUNKER. Each squad advances toward its own objective at its own pace, locating and engaging REAPER forces within its assigned zone. No main effort is designated — all squads operate with equal priority. Squad leaders select their own movement techniques, formations, and routes based on their analysis of terrain and enemy situation. The PL monitors all squads and coordinates as needed. The PSG trails, prepared to support any squad requiring reinforcement or casualty evacuation.
+1st Platoon conducts a decentralized movement to contact across three assigned squad zones in AO FLUNKER. Each squad advances toward its own objective at its own pace, locating and engaging REAPER forces within its assigned zone. **Main effort: none designated; squads are weighted equally** and operate in parallel within their zones. The PL retains freedom to re-weight the main effort once initial contact develops the situation. Squad leaders select their own movement techniques, formations, and routes based on their analysis of terrain and enemy situation. Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports. The PL monitors all squads and coordinates as needed. The PSG trails, prepared to support any squad requiring reinforcement or casualty evacuation.
 
 ### c. Scheme of Fires
-No priority of indirect fires designated. Mortar support available through company on request; any squad may request fires through the PL.
+**Priority of fires: first squad in decisive contact.** Mortar support available through company on request; any squad may request fires through the PL. Once the PL confirms decisive engagement in a zone, that squad becomes the priority of indirect fires until contact is broken or the PL shifts priority.
 
 ### d. Tasks to Subordinate Units
 
@@ -147,7 +147,7 @@ No priority of indirect fires designated. Mortar support available through compa
 - **TASK:** Trail the platoon movement. Be prepared to move to any squad requiring reinforcement or casualty evacuation. Maintain platoon accountability.
 - **PURPOSE:** Provide the PL flexibility to support any squad without pulling an adjacent squad off its mission.
 
-### f. Coordinating Instructions
+### e. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
    1. Engage only confirmed enemy combatants posing a threat.

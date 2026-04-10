@@ -165,7 +165,7 @@ Not applicable (DSCA operation).
 - **TASK:** Conduct resupply runs from Bay County Staging Area to POD sites as requested. Serve as Quick Reaction Force to support POD operations (crowd control, medical emergency, vehicle recovery).
 - **PURPOSE:** Keep distribution lanes supplied so neither POD runs out, and provide emergency response so POD personnel can stay focused on distribution.
 
-### f. Coordinating Instructions
+### e. Coordinating Instructions
 
 **1. Distribution Procedures:**
    1. Greet civilian at distribution point

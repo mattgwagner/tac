@@ -1,7 +1,7 @@
 **PATROL BASE OPERATIONS - TRAINING IMPLEMENTATION GUIDE**
 
 **Exercise Name:** PB THUNDER Overnight Occupation
-**Location:** MP 058 152, AO COTTO (Camp Blanding)
+**Location:** MP 0580 1520, AO COTTO (Camp Blanding)
 **Execution:** Single overnight occupation with leadership-centric feedback
 **Candidate Population:** 26 intermediate status OCS candidates
 **Cadre Requirement:** 2-3 personnel (minimal staffing model)
@@ -34,14 +34,14 @@ Candidates have completed WARNO-based TLP planning. This exercise focuses on **e
 ## EXECUTION TIMELINE
 
 **Pre-Exercise Day (Before Movement)**
-- Brief all 26 candidates on MP 058 152 location and occupancy deadline (NLT 2200)
+- Brief all 26 candidates on MP 0580 1520 location and occupancy deadline (NLT 2200)
 - Clarify role assignments and intermediate status evaluation context
 - Confirm OPORD understanding: occupation technique choice, sector assignments, security priorities
 - Review patrol base sustainment expectations (water, meals, rest plan, stand-to procedures)
 - Brief cadre on observation focus: leadership independence, ownership, supervision quality
 
 **Movement & Occupation (Daylight to Darkness)**
-- Candidates move to MP 058 152
+- Candidates move to MP 0580 1520
 - Transition to darkness during movement to occupation
 - **Occupation complete NLT 2200**: Platoon occupies PB THUNDER using triangle or cigar technique
 - Squads occupy assigned sectors (north, southeast, southwest per OPORD)
@@ -153,7 +153,7 @@ Candidates have completed WARNO-based TLP planning. This exercise focuses on **e
 **Cadre Requirements:**
 - 2-3 personnel for observation and safety oversight
 - Communication (radios or runners)
-- Transportation to MP 058 152 area
+- Transportation to MP 0580 1520 area
 
 **Safety Oversight:**
 - Roving cadre monitor for darkness hazards (falls, disorientation, friendly fire risk)

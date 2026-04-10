@@ -161,7 +161,7 @@ Not applicable (DSCA operation).
 - **TASK:** Maintain security of Bay County Staging Area. Serve as Quick Reaction Force to support reconnaissance elements if required (vehicle recovery, medical emergency).
 - **PURPOSE:** Secure the staging area and provide emergency support so reconnaissance platoons can focus on their sectors.
 
-### f. Coordinating Instructions
+### e. Coordinating Instructions
 
 **1. Reconnaissance Priorities (in order):**
    1. Route trafficability (can supply convoys pass?)

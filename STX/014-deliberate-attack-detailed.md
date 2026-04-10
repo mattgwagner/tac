@@ -131,7 +131,7 @@ None.
 - **TASK:** Upon seizure of OBJ HERRERA, conduct a hasty SSE of the CP site. Collect documents, maps, overlays, electronics, and communications equipment. Photograph or sketch the CP layout. Consolidate findings and report to the PL for transmission to higher.
 - **PURPOSE:** Exploit the destroyed CP for intelligence value before the platoon withdraws or consolidates, providing A Company with information on REAPER operations, dispositions, and plans in AO COTTO.
 
-### f. Coordinating Instructions
+### e. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
    1. Engage only confirmed enemy combatants.

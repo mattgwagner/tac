@@ -130,7 +130,7 @@ None.
 - **TASK:** Secure the flanks and rear of the clearing operation. Block likely REAPER withdrawal and reinforcement routes. Maintain security of cleared sectors as the platoon advances. Monitor for civilian movement and report. During consolidation, establish defensive positions covering the assigned sector.
 - **PURPOSE:** Prevent REAPER from escaping, reinforcing, or re-infiltrating cleared sectors behind the assault element.
 
-### f. Coordinating Instructions
+### e. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
    1. Engage only confirmed enemy combatants.

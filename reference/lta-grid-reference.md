@@ -43,7 +43,7 @@ The following grids are used in current OPORDs:
 | OPORD | Grid | Purpose | LTA Location |
 |-------|------|---------|--------------|
 | 001 - Ambush | `MP 0600 1530` | OBJ FLUNKER | Ambush site on Bradenton Ave |
-| 001 - Ambush | `MP 0601 1542` | 2nd Squad SBF | North end of kill zone |
+| 001 - Ambush | `MP 0600 1534` | 2nd Squad SBF | North end of kill zone |
 | 001 - Ambush | `MP 0610 1550` | 3rd Squad Security | FOB center |
 | 002 - MTC | `MP 0600 1538` | OBJ BAINTON (1st Sqd) | Bradenton Ave intersection |
 | 002 - MTC | `MP 0612 1546` | OBJ HERRERA (2nd Sqd) | South entrance to FOB |
@@ -51,7 +51,6 @@ The following grids are used in current OPORDs:
 | 003 - Raid | `MP 0600 1538` | OBJ COTTO (Bunker) | Bradenton Ave intersection |
 | 004 - Clear City | `MP 0611 1530` | OBJ FLUNKER (Urban) | Conex City center |
 | 005 - Recon | `MP 0613 1532` | Suspected Enemy Position | Conex City NE bldg |
-| 006 - Base Defense | `MP 0610 1550` | FOB THUNDER | FOB center |
 | 007 - FPOL | `MP 0607 1555` | Passage Point | North entrance to FOB |
 | 007 - FPOL | `MP 0602 1565` | OBJ THUNDER | Bradenton/Jacksonville intersection |
 | 008 - Patrol Base Ops | `MP 0580 1520` | PB THUNDER | Wooded area south of FOB |

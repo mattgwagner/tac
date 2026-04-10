@@ -276,13 +276,6 @@
     </Placemark>
 
     <Placemark>
-      <name>006 FOB THUNDER (Base Def)</name>
-      <description>MP 0610 1550 - FOB center</description>
-      <styleUrl>#style-obj-enemy</styleUrl>
-      <Point><coordinates>-81.9732369,29.9667557,0</coordinates></Point>
-    </Placemark>
-
-    <Placemark>
       <name>007 Passage Point (FPOL)</name>
       <description>MP 0607 1555 - North entrance to FOB</description>
       <styleUrl>#style-friendly</styleUrl>

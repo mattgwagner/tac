@@ -131,7 +131,7 @@ Fires are limited to self-defense only. Avoid engagement unless necessary to bre
 - **TASK:** Establish and secure the ORP. Maintain 360-degree security during reconnaissance operations. Monitor radio traffic from reconnaissance elements. Be prepared to move to support a compromised squad or provide suppressive fire to enable extraction. Account for all personnel upon return.
 - **PURPOSE:** Ensure the reconnaissance elements have a secure base to return to and a responsive QRF if compromised, preventing a tactical emergency from becoming a decisive engagement.
 
-### f. Coordinating Instructions
+### e. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
    1. Avoid engagement unless necessary for self-defense or to break contact.

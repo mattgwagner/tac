@@ -129,7 +129,7 @@ None.
 - **TASK:** Isolate OBJ HERRERA prior to the assault. Block REAPER reinforcement and escape routes. Maintain positions through the assault. Collapse security last during platoon consolidation and move to the objective.
 - **PURPOSE:** Prevent REAPER reinforcement from the north so 2nd Squad fights only the force currently at the junction, and secure the platoon's withdrawal route.
 
-### f. Coordinating Instructions
+### e. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
    1. Engage only confirmed enemy combatants.

@@ -37,21 +37,21 @@
 
   <Placemark>
     <name>OBJ FLUNKER (Kill Zone)</name>
-    <description>MP 0601 1538 - Linear ambush site along Bradenton Ave. REAPER convoy route S-N. 2 vehicles, 6-8 PAX, AK-47s, possible HMG.</description>
+    <description>MP 0600 1530 - Linear ambush site along Bradenton Ave. REAPER convoy route S-N. 2 vehicles, 6-8 PAX, AK-47s, possible HMG.</description>
     <styleUrl>#style-enemy</styleUrl>
     <Point><coordinates>-81.974171,29.965662,0</coordinates></Point>
   </Placemark>
 
   <Placemark>
     <name>1st SQD (Assault - Decisive)</name>
-    <description>MP 0601 1538 - Concealed assault positions along kill zone at OBJ FLUNKER. Initiates ambush, destroys convoy.</description>
+    <description>MP 0600 1530 - Concealed assault positions along kill zone at OBJ FLUNKER. Initiates ambush, destroys convoy.</description>
     <styleUrl>#style-friendly</styleUrl>
     <Point><coordinates>-81.974271,29.965662,0</coordinates></Point>
   </Placemark>
 
   <Placemark>
     <name>2nd SQD (SBF - Shaping)</name>
-    <description>MP 0601 1542 - North end of kill zone. Suppressive fire to fix REAPER in kill zone. Shift fires to block reinforcements from N.</description>
+    <description>MP 0600 1534 - North end of kill zone. Suppressive fire to fix REAPER in kill zone. Shift fires to block reinforcements from N.</description>
     <styleUrl>#style-friendly</styleUrl>
     <Point><coordinates>-81.974171,29.966024,0</coordinates></Point>
   </Placemark>

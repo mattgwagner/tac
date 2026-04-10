@@ -10,7 +10,7 @@
 >
 > **Mission Summary:** 1st Platoon is tasked to establish and occupy a patrol base in AO COTTO to conduct continuous operations, provide security, and enable sustainment for follow-on missions.
 >
-> **Destination:** Patrol Base (PB) THUNDER, vicinity MP 058 152, AO COTTO, NLT 2200.
+> **Destination:** Patrol Base (PB) THUNDER, vicinity MP 0580 1520, AO COTTO, NLT 2200.
 >
 > **Actions on Objective:** Platoon will conduct a leader's reconnaissance, occupy the patrol base using the triangle or cigar-shaped technique, establish security, and conduct patrol base activities including security patrols, maintenance, and planning for follow-on operations.
 >
@@ -52,7 +52,7 @@ Clay County, Florida, in the vicinity of Starke and Highway 16. AO COTTO encompa
 
 **1. Terrain.** Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, ponds, marshes, and wetlands. Vegetation provides concealment and limits long-range observation. Roads and trails serve as likely avenues of approach for both friendly and enemy forces. Terrain and soil conditions may restrict vehicle movement, especially in wet areas.
 
-   - **Key Terrain:** The planned patrol base site at MP 058 152 offers good concealment, defensible terrain, and access to covered withdrawal routes. The surrounding woodlines provide observation points for early warning. A small creek to the south provides a water source but may also canalize enemy approach. Elevated ground to the north offers observation of likely enemy avenues of approach.
+   - **Key Terrain:** The planned patrol base site at MP 0580 1520 offers good concealment, defensible terrain, and access to covered withdrawal routes. The surrounding woodlines provide observation points for early warning. A small creek to the south provides a water source but may also canalize enemy approach. Elevated ground to the north offers observation of likely enemy avenues of approach.
 
 **2. Weather.**
    - Skies: ________
@@ -95,7 +95,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon establishes and occupies Patrol Base THUNDER (vicinity MP 058 152) NLT 2200 to provide security, enable sustainment, and prepare for follow-on operations in AO COTTO.
+1st Platoon establishes and occupies Patrol Base THUNDER (vicinity MP 0580 1520) NLT 2200 to provide security, enable sustainment, and prepare for follow-on operations in AO COTTO.
 
 ---
 
@@ -119,7 +119,7 @@ Defensive fires planned for likely REAPER avenues of approach. Each squad respon
 
 **1. 1st Squad (Northern Sector):**
 
-- **TASK:** Occupy and defend the northern sector of PB THUNDER (vicinity MP 058 152). Establish fighting positions with interlocking fields of fire covering the northern avenues of approach. Provide personnel for LP/OP duty on the elevated ground to the north. Conduct local security patrols as directed. Execute priorities of work within the sector.
+- **TASK:** Occupy and defend the northern sector of PB THUNDER (vicinity MP 0580 1520). Establish fighting positions with interlocking fields of fire covering the northern avenues of approach. Provide personnel for LP/OP duty on the elevated ground to the north. Conduct local security patrols as directed. Execute priorities of work within the sector.
 - **PURPOSE:** Secure the most likely avenue of REAPER approach and provide the earliest warning of enemy reconnaissance or assault, giving the platoon time to react.
 
 **2. 2nd Squad (Southeastern Sector):**
@@ -132,7 +132,7 @@ Defensive fires planned for likely REAPER avenues of approach. Each squad respon
 - **TASK:** Occupy and defend the southwestern sector of PB THUNDER. Establish fighting positions with interlocking fields of fire covering the southwestern avenues of approach. Serve as the platoon QRF, prepared to reinforce any sector under attack or establish a blocking position on a compromised avenue of approach to contain the REAPER penetration and enable the affected sector to reorganize. Rehearse reinforcement routes and blocking positions for 1st and 2nd Squad sectors. Identify and brief withdrawal routes for the platoon.
 - **PURPOSE:** Secure the southwestern perimeter and provide the PL a responsive reserve, ensuring any REAPER probe or assault can be met with concentrated force — either reinforcing the threatened sector or blocking the enemy avenue of approach.
 
-### f. Coordinating Instructions
+### e. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
    1. Engage only confirmed enemy combatants posing a threat.

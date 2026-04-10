@@ -129,7 +129,7 @@ None.
 - **TASK:** Depart the ORP first. Establish a blocking position north of OBJ HERRERA along Bradenton Avenue (IVO MP 0600 1530) to isolate the objective and interdict REAPER reinforcements from the north. Orient observation and fires north and east. Maintain the position through the assault. Collapse security last during platoon consolidation and move to the objective.
 - **PURPOSE:** Prevent REAPER reinforcement from the north so 2nd Squad fights only the force currently at the junction, and secure the platoon's withdrawal route.
 
-### f. Coordinating Instructions
+### e. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
    1. Engage only confirmed enemy combatants.

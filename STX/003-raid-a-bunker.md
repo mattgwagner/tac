@@ -128,7 +128,7 @@ None.
 - **TASK:** Move to isolate OBJ COTTO prior to the assault. Block REAPER reinforcement and escape routes. Maintain positions through the assault. Collapse security last during platoon withdrawal and consolidate at the ORP.
 - **PURPOSE:** Isolate the objective so REAPER cannot reinforce or escape during the assault, ensuring 1st Squad fights only the force currently at the bunker.
 
-### f. Coordinating Instructions
+### e. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
    1. Engage only confirmed enemy combatants.

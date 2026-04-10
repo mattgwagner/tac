@@ -10,7 +10,7 @@
 >
 > **Mission Summary:** A Company is tasked to establish and occupy a patrol base in AO COTTO to conduct continuous operations, provide area security, and enable sustainment for follow-on missions. Three platoons execute distinct tasks: patrol base defense, forward screening, and company reserve.
 >
-> **Destination:** Patrol Base (PB) THUNDER, vicinity MP 058 152, AO COTTO, NLT ____.
+> **Destination:** Patrol Base (PB) THUNDER, vicinity MP 0580 1520, AO COTTO, NLT ____.
 >
 > **Actions on Objective:** Company conducts a leader's reconnaissance, occupies the patrol base with a deliberate occupation technique, establishes a screening element forward of the base on likely avenues of approach, and maintains a reserve / QRF within the perimeter. The company executes patrol base activities including security patrols, maintenance, and planning for follow-on operations.
 >
@@ -55,7 +55,7 @@ Clay County, Florida, in the vicinity of Starke and Highway 16. AO COTTO encompa
 
 **1. Terrain.** Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, ponds, marshes, and wetlands. Vegetation provides concealment and limits long-range observation. Roads and trails serve as likely avenues of approach for both friendly and enemy forces. Terrain and soil conditions may restrict vehicle movement, especially in wet areas. The trail network to the north and woodlines to the east provide concealed approaches toward the patrol base site. Open areas between the screen line and patrol base create natural observation points.
 
-   - **Key Terrain:** The planned patrol base site at MP 058 152 offers good concealment, defensible terrain, and access to covered withdrawal routes. The surrounding woodlines provide observation points for early warning. A small creek to the south provides a water source but may also canalize enemy approach. Elevated ground to the north offers observation of likely enemy avenues of approach and is suitable for screening element observation posts. Trail junctions on the northern and eastern avenues of approach provide natural positions for screening operations.
+   - **Key Terrain:** The planned patrol base site at MP 0580 1520 offers good concealment, defensible terrain, and access to covered withdrawal routes. The surrounding woodlines provide observation points for early warning. A small creek to the south provides a water source but may also canalize enemy approach. Elevated ground to the north offers observation of likely enemy avenues of approach and is suitable for screening element observation posts. Trail junctions on the northern and eastern avenues of approach provide natural positions for screening operations.
 
 **2. Weather.**
    - Skies: ________
@@ -100,7 +100,7 @@ Company receives priority of battalion 81mm mortar fires on request.
 
 ## 2. MISSION
 
-A Company establishes and occupies Patrol Base THUNDER (vicinity MP 058 152) NLT ____ to provide area security, enable company-level sustainment, and prepare for follow-on operations in AO COTTO.
+A Company establishes and occupies Patrol Base THUNDER (vicinity MP 0580 1520) NLT ____ to provide area security, enable company-level sustainment, and prepare for follow-on operations in AO COTTO.
 
 ---
 
@@ -124,7 +124,7 @@ A Company establishes PB THUNDER through a deliberate occupation. The main effor
 
 **1. 1st Platoon (Patrol Base Defense — Decisive Operation):**
 
-- **TASK:** Occupy and defend Patrol Base THUNDER (vicinity MP 058 152). Establish a perimeter defense with fighting positions providing interlocking fields of fire and 360-degree security. Man LP/OPs internal to the patrol base perimeter. Execute priorities of work including fighting position improvement, weapons maintenance, and rest rotation. Be prepared to receive elements of 2nd Platoon withdrawing through your position if the screen is compromised. Coordinate passage points and recognition signals with 2nd Platoon.
+- **TASK:** Occupy and defend Patrol Base THUNDER (vicinity MP 0580 1520). Establish a perimeter defense with fighting positions providing interlocking fields of fire and 360-degree security. Man LP/OPs internal to the patrol base perimeter. Execute priorities of work including fighting position improvement, weapons maintenance, and rest rotation. Be prepared to receive elements of 2nd Platoon withdrawing through your position if the screen is compromised. Coordinate passage points and recognition signals with 2nd Platoon.
 - **PURPOSE:** Secure the company patrol base as the base of operations for sustained company-level operations, ensuring the force can rest, refit, and prepare for follow-on missions while protected against REAPER assault.
 
 **2. 2nd Platoon (Screen — Shaping Operation):**
@@ -137,7 +137,7 @@ A Company establishes PB THUNDER through a deliberate occupation. The main effor
 - **TASK:** Occupy a reserve position within PB THUNDER. Serve as the company QRF, prepared to reinforce any sector of the perimeter defense, reinforce or extract 2nd Platoon if the screen is compromised, or conduct a limited counterattack to destroy an enemy element that has penetrated the security zone. Rehearse reinforcement routes to each platoon sector. Conduct withdrawal route reconnaissance for the company. Maintain the highest state of readiness throughout the occupation.
 - **PURPOSE:** Provide the Company Commander a responsive reserve capable of massing combat power at the decisive point, ensuring REAPER cannot exploit a penetration of the screen or perimeter before the company can concentrate forces.
 
-### f. Coordinating Instructions
+### e. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
    1. Engage only confirmed enemy combatants posing a threat.
