@@ -72,7 +72,6 @@ Movement and coordination tasks used to position a force for a subsequent operat
 | # | Task | Description | OPORD |
 |---|------|-------------|-------|
 | 009 | [Tactical Road March](009-tactical-road-march-detailed.html) | Tactical movement from assembly area to release point. Point security, main body, and rear security. | [view](009-tactical-road-march-detailed.html) · [kml](009-tactical-road-march.kml) |
-| 007 | [Forward Passage of Lines](007-forward-passage-of-lines-detailed.html) | Pass through friendly defensive positions to continue offensive operations. Inter-unit coordination and fratricide prevention. | [view](007-forward-passage-of-lines-detailed.html) · [kml](007-forward-passage-of-lines.kml) |
 
 ### DSCA Operations (Hurricane Response)
 
@@ -95,7 +94,6 @@ These OPORDs support TLP planning exercises focused on Defense Support of Civil 
 | 003 | Raid on Bunker | [view](003-raid-a-bunker.html) |
 | 004 | Clear Dismount City | [view](004-clear-dismount-city.html) |
 | 005 | Area/Zone Reconnaissance | [view](005-area-zone-reconnaissance.html) |
-| 007 | Forward Passage of Lines | [view](007-forward-passage-of-lines.html) |
 | 008 | Patrol Base Operations | [view](008-patrol-base-operations.html) |
 | 009 | Tactical Road March | [view](009-tactical-road-march.html) |
 | 014 | Deliberate Attack on Enemy CP | [view](014-deliberate-attack.html) |

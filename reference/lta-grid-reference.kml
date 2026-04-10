@@ -274,20 +274,6 @@
       <styleUrl>#style-obj-enemy</styleUrl>
       <Point><coordinates>-81.9729102,29.9651338,0</coordinates></Point>
     </Placemark>
-
-    <Placemark>
-      <name>007 Passage Point (FPOL)</name>
-      <description>MP 0607 1555 - North entrance to FOB</description>
-      <styleUrl>#style-friendly</styleUrl>
-      <Point><coordinates>-81.9735522,29.9672046,0</coordinates></Point>
-    </Placemark>
-
-    <Placemark>
-      <name>007 OBJ THUNDER (FPOL)</name>
-      <description>MP 0602 1565 - Bradenton Ave / Jacksonville St intersection</description>
-      <styleUrl>#style-obj-enemy</styleUrl>
-      <Point><coordinates>-81.9740792,29.9681031,0</coordinates></Point>
-    </Placemark>
   </Folder>
 
 </Document>

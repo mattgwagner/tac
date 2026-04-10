@@ -51,8 +51,6 @@ The following grids are used in current OPORDs:
 | 003 - Raid | `MP 0600 1538` | OBJ COTTO (Bunker) | Bradenton Ave intersection |
 | 004 - Clear City | `MP 0611 1530` | OBJ FLUNKER (Urban) | Conex City center |
 | 005 - Recon | `MP 0613 1532` | Suspected Enemy Position | Conex City NE bldg |
-| 007 - FPOL | `MP 0607 1555` | Passage Point | North entrance to FOB |
-| 007 - FPOL | `MP 0602 1565` | OBJ THUNDER | Bradenton/Jacksonville intersection |
 | 008 - Patrol Base Ops | `MP 0580 1520` | PB THUNDER | Wooded area south of FOB |
 | 013 - Establish COP | `MP 0600 1550` | COP Seggel | West of FOB, facility complex |
 | 014 - Deliberate Attack on CP | `MP 0600 1523` | OBJ HERRERA | Arcadia St / Bradenton Ave junction |

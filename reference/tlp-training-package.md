@@ -306,7 +306,6 @@ By the end of Phase II WALK, each candidate will have:
 #### Night 2 (1800-0600): Training Scenarios
 
 - Base Defense scenario
-- Forward Passage of Lines
 - Final AAR and recovery
 
 ### Summary Statistics
@@ -493,7 +492,6 @@ The following Operations Orders are maintained in the OCS OPORD Repository for u
 | 003 | [Raid on Bunker](003-raid-a-bunker.md) | High | 003-raid-a-bunker.md |
 | 004 | [Clear Dismount City](004-clear-dismount-city.md) | High | 004-clear-dismount-city.md |
 | 005 | [Area/Zone Reconnaissance](005-area-zone-reconnaissance.md) | Low-Medium | 005-area-zone-reconnaissance.md |
-| 007 | [Forward Passage of Lines](007-forward-passage-of-lines.md) | High | 007-forward-passage-of-lines.md |
 | 008 | [Patrol Base Operations](008-patrol-base-operations.md) | Medium | 008-patrol-base-operations.md |
 
 ### Recommended OPORD Usage by Training Phase
@@ -516,7 +514,6 @@ The following Operations Orders are maintained in the OCS OPORD Repository for u
 
 **Advanced Iterations (Second Cycle or High Performers):**
 - [OPORD 004 (Clear Urban Terrain)](004-clear-dismount-city.md) - MOUT complexity
-- [OPORD 007 (Forward Passage of Lines)](007-forward-passage-of-lines.md) - Inter-unit coordination
 
 ### OPORD Modification Guidelines
 
