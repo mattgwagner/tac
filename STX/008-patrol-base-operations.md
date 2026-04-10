@@ -177,7 +177,7 @@ Defensive fires planned for likely REAPER avenues of approach. Each squad respon
 ### b. Health System Support
 1. PLT CCP established within patrol base perimeter.
 2. Aid bag located at PL CP.
-3. MEDEVAC available via Nine Line request at AXP 1.
+3. MEDEVAC available via Nine Line request at AXP 1 (MP 0610 1550).
 4. Casualty evacuation routes: Same as withdrawal routes.
 
 ---

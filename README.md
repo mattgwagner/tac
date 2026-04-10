@@ -28,41 +28,40 @@ All content is written in GitHub Flavored Markdown and automatically converted t
 
 ## STX Evaluation Lanes
 
-Each tactical OPORD is available in two versions. Use **Detailed** for early iterations and leaders who need scaffolding. Use **Mission Command** for later iterations where squad leaders must develop their own schemes of maneuver.
+**Default to the Detailed version.** These are the OPORDs you hand candidates for normal TLP training — they include specific grids, movement directions, team-level assignments, and sequencing so squad leaders can plan against a school solution.
 
-- **Mission Command:** Tasks state outcomes and general areas — squad leaders develop their own positioning, routes, and fire plans.
-- **Detailed:** Tasks include specific grids, movement directions, team-level assignments, and sequencing — cadre walks leaders through a school solution.
+Mission Command versions (for advanced iterations only) are listed separately at the bottom of this section. **Do not use them by default** — they strip scaffolding and are only appropriate for later iterations with strong candidates who have already planned the same mission multiple times.
 
 ### CRAWL Phase Training
 
-| # | Mission | Description | Mission Command | Detailed |
-|---|---------|-------------|-----------------|----------|
-| 014 | [Deliberate Attack on Enemy CP](014-deliberate-attack-detailed.html) | Deliberate attack to destroy a REAPER forward command post. CRAWL: TLP practical exercise with step-by-step walkthrough. WALK/RUN: evaluated lane with SSE. OP variant available for lighter iterations. See also [TLP Slides](POI/Slides-RevealJS.html). | [view](014-deliberate-attack.html) · [kml](014-deliberate-attack.kml) | [view](014-deliberate-attack-detailed.html) |
+| # | Mission | Description | OPORD |
+|---|---------|-------------|-------|
+| 014 | [Deliberate Attack on Enemy CP](014-deliberate-attack-detailed.html) | Deliberate attack to destroy a REAPER forward command post. CRAWL: TLP practical exercise with step-by-step walkthrough. WALK/RUN: evaluated lane with SSE. OP variant available for lighter iterations. See also [TLP Slides](POI/Slides-RevealJS.html). | [view](014-deliberate-attack-detailed.html) · [kml](014-deliberate-attack.kml) |
 
 ### Evaluated Missions (Wooded Terrain)
 
-| # | Mission | Complexity | Description | Mission Command | Detailed | OPFOR |
-|---|---------|-----------|-------------|-----------------|----------|-------|
-| 001 | [Ambush at Crossroads](001-ambush-detailed.html) | Moderate | Hasty ambush on a REAPER convoy at a road junction. Assault, support-by-fire, and security elements. | [view](001-ambush.html) · [kml](001-ambush.kml) | [view](001-ambush-detailed.html) | [card](001-ambush-opfor.html) |
-| 002 | [Movement to Contact](002-movement-to-contact-detailed.html) | Moderate | Advance to locate and engage REAPER forces. Lead, overwatch, and reserve elements with progressive commitment. | [view](002-movement-to-contact.html) · [kml](002-movement-to-contact.kml) | [view](002-movement-to-contact-detailed.html) | [card](002-movement-to-contact-opfor.html) |
-| 003 | [Raid on Bunker](003-raid-a-bunker-detailed.html) | Higher | Raid a fortified REAPER bunker position. Assault, SBF, and security with breach and withdrawal. | [view](003-raid-a-bunker.html) · [kml](003-raid-a-bunker.kml) | [view](003-raid-a-bunker-detailed.html) | [card](003-raid-a-bunker-opfor.html) |
-| 005 | [Area/Zone Reconnaissance](005-area-zone-reconnaissance-detailed.html) | Lower | Locate and assess REAPER positions without decisive engagement. Two recon elements plus ORP security/QRF. | [view](005-area-zone-reconnaissance.html) · [kml](005-area-zone-reconnaissance.kml) | [view](005-area-zone-reconnaissance-detailed.html) | — |
-| 016 | [Seize the Crossroads](016-deliberate-attack-detailed.html) | Moderate | Deliberate attack to seize a road junction. SBF, assault from covered approach, and security isolation. | [view](016-deliberate-attack.html) | [view](016-deliberate-attack-detailed.html) | [card](016-deliberate-attack-opfor.html) |
-| 009 | [Tactical Road March](009-tactical-road-march-detailed.html) | Lower | Tactical movement from assembly area to release point. Point security, main body, and rear security. | [view](009-tactical-road-march.html) · [kml](009-tactical-road-march.kml) | [view](009-tactical-road-march-detailed.html) | — |
+| # | Mission | Complexity | Description | OPORD | OPFOR |
+|---|---------|-----------|-------------|-------|-------|
+| 001 | [Ambush at Crossroads](001-ambush-detailed.html) | Moderate | Hasty ambush on a REAPER convoy at a road junction. Assault, support-by-fire, and security elements. | [view](001-ambush-detailed.html) · [kml](001-ambush.kml) | [card](001-ambush-opfor.html) |
+| 002 | [Movement to Contact](002-movement-to-contact-detailed.html) | Moderate | Advance to locate and engage REAPER forces. Lead, overwatch, and reserve elements with progressive commitment. | [view](002-movement-to-contact-detailed.html) · [kml](002-movement-to-contact.kml) | [card](002-movement-to-contact-opfor.html) |
+| 003 | [Raid on Bunker](003-raid-a-bunker-detailed.html) | Higher | Raid a fortified REAPER bunker position. Assault, SBF, and security with breach and withdrawal. | [view](003-raid-a-bunker-detailed.html) · [kml](003-raid-a-bunker.kml) | [card](003-raid-a-bunker-opfor.html) |
+| 005 | [Area/Zone Reconnaissance](005-area-zone-reconnaissance-detailed.html) | Lower | Locate and assess REAPER positions without decisive engagement. Two recon elements plus ORP security/QRF. | [view](005-area-zone-reconnaissance-detailed.html) · [kml](005-area-zone-reconnaissance.kml) | — |
+| 016 | [Seize the Crossroads](016-deliberate-attack-detailed.html) | Moderate | Deliberate attack to seize a road junction. SBF, assault from covered approach, and security isolation. | [view](016-deliberate-attack-detailed.html) | [card](016-deliberate-attack-opfor.html) |
+| 009 | [Tactical Road March](009-tactical-road-march-detailed.html) | Lower | Tactical movement from assembly area to release point. Point security, main body, and rear security. | [view](009-tactical-road-march-detailed.html) · [kml](009-tactical-road-march.kml) | — |
 
 ### MOUT Training Scenarios
 
-| # | Mission | Complexity | Description | Mission Command | Detailed |
-|---|---------|-----------|-------------|-----------------|----------|
-| 004 | [Clear Dismount City](004-clear-dismount-city-detailed.html) | Highest | Clear, seize, and secure urban terrain (OBJ FLUNKER). Building-by-building clearing with assault, support, and security elements. | [view](004-clear-dismount-city.html) · [kml](004-clear-dismount-city.kml) | [view](004-clear-dismount-city-detailed.html) |
-| 007 | [Forward Passage of Lines](007-forward-passage-of-lines-detailed.html) | Highest | Pass through friendly defensive positions to continue offensive operations. Inter-unit coordination and fratricide prevention. | [view](007-forward-passage-of-lines.html) · [kml](007-forward-passage-of-lines.kml) | [view](007-forward-passage-of-lines-detailed.html) |
+| # | Mission | Complexity | Description | OPORD |
+|---|---------|-----------|-------------|-------|
+| 004 | [Clear Dismount City](004-clear-dismount-city-detailed.html) | Highest | Clear, seize, and secure urban terrain (OBJ FLUNKER). Building-by-building clearing with assault, support, and security elements. | [view](004-clear-dismount-city-detailed.html) · [kml](004-clear-dismount-city.kml) |
+| 007 | [Forward Passage of Lines](007-forward-passage-of-lines-detailed.html) | Highest | Pass through friendly defensive positions to continue offensive operations. Inter-unit coordination and fratricide prevention. | [view](007-forward-passage-of-lines-detailed.html) · [kml](007-forward-passage-of-lines.kml) |
 
 ### Static Operations
 
-| # | Mission | Complexity | Description | Mission Command | Detailed |
-|---|---------|-----------|-------------|-----------------|----------|
-| 008 | [Patrol Base Operations](008-patrol-base-operations-detailed.html) | Moderate | Establish and occupy a patrol base for sustained operations. Sector defense, LP/OPs, priorities of work, and QRF. | [view](008-patrol-base-operations.html) · [kml](008-patrol-base-operations.kml) | [view](008-patrol-base-operations-detailed.html) |
-| 015 | [Patrol Base Operations (Company)](015-patrol-base-operations-company.html) | Higher | Company-level patrol base with screening element and reserve. CO issues tasks to three platoons: defense, screen, and QRF. | [view](015-patrol-base-operations-company.html) · [kml](015-patrol-base-operations-company.kml) | — |
+| # | Mission | Complexity | Description | OPORD |
+|---|---------|-----------|-------------|-------|
+| 008 | [Patrol Base Operations](008-patrol-base-operations-detailed.html) | Moderate | Establish and occupy a patrol base for sustained operations. Sector defense, LP/OPs, priorities of work, and QRF. | [view](008-patrol-base-operations-detailed.html) · [kml](008-patrol-base-operations.kml) |
+| 015 | [Patrol Base Operations (Company)](015-patrol-base-operations-company.html) | Higher | Company-level patrol base with screening element and reserve. CO issues tasks to three platoons: defense, screen, and QRF. | [view](015-patrol-base-operations-company.html) · [kml](015-patrol-base-operations-company.kml) |
 
 ### DSCA Operations (Hurricane Response)
 
@@ -73,6 +72,23 @@ These OPORDs support TLP planning exercises focused on Defense Support of Civil 
 | 010 | [Hurricane Relief Convoy](010-dsca-convoy-operations.html) | DSCA convoy operations through damaged infrastructure to deliver relief supplies. | [view](010-dsca-convoy-operations.html) · [kml](010-dsca-convoy-operations.kml) |
 | 011 | [Mounted Area Reconnaissance](011-dsca-mounted-reconnaissance.html) | DSCA mounted reconnaissance to assess infrastructure damage and route conditions. | [view](011-dsca-mounted-reconnaissance.html) · [kml](011-dsca-mounted-reconnaissance.kml) |
 | 012 | [Point of Distribution Operations](012-dsca-point-of-distribution.html) | DSCA humanitarian distribution operations with civilian interface management. | [view](012-dsca-point-of-distribution.html) · [kml](012-dsca-point-of-distribution.kml) |
+
+### Mission Command Versions (advanced iterations only)
+
+> **⚠ Do not use these by default.** Mission Command versions strip out specific grids, movement directions, and team-level assignments. They are only for advanced iterations with strong candidates who have already planned the same mission multiple times with the Detailed version. For normal TLP training, use the Detailed OPORDs linked above.
+
+| # | Mission | Mission Command OPORD |
+|---|---------|----------------------|
+| 001 | Ambush at Crossroads | [view](001-ambush.html) |
+| 002 | Movement to Contact | [view](002-movement-to-contact.html) |
+| 003 | Raid on Bunker | [view](003-raid-a-bunker.html) |
+| 004 | Clear Dismount City | [view](004-clear-dismount-city.html) |
+| 005 | Area/Zone Reconnaissance | [view](005-area-zone-reconnaissance.html) |
+| 007 | Forward Passage of Lines | [view](007-forward-passage-of-lines.html) |
+| 008 | Patrol Base Operations | [view](008-patrol-base-operations.html) |
+| 009 | Tactical Road March | [view](009-tactical-road-march.html) |
+| 014 | Deliberate Attack on Enemy CP | [view](014-deliberate-attack.html) |
+| 016 | Seize the Crossroads | [view](016-deliberate-attack.html) |
 
 ## Inject Card System
 

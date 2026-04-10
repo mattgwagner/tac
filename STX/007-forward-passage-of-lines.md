@@ -187,7 +187,7 @@ Fires coordinated with 2nd Platoon to avoid fratricide. 1st Squad, as the lead e
 
 ### b. Health System Support
 1. PLT CCP at PLT Assembly Area.
-2. MEDEVAC available via Nine Line request at AXP 1.
+2. MEDEVAC available via Nine Line request at AXP 1 (MP 0610 1550).
 
 ---
 

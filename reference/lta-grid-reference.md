@@ -15,7 +15,7 @@ This document provides grid references for key locations within the Local Traini
 ## Grids by Category
 
 ### FOB Locations
-- `MP 0610 1550` - FOB center (primary reference point)
+- `MP 0610 1550` - FOB center (primary reference point) / AXP 1 (MEDEVAC)
 - `MP 0612 1546` - South entrance to FOB
 - `MP 0607 1555` - North entrance to FOB
 

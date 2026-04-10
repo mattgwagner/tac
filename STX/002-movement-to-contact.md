@@ -134,16 +134,6 @@ No priority of indirect fires designated. Mortar support available through compa
 - **TASK:** Conduct a movement to contact in the eastern zone of AO FLUNKER toward OBJ BARLOW (MP 0613 1532). Locate and engage REAPER forces, secure the objective, and report enemy strength and disposition.
 - **PURPOSE:** Clear the eastern sector to prevent REAPER from using the built-up area as a defensive strongpoint or staging area.
 
-**4. Platoon Leader:**
-
-- **TASK:** Monitor and coordinate all three squads during independent zone operations. Position to maintain communications with all elements. Provide guidance and allocate supporting fires as the situation develops.
-- **PURPOSE:** Maintain situational awareness across the AO and enable squad leaders to make timely tactical decisions within their zones.
-
-**5. Platoon Sergeant:**
-
-- **TASK:** Trail the platoon movement. Be prepared to move to any squad requiring reinforcement or casualty evacuation. Maintain platoon accountability.
-- **PURPOSE:** Provide the PL flexibility to support any squad without pulling an adjacent squad off its mission.
-
 ### f. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
@@ -194,7 +184,7 @@ No priority of indirect fires designated. Mortar support available through compa
 
 ### b. Health System Support
 1. PLT CCP at PLT Assembly Area.
-2. MEDEVAC available via Nine Line request at AXP 1.
+2. MEDEVAC available via Nine Line request at AXP 1 (MP 0610 1550).
 
 ---
 

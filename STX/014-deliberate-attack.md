@@ -131,11 +131,6 @@ None.
 - **TASK:** Secure the ORP and provide rear security during the assault. On order, establish a blocking position along the northern avenue of approach to deny REAPER reinforcement from reaching the objective area. Be prepared to reinforce 1st or 2nd Squad on order.
 - **PURPOSE:** Provide the PL a reserve to exploit success or respond to REAPER counterattack, and deny REAPER reinforcement from the north while the assault element secures the CP.
 
-**4. Platoon Sergeant:**
-
-- **TASK:** Upon seizure of OBJ HERRERA, conduct a hasty SSE of the CP site. Collect documents, maps, overlays, electronics, and communications equipment. Photograph or sketch the CP layout. Consolidate findings and report to the PL for transmission to higher.
-- **PURPOSE:** Exploit the destroyed CP for intelligence value before the platoon withdraws or consolidates, providing A Company with information on REAPER operations, dispositions, and plans in AO COTTO.
-
 ### f. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
@@ -179,7 +174,7 @@ None.
 
 ### b. Health System Support
 1. PLT CCP at PLT Assembly Area.
-2. MEDEVAC available via Nine Line request at AXP 1.
+2. MEDEVAC available via Nine Line request at AXP 1 (MP 0610 1550).
 
 ---
 

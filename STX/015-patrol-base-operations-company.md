@@ -189,7 +189,7 @@ A Company establishes PB THUNDER through a deliberate occupation. The main effor
 ### b. Health System Support
 1. Company CCP established within PB THUNDER perimeter.
 2. Aid bag located at CO CP.
-3. MEDEVAC available via Nine Line request at AXP 1.
+3. MEDEVAC available via Nine Line request at AXP 1 (MP 0610 1550).
 4. Casualty evacuation from the screen line: 2nd Platoon evacuates casualties to PB THUNDER; company CCP handles triage.
 5. Casualty evacuation routes: Same as company withdrawal routes.
 

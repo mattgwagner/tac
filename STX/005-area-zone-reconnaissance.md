@@ -173,7 +173,7 @@ Fires are limited to self-defense only. Avoid engagement unless necessary to bre
 
 ### b. Health System Support
 1. PLT CCP at PLT Assembly Area.
-2. MEDEVAC available via Nine Line request at AXP 1.
+2. MEDEVAC available via Nine Line request at AXP 1 (MP 0610 1550).
 
 ---
 

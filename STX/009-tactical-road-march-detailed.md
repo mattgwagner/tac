@@ -192,7 +192,7 @@ No planned fires. 1st Squad, as the lead element, has priority of indirect fires
 ### b. Health System Support
 1. PLT CCP moves with platoon headquarters during movement.
 2. Aid bag located with PSG.
-3. MEDEVAC available via Nine Line request at AXP 1.
+3. MEDEVAC available via Nine Line request at AXP 1 (MP 0610 1550).
 4. Casualty evacuation during movement: stabilize and continue to RP THUNDER if tactical situation permits; request MEDEVAC if required.
 
 ---
