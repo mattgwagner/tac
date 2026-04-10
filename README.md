@@ -35,9 +35,11 @@ Mission Command versions (for advanced iterations only) are listed separately at
 
 ### CRAWL Phase Training
 
+OPORDs used as classroom walkthroughs for the CRAWL phase of TLP training. Instructors pause after each paragraph to discuss information extraction. These missions can also be run as evaluated lanes — they are listed again in the tables below when applicable.
+
 | # | Mission | Description | OPORD |
 |---|---------|-------------|-------|
-| 014 | [Deliberate Attack on Enemy CP](014-deliberate-attack-detailed.html) | Deliberate attack to destroy a REAPER forward command post. CRAWL: TLP practical exercise with step-by-step walkthrough. WALK/RUN: evaluated lane with SSE. OP variant available for lighter iterations. See also [TLP Slides](POI/Slides-RevealJS.html). | [view](014-deliberate-attack-detailed.html) · [kml](014-deliberate-attack.kml) |
+| 014 | [Deliberate Attack on Enemy CP](014-deliberate-attack-detailed.html) | Step-by-step TLP practical exercise walking candidates through each paragraph of the OPORD. Pairs with the [TLP Slides](POI/Slides-RevealJS.html). Also available as an evaluated lane below. | [view](014-deliberate-attack-detailed.html) · [kml](014-deliberate-attack.kml) |
 
 ### Evaluated Missions (Wooded Terrain)
 
@@ -48,6 +50,7 @@ Mission Command versions (for advanced iterations only) are listed separately at
 | 003 | [Raid on Bunker](003-raid-a-bunker-detailed.html) | Higher | Raid a fortified REAPER bunker position. Assault, SBF, and security with breach and withdrawal. | [view](003-raid-a-bunker-detailed.html) · [kml](003-raid-a-bunker.kml) | [card](003-raid-a-bunker-opfor.html) |
 | 005 | [Area/Zone Reconnaissance](005-area-zone-reconnaissance-detailed.html) | Lower | Locate and assess REAPER positions without decisive engagement. Two recon elements plus ORP security/QRF. | [view](005-area-zone-reconnaissance-detailed.html) · [kml](005-area-zone-reconnaissance.kml) | — |
 | 016 | [Seize the Crossroads](016-deliberate-attack-detailed.html) | Moderate | Deliberate attack to seize a road junction. SBF, assault from covered approach, and security isolation. | [view](016-deliberate-attack-detailed.html) | [card](016-deliberate-attack-opfor.html) |
+| 014 | [Deliberate Attack on Enemy CP](014-deliberate-attack-detailed.html) | Moderate | Deliberate attack to destroy a REAPER forward command post. Assault, SBF, security, and hasty SSE of the CP site post-seizure. | [view](014-deliberate-attack-detailed.html) · [kml](014-deliberate-attack.kml) | — |
 
 ### MOUT Training Scenarios
 
