@@ -56,7 +56,7 @@ Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. AO
 
 **1. Terrain.** The AO consists of flat terrain with sandy soils and dense pine and hardwood forests throughout. Thick vegetation and tree canopy severely limit observation and fields of fire except along improved roads and clearings. Visibility in the surrounding woods is under 50 meters in most areas. Bradenton Avenue runs north-south through the center of the AO, Clearwater Avenue runs north-south in the west, and Arcadia Street runs east-west in the south. Conex City sits on the east side of the AO with small structures providing concealment.
 
-   - **Key Terrain:** OBJ COTTO (MP 0600 1538) at the Bradenton Ave / unnamed E-W road intersection. OBJ WHISKEY (MP 0613 1532) in the Conex City NE structure. OBJ ZULU (MP 0575 1524) at the Arcadia St / Clearwater Ave junction in the SW corner of the AO. Woodlines surrounding each objective provide concealed avenues of approach for dismounted elements.
+   - **Key Terrain:** The Bradenton Avenue / unnamed east-west road intersection is a key crossroads in the central AO. The Conex City northeast building provides cover and concealment in the eastern built-up area. The Arcadia Street / Clearwater Avenue junction in the southwestern AO controls movement through that sector. Woodlines surrounding each location provide concealed avenues of approach for dismounted elements.
 
 **2. Weather.**
    - Skies: ________
@@ -73,7 +73,7 @@ REAPER forces have established small, distributed support nodes across AO HERRER
 
 **1. Composition.** Three small REAPER nodes, each 2-4 combatants with small arms. Total 6-12 combatants distributed across AO HERRERA.
 
-**2. Disposition.** REAPER nodes are dispersed across the AO, with one node at each squad objective. Positions are lightly prepared — hasty fighting positions, concealment, or occupied buildings — not fortified bunkers. Nodes operate independently with no lateral coordination.
+**2. Disposition.** REAPER nodes are dispersed across AO HERRERA at the central road intersection, the Conex City northeast building, and the southwestern road junction. Positions are lightly prepared — hasty fighting positions, concealment, or occupied structures — not fortified bunkers. Nodes operate independently with no lateral coordination.
 
 **3. Most Probable Course of Action (MPCOA).** Each REAPER node defends its position with small arms when contacted, then attempts to break contact and withdraw once the assault element closes. Nodes do not reinforce each other. If overrun, REAPER personnel attempt to destroy sensitive materials before being captured or killed.
 
@@ -97,7 +97,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon conducts three independent squad raids in AO HERRERA NLT ____ to destroy small REAPER support nodes and disrupt REAPER operations in the AO.
+1st Platoon conducts a raid NLT ____ at OBJ COTTO (MP 0600 1538), OBJ WHISKEY (MP 0613 1532), and OBJ ZULU (MP 0575 1524) in AO HERRERA to destroy small REAPER support nodes and disrupt REAPER operations in the AO.
 
 ---
 

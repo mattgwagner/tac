@@ -73,9 +73,9 @@ REAPER forces have established small, distributed support nodes across AO HERRER
 **1. Composition.** Three small REAPER nodes, each 2-4 combatants with small arms. Total 6-12 combatants distributed across AO HERRERA.
 
 **2. Disposition.** REAPER nodes are dispersed across the AO:
-   - Node at OBJ COTTO (MP 0600 1538): small OP/cache positioned at the road intersection, using the surrounding woodline for concealment. Oriented south along Bradenton Avenue.
-   - Node at OBJ WHISKEY (MP 0613 1532): small commo relay/cache operating out of the Conex City NE building. Personnel work inside the structure with security at the entrances.
-   - Node at OBJ ZULU (MP 0575 1524): small OP at the Arcadia/Clearwater junction, using the surrounding vegetation for concealment. Oriented south and east.
+   - A small OP/cache at the Bradenton Avenue / unnamed east-west road intersection (vic MP 0600 1538), using the surrounding woodline for concealment. Oriented south along Bradenton Avenue.
+   - A small commo relay/cache operating out of the Conex City northeast building (vic MP 0613 1532). Personnel work inside the structure with security at the entrances.
+   - A small OP at the Arcadia / Clearwater junction (vic MP 0575 1524), using the surrounding vegetation for concealment. Oriented south and east.
    Nodes operate independently with no lateral coordination.
 
 **3. Most Probable Course of Action (MPCOA).** Each REAPER node defends its position with small arms when contacted, then attempts to break contact and withdraw once the assault element closes. Nodes do not reinforce each other. If overrun, REAPER personnel attempt to destroy sensitive materials before being captured or killed.
@@ -100,7 +100,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon conducts three independent squad raids in AO HERRERA NLT ____ to destroy small REAPER support nodes and disrupt REAPER operations in the AO.
+1st Platoon conducts a raid NLT ____ at OBJ COTTO (MP 0600 1538), OBJ WHISKEY (MP 0613 1532), and OBJ ZULU (MP 0575 1524) in AO HERRERA to destroy small REAPER support nodes and disrupt REAPER operations in the AO.
 
 ---
 

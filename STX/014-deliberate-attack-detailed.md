@@ -57,7 +57,7 @@ Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. AO
 
 **1. Terrain.** The AO consists of flat terrain with sandy soils and dense pine and hardwood forests throughout. Thick vegetation and tree canopy severely limit observation and fields of fire except along improved roads and clearings. Bradenton Avenue runs north-south through the AO, intersecting Arcadia Street in the south and Jacksonville Street in the north. Conex City sits on the east side of the AO with small structures providing cover and concealment. Woodlines surrounding each objective provide covered and concealed avenues of approach for dismounted elements; visibility off the improved roads is under 50 meters in most areas.
 
-   - **Key Terrain:** OBJ HERRERA (MP 0600 1523) is at the Arcadia / Bradenton road junction and controls north-south and east-west movement through the southern portion of the AO. OBJ BAINTON (MP 0602 1565) is at the Bradenton / Jacksonville road junction and controls movement in the northern portion. OBJ BARLOW (MP 0611 1530) is in the Conex City center and provides REAPER observation and control of the eastern built-up area. Each junction and the Conex City structures are the positions REAPER exploits for line-of-sight and local movement control.
+   - **Key Terrain:** The Arcadia Street / Bradenton Avenue road junction controls north-south and east-west movement through the southern portion of the AO. The Bradenton Avenue / Jacksonville Street road junction controls movement in the northern portion. The Conex City center provides cover and concealment for any element using the structures for observation and control of the eastern built-up area. Each junction and the Conex City structures are positions REAPER exploits for line-of-sight and local movement control.
 
 **2. Weather.**
    - Skies: ________
@@ -75,9 +75,9 @@ REAPER has established three small forward command post positions across AO COTT
 **1. Composition.** Three small REAPER CPs, each 3-4 personnel: 1-2 CP staff (commander and RTO) with radios, maps, and planning materials, plus 2 in hasty fighting positions around the CP. CP staff are not primarily fighters. Total 9-12 combatants distributed across AO COTTO.
 
 **2. Disposition.** REAPER CPs are dispersed across the AO:
-   - OBJ HERRERA (MP 0600 1523): CP element on the north side of Arcadia Street at the junction with Bradenton Avenue. Security fighting positions oriented south and southwest along Bradenton Avenue and east-west along Arcadia Street. Antenna equipment visible above the treeline.
-   - OBJ BAINTON (MP 0602 1565): CP element at the Bradenton / Jacksonville intersection. Security oriented south along Bradenton Avenue and east-west along Jacksonville Street. Dense woods to the north provide cover and a withdrawal route.
-   - OBJ BARLOW (MP 0611 1530): CP element working out of a structure in the Conex City center. Security positioned at entrances and in adjacent structures. Limited observation beyond the immediate built-up area.
+   - A CP element on the north side of Arcadia Street at the junction with Bradenton Avenue (vic MP 0600 1523). Security fighting positions oriented south and southwest along Bradenton Avenue and east-west along Arcadia Street. Antenna equipment visible above the treeline.
+   - A CP element at the Bradenton Avenue / Jacksonville Street intersection (vic MP 0602 1565). Security oriented south along Bradenton Avenue and east-west along Jacksonville Street. Dense woods to the north provide cover and a withdrawal route.
+   - A CP element working out of a structure in the Conex City center (vic MP 0611 1530). Security positioned at entrances and in adjacent structures. Limited observation beyond the immediate built-up area.
    CPs operate independently with no lateral coordination.
 
 **3. Most Probable Course of Action (MPCOA).** Each REAPER CP defends from its current position while CP staff attempt to destroy sensitive materials (maps, documents, encryption) and displace into covered terrain with communications equipment. CPs do not reinforce each other. If the assault is rapid, CP staff may not have time to destroy all materials before being overrun.
@@ -102,7 +102,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon conducts three independent squad deliberate attacks in AO COTTO NLT ____ to destroy REAPER command post positions at OBJ HERRERA (MP 0600 1523), OBJ BAINTON (MP 0602 1565), and OBJ BARLOW (MP 0611 1530), collect intelligence materials, and disrupt REAPER command and control in AO COTTO.
+1st Platoon attacks NLT ____ to destroy REAPER command post positions at OBJ HERRERA (MP 0600 1523), OBJ BAINTON (MP 0602 1565), and OBJ BARLOW (MP 0611 1530) in AO COTTO, collect intelligence materials, and disrupt REAPER command and control in the AO.
 
 ---
 

@@ -56,7 +56,7 @@ Clay County, Florida, in the vicinity of Starke and Highway 16. AO COTTO encompa
 
 **1. Terrain.** Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, ponds, marshes, and wetlands. Vegetation provides concealment and limits long-range observation to under 50 meters off improved roads. Roads and trails serve as likely avenues of approach for both friendly and enemy forces. Terrain and soil conditions may restrict vehicle movement, especially in wet areas.
 
-   - **Key Terrain:** NAI HERRERA (MP 0613 1532) is the northeast building in the Conex City complex and a suspected REAPER occupied position. NAI BARLOW (MP 0602 1565) is the Bradenton Ave / Jacksonville St intersection, a likely movement control point. NAI BAINTON (MP 0575 1524) is the Arcadia St / Clearwater Ave intersection in the southwestern LTA, a potential REAPER OP or transit point. Woodlines surrounding each NAI provide concealed observation positions.
+   - **Key Terrain:** The Conex City northeast building is a suspected REAPER occupied position in the eastern AO. The Bradenton Avenue / Jacksonville Street intersection is a likely movement control point in the northern AO. The Arcadia Street / Clearwater Avenue intersection in the southwestern LTA is a potential REAPER OP or transit point. Woodlines surrounding each location provide concealed observation positions.
 
 **2. Weather.**
    - Skies: ________
@@ -74,9 +74,9 @@ REAPER forces are a lightly armed irregular force operating from small concealed
 **1. Composition.** Three small REAPER elements, each 2-4 personnel with small arms. Total 6-12 combatants distributed across AO COTTO.
 
 **2. Disposition.** REAPER elements are dispersed across the AO:
-   - NAI HERRERA (MP 0613 1532): suspected occupied position in or around the Conex City NE building. May be static defensive or working out of the structure.
-   - NAI BARLOW (MP 0602 1565): suspected OP or movement control element at the Bradenton / Jacksonville intersection. Likely using the surrounding woodline for concealment.
-   - NAI BAINTON (MP 0575 1524): suspected OP at the Arcadia / Clearwater intersection. Likely using vegetation and terrain for concealment.
+   - A suspected occupied position in or around the Conex City northeast building (vic MP 0613 1532). May be static defensive or working out of the structure.
+   - A suspected OP or movement control element at the Bradenton Avenue / Jacksonville Street intersection (vic MP 0602 1565). Likely using the surrounding woodline for concealment.
+   - A suspected OP at the Arcadia Street / Clearwater Avenue intersection (vic MP 0575 1524). Likely using vegetation and terrain for concealment.
    Elements operate independently with no lateral coordination.
 
 **3. Most Probable Course of Action (MPCOA).** Each REAPER element maintains a static position or conducts limited local security patrols. If friendly reconnaissance is detected, the element breaks contact and withdraws rather than engaging decisively. Elements do not reinforce each other.
@@ -101,7 +101,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon conducts three independent squad area reconnaissance missions in AO COTTO NLT ____ to locate REAPER elements at NAI HERRERA (MP 0613 1532), NAI BARLOW (MP 0602 1565), and NAI BAINTON (MP 0575 1524), assess strength and disposition, and report to enable follow-on operations.
+1st Platoon conducts an area reconnaissance NLT ____ at NAI HERRERA (MP 0613 1532), NAI BARLOW (MP 0602 1565), and NAI BAINTON (MP 0575 1524) in AO COTTO to locate REAPER elements, assess strength and disposition, and report to enable follow-on operations.
 
 ---
 

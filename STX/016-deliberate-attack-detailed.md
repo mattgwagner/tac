@@ -56,7 +56,7 @@ Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. AO
 
 **1. Terrain.** The AO consists of flat terrain with sandy soils and dense pine and hardwood forests throughout. Thick vegetation and tree canopy severely limit observation and fields of fire except along improved roads and clearings. Bradenton Avenue runs north-south through the AO. Arcadia Street runs east-west in the south. Clearwater Avenue runs north-south in the west. The improved roads are the primary avenues of approach and the only locations offering extended fields of fire. The woods between and surrounding the roads provide excellent concealment for dismounted movement but restrict visibility to under 50 meters in most areas.
 
-   - **Key Terrain:** OBJ ANVIL (MP 0600 1538) is the Bradenton Ave / unnamed E-W road junction and controls north-south movement through the central portion of the AO. OBJ HAMMER (MP 0575 1524) is the Arcadia St / Clearwater Ave junction and controls movement in the southwestern sector. OBJ FORGE (MP 0607 1555) is on Bradenton Avenue in the vicinity of the FOB north entrance and controls movement into the northern built-up area. Woodlines surrounding each junction provide covered and concealed avenues of approach for dismounted elements.
+   - **Key Terrain:** The Bradenton Avenue / unnamed east-west road junction in the central AO controls north-south movement through that portion of the AO. The Arcadia Street / Clearwater Avenue junction controls movement in the southwestern sector. Bradenton Avenue in the vicinity of the FOB north entrance controls movement into the northern built-up area. Woodlines surrounding each junction provide covered and concealed avenues of approach for dismounted elements.
 
 **2. Weather.**
    - Skies: ________
@@ -74,9 +74,9 @@ REAPER forces occupy three small, independent positions at key road junctions ac
 **1. Composition.** Three small REAPER elements, each 3-4 personnel with small arms in hasty fighting positions. Total 9-12 combatants distributed across AO COTTO.
 
 **2. Disposition.** REAPER elements are dispersed across the AO:
-   - OBJ ANVIL (MP 0600 1538): hasty fighting positions at the Bradenton / unnamed E-W road junction, oriented south and east along the improved roads.
-   - OBJ HAMMER (MP 0575 1524): hasty fighting positions at the Arcadia / Clearwater junction, oriented south along Clearwater Avenue and east along Arcadia Street. Using vegetation for concealment.
-   - OBJ FORGE (MP 0607 1555): hasty fighting positions along Bradenton Avenue near the FOB north entrance, oriented south along the improved road.
+   - Hasty fighting positions at the Bradenton Avenue / unnamed east-west road junction (vic MP 0600 1538), oriented south and east along the improved roads.
+   - Hasty fighting positions at the Arcadia Street / Clearwater Avenue junction (vic MP 0575 1524), oriented south along Clearwater Avenue and east along Arcadia Street. Using vegetation for concealment.
+   - Hasty fighting positions along Bradenton Avenue near the FOB north entrance (vic MP 0607 1555), oriented south along the improved road.
    Elements operate independently with no lateral coordination.
 
 **3. Most Probable Course of Action (MPCOA).** Each REAPER element defends its junction with small arms. If contact is decisive, the element withdraws into covered terrain rather than holding the position. Elements do not reinforce each other.
@@ -101,7 +101,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon conducts three independent squad deliberate attacks in AO COTTO NLT ____ to seize OBJ ANVIL (MP 0600 1538), OBJ HAMMER (MP 0575 1524), and OBJ FORGE (MP 0607 1555), deny REAPER freedom of movement through the key road junctions, and enable follow-on operations.
+1st Platoon attacks NLT ____ to seize OBJ ANVIL (MP 0600 1538), OBJ HAMMER (MP 0575 1524), and OBJ FORGE (MP 0607 1555) in AO COTTO to deny REAPER freedom of movement through the key road junctions and enable follow-on operations.
 
 ---
 
