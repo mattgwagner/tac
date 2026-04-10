@@ -54,7 +54,6 @@ Mission Command versions (for advanced iterations only) are listed separately at
 | # | Mission | Complexity | Description | OPORD |
 |---|---------|-----------|-------------|-------|
 | 004 | [Clear Dismount City](004-clear-dismount-city-detailed.html) | Highest | Clear, seize, and secure urban terrain (OBJ FLUNKER). Building-by-building clearing with assault, support, and security elements. | [view](004-clear-dismount-city-detailed.html) · [kml](004-clear-dismount-city.kml) |
-| 007 | [Forward Passage of Lines](007-forward-passage-of-lines-detailed.html) | Highest | Pass through friendly defensive positions to continue offensive operations. Inter-unit coordination and fratricide prevention. | [view](007-forward-passage-of-lines-detailed.html) · [kml](007-forward-passage-of-lines.kml) |
 
 ### Static Operations
 
@@ -65,11 +64,12 @@ Mission Command versions (for advanced iterations only) are listed separately at
 
 ### Supporting Tasks
 
-Not a mission in its own right — a movement task used to position a force for a subsequent operation. Use as a supplement to the real lanes above when cadre want to train movement techniques on the approach.
+Movement and coordination tasks used to position a force for a subsequent operation, not missions in their own right. Use these only as supplements to the real lanes when cadre specifically want to train these tasks — they are generally better suited to multi-unit exercises like the FLX.
 
 | # | Task | Description | OPORD |
 |---|------|-------------|-------|
 | 009 | [Tactical Road March](009-tactical-road-march-detailed.html) | Tactical movement from assembly area to release point. Point security, main body, and rear security. | [view](009-tactical-road-march-detailed.html) · [kml](009-tactical-road-march.kml) |
+| 007 | [Forward Passage of Lines](007-forward-passage-of-lines-detailed.html) | Pass through friendly defensive positions to continue offensive operations. Inter-unit coordination and fratricide prevention. | [view](007-forward-passage-of-lines-detailed.html) · [kml](007-forward-passage-of-lines.kml) |
 
 ### DSCA Operations (Hurricane Response)
 
