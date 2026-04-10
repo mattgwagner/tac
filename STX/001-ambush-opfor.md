@@ -32,10 +32,10 @@ If the squad leader's plan is solid, it should work. If it's not, cadre will mak
 - **Movement:** South along the unnamed road toward MP 0585 1559 at a relaxed pace, 5-10m spacing
 - **When ambushed:** Return limited fire, take cover briefly, then break contact **north** back up the road. Take "casualties" on cadre call.
 
-## Patrol SOUTHWEST (OBJ TANGO)
+## Patrol SOUTHWEST (OBJ MALZ)
 
 - **Size:** 3-4 personnel
-- **Starting location:** Vicinity MP 0582 1538 (east of OBJ TANGO along the unnamed E-W road)
+- **Starting location:** Vicinity MP 0582 1538 (east of OBJ MALZ along the unnamed E-W road)
 - **Movement:** West along the road toward the Clearwater Ave intersection at MP 0575 1538 at a relaxed pace
 - **When ambushed:** Return limited fire, take cover briefly, then break contact **east** back along the road. Take "casualties" on cadre call.
 

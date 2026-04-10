@@ -13,8 +13,8 @@
 > **Training Focus:** This OPORD is designed to evaluate **individual squad leader planning and decision-making** for a squad-sized deliberate attack to seize key terrain. The PL issues the platoon OPORD, but each squad leader must conduct their own TLP — planning isolation, a support element, an assault element, and actions on the objective. Cadre should assign one evaluator per squad to observe the SL's planning process and tactical decisions.
 >
 > **Destinations:**
-> - 1st Squad → OBJ ANVIL (vic MP 0600 1538) — Bradenton Ave / unnamed E-W road junction
-> - 2nd Squad → OBJ HAMMER (vic MP 0575 1524) — Arcadia St / Clearwater Ave junction
+> - 1st Squad → OBJ MCLELLAN (vic MP 0600 1538) — Bradenton Ave / unnamed E-W road junction
+> - 2nd Squad → OBJ NORRIS (vic MP 0575 1524) — Arcadia St / Clearwater Ave junction
 > - 3rd Squad → OBJ FORGE (vic MP 0607 1555) — Bradenton Ave north, vicinity FOB north entrance
 >
 > **Actions on Objective:** Each squad independently establishes a squad ORP, conducts leader's reconnaissance, sets a squad-internal support element, assaults through the junction, destroys or displaces REAPER forces, and consolidates on the objective. Squads do not depend on or wait for adjacent squads.
@@ -123,14 +123,14 @@ Priority of fires to 3rd Squad. Mortar support is available through company on r
 
 ### d. Tasks to Subordinate Units
 
-**1. 1st Squad (Independent Deliberate Attack — OBJ ANVIL):**
+**1. 1st Squad (Independent Deliberate Attack — OBJ MCLELLAN):**
 
-- **TASK:** Conduct a deliberate attack to seize OBJ ANVIL (MP 0600 1538) at the Bradenton Ave / unnamed E-W road junction. Establish a squad ORP in the woodline west or south of the objective. Conduct leader's reconnaissance. Designate a squad-internal support element to suppress REAPER fighting positions from a covered position south of the junction. Assault through the junction from a covered approach in the western woodline, clearing REAPER positions. Consolidate on the objective with a hasty perimeter oriented north and east. Report.
+- **TASK:** Conduct a deliberate attack to seize OBJ MCLELLAN (MP 0600 1538) at the Bradenton Ave / unnamed E-W road junction. Establish a squad ORP in the woodline west or south of the objective. Conduct leader's reconnaissance. Designate a squad-internal support element to suppress REAPER fighting positions from a covered position south of the junction. Assault through the junction from a covered approach in the western woodline, clearing REAPER positions. Consolidate on the objective with a hasty perimeter oriented north and east. Report.
 - **PURPOSE:** Deny REAPER use of the central Bradenton Avenue junction and enable friendly freedom of movement through the central portion of AO COTTO.
 
-**2. 2nd Squad (Independent Deliberate Attack — OBJ HAMMER):**
+**2. 2nd Squad (Independent Deliberate Attack — OBJ NORRIS):**
 
-- **TASK:** Conduct a deliberate attack to seize OBJ HAMMER (MP 0575 1524) at the Arcadia St / Clearwater Ave junction. Establish a squad ORP in the woodline north or west of the objective. Conduct leader's reconnaissance. Designate a squad-internal support element to suppress REAPER fighting positions from a covered position west of the junction. Assault through the junction from a covered approach, clearing REAPER positions. Consolidate on the objective with a hasty perimeter oriented south and east. Report.
+- **TASK:** Conduct a deliberate attack to seize OBJ NORRIS (MP 0575 1524) at the Arcadia St / Clearwater Ave junction. Establish a squad ORP in the woodline north or west of the objective. Conduct leader's reconnaissance. Designate a squad-internal support element to suppress REAPER fighting positions from a covered position west of the junction. Assault through the junction from a covered approach, clearing REAPER positions. Consolidate on the objective with a hasty perimeter oriented south and east. Report.
 - **PURPOSE:** Deny REAPER use of the southwestern road junction and protect the platoon's western flank during follow-on operations.
 
 **3. 3rd Squad (Independent Deliberate Attack — OBJ FORGE):**

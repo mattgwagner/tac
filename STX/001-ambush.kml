@@ -39,7 +39,7 @@
     </Placemark>
 
     <Placemark>
-      <name>OBJ TANGO (3rd SQD)</name>
+      <name>OBJ MALZ (3rd SQD)</name>
       <description>MP 0575 1538 - Linear ambush site at Clearwater Ave / unnamed road intersection, SW LTA. Small REAPER patrol 3-4 PAX, moving E to W.</description>
       <styleUrl>#style-enemy</styleUrl>
       <Point><coordinates>-81.9767750,29.9656230,0</coordinates></Point>
@@ -65,7 +65,7 @@
 
     <Placemark>
       <name>3rd SQD Ambush (Southwestern)</name>
-      <description>Independent linear ambush at OBJ TANGO. Orient south onto Clearwater Ave. Break contact north to ORP.</description>
+      <description>Independent linear ambush at OBJ MALZ. Orient south onto Clearwater Ave. Break contact north to ORP.</description>
       <styleUrl>#style-friendly</styleUrl>
       <Point><coordinates>-81.9767750,29.9656230,0</coordinates></Point>
     </Placemark>

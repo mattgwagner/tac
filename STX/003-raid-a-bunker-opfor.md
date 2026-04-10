@@ -31,7 +31,7 @@ If the squad leader's plan is solid, it should work. If it's not, cadre will mak
   3. When the assault element closes to within 15m, take "casualties" on cadre call
   4. Leave cache materials behind for the squad to collect
 
-## Node 2 — OBJ WHISKEY (2nd SQD)
+## Node 2 — OBJ KILPATRICK (2nd SQD)
 
 - **Location:** Vicinity MP 0613 1532 (Conex City NE building)
 - **Type:** Small REAPER commo relay / cache
@@ -45,7 +45,7 @@ If the squad leader's plan is solid, it should work. If it's not, cadre will mak
   4. When the assault element reaches the door, take "casualties" on cadre call
   5. Leave the radio and most documents behind — the squad needs the SSE take
 
-## Node 3 — OBJ ZULU (3rd SQD)
+## Node 3 — OBJ WALKER (3rd SQD)
 
 - **Location:** Vicinity MP 0575 1524 (Arcadia St / Clearwater Ave junction)
 - **Type:** Small REAPER OP
