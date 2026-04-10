@@ -120,7 +120,7 @@ A Company locates and engages REAPER forces operating in the woodlines north of 
    - **Contact Report:** Upon first engagement.
    - **SALUTE Report:** Upon each enemy sighting.
    - **SITREP:** Every 15 minutes during the MTC.
-   - **ACE/LACE Report:** Upon return to COP Seggel.
+   - **LACE Report:** Upon return to COP Seggel.
 
 **5. Limit of Advance:** Jacksonville Street (MP 0602 1565). Do not advance beyond without further orders.
 

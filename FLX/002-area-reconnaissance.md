@@ -129,7 +129,7 @@ A Company conducts area reconnaissance of the terrain surrounding COP Seggel NLT
    - **Report to higher when departing COP Seggel.**
    - **SALUTE Report:** Upon each enemy sighting or indicator.
    - **Checkpoint Reports:** Upon reaching key positions within NAIs.
-   - **ACE Report:** Upon return to COP Seggel.
+   - **LACE Report:** Upon return to COP Seggel.
    - **Debrief:** Consolidated reconnaissance report to company upon completion.
 
 **5. Named Areas of Interest:**

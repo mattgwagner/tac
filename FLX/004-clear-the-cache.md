@@ -123,7 +123,7 @@ All squads participate. COP security is notional during this operation.
    - **SALUTE Report:** Upon contact.
    - **Progress Reports:** As each structure/building is cleared.
    - **Objective Secure Report:** When all structures are cleared and cache is located.
-   - **ACE/LACE Report:** Upon consolidation on the objective.
+   - **LACE Report:** Upon consolidation on the objective.
 
 **5. Re-entry to COP Seggel:** Departing and returning elements will coordinate re-entry to COP Seggel using the running password and pre-coordinated recognition signals. The PL must establish link-up procedures with COP Seggel prior to departure and report when approaching the COP perimeter.
 

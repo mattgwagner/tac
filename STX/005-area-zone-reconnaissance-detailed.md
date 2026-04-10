@@ -8,7 +8,7 @@
 >
 > **Complexity:** Lower | **Recommended Phase:** WALK (Blocks 3-4), RUN (Day Iterations)
 >
-> **Mission Summary:** 1st Platoon conducts three independent squad area reconnaissance missions in AO COTTO. Each squad reconnoiters its own Named Area of Interest (NAI) and reports. No coordination across squads is required.
+> **Mission Summary:** 1st Platoon conducts three independent squad area reconnaissance missions in AO COTTO. Each squad reconnoiters its own Named Area of Interest (NAI) and reports.
 >
 > **Training Focus:** This OPORD is designed to evaluate **individual squad leader planning and decision-making**. The PL issues the platoon OPORD, but each squad leader must conduct their own TLP for a squad-sized area reconnaissance — planning a covered/concealed route, observation plan, reporting cycle, and actions on contact. Cadre should assign one evaluator per squad to observe the SL's planning process and tactical decisions.
 >
@@ -172,7 +172,7 @@ Priority of fires to 1st Squad. Fires are limited to self-defense only. Avoid en
    - **LACE Report:** Upon return to friendly lines.
 
 **6. Coordination Between Squads:**
-   - Squads operate independently at their assigned NAIs. Lateral coordination is not required.
+   - Squads operate independently at their assigned NAIs.
    - Squads report contact via SALUTE on the platoon net; adjacent squads monitor but continue their own missions unless directed otherwise by the PL.
    - Squads requiring support request it through the PL.
 

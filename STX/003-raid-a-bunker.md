@@ -8,7 +8,7 @@
 >
 > **Complexity:** Lower to Moderate | **Recommended Phase:** WALK (Blocks 3-4), RUN (Day Iterations)
 >
-> **Mission Summary:** 1st Platoon conducts three independent squad raids on small REAPER nodes in AO HERRERA. Each squad destroys its own small target (OP, cache, or relay); no coordination across squads is required.
+> **Mission Summary:** 1st Platoon conducts three independent squad raids on small REAPER nodes in AO HERRERA. Each squad destroys its own small target (OP, cache, or relay).
 >
 > **Training Focus:** This OPORD is designed to evaluate **individual squad leader planning and decision-making**. The PL issues the platoon OPORD, but each squad leader must conduct their own TLP for a squad-sized raid — planning isolation, support, and assault elements within the squad. Cadre should assign one evaluator per squad to observe the SL's planning process and tactical decisions.
 >
@@ -168,7 +168,7 @@ Priority of fires to 3rd Squad. Mortar support is available through company on r
    - **SALUTE Report:** Upon sighting enemy forces or indicators.
 
 **6. Coordination Between Squads:**
-   - Squads operate independently at their assigned objectives. Lateral coordination is not required.
+   - Squads operate independently at their assigned objectives.
    - Squads report contact via SALUTE on the platoon net; adjacent squads monitor but continue their own missions unless directed otherwise by the PL.
    - Squads requiring support request it through the PL.
 

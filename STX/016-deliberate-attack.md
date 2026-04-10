@@ -160,8 +160,7 @@ None.
    - **Report to higher when SP'ing or crossing the line of departure.**
    - **In Position Report:** Upon occupying the ORP and the SBF position.
    - **SALUTE Report:** Upon visual confirmation of enemy, including the OP.
-   - **ACE Report:** Upon seizure and consolidation on the objective.
-   - **LACE Report:** Upon consolidation.
+   - **LACE Report:** Upon seizure and consolidation on the objective.
 
 **6.** This OPORD is effective immediately upon distribution.
 

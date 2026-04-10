@@ -8,7 +8,7 @@
 >
 > **Complexity:** Moderate | **Recommended Phase:** WALK (Blocks 3-4), RUN (Day Iterations)
 >
-> **Mission Summary:** 1st Platoon conducts three independent squad deliberate attacks against small REAPER command post positions in AO COTTO. Each squad destroys its own CP target and conducts hasty SSE. No coordination across squads is required.
+> **Mission Summary:** 1st Platoon conducts three independent squad deliberate attacks against small REAPER command post positions in AO COTTO. Each squad destroys its own CP target and conducts hasty SSE.
 >
 > **Training Focus:** This OPORD is designed to evaluate **individual squad leader planning and decision-making** for a squad-sized deliberate attack. The PL issues the platoon OPORD, but each squad leader must conduct their own TLP — planning isolation, a support element, an assault element, actions on the objective, and a hasty SSE. Cadre should assign one evaluator per squad to observe the SL's planning process and tactical decisions.
 >
@@ -170,12 +170,11 @@ Priority of fires to 2nd Squad. Mortar support is available through company on r
    - **Report to higher when SP'ing or crossing the line of departure.**
    - **In Position Report:** Upon occupying a squad ORP.
    - **SALUTE Report:** Upon visual confirmation of enemy.
-   - **ACE Report:** Upon seizure and consolidation on the objective.
    - **Intelligence Report:** Upon completion of hasty SSE.
-   - **LACE Report:** Upon consolidation.
+   - **LACE Report:** Upon seizure and consolidation on the objective.
 
 **6. Coordination Between Squads:**
-   - Squads operate independently at their assigned objectives. Lateral coordination is not required.
+   - Squads operate independently at their assigned objectives.
    - Squads report contact via SALUTE on the platoon net; adjacent squads monitor but continue their own missions unless directed otherwise by the PL.
    - Squads requiring support request it through the PL.
 
