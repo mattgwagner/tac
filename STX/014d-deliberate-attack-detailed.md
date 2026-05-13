@@ -1,0 +1,227 @@
+**THIS IS A TRAINING OPERATION ORDER. FOR INSTRUCTIONAL PURPOSES ONLY.**
+
+**References:** ATP 3-21.8, FM 3-90-1, ADRP 1-02
+
+**OPERATIONAL PLAN / ORDER #014D / CODE NAME: "WRAITH HUNT"**
+
+> **CADRE / OPFOR NOTES**
+>
+> **Complexity:** Moderate | **Recommended Phase:** WALK (Blocks 3-4), RUN (Day Iterations)
+>
+> **Mission Summary:** 1st Platoon conducts three independent squad deliberate attacks against WRAITH planning cells in AO CEDAR. Each squad destroys its own WRAITH planning cell and conducts a hasty SSE to recover operational plans and intelligence.
+>
+> **Training Focus:** This OPORD is designed to evaluate **individual squad leader planning and decision-making** for a squad-sized deliberate attack. The PL issues the platoon OPORD, but each squad leader must conduct their own TLP. Cadre should assign one evaluator per squad.
+>
+> **Destinations:**
+> - 1st Squad → OBJ SIGMA (vic MP 0600 1523) — WRAITH planning cell at Arcadia / Bradenton junction
+> - 2nd Squad → OBJ OMEGA (vic MP 0602 1565) — WRAITH planning cell at Bradenton / Jacksonville junction
+> - 3rd Squad → OBJ ALPHA (vic MP 0611 1530) — WRAITH planning cell in Conex City center
+>
+> **Actions on Objective:** Each squad independently establishes a squad ORP, conducts leader's recon, sets a squad-internal support element, assaults through the planning cell, collects operational plans and intelligence materials, and consolidates.
+>
+> **Evaluation Timeline:** 75 min planning / 60 min execution / 15 min AAR.
+>
+> **OPFOR/Training Wrinkles:**
+> - Deploy one WRAITH planning cell (3-4 personnel) per objective: 1-2 planners (at a table/ground with maps, notebooks, operational orders) and 2 security in fighting positions.
+> - Props: annotated operational maps, bound notebooks with "WRAITH operational plans," a field desk or ground cloth with materials spread out.
+> - Planners make a serious attempt to destroy the most sensitive documents — the operational plans are the prize. Cadre decides how much destruction occurs.
+> - Introduce a civilian near one cell to test ROE.
+> - If manning is limited, rotate one OPFOR set across sites between iterations.
+> - See OPFOR Card for full details.
+>
+> **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
+>
+> **See Also:** [LTA Grid Reference](../reference/lta-grid-reference.md)
+>
+> **Iteration Guidance:** This is the detailed version. For later runs, use [014-deliberate-attack.md](014-deliberate-attack.md) instead.
+
+**Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
+
+**Task Organization:**
+
+1st Platoon, A Co. 4th BN-211th INF
+Platoon Leader
+Platoon Sergeant
+1st Squad
+2nd Squad
+3rd Squad
+
+---
+
+## 1. SITUATION
+
+### a. Area of Interest
+Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. AO CEDAR encompasses the area bounded to the north by Highway 16, to the east by the Starke city limits, to the south by the old railroad bed, and to the west by the pine forest edge.
+
+### b. Area of Operations
+
+**1. Terrain.** The AO consists of flat terrain with sandy soils and dense pine and hardwood forests throughout. Thick vegetation and tree canopy severely limit observation and fields of fire except along improved roads and clearings. Bradenton Avenue runs north-south through the AO, intersecting Arcadia Street in the south and Jacksonville Street in the north. Conex City sits on the east side with small structures. Woodlines surrounding each objective provide covered approaches; visibility off improved roads is under 50 meters.
+
+   - **Key Terrain:** The Arcadia Street / Bradenton Avenue junction is occupied by a WRAITH planning cell in the southern AO, using line-of-sight and the road junction for surveillance and reference. The Bradenton / Jacksonville junction hosts the northern planning cell. Conex City provides covered workspace for the eastern cell. All three sites are exploited for concealment and terrain observation.
+
+**2. Weather.**
+   - Skies: ________
+   - Temperature: ____°F (heat cat ____)
+   - Winds: ____ at ____ mph
+   - Chance of precipitation: ____%
+   - BMNT: ____
+   - Sunrise: ____
+   - Sunset: ____
+   - EENT: ____
+
+### c. Enemy Forces. WRAITH: Workers' Revolutionary Army for Independent Territorial Holdings
+WRAITH has established three small planning cells across AO CEDAR, each working to develop operational plans for future WRAITH offensive actions in the region. Each cell includes 1-2 experienced WRAITH planners with maps, operational orders, and intelligence products, plus minimal security. The plans represent WRAITH's intended course of action — capturing them intact would be of significant intelligence value. Security is disciplined and will fight to buy time for planners to destroy sensitive materials.
+
+**1. Composition.** Three small WRAITH planning cells, each 3-4 personnel: 1-2 planners (not primarily fighters) with operational plans and maps, plus 2 security in fighting positions. Total 9-12 combatants distributed across AO CEDAR.
+
+**2. Disposition.** WRAITH planning cells are dispersed across the AO:
+   - A planning cell on the north side of Arcadia Street at the Bradenton Avenue junction (vic MP 0600 1523). Security oriented south and southwest. Cell working from a ground cloth with maps spread out.
+   - A planning cell at the Bradenton Avenue / Jacksonville Street intersection (vic MP 0602 1565). Security oriented south. Dense woods to the north provide a withdrawal route.
+   - A planning cell working inside a Conex City structure (vic MP 0611 1530). Security at entrances; planners working from a table inside.
+   Cells operate independently.
+
+**3. Most Probable Course of Action (MPCOA).** Security defends while planners immediately attempt to destroy the most sensitive operational documents and withdraw. Cells do not reinforce each other. If assault is rapid, planners may not fully destroy materials before being overrun.
+
+**4. Most Dangerous Course of Action (MDCOA).** WRAITH cells detect friendly movement early, fully destroy all operational plans, and successfully withdraw all planning personnel with remaining materials. A WRAITH security element positions to counterattack the assault element at one objective.
+
+### d. Friendly Forces
+
+**1. Higher Headquarters:** A Co. 4th BN – 211th INF.
+
+**2. Mission.** A Company attacks to destroy WRAITH planning cells in AO CEDAR to disrupt WRAITH operational planning and seize plans that reveal WRAITH intentions and future operations.
+
+**3. Commander's Intent.** Destroy WRAITH planning cells across AO CEDAR and capture operational plans to both prevent WRAITH from executing those plans and to gain intelligence on WRAITH's intended future operations.
+
+### e. Civil Considerations
+Civilians may be present near planning cell positions. Avoid civilian casualties and positively identify targets before firing.
+
+### f. Attachments and Detachments
+None.
+
+---
+
+## 2. MISSION
+
+1st Platoon attacks in AO CEDAR NLT ____ in order to destroy WRAITH planning cells and seize operational plans documenting WRAITH intentions throughout the AO.
+
+---
+
+## 3. EXECUTION
+
+### a. Commander's Intent
+
+**Purpose:** Destroy WRAITH planning cells across AO CEDAR and capture operational plans to disrupt WRAITH's planning cycle and gain intelligence on WRAITH's intended future operations.
+
+**Key Tasks:** (1) Each squad destroys the WRAITH planning cell at its assigned objective. (2) Each squad conducts a hasty SSE to collect operational plans, maps, and intelligence products. (3) Squads consolidate and report intelligence gathered.
+
+**End State:** All three WRAITH planning cells destroyed, operational plans and intelligence products collected and reported, squads consolidated and prepared for follow-on operations.
+
+### b. Concept of Operations
+1st Platoon conducts a decentralized deliberate attack on three independent WRAITH planning cells in AO CEDAR. Each squad establishes an ORP, conducts leader's recon, sets a support element, assaults through, conducts hasty SSE, and consolidates. **2nd Squad is the main effort.** Speed is critical — assault before planners can destroy materials. Squads do not wait on adjacent squads.
+
+### c. Scheme of Fires
+Priority of fires to 2nd Squad. Mortar support is available through company on request.
+
+### d. Tasks to Subordinate Units
+
+**1. 1st Squad (Independent Deliberate Attack — OBJ SIGMA):**
+
+- **TASK:** Conduct a deliberate attack to destroy the WRAITH planning cell at OBJ SIGMA (MP 0600 1523). Establish a squad ORP in the woodline west or southwest. Conduct leader's recon. Designate a squad-internal support element to suppress WRAITH security from the south along Bradenton Avenue. Assault east through the objective from the western woodline. Conduct a hasty SSE of operational plans, maps, and intelligence products. Consolidate and report.
+- **PURPOSE:** Destroy WRAITH planning capacity in the southern portion of AO CEDAR and seize operational plans documenting WRAITH's intended operations in that sector.
+
+**2. 2nd Squad (Independent Deliberate Attack — OBJ OMEGA):**
+
+- **TASK:** Conduct a deliberate attack to destroy the WRAITH planning cell at OBJ OMEGA (MP 0602 1565). Establish a squad ORP in the woodline west. Conduct leader's recon. Designate a support element to suppress WRAITH security from the south. Assault east through the objective. Conduct a hasty SSE. Consolidate and report.
+- **PURPOSE:** Destroy WRAITH planning capacity in the northern portion of AO CEDAR and seize operational plans that likely cover WRAITH's highest-priority objectives in the northern sector.
+
+**3. 3rd Squad (Independent Deliberate Attack — OBJ ALPHA):**
+
+- **TASK:** Conduct a deliberate attack to destroy the WRAITH planning cell at OBJ ALPHA (MP 0611 1530) in the Conex City structure. Establish a squad ORP west or south of Conex City. Conduct leader's recon. Designate a support element to suppress WRAITH security and cover structure entrances. Assault through the structure. Conduct a hasty SSE of all planning materials. Consolidate and report.
+- **PURPOSE:** Destroy WRAITH's primary planning cell — the one with the most compiled materials — and seize operational plans documenting WRAITH's comprehensive scheme of maneuver across AO CEDAR.
+
+### e. Coordinating Instructions
+
+**1. Rules of Engagement (ROE):**
+   1. Engage only confirmed enemy combatants.
+   2. Use minimum force necessary to accomplish the mission.
+   3. Avoid civilian casualties and collateral damage.
+   4. Positively identify targets before firing.
+
+**2. Priority Intelligence Requirements (PIR):**
+   1. Confirm WRAITH planning cell locations and security positions.
+   2. Identify WRAITH operational plans, maps with overlays, and annotated documents.
+   3. Determine what terrain and operations WRAITH has been planning from captured materials.
+   4. Assess civilian presence near each objective.
+
+**3. Commander's Critical Information Requirements (CCIR):**
+   1. Enemy strength at any objective significantly different from the estimate
+   2. WRAITH planners observed destroying or removing materials (accelerate assault timeline)
+   3. WRAITH cell displaced before the assault
+   4. WRAITH counterattack element approaching any objective
+   5. Friendly casualty requiring immediate MEDEVAC
+   6. Civilian presence preventing planned actions
+
+**4. Essential Elements of Friendly Information (EEFI):**
+   1. SP/LD times and locations
+   2. Friendly unit positions and boundaries
+   3. Intelligence collected on the objectives
+
+**5. Reporting:**
+   - **Report to higher when SP'ing or crossing the line of departure.**
+   - **In Position Report:** Upon occupying a squad ORP.
+   - **SALUTE Report:** Upon visual confirmation of enemy.
+   - **Intelligence Report:** Upon completion of hasty SSE — report all plans and materials recovered.
+   - **LACE Report:** Upon seizure and consolidation.
+
+**6. Coordination Between Squads:**
+   - Squads operate independently at assigned objectives.
+   - Squads report contact via SALUTE on the platoon net.
+   - Squads requiring support request it through the PL.
+
+**7.** This OPORD is effective immediately upon distribution.
+
+---
+
+## 4. SUSTAINMENT
+
+### a. Logistics
+1. Resupply not available for 24 hours.
+2. Meal Cycle: M-M-M.
+3. Water resupply is available at the PLT CP.
+4. Ensure adequate hydration prior to SP.
+
+### b. Health System Support
+1. PLT CCP at PLT Assembly Area.
+2. MEDEVAC available via Nine Line request at AXP 1 (MP 0610 1550).
+
+---
+
+## 5. COMMAND AND SIGNAL
+
+### a. Command
+1. Platoon Leader monitors from a position that maintains communications with all squads.
+2. Succession of Command: PL, PSG, 1st SL, 2nd SL, 3rd SL.
+
+### b. Control
+1. Command Posts: Platoon Assembly Area IVO _______.
+
+### c. Signal
+
+**1. PACE Plan:**
+   - Primary: Radio — 36.775 SC/PT (Platoon Net)
+   - Alternate: Radio — 36.575 SC/PT (Company Net)
+   - Contingency: Red star cluster (pre-planned signal: shift/lift fires)
+   - Emergency: Runner
+
+**2. Call Signs:**
+   - PL – Hunter 1-6
+   - PSG – Hunter 1-7
+   - 1st Squad Leader – Hunter 1-1
+   - 2nd Squad Leader – Hunter 1-2
+   - 3rd Squad Leader – Hunter 1-3
+
+**3. Challenge, Password, Running Password, Combination:**
+   - Challenge: Raven
+   - Password: Wing
+   - Running Password: Blanding
+   - Combination: 11

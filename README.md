@@ -10,6 +10,7 @@ All content is written in GitHub Flavored Markdown and automatically converted t
 - [STX Evaluation Lanes](#stx-evaluation-lanes)
   - [CRAWL Phase Training](#crawl-phase-training)
   - [Evaluated Missions (Wooded Terrain)](#evaluated-missions-wooded-terrain)
+  - [Scenario Variants (B/C/D)](#scenario-variants-bcd)
   - [MOUT Training Scenarios](#mout-training-scenarios)
   - [Static Operations](#static-operations)
   - [Supporting Tasks](#supporting-tasks)
@@ -51,6 +52,36 @@ OPORDs used as classroom walkthroughs for the CRAWL phase of TLP training. Instr
 | 005 | [Area/Zone Reconnaissance](005-area-zone-reconnaissance-detailed.html) | Lower | Locate and assess REAPER positions without decisive engagement. Two recon elements plus ORP security/QRF. | [view](005-area-zone-reconnaissance-detailed.html) | [kml](005-area-zone-reconnaissance.kml) | — |
 | 016 | [Seize the Crossroads](016-deliberate-attack-detailed.html) | Moderate | Deliberate attack to seize a road junction. SBF, assault from covered approach, and security isolation. | [view](016-deliberate-attack-detailed.html) | — | [card](016-deliberate-attack-opfor.html) |
 | 014 | [Deliberate Attack on Enemy CP](014-deliberate-attack-detailed.html) | Moderate | Deliberate attack to destroy a REAPER forward command post. Assault, SBF, security, and hasty SSE of the CP site post-seizure. | [view](014-deliberate-attack-detailed.html) | [kml](014-deliberate-attack.kml) | [card](014-deliberate-attack-opfor.html) |
+
+### Scenario Variants (B/C/D)
+
+Each of the six evaluated lanes has three alternate versions — B, C, and D — with different enemy factions and scenario framings. The tactical operation type is identical to the base mission; only the enemy narrative, AO name, objectives, and callsigns change. Use these to issue different OPORDs to each squad rotation in the same training weekend without repeating the same situation.
+
+The three factions used across all variants:
+- **COBRA** (Covert Border Resistance Army) — disciplined, network-focused, withdraws methodically when assaulted
+- **VIPER** (Vanguard Irregulars of the People's Emergency Republic) — aggressive militia, fights hard and advances before breaking contact
+- **WRAITH** (Workers' Revolutionary Army for Independent Territorial Holdings) — sophisticated paramilitary, patient, preserves force, disengages silently
+
+| Mission | Variant | Code Name | Enemy / Scenario | OPORD | OPFOR |
+|---|---|---|---|---|---|
+| 001 Ambush | B | DARBY'S RAIDERS | COBRA courier teams, AO KINGSLEY | [view](001b-ambush-detailed.html) | [card](001b-ambush-opfor.html) |
+| 001 Ambush | C | SKY MARSHAL | VIPER arms smuggling teams, AO CLAY | [view](001c-ambush-detailed.html) | [card](001c-ambush-opfor.html) |
+| 001 Ambush | D | GHOST HUNTER | WRAITH reconnaissance teams, AO ARCHER | [view](001d-ambush-detailed.html) | [card](001d-ambush-opfor.html) |
+| 002 Movement to Contact | B | COLD STEEL | COBRA logistics cells / forward caches, AO PUTNAM | [view](002b-movement-to-contact-detailed.html) | [card](002b-movement-to-contact-opfor.html) |
+| 002 Movement to Contact | C | STORM FRONT | VIPER blocking positions, AO ORANGE | [view](002c-movement-to-contact-detailed.html) | [card](002c-movement-to-contact-opfor.html) |
+| 002 Movement to Contact | D | ROLLING THUNDER | WRAITH security screening elements, AO STEELE | [view](002d-movement-to-contact-detailed.html) | [card](002d-movement-to-contact-opfor.html) |
+| 003 Raid | B | CLEAN SWEEP | COBRA comms / coordination nodes, AO STARKE | [view](003b-raid-a-bunker-detailed.html) | [card](003b-raid-a-bunker-opfor.html) |
+| 003 Raid | C | CACHE HUNT | VIPER weapons cache sites, AO BAKER | [view](003c-raid-a-bunker-detailed.html) | [card](003c-raid-a-bunker-opfor.html) |
+| 003 Raid | D | RAPID STRIKE | WRAITH intelligence collection nodes, AO CEDAR | [view](003d-raid-a-bunker-detailed.html) | [card](003d-raid-a-bunker-opfor.html) |
+| 005 Reconnaissance | B | SILENT STALK | COBRA logistics staging elements, AO KINGSLEY | [view](005b-area-zone-reconnaissance-detailed.html) | [card](005b-area-zone-reconnaissance-opfor.html) |
+| 005 Reconnaissance | C | SHADOW RECON | VIPER staging elements, AO CLAY | [view](005c-area-zone-reconnaissance-detailed.html) | [card](005c-area-zone-reconnaissance-opfor.html) |
+| 005 Reconnaissance | D | DEEP RECON | WRAITH OP construction elements, AO ARCHER | [view](005d-area-zone-reconnaissance-detailed.html) | [card](005d-area-zone-reconnaissance-opfor.html) |
+| 014 Deliberate Attack on CP | B | IRON FIST | COBRA coordination centers, AO STARKE | [view](014b-deliberate-attack-detailed.html) | [card](014b-deliberate-attack-opfor.html) |
+| 014 Deliberate Attack on CP | C | VIPER STRIKE | VIPER leadership elements + bodyguards, AO BAKER | [view](014c-deliberate-attack-detailed.html) | [card](014c-deliberate-attack-opfor.html) |
+| 014 Deliberate Attack on CP | D | WRAITH HUNT | WRAITH planning cells / operational plans, AO CEDAR | [view](014d-deliberate-attack-detailed.html) | [card](014d-deliberate-attack-opfor.html) |
+| 016 Seize the Crossroads | B | HARD CONTACT | COBRA checkpoint / interdiction teams, AO PUTNAM | [view](016b-deliberate-attack-detailed.html) | [card](016b-deliberate-attack-opfor.html) |
+| 016 Seize the Crossroads | C | IRON ROAD | VIPER reinforced blocking force + RPK, AO ORANGE | [view](016c-deliberate-attack-detailed.html) | [card](016c-deliberate-attack-opfor.html) |
+| 016 Seize the Crossroads | D | FINAL PUSH | WRAITH security cordon elements, AO STEELE | [view](016d-deliberate-attack-detailed.html) | [card](016d-deliberate-attack-opfor.html) |
 
 ### MOUT Training Scenarios
 
