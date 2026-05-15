@@ -8,29 +8,22 @@
 >
 > **Complexity:** Higher | **Recommended Phase:** RUN (Night Iterations - Coaching Focus)
 >
-> **Mission Summary:** A Company is tasked to establish and occupy a patrol base in AO COTTO to conduct continuous operations, provide area security, and enable sustainment for follow-on missions. Three platoons execute distinct tasks: patrol base defense, forward screening, and company reserve.
+> **Training Focus:** Emphasizes company-level synchronization, echeloning security across multiple platoons, employment of a reserve, and coordination between elements with different missions. Candidates playing CO must manage fire support coordination between the screen and the patrol base, screen withdrawal procedures, and QRF employment criteria. Ideal for night iterations or planning-only TLP practice. Assign one evaluator per platoon.
 >
-> **Destination:** Patrol Base (PB) THUNDER, vicinity MP 0580 1520, AO COTTO, NLT ____.
->
-> **Actions on Objective:** Company conducts a leader's reconnaissance, occupies the patrol base with a deliberate occupation technique, establishes a screening element forward of the base on likely avenues of approach, and maintains a reserve / QRF within the perimeter. The company executes patrol base activities including security patrols, maintenance, and planning for follow-on operations.
->
-> **Training Focus:** This OPORD emphasizes company-level synchronization, echeloning security across multiple platoons, employment of a reserve, and coordination between elements with different missions. Candidates playing CO must manage fire support coordination between the screen and the patrol base, screen withdrawal procedures, and QRF employment criteria. Ideal for night training iterations or as a planning-only exercise for TLP practice.
->
-> **Evaluation Timeline:** For evaluated iterations, candidates will receive this OPORD and have 75 minutes to complete TLP Steps 1-8 before SP. Execution window is 60 minutes. AAR is 15 minutes.
+> **Evaluation Timeline:** 75 min for TLP Steps 1-8 before SP. 60 min execution window. 15 min AAR.
 >
 > **OPFOR/Training Wrinkles:**
-> - Probe the screen line first to test whether early warning reaches the patrol base and the CO reacts appropriately.
-> - Test QRF employment: simulate a penetration requiring 3rd Platoon to reinforce or counterattack.
-> - Simulate compromise of an OP requiring 2nd Platoon to displace or 3rd Platoon to react.
-> - Introduce an intelligence update requiring the CO to adjust platoon boundaries or reposition the screen.
-> - Test ability to coordinate 2nd Platoon's withdrawal through 1st Platoon's positions under pressure.
-> - Introduce resupply, casualty evacuation, or personnel issues during occupation.
+> - Probe the screen line first to test early warning to the patrol base and CO reaction.
+> - QRF employment: penetration requiring 3rd Platoon to reinforce or counterattack.
+> - OP compromise requiring 2nd Platoon to displace or 3rd Platoon to react.
+> - Intelligence update requiring the CO to adjust platoon boundaries or reposition the screen.
+> - 2nd Platoon's withdrawal through 1st Platoon's positions under pressure.
+> - Resupply, casualty evacuation, or personnel issues during occupation.
+> - UAS/Counter-UAS injects are OPTIONAL and only if authorized by the Commandant and in the approved POI.
 >
-> **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
+> **Iteration Guidance:** Mission command version — platoon tasks state outcomes without prescribing layout or positioning. Squad leaders within each platoon develop their own schemes of maneuver.
 >
 > **See Also:** [LTA Grid Reference](../reference/lta-grid-reference.md) | [Patrol Base Operations (Platoon)](008-patrol-base-operations.md)
->
-> **Iteration Guidance:** This is the mission command version — platoon tasks state outcomes without prescribing specific positioning or movement. Squad leaders within each platoon develop their own schemes of maneuver.
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 
@@ -49,13 +42,13 @@ First Sergeant (1SG)
 ## 1. SITUATION
 
 ### a. Area of Interest
-The Camp Blanding LTA, Clay County, Florida. AO COTTO covers the southwestern LTA — PB THUNDER (MP 0580 1520) and the surrounding company screen line, bounded north by the unnamed east-west road, east by Bradenton Avenue, south by the LTA perimeter beyond Arcadia Street, and west by Clearwater Avenue (vicinity MP 0570 1515 to MP 0605 1545). The area of interest extends north toward the FOB at MP 0610 1550, east across Bradenton Avenue into the central LTA, and south of Arcadia Street into the broader Camp Blanding training area — the corridors REAPER patrols could use to compromise the patrol base or push past the company screen.
+AO COTTO covers the southwestern Camp Blanding LTA — PB THUNDER (MP 0580 1520) and the surrounding company screen line (vic MP 0570 1515 to MP 0605 1545). Area of interest extends north toward the FOB at MP 0610 1550, east across Bradenton Ave into the central LTA, and south of Arcadia St into the broader training area — the corridors REAPER patrols could use to compromise the patrol base or push past the company screen.
 
 ### b. Area of Operations
 
-**1. Terrain.** The Camp Blanding LTA is a road-bounded sector of the training area, roughly 1,200m east-west by 550m north-south, set in flat sandy-soil pine and hardwood forest. An improved road grid frames the LTA: Bradenton Avenue (N-S) runs through the center, Clearwater Avenue (N-S) bounds the west, Arcadia Street (E-W) bounds the south, and Jacksonville Street (E-W) bounds the north. Two unnamed roads — one N-S in the western LTA and one E-W through the interior — subdivide the woodlines. The FOB sits at MP 0610 1550 in the northeast; Conex City sits at MP 0611 1530 in the southeast. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors, so the road grid provides the only extended fields of fire and the primary mounted avenues of approach. Sandy soil supports dismounted movement everywhere but restricts wheeled traffic to the roads, particularly after rain. The unnamed east-west road and Bradenton Avenue frame the northern and eastern company screen sectors.
+**1. Terrain.** The Camp Blanding LTA is a road-bounded ~1,200m × 550m sector of flat sandy-soil pine and hardwood forest. Improved road grid: Bradenton Ave (N-S, center), Clearwater Ave (N-S, west), Arcadia St (E-W, south), Jacksonville St (E-W, north); two unnamed roads (one N-S in the western LTA, one E-W through the interior) subdivide the woodlines. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors, so the road grid provides the only extended fields of fire. Sandy soil supports dismounted movement everywhere but restricts wheeled traffic to roads. The unnamed E-W road and Bradenton Ave frame the northern and eastern company screen sectors. See [LTA Grid Reference](../reference/lta-grid-reference.md) for full terrain notes.
 
-   - **Key Terrain:** The planned patrol base site at MP 0580 1520 offers good concealment, defensible terrain, and access to covered withdrawal routes. The surrounding woodlines provide observation points for early warning. A small creek to the south provides a water source but may also canalize enemy approach. Elevated ground to the north offers observation of likely enemy avenues of approach and is suitable for screening element observation posts. Trail junctions on the northern and eastern avenues of approach provide natural positions for screening operations.
+   - **Key Terrain:** Planned patrol base site at MP 0580 1520 (concealment, defensible terrain, covered withdrawal routes). Surrounding woodlines provide observation points for early warning. Small creek to the south is a water source but may canalize enemy approach. Elevated ground to the north offers observation of likely avenues of approach and is suitable for screening OPs. Trail junctions on the northern and eastern avenues of approach provide natural screening positions.
 
 **2. Weather.**
    - Skies: ________

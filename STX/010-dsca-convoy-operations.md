@@ -8,23 +8,21 @@
 >
 > **Complexity:** Moderate | **Recommended Phase:** WALK (Blocks 2-3), RUN (Day Iterations)
 >
-> **Mission Summary:** A Company conducts logistics convoy operations from Camp Blanding Joint Training Center to Bay County, FL to deliver emergency relief supplies in support of Hurricane DELTA relief operations. 1st Platoon is tasked to execute the convoy.
+> **Training Focus:** Company-level OPORD. Candidates receive this as the 1st Platoon Leader and conduct TLP to plan their platoon's execution. Focus areas: route planning, convoy organization, contingency planning, and decision-making in degraded infrastructure environments.
 >
-> **Training Focus:** This is a COMPANY-LEVEL OPORD. Candidates receive this order as the 1st Platoon Leader and must conduct TLP to plan their platoon's execution of the convoy mission. Focus areas include route planning, convoy organization, contingency planning, and decision-making in degraded infrastructure environments.
->
-> **Evaluation Timeline:** Candidates will receive this OPORD and have 75 minutes to complete TLP Steps 1-8. Candidates will brief their platoon order to cadre. This is a planning exercise only.
+> **Evaluation Timeline:** 75 min for TLP Steps 1-8. Candidates brief their platoon order to cadre. Planning exercise only.
 >
 > **Training Wrinkles (for candidate planning consideration):**
-> - Power outages causing traffic signals to be inoperable.
+> - Power outages with inoperable traffic signals.
 > - Fuel stations empty or inoperable due to civilian run on fuel.
-> - Blocked routes requiring immediate rerouting decisions.
+> - Blocked routes requiring immediate rerouting.
 > - Vehicle breakdown requiring recovery procedures.
 > - Civilians flagging down convoy requesting assistance.
 > - Debris on roadway requiring clearance or bypass.
 > - Communication dead zones.
 > - Evacuee traffic causing congestion on primary routes.
 >
-> **NOTE:** This is a DSCA operation. There is no enemy threat.
+> **NOTE:** DSCA operation — no enemy threat.
 
 **CLASSIFICATION: UNCLASSIFIED // FOR TRAINING USE ONLY**
 

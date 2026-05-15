@@ -8,31 +8,21 @@
 >
 > **Complexity:** Lower to Moderate | **Recommended Phase:** WALK (Blocks 3-4), RUN (Day Iterations)
 >
-> **Mission Summary:** 1st Platoon conducts three independent squad raids on small REAPER nodes in AO HERRERA. Each squad destroys its own small target (OP, cache, or relay).
+> **Training Focus:** Evaluates **individual squad leader planning and decision-making**. The PL issues the platoon OPORD; each SL conducts their own TLP for a squad-sized raid — isolation, support, and assault elements within the squad. Assign one evaluator per squad.
 >
-> **Training Focus:** This OPORD is designed to evaluate **individual squad leader planning and decision-making**. The PL issues the platoon OPORD, but each squad leader must conduct their own TLP for a squad-sized raid — planning isolation, support, and assault elements within the squad. Cadre should assign one evaluator per squad to observe the SL's planning process and tactical decisions.
->
-> **Destinations:**
-> - 1st Squad → OBJ COTTO (vic MP 0600 1538) — small REAPER OP/cache at Bradenton intersection
-> - 2nd Squad → OBJ WHISKEY (vic MP 0613 1532) — small commo relay/cache in Conex City NE building
-> - 3rd Squad → OBJ ZULU (vic MP 0575 1524) — small REAPER OP at Arcadia / Clearwater intersection
->
-> **Actions on Objective:** Each squad independently moves to its own objective, destroys the small REAPER node (2-4 personnel), and consolidates. Squads do not depend on or wait for adjacent squads.
->
-> **Evaluation Timeline:** For evaluated iterations, candidates will receive this OPORD and have 75 minutes to complete TLP Steps 1-8 before SP. Execution window is 60 minutes. AAR is 15 minutes.
+> **Evaluation Timeline:** 75 min for TLP Steps 1-8 before SP. 60 min execution window. 15 min AAR.
 >
 > **OPFOR/Training Wrinkles:**
-> - Deploy one small REAPER node (2-4 personnel) per objective, operating independently.
+> - One small REAPER node (2-4 personnel) per objective, operating independently.
 > - Each node is a small OP, cache, or relay — NOT a fortified bunker. Squad-sized raid, not platoon.
-> - Introduce a civilian or non-combatant at one site to test ROE.
+> - Introduce a civilian at one site to test ROE.
 > - Cadre may inject counter-recon, early detection, or equipment malfunctions per site.
 > - If manning is limited, rotate one OPFOR team across sites between iterations.
+> - UAS/Counter-UAS injects are OPTIONAL and only if authorized by the Commandant and in the approved POI.
 >
-> **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
+> **Iteration Guidance:** Mission command version — squad tasks state outcomes without prescribing layout or positioning. For scaffolded iterations, use [003-raid-a-bunker-detailed.md](003-raid-a-bunker-detailed.md).
 >
 > **See Also:** [LTA Grid Reference](../reference/lta-grid-reference.md)
->
-> **Iteration Guidance:** This is the mission command version — squad tasks state outcomes without prescribing specific positioning or movement. For the first iteration with a new class or candidates who need additional scaffolding, use [003-raid-a-bunker-detailed.md](003-raid-a-bunker-detailed.md) instead.
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 
@@ -50,13 +40,13 @@ Platoon Sergeant
 ## 1. SITUATION
 
 ### a. Area of Interest
-The Camp Blanding LTA, Clay County, Florida. AO HERRERA is the Bradenton Avenue corridor between Arcadia Street (south) and Jacksonville Street (north), bounded west by Clearwater Avenue and east by the FOB and Conex City perimeters (vicinity MP 0575 1523 to MP 0615 1565). The area of interest extends north along Bradenton Avenue past Jacksonville Street, where REAPER could reinforce the bunker after contact, and south of Arcadia Street into the broader training area — the likely REAPER withdrawal corridor.
+AO HERRERA occupies the Bradenton Ave corridor of the Camp Blanding LTA (vic MP 0575 1523 to MP 0615 1565), bounded by Jacksonville St (N), Arcadia St (S), Clearwater Ave (W), and the FOB/Conex City perimeters (E). Area of interest extends north past Jacksonville St (potential REAPER reinforcement) and south of Arcadia St (likely withdrawal corridor).
 
 ### b. Area of Operations
 
-**1. Terrain.** The Camp Blanding LTA is a road-bounded sector of the training area, roughly 1,200m east-west by 550m north-south, set in flat sandy-soil pine and hardwood forest. An improved road grid frames the LTA: Bradenton Avenue (N-S) runs through the center, Clearwater Avenue (N-S) bounds the west, Arcadia Street (E-W) bounds the south, and Jacksonville Street (E-W) bounds the north. Two unnamed roads — one N-S in the western LTA and one E-W through the interior — subdivide the woodlines. The FOB sits at MP 0610 1550 in the northeast; Conex City sits at MP 0611 1530 in the southeast. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors, so the road grid provides the only extended fields of fire and the primary mounted avenues of approach. Sandy soil supports dismounted movement everywhere but restricts wheeled traffic to the roads, particularly after rain.
+**1. Terrain.** The Camp Blanding LTA is a road-bounded ~1,200m × 550m sector of flat sandy-soil pine and hardwood forest. Improved road grid: Bradenton Ave (N-S, center), Clearwater Ave (N-S, west), Arcadia St (E-W, south), Jacksonville St (E-W, north); two unnamed roads (one N-S in the western LTA, one E-W through the interior) subdivide the woodlines. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors, so the road grid provides the only extended fields of fire. Sandy soil supports dismounted movement everywhere but restricts wheeled traffic to roads. See [LTA Grid Reference](../reference/lta-grid-reference.md) for full terrain notes.
 
-   - **Key Terrain:** The Bradenton Avenue / unnamed east-west road intersection is a key crossroads in the central AO. The Conex City northeast building provides cover and concealment in the eastern built-up area. The Arcadia Street / Clearwater Avenue junction in the southwestern AO controls movement through that sector. Woodlines surrounding each location provide concealed avenues of approach for dismounted elements.
+   - **Key Terrain:** Bradenton Ave / unnamed E-W road intersection (central crossroads); Conex City NE building (cover/concealment in the eastern built-up area, MP 0611 1530); Arcadia St / Clearwater Ave junction (controls southwestern movement). Surrounding woodlines provide concealed dismounted approaches to each.
 
 **2. Weather.**
    - Skies: ________

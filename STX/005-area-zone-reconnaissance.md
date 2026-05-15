@@ -8,28 +8,21 @@
 >
 > **Complexity:** Lower | **Recommended Phase:** WALK (Blocks 1-2), RUN (Day Iterations)
 >
-> **Mission Summary:** 1st Platoon is tasked to conduct an area reconnaissance in AO COTTO to locate REAPER positions, assess REAPER strength and disposition, and identify key terrain features.
+> **Training Focus:** Early TLP training — simpler mission focus lets candidates concentrate on planning products, reconnaissance fundamentals, and reporting without the complexity of direct engagement. Assign one evaluator per squad.
 >
-> **Destination:** AO COTTO, central and eastern Camp Blanding LTA — bounded by Jacksonville Street (north), Arcadia Street (south), Conex City and FOB perimeter (east), and Bradenton Avenue (west). Focus area around suspected REAPER position at MP 0613 1532 (Conex City NE building).
->
-> **Actions on Objective:** Platoon will establish an ORP, conduct reconnaissance of the area using zone or area reconnaissance techniques, collect intelligence on enemy positions and activities, and report findings to higher headquarters.
->
-> **Training Focus:** This OPORD is ideal for early TLP training due to its simpler mission focus. Candidates can concentrate on planning products, reconnaissance fundamentals, and reporting without the added complexity of direct engagement.
->
-> **Evaluation Timeline:** For evaluated iterations, candidates will receive this OPORD and have 75 minutes to complete TLP Steps 1-8 before SP. Execution window is 60 minutes. AAR is 15 minutes.
+> **Evaluation Timeline:** 75 min for TLP Steps 1-8 before SP. 60 min execution window. 15 min AAR.
 >
 > **OPFOR/Training Wrinkles:**
 > - Enemy may be static in defensive positions or mobile in small patrols.
-> - Introduce false indicators or decoy positions to test candidate's analytical skills.
-> - OPFOR may detect friendly reconnaissance and attempt to counter-recon or withdraw.
-> - Cadre can inject time constraints, weather changes, or equipment failures.
+> - False indicators or decoy positions to test analytical skills.
+> - OPFOR may detect friendly reconnaissance and attempt counter-recon or withdrawal.
+> - Cadre may inject time constraints, weather changes, or equipment failures.
 > - Test ability to avoid detection while gathering intelligence.
+> - UAS/Counter-UAS injects are OPTIONAL and only if authorized by the Commandant and in the approved POI.
 >
-> **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
+> **Iteration Guidance:** Mission command version — squad tasks state outcomes without prescribing layout or positioning. For scaffolded iterations, use [005-area-zone-reconnaissance-detailed.md](005-area-zone-reconnaissance-detailed.md).
 >
 > **See Also:** [LTA Grid Reference](../reference/lta-grid-reference.md)
->
-> **Iteration Guidance:** This is the mission command version — squad tasks state outcomes without prescribing specific positioning or movement. For the first iteration with a new class or candidates who need additional scaffolding, use [005-area-zone-reconnaissance-detailed.md](005-area-zone-reconnaissance-detailed.md) instead.
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 
@@ -47,13 +40,13 @@ Platoon Sergeant
 ## 1. SITUATION
 
 ### a. Area of Interest
-The Camp Blanding LTA, Clay County, Florida. AO COTTO covers the central and eastern LTA, with suspected REAPER activity centered on Conex City northeast building (MP 0613 1532), bounded north by Jacksonville Street, east by Conex City and the FOB perimeter, south by Arcadia Street, and west by Bradenton Avenue (vicinity MP 0600 1525 to MP 0615 1565). The area of interest extends west across Bradenton Avenue and south of Arcadia Street into the woodlines that connect the eastern LTA to suspected REAPER support positions and lines of communication outside the AO.
+AO COTTO covers the central and eastern Camp Blanding LTA (vic MP 0600 1525 to MP 0615 1565), with suspected REAPER activity centered on the Conex City NE building (MP 0613 1532). Area of interest extends west across Bradenton Ave and south of Arcadia St into the woodlines that connect to suspected REAPER support positions and lines of communication outside the AO.
 
 ### b. Area of Operations
 
-**1. Terrain.** The Camp Blanding LTA is a road-bounded sector of the training area, roughly 1,200m east-west by 550m north-south, set in flat sandy-soil pine and hardwood forest. An improved road grid frames the LTA: Bradenton Avenue (N-S) runs through the center, Clearwater Avenue (N-S) bounds the west, Arcadia Street (E-W) bounds the south, and Jacksonville Street (E-W) bounds the north. Two unnamed roads — one N-S in the western LTA and one E-W through the interior — subdivide the woodlines. The FOB sits at MP 0610 1550 in the northeast; Conex City sits at MP 0611 1530 in the southeast. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors, so the road grid provides the only extended fields of fire and the primary mounted avenues of approach. Sandy soil supports dismounted movement everywhere but restricts wheeled traffic to the roads, particularly after rain.
+**1. Terrain.** The Camp Blanding LTA is a road-bounded ~1,200m × 550m sector of flat sandy-soil pine and hardwood forest. Improved road grid: Bradenton Ave (N-S, center), Clearwater Ave (N-S, west), Arcadia St (E-W, south), Jacksonville St (E-W, north); two unnamed roads (one N-S in the western LTA, one E-W through the interior) subdivide the woodlines. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors, so the road grid provides the only extended fields of fire. Sandy soil supports dismounted movement everywhere but restricts wheeled traffic to roads. See [LTA Grid Reference](../reference/lta-grid-reference.md) for full terrain notes.
 
-   - **Key Terrain:** The suspected REAPER position at MP 0613 1532 is the focus of reconnaissance. The area north and south of the objective is relatively open, limiting observation positions. Woodlines to the east and west provide concealment for reconnaissance elements approaching the objective.
+   - **Key Terrain:** Suspected REAPER position at MP 0613 1532 (focus of reconnaissance). Area north and south of the objective is relatively open, limiting observation positions; woodlines east and west provide concealed approach for reconnaissance elements.
 
 **2. Weather.**
    - Skies: ________

@@ -8,26 +8,21 @@
 >
 > **Complexity:** Moderate | **Recommended Phase:** RUN (Day Iterations)
 >
-> **Mission Summary:** 1st Platoon attacks to seize OBJ HERRERA to deny REAPER use of a key road junction and enable follow-on operations.
+> **Training Focus:** Evaluates **individual squad leader planning and decision-making** within a platoon deliberate attack. The PL issues the platoon OPORD; each SL conducts their own TLP for an SBF, assault, or security task. Assign one evaluator per squad.
 >
-> **Destination:** OBJ HERRERA at MP 0600 1523, AO COTTO.
->
-> **Actions on Objective:** Platoon will establish an ORP, conduct leader's reconnaissance, isolate and suppress the objective, assault and seize the road junction, consolidate, and report.
->
-> **Evaluation Timeline:** For evaluated iterations, candidates will receive this OPORD and have 75 minutes to complete TLP Steps 1-8 before SP. Execution window is 60 minutes. AAR is 15 minutes.
+> **Evaluation Timeline:** 75 min for TLP Steps 1-8 before SP. 60 min execution window. 15 min AAR.
 >
 > **OPFOR/Training Wrinkles:**
-> - REAPER OP along Bradenton Ave south of the junction detects the SBF element during occupation — tests candidate's reaction to early detection and ability to adapt the plan.
-> - Civilian foot traffic along Arcadia Street during actions on the objective — tests ROE discipline and fire control measures.
-> - REAPER counterattack from the north through the woodline after the assault begins — tests whether the candidate planned for the MDCOA and positioned the security element effectively.
-> - Fallen tree or wire obstacle across the primary assault route through the woodline — tests adaptability and ability to designate alternate routes under pressure.
-> - REAPER RPK shifts fires from the Bradenton Ave corridor to the assault element's avenue of approach from the west — tests the SBF element's ability to identify and suppress the support weapon.
+> - REAPER OP along Bradenton Ave south of the junction detects the SBF during occupation — tests reaction to early detection and plan adaptation.
+> - Civilian foot traffic along Arcadia St during actions on the objective — tests ROE discipline and fire control.
+> - REAPER counterattack from the north through the woodline after assault begins — tests whether the candidate planned for the MDCOA and positioned security effectively.
+> - Fallen tree or wire obstacle across the primary assault route — tests adaptability and alternate-route designation under pressure.
+> - REAPER RPK shifts fires from Bradenton Ave to the assault element's western avenue of approach — tests SBF's ability to identify and suppress the support weapon.
+> - UAS/Counter-UAS injects are OPTIONAL and only if authorized by the Commandant and in the approved POI.
 >
-> **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
+> **Iteration Guidance:** Mission command version — squad tasks state outcomes without prescribing layout or positioning. For scaffolded iterations, use [016-deliberate-attack-detailed.md](016-deliberate-attack-detailed.md).
 >
 > **See Also:** [LTA Grid Reference](../reference/lta-grid-reference.md)
->
-> **Iteration Guidance:** This is the mission command version — squad tasks state outcomes without prescribing specific positioning or movement. For the first iteration with a new class or candidates who need additional scaffolding, use [016-deliberate-attack-detailed.md](016-deliberate-attack-detailed.md) instead.
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 
@@ -45,13 +40,13 @@ Platoon Sergeant
 ## 1. SITUATION
 
 ### a. Area of Interest
-The Camp Blanding LTA, Clay County, Florida. AO COTTO covers the southern LTA along the Bradenton Avenue and Arcadia Street corridors, with OBJ HERRERA at the Arcadia/Bradenton junction (MP 0600 1523), bounded north by the unnamed east-west road, east by Conex City, south by the LTA perimeter beyond Arcadia Street, and west by Clearwater Avenue (vicinity MP 0570 1515 to MP 0615 1540). The area of interest extends north along Bradenton Avenue past the unnamed east-west road, where REAPER reinforcements would stage, and south of Arcadia Street into the broader training area — the likely REAPER withdrawal corridor.
+AO COTTO covers the southern Camp Blanding LTA along the Bradenton Ave and Arcadia St corridors, with OBJ HERRERA at the Arcadia/Bradenton junction (MP 0600 1523) (vic MP 0570 1515 to MP 0615 1540). Area of interest extends north along Bradenton Ave past the unnamed E-W road (REAPER reinforcement staging) and south of Arcadia St into the broader training area (likely REAPER withdrawal corridor).
 
 ### b. Area of Operations
 
-**1. Terrain.** The Camp Blanding LTA is a road-bounded sector of the training area, roughly 1,200m east-west by 550m north-south, set in flat sandy-soil pine and hardwood forest. An improved road grid frames the LTA: Bradenton Avenue (N-S) runs through the center, Clearwater Avenue (N-S) bounds the west, Arcadia Street (E-W) bounds the south, and Jacksonville Street (E-W) bounds the north. Two unnamed roads — one N-S in the western LTA and one E-W through the interior — subdivide the woodlines. The FOB sits at MP 0610 1550 in the northeast; Conex City sits at MP 0611 1530 in the southeast. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors, so the road grid provides the only extended fields of fire and the primary mounted avenues of approach. Sandy soil supports dismounted movement everywhere but restricts wheeled traffic to the roads, particularly after rain.
+**1. Terrain.** The Camp Blanding LTA is a road-bounded ~1,200m × 550m sector of flat sandy-soil pine and hardwood forest. Improved road grid: Bradenton Ave (N-S, center), Clearwater Ave (N-S, west), Arcadia St (E-W, south), Jacksonville St (E-W, north); two unnamed roads (one N-S in the western LTA, one E-W through the interior) subdivide the woodlines. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors, so the road grid provides the only extended fields of fire. Sandy soil supports dismounted movement everywhere but restricts wheeled traffic to roads. See [LTA Grid Reference](../reference/lta-grid-reference.md) for full terrain notes.
 
-   - **Key Terrain:** The road junction of Arcadia Street and Bradenton Avenue at OBJ HERRERA (MP 0600 1523) controls north-south and east-west movement through AO COTTO. The woodlines surrounding the junction on all sides provide covered and concealed avenues of approach for dismounted elements. Bradenton Avenue south of the junction provides a cleared lane of fire into the objective from the south.
+   - **Key Terrain:** Arcadia St / Bradenton Ave junction at OBJ HERRERA (MP 0600 1523) controls N-S and E-W movement through AO COTTO. Woodlines surrounding the junction provide covered/concealed dismounted approaches. Bradenton Ave south of the junction provides a cleared lane of fire into the objective from the south.
 
 **2. Weather.**
    - Skies: ________

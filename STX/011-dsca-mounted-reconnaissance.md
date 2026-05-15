@@ -8,14 +8,12 @@
 >
 > **Complexity:** Moderate | **Recommended Phase:** WALK (Blocks 2-3), RUN (Day Iterations)
 >
-> **Mission Summary:** A Company conducts mounted reconnaissance operations in Bay County to assess damage, identify hazards, and report conditions to enable follow-on relief operations. 1st Platoon is tasked to reconnoiter the US-231 corridor and Panama City urban area.
+> **Training Focus:** Company-level OPORD. Candidates receive this as the 1st Platoon Leader and conduct TLP to plan their platoon's reconnaissance. Focus areas: reconnaissance planning, systematic observation, accurate reporting, and information management.
 >
-> **Training Focus:** This is a COMPANY-LEVEL OPORD. Candidates receive this order as the 1st Platoon Leader and must conduct TLP to plan their platoon's reconnaissance operations. Focus areas include reconnaissance planning, systematic observation, accurate reporting, and information management.
->
-> **Evaluation Timeline:** Candidates will receive this OPORD and have 75 minutes to complete TLP Steps 1-8. Candidates will brief their platoon order to cadre. This is a planning exercise only.
+> **Evaluation Timeline:** 75 min for TLP Steps 1-8. Candidates brief their platoon order to cadre. Planning exercise only.
 >
 > **Training Wrinkles (for candidate planning consideration):**
-> - Power outages causing traffic signals to be inoperable.
+> - Power outages with inoperable traffic signals.
 > - Fuel stations empty or inoperable.
 > - Blocked routes requiring rerouting and assessment.
 > - Damaged bridges requiring trafficability assessment (GO/NO-GO).
@@ -26,7 +24,7 @@
 > - Local officials requesting immediate reconnaissance of specific areas.
 > - Media presence.
 >
-> **NOTE:** This is a DSCA operation. There is no enemy threat. Reconnaissance focuses on infrastructure and conditions.
+> **NOTE:** DSCA operation — no enemy threat. Reconnaissance focuses on infrastructure and conditions.
 
 **CLASSIFICATION: UNCLASSIFIED // FOR TRAINING USE ONLY**
 
