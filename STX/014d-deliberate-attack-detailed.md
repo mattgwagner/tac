@@ -82,7 +82,7 @@ WRAITH has established three small planning cells across AO CEDAR, each working 
 
 **3. Most Probable Course of Action (MPCOA).** Security defends while planners immediately attempt to destroy the most sensitive operational documents and withdraw. Cells do not reinforce each other. If assault is rapid, planners may not fully destroy materials before being overrun.
 
-**4. Most Dangerous Course of Action (MDCOA).** WRAITH cells detect friendly movement early, fully destroy all operational plans, and successfully withdraw all planning personnel with remaining materials. A WRAITH security element positions to counterattack the assault element at one objective.
+**4. Most Dangerous Course of Action (MDCOA).** WRAITH cells detect friendly movement during leader's reconnaissance. A WRAITH reaction element of squad strength (8-10 personnel) from outside the AO conducts a coordinated counterattack against the assault element at one objective during consolidation and SSE, exploiting the squad's transition from assault to static posture. WRAITH engages the support element from prepared positions in depth to suppress shift fires, isolating the assault element on the objective and forcing casualties before the squad can break contact.
 
 ### d. Friendly Forces
 
@@ -142,10 +142,10 @@ Priority of fires to 2nd Squad. Mortar support is available through company on r
 ### e. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
-   1. Engage only confirmed enemy combatants.
-   2. Use minimum force necessary to accomplish the mission.
-   3. Avoid civilian casualties and collateral damage.
-   4. Positively identify targets before firing.
+   1. Engage identified enemy combatants and positions on the objective with positive identification (PID).
+   2. The support element suppresses identified hostile positions; the assault element engages personnel resisting on the objective on PID.
+   3. Use minimum force necessary; protect noncombatants in and near the objective.
+   4. Transition to controlled, defensive fires upon consolidation; secure detainees and EPWs humanely.
 
 **2. Priority Intelligence Requirements (PIR):**
    1. Confirm WRAITH planning cell locations and security positions.
