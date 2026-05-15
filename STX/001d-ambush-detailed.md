@@ -141,10 +141,10 @@ Priority of fires to 2nd Squad. Mortar support is available through company on r
 ### e. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
-   1. Engage only valid military targets.
-   2. Use minimum force necessary to accomplish the mission.
-   3. Avoid civilian casualties and collateral damage.
-   4. Positively identify targets before firing.
+   1. Initiate engagement in the kill zone only on the squad leader's signal — no premature fire.
+   2. Engage all enemy personnel and vehicles in the kill zone with assigned weapons until cease-fire is signaled.
+   3. Outside the kill zone, engage only on positive identification (PID) of a hostile act or hostile intent; protect noncombatants on shared routes.
+   4. Cease fire on the squad leader's signal; do not pursue past the limit of advance. Secure detainees and EPWs humanely.
 
 **2. Priority Intelligence Requirements (PIR):**
    1. Confirm WRAITH team composition and equipment type at each site.

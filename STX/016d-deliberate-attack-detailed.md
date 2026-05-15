@@ -81,7 +81,7 @@ WRAITH has established a security cordon at three key road junctions across AO S
 
 **3. Most Probable Course of Action (MPCOA).** WRAITH observation posts detect friendly movement, transmit one warning, and withdraw silently north to the main body. The main body returns deliberate, brief fire, then withdraws north into covered terrain before the assault closes. WRAITH accepts no decisive engagement when terrain is the mission — they preserve their force for follow-on screening tasks.
 
-**4. Most Dangerous Course of Action (MDCOA).** WRAITH observation posts detect friendly movement early and pass precise locations to the main body, allowing WRAITH to engage from depth before the friendly squad can establish a support element. WRAITH successfully withdraws all elements before the assault arrives, leaving the objective clear but denying the squad an engagement — and signaling the WRAITH interior.
+**4. Most Dangerous Course of Action (MDCOA).** WRAITH observation posts detect friendly movement during leader's reconnaissance and cue a WRAITH reserve element of squad strength (8-10 personnel) from the interior north of AO STEELE. The reserve counterattacks the most isolated friendly squad during consolidation on the junction while the cordon element fixes the support element from prepared positions in depth to prevent shift fires. WRAITH inflicts casualties, recaptures the junction, and disrupts the platoon's penetration of the cordon before follow-on company forces can exploit.
 
 ### d. Friendly Forces
 
@@ -141,10 +141,10 @@ Priority of fires to 3rd Squad. Mortar support is available through company on r
 ### e. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
-   1. Engage only confirmed enemy combatants.
-   2. Use minimum force necessary to accomplish the mission.
-   3. Avoid civilian casualties and collateral damage.
-   4. Positively identify targets before firing.
+   1. Engage identified enemy combatants and positions on the objective with positive identification (PID).
+   2. The support element suppresses identified hostile positions; the assault element engages personnel resisting on the objective on PID.
+   3. Use minimum force necessary; protect noncombatants at and near road junctions.
+   4. Transition to controlled, defensive fires upon consolidation; secure detainees and EPWs humanely.
 
 **2. Priority Intelligence Requirements (PIR):**
    1. Confirm WRAITH cordon positions, observation post locations, and strength at each junction.

@@ -81,7 +81,7 @@ COBRA has established a distributed communications network across AO STARKE to e
 
 **3. Most Probable Course of Action (MPCOA).** Each COBRA node defends from its current position while operators attempt to transmit a final message and destroy communications equipment and message logs. Nodes do not reinforce each other. If the assault is rapid, operators may not have time to complete destruction before being overrun.
 
-**4. Most Dangerous Course of Action (MDCOA).** COBRA nodes detect friendly movement early and successfully transmit warnings to higher, alerting the entire COBRA network. A COBRA reaction element from an unknown location moves to reinforce one of the nodes. Nodes attempt to relocate communications equipment to a fallback position.
+**4. Most Dangerous Course of Action (MDCOA).** COBRA nodes detect friendly movement during leader's reconnaissance and warn the broader network. A COBRA reaction element of squad strength (8-10 personnel) repositions from outside the AO and counterattacks the most isolated friendly squad during consolidation and SSE, attempting to inflict casualties and recover or destroy communications equipment. Adjacent nodes engage the support element with direct fire from concealed positions in depth to fix it and prevent shift fires onto the counterattack.
 
 ### d. Friendly Forces
 
@@ -141,10 +141,10 @@ Priority of fires to 3rd Squad. Mortar support is available through company on r
 ### e. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
-   1. Engage only confirmed enemy combatants.
-   2. Use graduated response appropriate to the threat.
-   3. Avoid civilian harm and minimize collateral damage.
-   4. Report civilian casualties immediately.
+   1. Engage all armed personnel resisting on the objective with controlled, accurate fire.
+   2. Positive identification (PID) is required for every engagement; do not engage noncombatants, surrendering personnel, or detainees.
+   3. Use minimum force necessary; transition to controlled fires on the assault-complete / limit of advance signal.
+   4. Secure and humanely handle all detainees, EPWs, and recovered materiel.
 
 **2. Priority Intelligence Requirements (PIR):**
    1. Confirm COBRA personnel count and weapons at each node.

@@ -82,7 +82,7 @@ COBRA has established three small distributed coordination centers across AO STA
 
 **3. Most Probable Course of Action (MPCOA).** Each COBRA center defends while operators attempt to destroy message logs, courier schedules, and encryption materials and transmit a warning. Centers do not reinforce each other. A rapid assault may overrun the center before full materials destruction.
 
-**4. Most Dangerous Course of Action (MDCOA).** COBRA centers detect friendly movement early, successfully transmit warnings to all COBRA cells, and destroy sensitive materials before assault elements arrive. A COBRA reaction element rapidly reinforces one objective.
+**4. Most Dangerous Course of Action (MDCOA).** COBRA centers detect friendly movement during leader's reconnaissance and alert all cells. A COBRA reaction element of squad strength (8-10 personnel) repositions from outside the AO and counterattacks the most isolated friendly squad during consolidation on the objective, attempting to inflict casualties and force a withdrawal before SSE is complete. COBRA may cue improvised indirect fire (mortar or RPG) on consolidating squads from concealed positions in depth.
 
 ### d. Friendly Forces
 
@@ -142,10 +142,10 @@ Priority of fires to 2nd Squad. Mortar support is available through company on r
 ### e. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
-   1. Engage only confirmed enemy combatants.
-   2. Use minimum force necessary to accomplish the mission.
-   3. Avoid civilian casualties and collateral damage.
-   4. Positively identify targets before firing.
+   1. Engage identified enemy combatants and positions on the objective with positive identification (PID).
+   2. The support element suppresses identified hostile positions; the assault element engages personnel resisting on the objective on PID.
+   3. Use minimum force necessary; protect noncombatants in and near the objective.
+   4. Transition to controlled, defensive fires upon consolidation; secure detainees and EPWs humanely.
 
 **2. Priority Intelligence Requirements (PIR):**
    1. Confirm COBRA coordination center locations and security positions.

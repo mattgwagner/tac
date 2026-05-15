@@ -141,10 +141,10 @@ Priority of fires to 1st Squad. Fires are limited to self-defense only. Mortar s
 ### e. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
-   1. Avoid engagement unless necessary for self-defense or to break contact.
-   2. Do not compromise the reconnaissance mission unless absolutely necessary.
-   3. Avoid civilian contact and minimize detection.
-   4. Report enemy contact immediately but maintain mission focus on intelligence collection.
+   1. Avoid decisive engagement; engage only in self-defense or to break contact when compromised.
+   2. Stealth, observation, and reporting take priority over engagement at all times.
+   3. Avoid civilian contact; minimize observation of the squad by both OPFOR and civilians.
+   4. Report contact immediately via SALUTE; withdraw to recover and resume the mission whenever feasible.
 
 **2. Priority Intelligence Requirements (PIR):**
    1. Confirm or deny VIPER presence at each NAI.

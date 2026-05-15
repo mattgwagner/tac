@@ -81,7 +81,7 @@ VIPER has established three guarded weapons cache sites across AO BAKER to suppo
 
 **3. Most Probable Course of Action (MPCOA).** Each VIPER guard element defends its cache position with small arms, attempting to hold the site and protect the weapons. Guards fight from their positions and do not attempt to destroy or move the cache. If overrun, remaining VIPER personnel break contact and withdraw. Nodes do not reinforce each other.
 
-**4. Most Dangerous Course of Action (MDCOA).** VIPER guards detect friendly movement and call for a reaction force. A VIPER element from an unknown position moves to reinforce the attacked cache. Guards attempt to move the most valuable cache materials to a fallback position while the assault is in progress.
+**4. Most Dangerous Course of Action (MDCOA).** VIPER guards detect friendly movement and aggressively engage the assault element with massed fire from prepared positions, attempting to break the assault before it closes. A VIPER reaction force of squad strength (8-10 personnel) from outside the AO reinforces the most threatened cache during the assault and envelops the support element from a covered route, attempting to isolate the assault element from its ORP and force decisive engagement on unfavorable terms.
 
 ### d. Friendly Forces
 
@@ -141,10 +141,10 @@ Priority of fires to 3rd Squad. Mortar support is available through company on r
 ### e. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
-   1. Engage only confirmed enemy combatants.
-   2. Use graduated response appropriate to the threat.
-   3. Avoid civilian harm and minimize collateral damage.
-   4. Report civilian casualties immediately.
+   1. Engage all armed personnel resisting on the objective with controlled, accurate fire.
+   2. Positive identification (PID) is required for every engagement; do not engage noncombatants, surrendering personnel, or detainees.
+   3. Use minimum force necessary; transition to controlled fires on the assault-complete / limit of advance signal.
+   4. Secure and humanely handle all detainees, EPWs, and recovered materiel.
 
 **2. Priority Intelligence Requirements (PIR):**
    1. Confirm VIPER guard element composition and weapons at each site.

@@ -142,10 +142,10 @@ Priority of fires to 3rd Squad. Mortar support is available through company on r
 ### e. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
-   1. Engage only confirmed enemy combatants.
-   2. Use minimum force necessary to accomplish the mission.
-   3. Avoid civilian casualties and collateral damage.
-   4. Positively identify targets before firing.
+   1. Engage identified enemy combatants and positions on the objective with positive identification (PID).
+   2. The support element suppresses identified hostile positions; the assault element engages personnel resisting on the objective on PID.
+   3. Use minimum force necessary; protect noncombatants at and near road junctions.
+   4. Transition to controlled, defensive fires upon consolidation; secure detainees and EPWs humanely.
 
 **2. Priority Intelligence Requirements (PIR):**
    1. Confirm COBRA checkpoint team positions and strength at each junction.

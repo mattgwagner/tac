@@ -139,10 +139,10 @@ Priority of fires to 1st Squad. Mortar support is available through company on r
 ### e. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
-   1. Engage only confirmed enemy combatants posing a threat.
-   2. Use graduated response appropriate to the threat.
-   3. Avoid civilian engagement and minimize collateral damage.
-   4. Report civilian casualties immediately.
+   1. Engage on positive identification (PID) of armed combatants committing a hostile act or demonstrating hostile intent.
+   2. Use graduated force — the minimum necessary to achieve the required effect.
+   3. Maintain contact once made; do not break contact without the PL's approval.
+   4. Protect noncombatants in the contact area; report any civilian casualty to higher immediately.
 
 **2. Priority Intelligence Requirements (PIR):**
    1. Confirm WRAITH personnel and weapons in each zone.

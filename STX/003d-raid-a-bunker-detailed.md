@@ -81,7 +81,7 @@ WRAITH has deployed intelligence collection nodes across AO CEDAR to systematica
 
 **3. Most Probable Course of Action (MPCOA).** Each WRAITH node defends briefly while analysts attempt to destroy the most sensitive materials — particularly annotated maps, operation plans, and photographic records. Nodes do not reinforce each other. Speed is critical: a rapid assault may overrun the node before full materials destruction.
 
-**4. Most Dangerous Course of Action (MDCOA).** WRAITH nodes detect friendly movement early and successfully destroy all annotated maps and intelligence products before the assault. A WRAITH security element moves to reinforce the most threatened node. One node successfully evacuates its analyst team with key materials.
+**4. Most Dangerous Course of Action (MDCOA).** WRAITH nodes detect friendly movement during leader's reconnaissance and alert each other. A WRAITH reaction element of squad strength (8-10 personnel) from outside the AO counterattacks the assault squad during SSE and consolidation, exploiting the squad's dispersion across the objective and transition out of assault posture. Surviving nodes engage the support element from prepared positions in depth to suppress shift fires and isolate the assault element on the objective.
 
 ### d. Friendly Forces
 
@@ -141,10 +141,10 @@ Priority of fires to 3rd Squad. Mortar support is available through company on r
 ### e. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
-   1. Engage only confirmed enemy combatants.
-   2. Use graduated response appropriate to the threat.
-   3. Avoid civilian harm and minimize collateral damage.
-   4. Report civilian casualties immediately.
+   1. Engage all armed personnel resisting on the objective with controlled, accurate fire.
+   2. Positive identification (PID) is required for every engagement; do not engage noncombatants, surrendering personnel, or detainees.
+   3. Use minimum force necessary; transition to controlled fires on the assault-complete / limit of advance signal.
+   4. Secure and humanely handle all detainees, EPWs, and recovered materiel.
 
 **2. Priority Intelligence Requirements (PIR):**
    1. Confirm WRAITH personnel count and weapons at each node.
