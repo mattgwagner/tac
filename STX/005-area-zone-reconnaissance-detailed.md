@@ -50,11 +50,11 @@ Platoon Sergeant
 ## 1. SITUATION
 
 ### a. Area of Interest
-Clay County, Florida, in the vicinity of Starke and Highway 16. AO COTTO encompasses the area bounded to the north by Highway 16, to the east by the Starke city limits, to the south by the old railroad bed, and to the west by the pine forest edge.
+The Camp Blanding LTA, Clay County, Florida. AO COTTO covers the central and eastern LTA, with suspected REAPER activity centered on Conex City northeast building (MP 0613 1532), bounded north by Jacksonville Street, east by Conex City and the FOB perimeter, south by Arcadia Street, and west by Bradenton Avenue (vicinity MP 0600 1525 to MP 0615 1565). The area of interest extends west across Bradenton Avenue and south of Arcadia Street into the woodlines that connect the eastern LTA to suspected REAPER support positions and lines of communication outside the AO.
 
 ### b. Area of Operations
 
-**1. Terrain.** Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, ponds, marshes, and wetlands. Vegetation provides concealment and limits long-range observation to under 50 meters off improved roads. Roads and trails serve as likely avenues of approach for both friendly and enemy forces. Terrain and soil conditions may restrict vehicle movement, especially in wet areas.
+**1. Terrain.** The Camp Blanding LTA is a road-bounded sector of the training area, roughly 1,200m east-west by 550m north-south, set in flat sandy-soil pine and hardwood forest. An improved road grid frames the LTA: Bradenton Avenue (N-S) runs through the center, Clearwater Avenue (N-S) bounds the west, Arcadia Street (E-W) bounds the south, and Jacksonville Street (E-W) bounds the north. Two unnamed roads — one N-S in the western LTA and one E-W through the interior — subdivide the woodlines. The FOB sits at MP 0610 1550 in the northeast; Conex City sits at MP 0611 1530 in the southeast. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors, so the road grid provides the only extended fields of fire and the primary mounted avenues of approach. Sandy soil supports dismounted movement everywhere but restricts wheeled traffic to the roads, particularly after rain.
 
    - **Key Terrain:** The Conex City northeast building is a suspected REAPER occupied position in the eastern AO. The Bradenton Avenue / Jacksonville Street intersection is a likely movement control point in the northern AO. The Arcadia Street / Clearwater Avenue intersection in the southwestern LTA is a potential REAPER OP or transit point. Woodlines surrounding each location provide concealed observation positions.
 

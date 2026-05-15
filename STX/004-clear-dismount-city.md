@@ -46,13 +46,13 @@ Platoon Sergeant
 ## 1. SITUATION
 
 ### a. Area of Interest
-Clay County, Florida, in the vicinity of Starke and Highway 16.
+The Camp Blanding LTA, Clay County, Florida. AO FLUNKER is centered on Conex City (MP 0611 1530), a built-up training facsimile in the southeastern LTA, bounded north by the unnamed east-west road, west by Bradenton Avenue, south by Arcadia Street, and east by the LTA perimeter (vicinity MP 0600 1525 to MP 0615 1540). The area of interest extends west into the woodlines between Bradenton Avenue and Conex City, where REAPER may emplace overwatch positions, and south of Arcadia Street into the broader training area — the likely REAPER withdrawal corridor.
 
 ### b. Area of Operations
 
-**1. Terrain.** OBJ FLUNKER is a small urban area with multiple multi-story buildings, narrow streets, alleys, and limited open spaces. The city is surrounded by wooded areas and open fields. Urban terrain provides numerous positions for defense, ambush, and concealment. Buildings offer cover and observation points, while underground routes (sewers, basements) may be used for movement or escape. Limited vehicle access due to debris and barricades.
+**1. Terrain.** The Camp Blanding LTA is a road-bounded sector of the training area, roughly 1,200m east-west by 550m north-south, set in flat sandy-soil pine and hardwood forest. An improved road grid frames the LTA: Bradenton Avenue (N-S) runs through the center, Clearwater Avenue (N-S) bounds the west, Arcadia Street (E-W) bounds the south, and Jacksonville Street (E-W) bounds the north. The FOB sits at MP 0610 1550 in the northeast; Conex City sits at MP 0611 1530 in the southeast. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors. OBJ FLUNKER is the Conex City site itself — a cluster of one- and two-story Conex-style structures with narrow lanes between buildings and small open spaces, role-played for this scenario as a small urban district with notional civil structures (residences, police station, central plaza, higher-elevation building). The site provides multiple positions for defense, ambush, and concealment; Bradenton Avenue west of the site is the only mounted avenue of approach.
 
-   - **Key Terrain:** Central plaza (MP 0611 1530), police station, and high-rise building dominate OBJ FLUNKER and are critical for control. Rooftops and intersections provide observation and fields of fire. Main roads and alleyways are likely avenues of approach and withdrawal.
+   - **Key Terrain:** The Conex City center (MP 0611 1530, role-played as the central plaza and civil structures) and the northeast building (MP 0613 1532, role-played as the higher-elevation observation building) dominate OBJ FLUNKER and are critical for control. Rooftops of the Conex structures and the lanes between them provide observation and limited fields of fire. The Bradenton Avenue corridor west of the site and Arcadia Street to the south are the likely avenues of approach and withdrawal.
 
 **2. Weather.**
    - Skies: ________

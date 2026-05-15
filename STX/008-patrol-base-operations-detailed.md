@@ -46,11 +46,11 @@ Platoon Sergeant
 ## 1. SITUATION
 
 ### a. Area of Interest
-Clay County, Florida, in the vicinity of Starke and Highway 16. AO COTTO encompasses the area bounded to the north by Highway 16, to the east by the Starke city limits, to the south by the old railroad bed, and to the west by the pine forest edge. The planned patrol base site is in a wooded area with good concealment and defensible terrain.
+The Camp Blanding LTA, Clay County, Florida. AO COTTO covers the southwestern LTA in the woodlines south of the unnamed east-west road and west of Bradenton Avenue, with PB THUNDER planned at MP 0580 1520 (vicinity MP 0575 1518 to MP 0600 1540). The area of interest extends north toward the FOB at MP 0610 1550 (higher headquarters), south of Arcadia Street into the broader Camp Blanding training area, and east across Bradenton Avenue — the corridors REAPER patrols could use to detect, compromise, or attack the patrol base.
 
 ### b. Area of Operations
 
-**1. Terrain.** Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, ponds, marshes, and wetlands. Vegetation provides concealment and limits long-range observation. Roads and trails serve as likely avenues of approach for both friendly and enemy forces. Terrain and soil conditions may restrict vehicle movement, especially in wet areas.
+**1. Terrain.** The Camp Blanding LTA is a road-bounded sector of the training area, roughly 1,200m east-west by 550m north-south, set in flat sandy-soil pine and hardwood forest. An improved road grid frames the LTA: Bradenton Avenue (N-S) runs through the center, Clearwater Avenue (N-S) bounds the west, Arcadia Street (E-W) bounds the south, and Jacksonville Street (E-W) bounds the north. Two unnamed roads — one N-S in the western LTA and one E-W through the interior — subdivide the woodlines. The FOB sits at MP 0610 1550 in the northeast; Conex City sits at MP 0611 1530 in the southeast. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors, so the road grid provides the only extended fields of fire and the primary mounted avenues of approach. Sandy soil supports dismounted movement everywhere but restricts wheeled traffic to the roads, particularly after rain.
 
    - **Key Terrain:** The planned patrol base site at MP 0580 1520 offers good concealment, defensible terrain, and access to covered withdrawal routes. The surrounding woodlines provide observation points for early warning. A small creek to the south provides a water source but may also canalize enemy approach. Elevated ground to the north offers observation of likely enemy avenues of approach.
 
