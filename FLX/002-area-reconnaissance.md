@@ -111,19 +111,27 @@ A Company conducts area reconnaissance of the terrain surrounding COP Seggel NLT
    4. Challenge unknown personnel using challenge and password.
    5. Report all contacts immediately via SALUTE.
 
-**2. Priority Intelligence Requirements (PIR):**
+**2. Commander's Critical Information Requirements (CCIR):**
+
+*Priority Intelligence Requirements (PIR — enemy, terrain, weather, civil):*
    1. Location and strength of REAPER observation posts along the Jacksonville Street corridor.
    2. REAPER use of the Clearwater Avenue corridor as a route or staging area.
    3. REAPER fighting positions, supply caches, or prepared ambush sites in the woodlines surrounding COP Seggel.
    4. REAPER indirect fire positions or indicators (mortar tubes, base plates, aiming stakes).
    5. Civilian activity patterns and any civilian-REAPER interaction.
+   6. REAPER force larger than squad size observed.
+   7. REAPER preparing or occupying fighting positions oriented toward COP Seggel.
+   8. IED or obstacle emplacement on routes leading to/from COP Seggel.
 
-**3. Commander's Critical Information Requirements (CCIR):**
-   1. Reconnaissance element in contact and unable to break contact
-   2. REAPER force larger than squad size observed
-   3. REAPER preparing or occupying fighting positions oriented toward COP Seggel
-   4. IED or obstacle emplacement on routes leading to/from COP Seggel
-   5. Friendly casualties
+*Friendly Force Information Requirements (FFIR — our own force):*
+   1. Reconnaissance element in contact and unable to break contact.
+   2. Friendly casualties.
+
+**3. Essential Elements of Friendly Information (EEFI):**
+   1. Patrol departure/return times and reconnaissance routes
+   2. NAI assignments and observation positions
+   3. COP Seggel defensive posture during patrols
+   4. Casualty status and combat strength
 
 **4. Reporting:**
    - **Report to higher when departing COP Seggel.**

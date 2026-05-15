@@ -144,17 +144,24 @@ Priority of fires to 1st Squad. Mortar support is available through company on r
    3. Maintain contact once made; do not break contact without the PL's approval.
    4. Protect noncombatants in the contact area; report any civilian casualty to higher immediately.
 
-**2. Priority Intelligence Requirements (PIR):**
+**2. Commander's Critical Information Requirements (CCIR):**
+
+*Priority Intelligence Requirements (PIR — enemy, terrain, weather, civil):*
    1. Confirm COBRA personnel and weapons in each zone.
    2. Identify cache materials — type, quantity, and location.
    3. Monitor COBRA movement between zones.
    4. Assess civilian presence in each zone.
+   5. Initial contact with COBRA forces in any zone — report size, activity, location, and weapons immediately.
+   6. COBRA forces massing against a single squad from multiple zones.
 
-**3. Commander's Critical Information Requirements (CCIR):**
-   1. Initial contact with COBRA forces in any zone — report size, activity, location, and weapons immediately
-   2. Loss of communication with any squad for more than 10 minutes during movement
-   3. Friendly casualty rendering any squad combat ineffective
-   4. COBRA forces massing against a single squad from multiple zones
+*Friendly Force Information Requirements (FFIR — our own force):*
+   1. Loss of communication with any squad for more than 10 minutes during movement.
+   2. Friendly casualty rendering any squad combat ineffective.
+
+**3. Essential Elements of Friendly Information (EEFI):**
+   1. SP/LD times and locations
+   2. Friendly unit positions and boundaries
+   3. Casualty status and combat strength
 
 **4. Reporting:**
    - **Report to higher when crossing the line of departure.**
@@ -162,17 +169,12 @@ Priority of fires to 1st Squad. Mortar support is available through company on r
    - **Objective Report:** Upon securing squad objective — report status, enemy situation, cache materials found.
    - **LACE Report:** Upon reaching objective.
 
-**5. Essential Elements of Friendly Information (EEFI):**
-   1. SP/LD times and locations
-   2. Friendly unit positions and boundaries
-   3. Casualty status and combat strength
-
-**6. Coordination Between Squads:**
+**5. Coordination Between Squads:**
    - Squads operate independently within their zones. Lateral coordination at zone boundaries is the responsibility of adjacent squad leaders.
    - Squads report contact via SALUTE on the platoon net; adjacent squads monitor but continue their own missions unless directed otherwise by the PL.
    - Squads requiring support request it through the PL.
 
-**7.** This OPORD is effective immediately upon distribution.
+**6.** This OPORD is effective immediately upon distribution.
 
 ---
 

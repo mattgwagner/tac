@@ -143,25 +143,36 @@ Defensive fires planned for likely REAPER avenues of approach. Each squad respon
    4. Report all contacts immediately.
 
 **2. Commander's Critical Information Requirements (CCIR):**
-   1. Compromise or suspected compromise of the patrol base location
-   2. REAPER probing, reconnaissance, or direct contact on any sector
-   3. Loss of communication with any LP/OP
-   4. Friendly casualty or equipment failure degrading any sector's security
-   5. Water resupply point inaccessible or contaminated
 
-**3. Reporting:**
+*Priority Intelligence Requirements (PIR — enemy, terrain, weather, civil):*
+   1. REAPER probing, reconnaissance, or direct contact on any sector of the patrol base.
+   2. Indicators that the patrol base location has been observed or compromised by enemy or civilians.
+
+*Friendly Force Information Requirements (FFIR — our own force):*
+   1. Compromise or suspected compromise of the patrol base location.
+   2. Loss of communication with any LP/OP.
+   3. Friendly casualty or equipment failure degrading any sector's security.
+   4. Water resupply point inaccessible or contaminated.
+
+**3. Essential Elements of Friendly Information (EEFI):**
+   1. Patrol base grid location and limits
+   2. LP/OP positions and crew-served weapon orientations
+   3. Stand-to schedule and departure/return windows
+   4. Casualty status and combat strength
+
+**4. Reporting:**
    - **Report to higher when departing current location.**
    - **In Position Report:** Upon completing patrol base occupation.
    - **SALUTE Report:** Upon sighting enemy forces or indicators.
    - **SITREP:** At designated times (every 4 hours minimum).
    - **LACE Report:** Upon occupation and prior to displacement.
 
-**4. Stand-To Procedures:**
+**5. Stand-To Procedures:**
    - Stand-to conducted 30 minutes before BMNT and 30 minutes before EENT.
    - 100% alert during stand-to; all personnel in fighting positions.
    - Stand-down only after PL or PSG conducts assessment and issues order.
 
-**5.** This OPORD is effective immediately upon distribution.
+**6.** This OPORD is effective immediately upon distribution.
 
 ---
 

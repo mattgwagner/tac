@@ -146,35 +146,36 @@ Priority of fires to 2nd Squad. Mortar support is available through company on r
    3. Avoid civilian casualties and collateral damage.
    4. Positively identify targets before firing.
 
-**2. Priority Intelligence Requirements (PIR):**
+**2. Commander's Critical Information Requirements (CCIR):**
+
+*Priority Intelligence Requirements (PIR — enemy, terrain, weather, civil):*
    1. Confirm REAPER patrol composition at each site.
    2. Monitor for changes in REAPER routes or reinforcements.
-   3. Assess civilian presence at each site before execution.
+   3. Assess civilian presence at each site before execution; report civilians in or adjacent to any kill zone at time of execution.
+   4. Enemy force composition at any site exceeds squad capability (reinforced element or crew-served weapons).
+   5. REAPER forces massing against a single squad from multiple sites.
 
-**3. Commander's Critical Information Requirements (CCIR):**
-   1. Compromise or detection of a squad prior to initiation at any site
-   2. Enemy force composition at a site exceeds squad capability (reinforced element or crew-served weapons)
-   3. Civilian presence in or adjacent to any kill zone at time of execution
-   4. Any friendly casualty that reduces a squad below minimum effective strength
-   5. REAPER forces massing against a single squad from multiple sites
+*Friendly Force Information Requirements (FFIR — our own force):*
+   1. Compromise or detection of a squad prior to initiation at any site.
+   2. Any friendly casualty that reduces a squad below minimum effective strength.
 
-**4. Essential Elements of Friendly Information (EEFI):**
+**3. Essential Elements of Friendly Information (EEFI):**
    1. SP/LD times and locations
    2. Friendly unit positions and boundaries
    3. Casualty status and combat strength
 
-**5. Reporting:**
+**4. Reporting:**
    - **Report to higher when SP'ing or crossing the line of departure.**
    - **SALUTE Report:** Upon enemy visual confirmation.
    - **In Position Report:** Upon occupying an ambush site or ORP.
    - **LACE Report:** After ambush, within ______ minutes.
 
-**6. Coordination Between Squads:**
+**5. Coordination Between Squads:**
    - Squads operate independently at their assigned sites.
    - Squads report contact via SALUTE on the platoon net; adjacent squads monitor but continue their own missions unless directed otherwise by the PL.
    - Squads requiring support request it through the PL.
 
-**7.** This OPORD is effective immediately upon distribution.
+**6.** This OPORD is effective immediately upon distribution.
 
 ---
 

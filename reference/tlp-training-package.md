@@ -391,7 +391,7 @@ Per the Platoon Trainer Guide, the FLER uses the 8 Troop Leading Procedures to e
 **Execution:**
 - Concept of Operation, Scheme of Maneuver, Scheme of Fires
 - Uses Terrain Model, Tasks to Sub Units, Coordinating Instructions
-- PIR, ROE, Reports, Timeline
+- ROE, CCIR (PIR + FFIR), EEFI, Reports, Timeline
 
 **Sustainment:**
 - Logistics, Personnel, Health System Support

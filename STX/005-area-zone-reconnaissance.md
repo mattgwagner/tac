@@ -139,18 +139,25 @@ Fires are limited to self-defense only. Avoid engagement unless necessary to bre
    3. Avoid civilian contact and minimize detection.
    4. Report enemy contact immediately but maintain mission focus on intelligence collection.
 
-**2. Priority Intelligence Requirements (PIR):**
+**2. Commander's Critical Information Requirements (CCIR):**
+
+*Priority Intelligence Requirements (PIR — enemy, terrain, weather, civil):*
    1. Confirm exact location of REAPER positions.
    2. Assess REAPER strength, composition, and equipment.
    3. Identify REAPER defensive positions, obstacles, and security measures.
    4. Assess terrain features that affect friendly or REAPER operations.
    5. Monitor for REAPER patrols or movement.
+   6. Enemy force size or disposition significantly different from the intelligence estimate.
+   7. Discovery of prepared defensive positions, obstacles, or IEDs on likely avenues of approach.
 
-**3. Commander's Critical Information Requirements (CCIR):**
-   1. Compromise of any reconnaissance element
-   2. Enemy force size or disposition significantly different from the intelligence estimate
-   3. Discovery of prepared defensive positions, obstacles, or IEDs on likely avenues of approach
-   4. Loss of communication with any reconnaissance element
+*Friendly Force Information Requirements (FFIR — our own force):*
+   1. Compromise of any reconnaissance element.
+   2. Loss of communication with any reconnaissance element.
+
+**3. Essential Elements of Friendly Information (EEFI):**
+   1. SP/LD times and locations
+   2. Friendly unit positions and boundaries
+   3. Reconnaissance objectives and NAIs
 
 **4. Reporting:**
    - **Report to higher when SP'ing or crossing the line of departure.**

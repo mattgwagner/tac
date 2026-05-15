@@ -139,18 +139,24 @@ None.
    4. Positively identify targets before firing.
    5. Report civilian casualties immediately.
 
-**2. Priority Intelligence Requirements (PIR):**
+**2. Commander's Critical Information Requirements (CCIR):**
+
+*Priority Intelligence Requirements (PIR — enemy, terrain, weather, civil):*
    1. Identify REAPER positions, barricades, and IEDs.
    2. Monitor for REAPER reinforcements or withdrawal attempts.
-   3. Assess civilian presence and movement in the city.
+   3. Assess civilian presence and movement in the city; report civilian concentration preventing use of planned fires or maneuver in a sector.
    4. Identify underground routes or escape tunnels.
+   5. REAPER reinforcements entering the city from outside the cleared area during operations.
+   6. Discovery of NBC materials or indicators in any structure.
 
-**3. Commander's Critical Information Requirements (CCIR):**
-   1. REAPER reinforcements entering the city from outside the cleared area during operations
-   2. Civilian concentration preventing use of planned fires or maneuver in a sector
-   3. Loss of communication between clearing teams during operations
-   4. Discovery of NBC materials or indicators in any structure
-   5. Friendly casualty rendering a clearing team combat ineffective
+*Friendly Force Information Requirements (FFIR — our own force):*
+   1. Loss of communication between clearing teams during operations.
+   2. Friendly casualty rendering a clearing team combat ineffective.
+
+**3. Essential Elements of Friendly Information (EEFI):**
+   1. SP/LD times and locations
+   2. Friendly unit positions and boundaries
+   3. Casualty status and combat strength
 
 **4. Reporting:**
    - **Report to higher when SP'ing or crossing the line of departure.**

@@ -146,37 +146,38 @@ Priority of fires to 3rd Squad. Mortar support is available through company on r
    3. Use minimum force necessary; transition to controlled fires on the assault-complete / limit of advance signal.
    4. Secure and humanely handle all detainees, EPWs, and recovered materiel.
 
-**2. Priority Intelligence Requirements (PIR):**
+**2. Commander's Critical Information Requirements (CCIR):**
+
+*Priority Intelligence Requirements (PIR — enemy, terrain, weather, civil):*
    1. Confirm VIPER guard element composition and weapons at each site.
    2. Identify cache contents — type and quantity of weapons, ammunition, and materials.
    3. Identify any additional VIPER cache sites or distribution routes referenced in captured materials.
-   4. Assess civilian presence at each objective.
+   4. Assess civilian presence at each objective; report civilians at or near an objective preventing planned fires.
+   5. Enemy strength at any objective exceeds expected composition.
+   6. VIPER reaction element moving to reinforce any objective.
+   7. Cache site found abandoned or materials have been moved.
 
-**3. Commander's Critical Information Requirements (CCIR):**
-   1. Enemy strength at any objective exceeds expected composition
-   2. VIPER reaction element moving to reinforce any objective
-   3. Compromise of an assault force prior to actions on the objective
-   4. Any friendly casualty during an assault requiring immediate MEDEVAC
-   5. Civilian presence at or near an objective preventing planned fires
-   6. Cache site found abandoned or materials have been moved
+*Friendly Force Information Requirements (FFIR — our own force):*
+   1. Compromise of an assault force prior to actions on the objective.
+   2. Any friendly casualty during an assault requiring immediate MEDEVAC.
 
-**4. Essential Elements of Friendly Information (EEFI):**
+**3. Essential Elements of Friendly Information (EEFI):**
    1. SP/LD times and locations
    2. Friendly unit positions and boundaries
    3. Casualty status and combat strength
 
-**5. Reporting:**
+**4. Reporting:**
    - **Report to higher when SP'ing or crossing the line of departure.**
    - **In Position Report:** Upon occupying an ORP or objective.
    - **LACE Report:** At least once during operation and upon consolidation.
    - **Intelligence Report:** Upon SSE completion — report all weapons and materials found at each cache.
 
-**6. Coordination Between Squads:**
+**5. Coordination Between Squads:**
    - Squads operate independently at their assigned objectives.
    - Squads report contact via SALUTE on the platoon net; adjacent squads monitor but continue their own missions unless directed otherwise by the PL.
    - Squads requiring support request it through the PL.
 
-**7.** This OPORD is effective immediately upon distribution.
+**6.** This OPORD is effective immediately upon distribution.
 
 ---
 

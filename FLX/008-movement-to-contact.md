@@ -102,18 +102,26 @@ A Company locates and engages REAPER forces operating in the woodlines north of 
    3. Do not pursue beyond Jacksonville Street without orders.
    4. Challenge unknown personnel using challenge and password.
 
-**2. Priority Intelligence Requirements (PIR):**
+**2. Commander's Critical Information Requirements (CCIR):**
+
+*Priority Intelligence Requirements (PIR — enemy, terrain, weather, civil):*
    1. Locate the REAPER element in the woodlines northeast of COP Seggel, east of Bradenton Avenue.
    2. Determine REAPER strength, composition, and intent (recon, staging for attack, or withdrawing).
    3. Identify any prepared positions, obstacles, or ambush indicators.
    4. Determine whether additional REAPER forces are positioned along Jacksonville Street.
+   5. Contact with REAPER force larger than a fire team.
+   6. REAPER ambush or prepared position encountered.
+   7. REAPER withdrawing north beyond Jacksonville Street.
 
-**3. Commander's Critical Information Requirements (CCIR):**
-   1. Contact with REAPER force larger than a fire team
-   2. REAPER ambush or prepared position encountered
-   3. Friendly casualties
-   4. REAPER withdrawing north beyond Jacksonville Street
-   5. COP Seggel attacked while MTC element is forward
+*Friendly Force Information Requirements (FFIR — our own force):*
+   1. Friendly casualties.
+   2. COP Seggel attacked while MTC element is forward.
+
+**3. Essential Elements of Friendly Information (EEFI):**
+   1. Departure time and direction of advance from COP Seggel
+   2. MTC element strength, formation, and limit of advance
+   3. COP Seggel defensive posture and forces remaining during the operation
+   4. Casualty status and combat strength
 
 **4. Reporting:**
    - **Report when departing COP Seggel.**

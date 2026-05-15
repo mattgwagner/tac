@@ -78,7 +78,9 @@ Each OPORD maintains two versions of the Tasks to Subordinate Units. Candidates 
 
 ### Coordinating Instructions
 
-Items that apply to two or more units: ROE, PIR, CCIR, reporting requirements, timelines.
+Items that apply to two or more units: ROE, CCIR (PIR + FFIR), EEFI, reporting requirements, timelines.
+
+**Doctrine note (current ADP/FM 6-0):** CCIR is the umbrella heading. PIR (enemy / terrain / weather / civil) and FFIR (friendly force — combat power, casualties, sustainment, comms) are sub-lists under CCIR. Do NOT list PIR and CCIR as parallel categories. EEFI is a separate category (what we do NOT want the enemy to learn), not nested under CCIR. Full cadre reference: `reference/ccir-pir-eefi-doctrine.md`.
 
 ## Reference Files
 
