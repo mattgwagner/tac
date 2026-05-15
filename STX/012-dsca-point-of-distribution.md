@@ -8,11 +8,9 @@
 >
 > **Complexity:** Moderate | **Recommended Phase:** WALK (Blocks 2-3), RUN (Day/Night Iterations)
 >
-> **Mission Summary:** A Company establishes and operates multiple Points of Distribution (PODs) in Bay County to distribute emergency supplies to affected civilians. 1st Platoon is tasked to operate POD Site ALPHA.
+> **Training Focus:** Company-level OPORD. Candidates receive this as the 1st Platoon Leader and conduct TLP to plan their platoon's POD operations. Focus areas: site organization, traffic flow, supply management, personnel allocation, and contingency planning for civilian interactions.
 >
-> **Training Focus:** This is a COMPANY-LEVEL OPORD. Candidates receive this order as the 1st Platoon Leader and must conduct TLP to plan their platoon's POD operations. Focus areas include site organization, traffic flow, supply management, personnel allocation, and contingency planning for civilian interactions.
->
-> **Evaluation Timeline:** Candidates will receive this OPORD and have 75 minutes to complete TLP Steps 1-8. Candidates will brief their platoon order to cadre. This is a planning exercise only.
+> **Evaluation Timeline:** 75 min for TLP Steps 1-8. Candidates brief their platoon order to cadre. Planning exercise only.
 >
 > **Training Wrinkles (for candidate planning consideration):**
 > - Supplies running low before scheduled resupply.
@@ -27,7 +25,7 @@
 > - Vehicle breakdown blocking distribution lane.
 > - Other agencies arriving to coordinate.
 >
-> **NOTE:** This is a DSCA operation. Security awareness is important due to supplies and stressed population, but there is no enemy threat.
+> **NOTE:** DSCA operation — no enemy threat, but security awareness is important due to supplies and stressed population.
 
 **CLASSIFICATION: UNCLASSIFIED // FOR TRAINING USE ONLY**
 

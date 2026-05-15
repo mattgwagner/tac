@@ -8,31 +8,21 @@
 >
 > **Complexity:** Moderate | **Recommended Phase:** WALK (Blocks 3-4), RUN (Day Iterations)
 >
-> **Mission Summary:** 1st Platoon conducts a movement to contact in AO FLUNKER with squads operating independently in assigned zones to locate, engage, and assess REAPER forces. Each squad has its own objective and operates at its own pace.
+> **Training Focus:** Evaluates **individual squad leader planning and decision-making**. The PL issues the platoon OPORD; each SL conducts their own TLP — terrain analysis, movement techniques, formations, actions on contact, and squad OPORD. Assign one evaluator per squad.
 >
-> **Training Focus:** This OPORD is designed to evaluate **individual squad leader planning and decision-making**. The PL issues the platoon OPORD, but each squad leader must conduct their own TLP — analyzing terrain, selecting movement techniques, choosing formations, planning actions on contact, and issuing a squad OPORD. Cadre should assign one evaluator per squad to observe the SL's planning process and tactical decisions.
->
-> **Destinations:**
-> - 1st Squad → OBJ BAINTON (vic MP 0600 1538)
-> - 2nd Squad → OBJ HERRERA (vic MP 0612 1546)
-> - 3rd Squad → OBJ BARLOW (vic MP 0613 1532)
->
-> **Actions on Objective:** Each squad independently locates and engages REAPER in its zone, secures its objective, and reports. Squads do not depend on or wait for adjacent squads.
->
-> **Evaluation Timeline:** For evaluated iterations, candidates will receive this OPORD and have 75 minutes to complete TLP Steps 1-8 before SP. Execution window is 60 minutes. AAR is 15 minutes.
+> **Evaluation Timeline:** 75 min for TLP Steps 1-8 before SP. 60 min execution window. 15 min AAR.
 >
 > **OPFOR/Training Wrinkles:**
-> - Deploy one OPFOR team (2-3 personnel) per zone, positioned near each squad's objective.
-> - Each OPFOR team operates independently — do not coordinate across zones unless running MDCOA.
-> - Introduce a civilian or non-combatant scenario in one zone to test ROE.
-> - Cadre can inject intelligence updates, obstacles, or simulate equipment malfunctions per zone.
-> - Vary OPFOR tactics across zones (one team delays, one ambushes, one defends) to create distinct planning problems for each SL.
+> - One OPFOR team (2-3 personnel) per zone, positioned near each squad's objective.
+> - Teams operate independently — do not coordinate across zones unless running MDCOA.
+> - Introduce a civilian in one zone to test ROE.
+> - Cadre may inject intel updates, obstacles, or equipment malfunctions per zone.
+> - Vary OPFOR tactics across zones (one delays, one ambushes, one defends) to create distinct planning problems for each SL.
+> - UAS/Counter-UAS injects are OPTIONAL and only if authorized by the Commandant and in the approved POI.
 >
-> **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
+> **Iteration Guidance:** Mission command version — squad tasks state outcomes without prescribing layout or positioning. For scaffolded iterations, use [002-movement-to-contact-detailed.md](002-movement-to-contact-detailed.md).
 >
 > **See Also:** [LTA Grid Reference](../reference/lta-grid-reference.md)
->
-> **Iteration Guidance:** This is the mission command version — squad tasks state outcomes without prescribing specific positioning or movement. For the first iteration with a new class or candidates who need additional scaffolding, use [002-movement-to-contact-detailed.md](002-movement-to-contact-detailed.md) instead.
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 
@@ -50,13 +40,13 @@ Platoon Sergeant
 ## 1. SITUATION
 
 ### a. Area of Interest
-The Camp Blanding LTA, Clay County, Florida. AO FLUNKER covers the central and eastern LTA — the Bradenton Avenue corridor, the FOB south entrance at OBJ HERRERA (MP 0612 1546), and Conex City — bounded north by Jacksonville Street, east by the FOB and Conex City perimeters, south by Arcadia Street, and west by Bradenton Avenue (vicinity MP 0600 1525 to MP 0615 1555). The area of interest extends west across Bradenton Avenue into the surrounding woodlines and south of Arcadia Street, where REAPER probing elements may withdraw to or stage from positions outside the LTA.
+AO FLUNKER occupies the central and eastern Camp Blanding LTA (vic MP 0600 1525 to MP 0615 1555), covering the Bradenton Ave corridor, the FOB south entrance at OBJ HERRERA (MP 0612 1546), and Conex City. Area of interest extends west across Bradenton Ave and south of Arcadia St, where REAPER probing elements may stage or withdraw.
 
 ### b. Area of Operations
 
-**1. Terrain.** The Camp Blanding LTA is a road-bounded sector of the training area, roughly 1,200m east-west by 550m north-south, set in flat sandy-soil pine and hardwood forest. An improved road grid frames the LTA: Bradenton Avenue (N-S) runs through the center, Clearwater Avenue (N-S) bounds the west, Arcadia Street (E-W) bounds the south, and Jacksonville Street (E-W) bounds the north. Two unnamed roads — one N-S in the western LTA and one E-W through the interior — subdivide the woodlines. The FOB sits at MP 0610 1550 in the northeast; Conex City sits at MP 0611 1530 in the southeast. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors, so the road grid provides the only extended fields of fire and the primary mounted avenues of approach. Sandy soil supports dismounted movement everywhere but restricts wheeled traffic to the roads, particularly after rain.
+**1. Terrain.** The Camp Blanding LTA is a road-bounded ~1,200m × 550m sector of flat sandy-soil pine and hardwood forest. Improved road grid: Bradenton Ave (N-S, center), Clearwater Ave (N-S, west), Arcadia St (E-W, south), Jacksonville St (E-W, north); two unnamed roads (one N-S in the western LTA, one E-W through the interior) subdivide the woodlines. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors, so the road grid provides the only extended fields of fire. Sandy soil supports dismounted movement everywhere but restricts wheeled traffic to roads. See [LTA Grid Reference](../reference/lta-grid-reference.md) for full terrain notes.
 
-   - **Key Terrain:** The FOB south entrance (MP 0612 1546) controls access to the eastern sector from the south. The Bradenton/unnamed-road intersection (MP 0600 1538) anchors the central road grid and is a primary N-S avenue of approach. Conex City (MP 0611 1530) offers concealment and structures in the southeastern AO. Woodlines between Bradenton Avenue and Conex City provide covered E-W movement; visibility off road corridors is under 50m.
+   - **Key Terrain:** FOB south entrance (MP 0612 1546) controls eastern-sector access from the south; Bradenton/unnamed-road intersection (MP 0600 1538) anchors the central N-S avenue of approach; Conex City (MP 0611 1530) offers concealment and structures in the southeast. Woodlines between Bradenton Ave and Conex City provide covered E-W movement.
 
 **2. Weather.**
    - Skies: ________

@@ -8,29 +8,21 @@
 >
 > **Complexity:** Moderate | **Recommended Phase:** RUN (Night Iterations - Coaching Focus)
 >
-> **Mission Summary:** 1st Platoon is tasked to establish and occupy a patrol base in AO COTTO to conduct continuous operations, provide security, and enable sustainment for follow-on missions.
+> **Training Focus:** Emphasizes security priorities, patrol base setup, and sustainment operations. Links to the Patrol Base Operations Training Package. Ideal for night iterations where static operations allow focus on security fundamentals. Assign one evaluator per squad.
 >
-> **Destination:** Patrol Base (PB) THUNDER, vicinity MP 0580 1520, AO COTTO, NLT 2200.
->
-> **Actions on Objective:** Platoon will conduct a leader's reconnaissance, occupy the patrol base using the triangle or cigar-shaped technique, establish security, and conduct patrol base activities including security patrols, maintenance, and planning for follow-on operations.
->
-> **Training Focus:** This OPORD emphasizes security priorities, patrol base setup, and sustainment operations. Links directly to the Patrol Base Operations Training Package. Ideal for night training iterations where static operations allow focus on security fundamentals without the complexity of offensive maneuver.
->
-> **Evaluation Timeline:** For evaluated iterations, candidates will receive this OPORD and have 75 minutes to complete TLP Steps 1-8 before SP. Execution window is 60 minutes. AAR is 15 minutes.
+> **Evaluation Timeline:** 75 min for TLP Steps 1-8 before SP. 60 min execution window. 15 min AAR.
 >
 > **OPFOR/Training Wrinkles:**
-> - Simulate enemy reconnaissance probes during occupation or stand-to.
-> - Test candidate's ability to establish and maintain security priorities.
-> - Introduce resupply, casualty evacuation, or personnel issues during occupation.
-> - Cadre can inject intelligence updates requiring adjustment to the patrol base plan.
-> - Test ability to conduct patrol base activities while maintaining security.
-> - Introduce a compromise scenario requiring displacement or defense.
+> - Enemy reconnaissance probes during occupation or stand-to.
+> - Tests ability to establish and maintain security priorities.
+> - Resupply, casualty evacuation, or personnel issues during occupation.
+> - Intelligence updates requiring adjustment to the patrol base plan.
+> - Compromise scenario requiring displacement or defense.
+> - UAS/Counter-UAS injects are OPTIONAL and only if authorized by the Commandant and in the approved POI.
 >
-> **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
+> **Iteration Guidance:** Mission command version — squad tasks state outcomes without prescribing layout or positioning. For scaffolded iterations, use [008-patrol-base-operations-detailed.md](008-patrol-base-operations-detailed.md).
 >
 > **See Also:** [LTA Grid Reference](../reference/lta-grid-reference.md)
->
-> **Iteration Guidance:** This is the mission command version — squad tasks state outcomes without prescribing specific positioning or movement. For the first iteration with a new class or candidates who need additional scaffolding, use [008-patrol-base-operations-detailed.md](008-patrol-base-operations-detailed.md) instead.
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 
@@ -48,13 +40,13 @@ Platoon Sergeant
 ## 1. SITUATION
 
 ### a. Area of Interest
-The Camp Blanding LTA, Clay County, Florida. AO COTTO covers the southwestern LTA in the woodlines south of the unnamed east-west road and west of Bradenton Avenue, with PB THUNDER planned at MP 0580 1520 (vicinity MP 0575 1518 to MP 0600 1540). The area of interest extends north toward the FOB at MP 0610 1550 (higher headquarters), south of Arcadia Street into the broader Camp Blanding training area, and east across Bradenton Avenue — the corridors REAPER patrols could use to detect, compromise, or attack the patrol base.
+AO COTTO covers the southwestern Camp Blanding LTA in the woodlines south of the unnamed E-W road and west of Bradenton Ave, with PB THUNDER planned at MP 0580 1520 (vic MP 0575 1518 to MP 0600 1540). Area of interest extends north toward the FOB at MP 0610 1550 (higher), south of Arcadia St into the broader training area, and east across Bradenton Ave — the corridors REAPER patrols could use to detect, compromise, or attack the patrol base.
 
 ### b. Area of Operations
 
-**1. Terrain.** The Camp Blanding LTA is a road-bounded sector of the training area, roughly 1,200m east-west by 550m north-south, set in flat sandy-soil pine and hardwood forest. An improved road grid frames the LTA: Bradenton Avenue (N-S) runs through the center, Clearwater Avenue (N-S) bounds the west, Arcadia Street (E-W) bounds the south, and Jacksonville Street (E-W) bounds the north. Two unnamed roads — one N-S in the western LTA and one E-W through the interior — subdivide the woodlines. The FOB sits at MP 0610 1550 in the northeast; Conex City sits at MP 0611 1530 in the southeast. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors, so the road grid provides the only extended fields of fire and the primary mounted avenues of approach. Sandy soil supports dismounted movement everywhere but restricts wheeled traffic to the roads, particularly after rain.
+**1. Terrain.** The Camp Blanding LTA is a road-bounded ~1,200m × 550m sector of flat sandy-soil pine and hardwood forest. Improved road grid: Bradenton Ave (N-S, center), Clearwater Ave (N-S, west), Arcadia St (E-W, south), Jacksonville St (E-W, north); two unnamed roads (one N-S in the western LTA, one E-W through the interior) subdivide the woodlines. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors, so the road grid provides the only extended fields of fire. Sandy soil supports dismounted movement everywhere but restricts wheeled traffic to roads. See [LTA Grid Reference](../reference/lta-grid-reference.md) for full terrain notes.
 
-   - **Key Terrain:** The planned patrol base site at MP 0580 1520 offers good concealment, defensible terrain, and access to covered withdrawal routes. The surrounding woodlines provide observation points for early warning. A small creek to the south provides a water source but may also canalize enemy approach. Elevated ground to the north offers observation of likely enemy avenues of approach.
+   - **Key Terrain:** Planned patrol base site at MP 0580 1520 (concealment, defensible terrain, covered withdrawal routes). Surrounding woodlines provide observation points for early warning. Small creek to the south is a water source but may canalize enemy approach. Elevated ground to the north offers observation of likely avenues of approach.
 
 **2. Weather.**
    - Skies: ________

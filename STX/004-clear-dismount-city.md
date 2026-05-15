@@ -8,27 +8,20 @@
 >
 > **Complexity:** Highest | **Recommended Phase:** RUN (Advanced Iterations - Second Cycle or High Performers)
 >
-> **Mission Summary:** 1st Platoon is tasked to clear, seize, and secure the urban terrain known as OBJ FLUNKER. REAPER forces are using this area as a base for operations. The platoon must occupy the city and prevent REAPER from regaining control or using it for future operations.
+> **Training Focus:** Highest complexity due to MOUT operations. Recommend for second-cycle iterations or candidates demonstrating strong TLP proficiency. Requires detailed planning for building clearing, phase lines, and consolidation. Assign one evaluator per squad.
 >
-> **Destination:** OBJ FLUNKER, AO HERRERA (urban terrain, grid MP 0611 1530).
->
-> **Actions on Objective:** Platoon will establish an ORP, move to the city, isolate the objective, clear buildings and key terrain, secure the area, and establish defensive positions to prevent enemy re-infiltration. Assault, support, and security elements will be employed per doctrine.
->
-> **Training Focus:** This OPORD has the highest complexity due to MOUT operations. Recommend for second cycle iterations or candidates demonstrating strong TLP proficiency. Requires detailed planning for building clearing, phase lines, and consolidation.
->
-> **Evaluation Timeline:** For evaluated iterations, candidates will receive this OPORD and have 75 minutes to complete TLP Steps 1-8 before SP. Execution window is 60 minutes. AAR is 15 minutes.
+> **Evaluation Timeline:** 75 min for TLP Steps 1-8 before SP. 60 min execution window. 15 min AAR.
 >
 > **OPFOR/Training Wrinkles:**
 > - Simulate a determined defense using urban tactics, barricades, and possible IEDs.
 > - Introduce non-combatant role-players, civilian presence, or hostages to test ROE.
-> - OPFOR may attempt to counterattack, infiltrate, or use underground routes.
+> - OPFOR may counterattack, infiltrate, or use underground routes.
 > - Inject time-sensitive intelligence, booby traps, or unexpected obstacles.
+> - UAS/Counter-UAS injects are OPTIONAL and only if authorized by the Commandant and in the approved POI.
 >
-> **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
+> **Iteration Guidance:** Mission command version — squad tasks state outcomes without prescribing layout or positioning. For scaffolded iterations, use [004-clear-dismount-city-detailed.md](004-clear-dismount-city-detailed.md).
 >
 > **See Also:** [LTA Grid Reference](../reference/lta-grid-reference.md)
->
-> **Iteration Guidance:** This is the mission command version — squad tasks state outcomes without prescribing specific positioning or movement. For the first iteration with a new class or candidates who need additional scaffolding, use [004-clear-dismount-city-detailed.md](004-clear-dismount-city-detailed.md) instead.
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 
@@ -46,13 +39,13 @@ Platoon Sergeant
 ## 1. SITUATION
 
 ### a. Area of Interest
-The Camp Blanding LTA, Clay County, Florida. AO FLUNKER is centered on Conex City (MP 0611 1530), a built-up training facsimile in the southeastern LTA, bounded north by the unnamed east-west road, west by Bradenton Avenue, south by Arcadia Street, and east by the LTA perimeter (vicinity MP 0600 1525 to MP 0615 1540). The area of interest extends west into the woodlines between Bradenton Avenue and Conex City, where REAPER may emplace overwatch positions, and south of Arcadia Street into the broader training area — the likely REAPER withdrawal corridor.
+AO FLUNKER is centered on Conex City (MP 0611 1530) in the southeastern Camp Blanding LTA (vic MP 0600 1525 to MP 0615 1540). Area of interest extends west into the woodlines between Bradenton Ave and Conex City (potential REAPER overwatch) and south of Arcadia St into the broader training area — the likely REAPER withdrawal corridor.
 
 ### b. Area of Operations
 
-**1. Terrain.** The Camp Blanding LTA is a road-bounded sector of the training area, roughly 1,200m east-west by 550m north-south, set in flat sandy-soil pine and hardwood forest. An improved road grid frames the LTA: Bradenton Avenue (N-S) runs through the center, Clearwater Avenue (N-S) bounds the west, Arcadia Street (E-W) bounds the south, and Jacksonville Street (E-W) bounds the north. The FOB sits at MP 0610 1550 in the northeast; Conex City sits at MP 0611 1530 in the southeast. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors. OBJ FLUNKER is the Conex City site itself — a cluster of one- and two-story Conex-style structures with narrow lanes between buildings and small open spaces, role-played for this scenario as a small urban district with notional civil structures (residences, police station, central plaza, higher-elevation building). The site provides multiple positions for defense, ambush, and concealment; Bradenton Avenue west of the site is the only mounted avenue of approach.
+**1. Terrain.** The Camp Blanding LTA is a road-bounded ~1,200m × 550m sector of flat sandy-soil pine and hardwood forest. Improved road grid: Bradenton Ave (N-S, center), Clearwater Ave (N-S, west), Arcadia St (E-W, south), Jacksonville St (E-W, north); two unnamed roads (one N-S in the western LTA, one E-W through the interior) subdivide the woodlines. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors, so the road grid provides the only extended fields of fire. Sandy soil supports dismounted movement everywhere but restricts wheeled traffic to roads. OBJ FLUNKER is the Conex City site itself — a cluster of one- and two-story Conex-style structures with narrow lanes and small open spaces, role-played as a small urban district with notional civil structures (residences, police station, central plaza, higher-elevation building). See [LTA Grid Reference](../reference/lta-grid-reference.md) for full terrain notes.
 
-   - **Key Terrain:** The Conex City center (MP 0611 1530, role-played as the central plaza and civil structures) and the northeast building (MP 0613 1532, role-played as the higher-elevation observation building) dominate OBJ FLUNKER and are critical for control. Rooftops of the Conex structures and the lanes between them provide observation and limited fields of fire. The Bradenton Avenue corridor west of the site and Arcadia Street to the south are the likely avenues of approach and withdrawal.
+   - **Key Terrain:** Conex City center (MP 0611 1530, central plaza and civil structures) and the NE building (MP 0613 1532, higher-elevation observation) dominate OBJ FLUNKER. Rooftops and inter-building lanes provide observation and limited fields of fire. Bradenton Ave (W) and Arcadia St (S) are the likely avenues of approach and withdrawal.
 
 **2. Weather.**
    - Skies: ________

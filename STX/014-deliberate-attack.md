@@ -8,21 +8,20 @@
 >
 > **Complexity:** Moderate | **Recommended Phase:** CRAWL (Practical Exercise), WALK (Blocks 1-2), RUN (Day Iterations)
 >
-> **Mission Summary:** 1st Platoon is tasked to attack to destroy the REAPER forward command post at OBJ HERRERA and disrupt enemy command and control in AO COTTO.
+> **Training Focus:** Dual-role OPORD. For CRAWL phase, the TAC briefs the order paragraph by paragraph to teach extraction of planning information. For WALK/RUN, it is a standalone evaluated lane — a deliberate attack against an enemy CP. The CP objective adds complexity beyond a simple terrain seizure: candidates must plan for intelligence collection (SSE) after assault. Assign one evaluator per squad.
 >
-> **Destination:** OBJ HERRERA at MP 0600 1523, AO COTTO.
+> **Evaluation Timeline:** 75 min for TLP Steps 1-8 before SP. 60 min execution window. 15 min AAR.
 >
-> **Actions on Objective:** Platoon will establish an ORP, conduct leader's reconnaissance, move to assault positions, seize the objective, conduct a hasty sensitive site exploitation (SSE), and consolidate.
+> **OPFOR/Training Wrinkles:**
+> - 3-4 REAPER per iteration: 1-2 CP staff (seated at field desk with maps/radios), 2 in fighting positions around the CP.
+> - Props: field desk or table, antenna simulator (pole with wire), map boards, radio. CP staff attempt to destroy documents if given time during the assault.
+> - OP variant: replace CP with a 2-4 person observation post; remove the SSE task and CP staff. Emphasize stealth approach and speed — the OP's priority is transmitting a report before being overrun. Equip with binoculars, radio, sketch of friendly positions.
+> - See [OPFOR Card](014-deliberate-attack-opfor.md) for full details.
+> - UAS/Counter-UAS injects are OPTIONAL and only if authorized by the Commandant and in the approved POI.
 >
-> **Training Focus:** This OPORD serves dual roles. For CRAWL phase, the TAC briefs this order paragraph by paragraph, pausing at each section to explain what information the candidate should extract and how it feeds into their planning. For WALK/RUN iterations, it is a standalone evaluated lane — a deliberate attack against an enemy command post. Candidates should be able to identify: specified tasks, implied tasks, commander's intent, and key control measures. The CP objective adds complexity beyond a simple terrain seizure: candidates must plan for intelligence collection (SSE) after assault.
->
-> **OPFOR/Training Wrinkles:** For WALK/RUN iterations, OPFOR presents 3-4 personnel: 1-2 acting as CP staff (seated at field desk with maps/radios) and 2 in fighting positions around the CP. The reduced force size keeps the assault manageable for a single squad. Props recommended: field desk or table, antenna simulator (pole with wire), map boards, and a radio. CP staff should attempt to destroy documents if given time during the assault. See [OPFOR Card](014-deliberate-attack-opfor.md) for full details.
->
-> **OP Variant:** For iterations requiring a "deliberate attack on enemy OP," replace the CP with a 2-4 person observation post. Remove the SSE task and CP staff from OPFOR. Emphasize stealth approach and speed of assault — the OP's value is early warning, so the enemy's priority is transmitting a report before being overrun. Adjust enemy composition to 2-4 REAPER with binoculars, radio, and a sketch of friendly positions.
+> **Iteration Guidance:** Mission command version — squad tasks state outcomes without prescribing layout or positioning. For scaffolded iterations, use [014-deliberate-attack-detailed.md](014-deliberate-attack-detailed.md). For a classroom walkthrough of the TLP steps applied to this OPORD, see [014 Walkthrough](014-deliberate-attack-walkthrough.md).
 >
 > **See Also:** [LTA Grid Reference](../reference/lta-grid-reference.md) | [Tactical Overlay](014-deliberate-attack-overlay.html) | [Walkthrough](014-deliberate-attack-walkthrough.md) | [OPFOR Card](014-deliberate-attack-opfor.md)
->
-> **Iteration Guidance:** This is the mission command version — squad tasks state outcomes without prescribing specific positioning or movement. For earlier iterations with scaffolding, use [014-deliberate-attack-detailed.md](014-deliberate-attack-detailed.md). For a classroom walkthrough of the TLP steps applied to this OPORD, see [014 Walkthrough](014-deliberate-attack-walkthrough.md).
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 
@@ -40,13 +39,13 @@ Platoon Sergeant
 ## 1. SITUATION
 
 ### a. Area of Interest
-The Camp Blanding LTA, Clay County, Florida. AO COTTO covers the southern LTA along the Bradenton Avenue and Arcadia Street corridors, with OBJ HERRERA at the Arcadia/Bradenton junction (MP 0600 1523), bounded north by the unnamed east-west road, east by Conex City, south by the LTA perimeter beyond Arcadia Street, and west by Clearwater Avenue (vicinity MP 0570 1515 to MP 0615 1540). The area of interest extends north along Bradenton Avenue past the unnamed east-west road, where REAPER reinforcements would stage, and south of Arcadia Street into the broader training area — the likely REAPER withdrawal corridor.
+AO COTTO covers the southern Camp Blanding LTA along the Bradenton Ave and Arcadia St corridors, with OBJ HERRERA at the Arcadia/Bradenton junction (MP 0600 1523) (vic MP 0570 1515 to MP 0615 1540). Area of interest extends north along Bradenton Ave past the unnamed E-W road (REAPER reinforcement staging) and south of Arcadia St into the broader training area (likely REAPER withdrawal corridor).
 
 ### b. Area of Operations
 
-**1. Terrain.** The Camp Blanding LTA is a road-bounded sector of the training area, roughly 1,200m east-west by 550m north-south, set in flat sandy-soil pine and hardwood forest. An improved road grid frames the LTA: Bradenton Avenue (N-S) runs through the center, Clearwater Avenue (N-S) bounds the west, Arcadia Street (E-W) bounds the south, and Jacksonville Street (E-W) bounds the north. Two unnamed roads — one N-S in the western LTA and one E-W through the interior — subdivide the woodlines. The FOB sits at MP 0610 1550 in the northeast; Conex City sits at MP 0611 1530 in the southeast. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors, so the road grid provides the only extended fields of fire and the primary mounted avenues of approach. Sandy soil supports dismounted movement everywhere but restricts wheeled traffic to the roads, particularly after rain.
+**1. Terrain.** The Camp Blanding LTA is a road-bounded ~1,200m × 550m sector of flat sandy-soil pine and hardwood forest. Improved road grid: Bradenton Ave (N-S, center), Clearwater Ave (N-S, west), Arcadia St (E-W, south), Jacksonville St (E-W, north); two unnamed roads (one N-S in the western LTA, one E-W through the interior) subdivide the woodlines. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors, so the road grid provides the only extended fields of fire. Sandy soil supports dismounted movement everywhere but restricts wheeled traffic to roads. See [LTA Grid Reference](../reference/lta-grid-reference.md) for full terrain notes.
 
-   - **Key Terrain:** The road junction of Arcadia Street and Bradenton Avenue at OBJ HERRERA (MP 0600 1523) controls north-south and east-west movement through AO COTTO. The woodlines surrounding the junction on all sides provide covered and concealed avenues of approach for dismounted elements. Bradenton Avenue south of the junction provides a cleared lane of fire into the objective from the south.
+   - **Key Terrain:** Arcadia St / Bradenton Ave junction at OBJ HERRERA (MP 0600 1523) controls N-S and E-W movement through AO COTTO. Woodlines surrounding the junction provide covered/concealed dismounted approaches. Bradenton Ave south of the junction provides a cleared lane of fire into the objective from the south.
 
 **2. Weather.**
    - Skies: ________
