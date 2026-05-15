@@ -10,7 +10,7 @@
 >
 > **Mission Summary:** 1st Platoon is tasked to conduct an area reconnaissance in AO COTTO to locate REAPER positions, assess REAPER strength and disposition, and identify key terrain features.
 >
-> **Destination:** AO COTTO, bounded by Highway 16 (north), old railroad bed (south), Starke city limits (east), and pine forest edge (west). Focus area around suspected REAPER position at MP 0613 1532.
+> **Destination:** AO COTTO, central and eastern Camp Blanding LTA — bounded by Jacksonville Street (north), Arcadia Street (south), Conex City and FOB perimeter (east), and Bradenton Avenue (west). Focus area around suspected REAPER position at MP 0613 1532 (Conex City NE building).
 >
 > **Actions on Objective:** Platoon will establish an ORP, conduct reconnaissance of the area using zone or area reconnaissance techniques, collect intelligence on enemy positions and activities, and report findings to higher headquarters.
 >
@@ -47,11 +47,11 @@ Platoon Sergeant
 ## 1. SITUATION
 
 ### a. Area of Interest
-Clay County, Florida, in the vicinity of Starke and Highway 16. AO COTTO encompasses the area bounded to the north by Highway 16, to the east by the Starke city limits, to the south by the old railroad bed, and to the west by the pine forest edge. Suspected enemy activity centered around MP 0613 1532.
+The Camp Blanding LTA, Clay County, Florida. AO COTTO covers the central and eastern LTA, with suspected REAPER activity centered on Conex City northeast building (MP 0613 1532), bounded north by Jacksonville Street, east by Conex City and the FOB perimeter, south by Arcadia Street, and west by Bradenton Avenue (vicinity MP 0600 1525 to MP 0615 1565). The area of interest extends west across Bradenton Avenue and south of Arcadia Street into the woodlines that connect the eastern LTA to suspected REAPER support positions and lines of communication outside the AO.
 
 ### b. Area of Operations
 
-**1. Terrain.** Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, ponds, marshes, and wetlands. Vegetation provides concealment and limits long-range observation. Roads and trails serve as likely avenues of approach for both friendly and enemy forces. Terrain and soil conditions may restrict vehicle movement, especially in wet areas.
+**1. Terrain.** The Camp Blanding LTA is a road-bounded sector of the training area, roughly 1,200m east-west by 550m north-south, set in flat sandy-soil pine and hardwood forest. An improved road grid frames the LTA: Bradenton Avenue (N-S) runs through the center, Clearwater Avenue (N-S) bounds the west, Arcadia Street (E-W) bounds the south, and Jacksonville Street (E-W) bounds the north. Two unnamed roads — one N-S in the western LTA and one E-W through the interior — subdivide the woodlines. The FOB sits at MP 0610 1550 in the northeast; Conex City sits at MP 0611 1530 in the southeast. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors, so the road grid provides the only extended fields of fire and the primary mounted avenues of approach. Sandy soil supports dismounted movement everywhere but restricts wheeled traffic to the roads, particularly after rain.
 
    - **Key Terrain:** The suspected REAPER position at MP 0613 1532 is the focus of reconnaissance. The area north and south of the objective is relatively open, limiting observation positions. Woodlines to the east and west provide concealment for reconnaissance elements approaching the objective.
 

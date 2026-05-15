@@ -49,13 +49,13 @@ Platoon Sergeant
 ## 1. SITUATION
 
 ### a. Area of Interest
-Clay County, Florida, in the vicinity of Starke and Highway 16. AO ORANGE encompasses the road junction at OBJ WOLVERINE (MP 0612 1546), bounded to the north by the old logging road, to the east by the Starke city limits, to the south by the creek line, and to the west by the pine forest edge.
+The Camp Blanding LTA, Clay County, Florida. AO ORANGE covers the central and eastern LTA — the Bradenton Avenue corridor, the FOB south entrance at OBJ WOLVERINE (MP 0612 1546), and Conex City — bounded north by Jacksonville Street, east by the FOB and Conex City perimeters, south by Arcadia Street, and west by Bradenton Avenue (vicinity MP 0600 1525 to MP 0615 1555). The area of interest extends west across Bradenton Avenue into the surrounding woodlines and south of Arcadia Street, where VIPER blocking and interdiction elements are staging from positions outside the LTA.
 
 ### b. Area of Operations
 
-**1. Terrain.** Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, ponds, marshes, and wetlands. Vegetation provides concealment and limits long-range observation. Roads and trails serve as likely avenues of approach for both friendly and enemy forces. Terrain and soil conditions may restrict vehicle movement, especially in wet areas.
+**1. Terrain.** The Camp Blanding LTA is a road-bounded sector of the training area, roughly 1,200m east-west by 550m north-south, set in flat sandy-soil pine and hardwood forest. An improved road grid frames the LTA: Bradenton Avenue (N-S) runs through the center, Clearwater Avenue (N-S) bounds the west, Arcadia Street (E-W) bounds the south, and Jacksonville Street (E-W) bounds the north. Two unnamed roads — one N-S in the western LTA and one E-W through the interior — subdivide the woodlines. The FOB sits at MP 0610 1550 in the northeast; Conex City sits at MP 0611 1530 in the southeast. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors, so the road grid provides the only extended fields of fire and the primary mounted avenues of approach. Sandy soil supports dismounted movement everywhere but restricts wheeled traffic to the roads, particularly after rain.
 
-   - **Key Terrain:** The road junction south of the FOB is a key VIPER blocking position controlling the eastern avenue of approach. The Bradenton Avenue corridor provides a north-south axis VIPER is preparing to interdict in the western zone. Conex City's structures give VIPER covered fighting positions in the eastern sector. Woodlines throughout limit observation to under 50 meters off road corridors.
+   - **Key Terrain:** The FOB south entrance (MP 0612 1546) is a key VIPER blocking position controlling the eastern avenue of approach. The Bradenton/unnamed-road intersection (MP 0600 1538) anchors the central N-S axis VIPER is preparing to interdict. Conex City's structures (MP 0611 1530) give VIPER covered fighting positions in the southeastern sector. Woodlines throughout limit observation to under 50m off road corridors.
 
 **2. Weather.**
    - Skies: ________
