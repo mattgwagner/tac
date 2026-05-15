@@ -103,18 +103,26 @@ All squads participate. COP security is notional during this operation.
    4. Detain and search any unarmed personnel found in the complex.
    5. Challenge unknown personnel using challenge and password.
 
-**2. Priority Intelligence Requirements (PIR):**
+**2. Commander's Critical Information Requirements (CCIR):**
+
+*Priority Intelligence Requirements (PIR — enemy, terrain, weather, civil):*
    1. REAPER strength and disposition within the structure complex.
    2. Location of the primary cache within the complex.
    3. REAPER reinforcement response from positions south of the AO.
    4. Documents, maps, or electronics indicating REAPER command structure or future operations.
+   5. REAPER element larger than expected (more than 12 personnel).
+   6. REAPER reinforcement approaching from the south.
+   7. IEDs or booby traps encountered in the structures.
+   8. Civilian presence in the complex.
 
-**3. Commander's Critical Information Requirements (CCIR):**
-   1. REAPER element larger than expected (more than 12 personnel)
-   2. REAPER reinforcement approaching from the south
-   3. Friendly casualties during the clearance
-   4. IEDs or booby traps encountered in the structures
-   5. Civilian presence in the complex
+*Friendly Force Information Requirements (FFIR — our own force):*
+   1. Friendly casualties during the clearance.
+
+**3. Essential Elements of Friendly Information (EEFI):**
+   1. ORP and isolation positions, approach and withdrawal routes
+   2. Clearing-team task organization and sequence of clearance
+   3. COP Seggel defensive posture during the operation
+   4. Casualty status and combat strength
 
 **4. Reporting:**
    - **Report to higher when departing COP Seggel.**

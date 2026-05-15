@@ -26,6 +26,7 @@ All content is written in GitHub Flavored Markdown and automatically converted t
 - [Troop Leading Procedures](POI/Slides-RevealJS.html) - Interactive instructional slides covering the 8-step TLP framework, mission analysis (METT-TC), terrain analysis (OAKOC), and COA development (AGADAP) per ATP 3-21.8 and FM 6-0.
 - [TLP Training Package](tlp-training-package.html) - Complete Crawl-Walk-Run training package for Troop Leading Procedures. Includes 4-hour CRAWL phase (conceptual), 15-hour WALK phase (guided practice), and 48-hour RUN phase (FTX evaluation).
 - [LTA Grid Reference](lta-grid-reference.html) ([kml](lta-grid-reference.kml)) - Camp Blanding Local Training Area grid reference with objective locations, assembly areas, and key terrain for all OPORDs.
+- [CCIR / PIR / EEFI Doctrine Reference](ccir-pir-eefi-doctrine.html) - Cadre quick-reference card explaining the doctrinal relationship between CCIR, PIR, FFIR, and EEFI per current ADP/FM 6-0. Use when coaching candidates on Coordinating Instructions.
 
 ## STX Evaluation Lanes
 

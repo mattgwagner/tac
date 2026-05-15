@@ -137,32 +137,33 @@ None.
    3. Avoid civilian casualties and collateral damage.
    4. Positively identify targets before firing.
 
-**2. Priority Intelligence Requirements (PIR):**
+**2. Commander's Critical Information Requirements (CCIR):**
+
+*Priority Intelligence Requirements (PIR — enemy, terrain, weather, civil):*
    1. Confirm REAPER positions and strength at OBJ HERRERA, specifically their orientation along Arcadia Street and Bradenton Avenue.
    2. Locate and confirm the REAPER OP south of the junction along Bradenton Avenue.
    3. Identify any REAPER reinforcement routes from the north through the woodline or along Clearwater Avenue.
-   4. Assess civilian presence in the area, particularly along Arcadia Street and in the vicinity of structures east of the objective.
+   4. Assess civilian presence in the area, particularly along Arcadia Street and in the vicinity of structures east of the objective; report civilians on or near the objective preventing planned fires.
+   5. Enemy strength or disposition at OBJ HERRERA significantly different from the intelligence estimate.
+   6. REAPER OP detected on approach route — early warning compromised or not neutralized.
+   7. REAPER reinforcements approaching from the north along Clearwater Avenue or through the woodline.
 
-**3. Commander's Critical Information Requirements (CCIR):**
-   1. Enemy strength or disposition at OBJ HERRERA significantly different from the intelligence estimate
-   2. REAPER OP detected on approach route — early warning compromised or not neutralized
-   3. Loss of the support-by-fire position or inability to achieve fire superiority over the RPK
-   4. REAPER reinforcements approaching from the north along Clearwater Avenue or through the woodline
-   5. Friendly casualty in the assault element requiring immediate MEDEVAC
-   6. Civilian presence on or near the objective preventing planned fires
+*Friendly Force Information Requirements (FFIR — our own force):*
+   1. Loss of the support-by-fire position or inability to achieve fire superiority over the RPK.
+   2. Friendly casualty in the assault element requiring immediate MEDEVAC.
 
-**4. Essential Elements of Friendly Information (EEFI):**
+**3. Essential Elements of Friendly Information (EEFI):**
    1. SP/LD times and locations
    2. Friendly unit positions and boundaries
    3. Casualty status and combat strength
 
-**5. Reporting:**
+**4. Reporting:**
    - **Report to higher when SP'ing or crossing the line of departure.**
    - **In Position Report:** Upon occupying the ORP and the SBF position.
    - **SALUTE Report:** Upon visual confirmation of enemy, including the OP.
    - **LACE Report:** Upon seizure and consolidation on the objective.
 
-**6.** This OPORD is effective immediately upon distribution.
+**5.** This OPORD is effective immediately upon distribution.
 
 ---
 

@@ -145,17 +145,24 @@ Priority of fires to 1st Squad. Mortar support is available through company on r
    3. Avoid civilian engagement and minimize collateral damage.
    4. Report civilian casualties immediately.
 
-**2. Priority Intelligence Requirements (PIR):**
+**2. Commander's Critical Information Requirements (CCIR):**
+
+*Priority Intelligence Requirements (PIR — enemy, terrain, weather, civil):*
    1. Confirm REAPER personnel and weapons in each zone.
    2. Identify fortifications and defensive positions.
    3. Monitor REAPER movement between zones.
    4. Assess civilian presence in each zone.
+   5. Initial contact with REAPER forces in any zone — report size, activity, location, and weapons immediately.
+   6. REAPER forces massing against a single squad from multiple zones.
 
-**3. Commander's Critical Information Requirements (CCIR):**
-   1. Initial contact with REAPER forces in any zone — report size, activity, location, and weapons immediately
-   2. Loss of communication with any squad for more than 10 minutes during movement
-   3. Friendly casualty rendering any squad combat ineffective
-   4. REAPER forces massing against a single squad from multiple zones
+*Friendly Force Information Requirements (FFIR — our own force):*
+   1. Loss of communication with any squad for more than 10 minutes during movement.
+   2. Friendly casualty rendering any squad combat ineffective.
+
+**3. Essential Elements of Friendly Information (EEFI):**
+   1. SP/LD times and locations
+   2. Friendly unit positions and boundaries
+   3. Casualty status and combat strength
 
 **4. Reporting:**
    - **Report to higher when crossing the line of departure.**
@@ -163,17 +170,12 @@ Priority of fires to 1st Squad. Mortar support is available through company on r
    - **Objective Report:** Upon securing squad objective — report status, enemy situation, and disposition.
    - **LACE Report:** Upon reaching objective.
 
-**5. Essential Elements of Friendly Information (EEFI):**
-   1. SP/LD times and locations
-   2. Friendly unit positions and boundaries
-   3. Casualty status and combat strength
-
-**6. Coordination Between Squads:**
+**5. Coordination Between Squads:**
    - Squads operate independently within their zones. Lateral coordination at zone boundaries is the responsibility of adjacent squad leaders.
    - Squads report contact via SALUTE on the platoon net; adjacent squads monitor but continue their own missions unless directed otherwise by the PL.
    - Squads requiring support request it through the PL.
 
-**7.** This OPORD is effective immediately upon distribution.
+**6.** This OPORD is effective immediately upon distribution.
 
 ---
 

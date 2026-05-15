@@ -87,7 +87,7 @@ d.  (U) Tasks to Subordinate Units.
         PURPOSE: [Why this squad's task matters to the platoon plan]
 
 e.  (U) Coordinating Instructions.
-    [ROE, PIR, CCIR, Reporting — items applicable to two or more units]
+    [ROE, CCIR (PIR + FFIR), EEFI, Reporting — items applicable to two or more units]
 ```
 
 #### Execution Paragraph Writing Guidance
@@ -114,7 +114,11 @@ e.  (U) Coordinating Instructions.
 - **PURPOSE:** Why THIS SQUAD's task matters to the platoon plan specifically. Test: "If this squad fails, what specifically breaks?" Do not restate the Commander's Intent. A good purpose connects the squad's task to the next phase or another element's success. Identical between lean and detailed versions.
 - Include the element's role (Assault, Support, Security, Reserve) and whether it is the decisive or shaping operation in the header.
 
-**e. Coordinating Instructions** — Cross-cutting guidance that applies to two or more units. ROE, PIR, CCIR, reporting requirements, time hacks, restrictions.
+**e. Coordinating Instructions** — Cross-cutting guidance that applies to two or more units. ROE, CCIR (PIR + FFIR), EEFI, reporting requirements, time hacks, restrictions.
+
+**Information Requirements — Correct Doctrine (per current ADP/FM 6-0):**
+- **CCIR** is the umbrella. It contains **PIR** (enemy / terrain / weather / civil) and **FFIR** (our own force — combat power, casualties, sustainment, comms). List PIR and FFIR as sub-lists under a single CCIR heading. Do NOT list PIR and CCIR as parallel categories.
+- **EEFI** (Essential Elements of Friendly Information — what we don't want the enemy to learn) is a **separate** category, not nested under CCIR. See `reference/ccir-pir-eefi-doctrine.md` for the full cadre reference.
 
 **Note on Scheme of Movement and Maneuver:** This is NOT a separate sub-paragraph for most platoon operations. The phased overview belongs in the Concept of Operations; squad-specific positions and grids belong in Tasks. For movement-centric operations (tactical road march, convoy operations) where movement IS the operation, a Scheme of Movement sub-paragraph may be included between Concept and Fires, but it contains ONLY formation, technique, order of march, route, and speed/intervals — not element tasks.
 

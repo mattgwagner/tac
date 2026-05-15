@@ -148,14 +148,25 @@ A Company establishes PB THUNDER through a deliberate occupation. The main effor
    6. All elements must coordinate fires when 2nd Platoon conducts withdrawal through 1st Platoon's position.
 
 **2. Commander's Critical Information Requirements (CCIR):**
-   1. Compromise or suspected compromise of the patrol base location
-   2. Enemy contact on the screen line (any OP or patrol)
-   3. Penetration of the screen line by enemy elements
-   4. Loss of communication with any OP or with 2nd Platoon
-   5. Friendly casualty or equipment failure degrading any platoon's ability to accomplish its mission
-   6. Enemy force larger than a fire team (4+ personnel) detected on any avenue of approach
 
-**3. Reporting:**
+*Priority Intelligence Requirements (PIR — enemy, terrain, weather, civil):*
+   1. Enemy contact on the screen line (any OP or patrol).
+   2. Penetration of the screen line by enemy elements.
+   3. Enemy force larger than a fire team (4+ personnel) detected on any avenue of approach.
+   4. Indicators that the patrol base location has been observed or compromised by enemy or civilians.
+
+*Friendly Force Information Requirements (FFIR — our own force):*
+   1. Compromise or suspected compromise of the patrol base location.
+   2. Loss of communication with any OP or with 2nd Platoon.
+   3. Friendly casualty or equipment failure degrading any platoon's ability to accomplish its mission.
+
+**3. Essential Elements of Friendly Information (EEFI):**
+   1. Patrol base grid location, perimeter limits, and screen-line positions
+   2. OP positions, crew-served weapon orientations, and CFL graphics
+   3. QRF location and readiness state
+   4. Casualty status and combat strength
+
+**4. Reporting:**
    - **Report to higher when departing current location.**
    - **In Position Report:** Upon completing patrol base occupation. 2nd Platoon reports OP establishment.
    - **SALUTE Report:** Upon sighting enemy forces or indicators.
@@ -163,17 +174,17 @@ A Company establishes PB THUNDER through a deliberate occupation. The main effor
    - **LACE Report:** Upon occupation and prior to displacement.
    - **QRF Status:** 3rd Platoon reports readiness status at each stand-to.
 
-**4. Stand-To Procedures:**
+**5. Stand-To Procedures:**
    - Stand-to conducted 30 minutes before BMNT and 30 minutes before EENT.
    - 100% alert during stand-to; all personnel in fighting positions.
    - Stand-down only after CO or XO conducts assessment and issues order.
 
-**5. Fire Support Coordination:**
+**6. Fire Support Coordination:**
    - Coordinated fire line (CFL) established between the screen line and patrol base perimeter.
    - 2nd Platoon withdrawal triggers cease fire / shift fire on the northern sectors.
    - Recognition signals for 2nd Platoon withdrawal per unit SOP.
 
-**6.** This OPORD is effective immediately upon distribution.
+**7.** This OPORD is effective immediately upon distribution.
 
 ---
 

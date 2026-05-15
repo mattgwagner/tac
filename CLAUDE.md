@@ -55,7 +55,7 @@ Follow these information-segregation rules strictly:
 - **Concept of Operations:** 75-100 words. Type of operation, phases, element roles by function (assault/support/security/reserve), decisive operation designation. NO grids, NO squad-by-squad sequences.
 - **Scheme of Movement:** Only for movement-centric operations (road march, convoy, FPOL). Order of march, technique, intervals, route. NO element tasks.
 - **Tasks to Subordinate Units:** Single source of squad-level detail. Header with designation + functional role + operation type. TASK (outcome-focused) and PURPOSE (why this squad's task matters to the platoon plan).
-- **Coordinating Instructions:** Items applying to 2+ units — ROE, PIR, CCIR, reporting, timelines.
+- **Coordinating Instructions:** Items applying to 2+ units — ROE, CCIR (PIR + FFIR), EEFI, reporting, timelines. CCIR is the umbrella: PIR (enemy/environment) and FFIR (friendly force) are sub-lists. EEFI is a separate category, not nested under CCIR. See `reference/ccir-pir-eefi-doctrine.md`.
 
 ## Build Process
 

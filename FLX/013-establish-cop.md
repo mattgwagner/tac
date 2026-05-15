@@ -147,19 +147,27 @@ None.
    5. Challenge unknown personnel using challenge and password.
    6. Report civilian casualties immediately.
 
-**2. Priority Intelligence Requirements (PIR):**
+**2. Commander's Critical Information Requirements (CCIR):**
+
+*Priority Intelligence Requirements (PIR — enemy, terrain, weather, civil):*
    1. Determine whether REAPER forces are occupying or observing COP Seggel.
    2. Identify REAPER indirect fire positions or capability in the vicinity, particularly north of Jacksonville Street.
    3. Locate REAPER observation posts or communication activity near the COP, especially along the Jacksonville Street corridor and in the woodlines north and west of the facility.
    4. Assess REAPER capability and intent to conduct counterattack, including reinforcement routes along Jacksonville Street and Bradenton Avenue from the north.
    5. Identify host nation materials, equipment, or intelligence value items at the facility.
+   6. REAPER forces occupying or actively defending any portion of the COP facility.
+   7. Indirect fire or indicators of REAPER counterattack during occupation.
+   8. Building clearing reveals NBC materials or significant intelligence value items.
 
-**3. Commander's Critical Information Requirements (CCIR):**
-   1. REAPER forces occupying or actively defending any portion of the COP facility
-   2. Indirect fire or indicators of REAPER counterattack during occupation
-   3. Building clearing reveals NBC materials or significant intelligence value items
-   4. Friendly casualties during clearing that prevent simultaneous multi-building operations
-   5. Company CP unable to establish communications from the designated location
+*Friendly Force Information Requirements (FFIR — our own force):*
+   1. Friendly casualties during clearing that prevent simultaneous multi-building operations.
+   2. Company CP unable to establish communications from the designated location.
+
+**3. Essential Elements of Friendly Information (EEFI):**
+   1. SP time and route of march
+   2. ORP location and timing of COP entry
+   3. Company CP location, communications status, and battle-tracking posture
+   4. Casualty status and combat strength
 
 **4. Reporting:**
    - **Report to higher when SP'ing from assembly area.**

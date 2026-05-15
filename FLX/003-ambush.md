@@ -103,18 +103,26 @@ All squads participate in the ambush. COP security is notional during this opera
    4. Limit time on the objective — conduct hasty search and withdraw.
    5. Challenge unknown personnel using challenge and password.
 
-**2. Priority Intelligence Requirements (PIR):**
+**2. Commander's Critical Information Requirements (CCIR):**
+
+*Priority Intelligence Requirements (PIR — enemy, terrain, weather, civil):*
    1. Confirm REAPER resupply route and timing along Bradenton Avenue.
    2. Identify REAPER security elements overwatching the supply route.
    3. Determine REAPER reinforcement capability and response time from positions south of the AO.
    4. Assess captured materials for intelligence value (maps, documents, radios, supply manifests).
+   5. REAPER element larger than expected (more than 8 personnel).
+   6. REAPER security element detected flanking or behind the ambush position.
+   7. Civilian presence in or near the kill zone.
 
-**3. Commander's Critical Information Requirements (CCIR):**
-   1. REAPER element larger than expected (more than 8 personnel)
-   2. REAPER security element detected flanking or behind the ambush position
-   3. Civilian presence in or near the kill zone
-   4. Friendly casualties during the ambush
-   5. Ambush position compromised before initiation
+*Friendly Force Information Requirements (FFIR — our own force):*
+   1. Ambush position compromised before initiation.
+   2. Friendly casualties during the ambush.
+
+**3. Essential Elements of Friendly Information (EEFI):**
+   1. Ambush site location and time of occupation
+   2. Friendly approach and withdrawal routes
+   3. COP Seggel defensive posture during the operation
+   4. Casualty status and combat strength
 
 **4. Reporting:**
    - **Report to higher when departing COP Seggel.**

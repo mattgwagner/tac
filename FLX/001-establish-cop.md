@@ -106,21 +106,29 @@ A Company establishes COP Seggel as its forward operating base. 1st Platoon, the
    5. Challenge unknown personnel using challenge and password.
    6. Report civilian casualties immediately.
 
-**2. Priority Intelligence Requirements (PIR):**
+**2. Commander's Critical Information Requirements (CCIR):**
+
+*Priority Intelligence Requirements (PIR — enemy, terrain, weather, civil):*
    1. Identify REAPER reconnaissance or observation elements along the route from RTI to COP Seggel.
    2. Determine whether REAPER forces are occupying or observing COP Seggel.
    3. Identify REAPER indirect fire positions or capability, particularly north of Jacksonville Street.
    4. Locate REAPER observation posts or communication activity near the COP.
    5. Assess REAPER capability and intent to conduct counterattack, including reinforcement routes from the north.
    6. Identify host nation materials, equipment, or intelligence value items at the facility.
+   7. Enemy contact during movement that halts the platoon for more than 15 minutes.
+   8. Route conditions requiring deviation from the planned route.
+   9. REAPER forces occupying or actively defending any portion of the COP facility.
+   10. Indirect fire or indicators of REAPER counterattack during occupation.
 
-**3. Commander's Critical Information Requirements (CCIR):**
-   1. Enemy contact during movement that halts the platoon for more than 15 minutes
-   2. Route conditions requiring deviation from the planned route
-   3. REAPER forces occupying or actively defending any portion of the COP facility
-   4. Indirect fire or indicators of REAPER counterattack during occupation
-   5. Friendly casualties during movement or clearing
-   6. Company CP unable to establish communications from the designated location
+*Friendly Force Information Requirements (FFIR — our own force):*
+   1. Friendly casualties during movement or clearing.
+   2. Company CP unable to establish communications from the designated location.
+
+**3. Essential Elements of Friendly Information (EEFI):**
+   1. SP time from RTI and route of march
+   2. ORP location and timing of COP entry
+   3. Company CP location, communications status, and battle-tracking posture
+   4. Casualty status and combat strength
 
 **4. Reporting:**
    - **Report to higher when SP'ing from RTI.**

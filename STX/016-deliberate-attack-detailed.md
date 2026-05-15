@@ -146,37 +146,38 @@ Priority of fires to 3rd Squad. Mortar support is available through company on r
    3. Avoid civilian casualties and collateral damage.
    4. Positively identify targets before firing.
 
-**2. Priority Intelligence Requirements (PIR):**
+**2. Commander's Critical Information Requirements (CCIR):**
+
+*Priority Intelligence Requirements (PIR — enemy, terrain, weather, civil):*
    1. Confirm REAPER positions and strength at each junction.
    2. Identify REAPER avenues of approach, withdrawal, and reinforcement.
-   3. Assess civilian presence at each junction before execution.
+   3. Assess civilian presence at each junction before execution; report civilians on or near any objective preventing planned fires.
    4. Identify obstacles, IEDs, or prepared fighting positions on likely assault routes.
+   5. Enemy strength or disposition at any objective significantly different from the intelligence estimate.
+   6. REAPER force at any objective has withdrawn before the assault.
+   7. REAPER reinforcements approaching any objective.
 
-**3. Commander's Critical Information Requirements (CCIR):**
-   1. Enemy strength or disposition at any objective significantly different from the intelligence estimate
-   2. REAPER force at any objective has withdrawn before the assault
-   3. Loss of a squad support element or inability to achieve fire superiority
-   4. REAPER reinforcements approaching any objective
-   5. Friendly casualty in any squad requiring immediate MEDEVAC
-   6. Civilian presence on or near any objective preventing planned fires
+*Friendly Force Information Requirements (FFIR — our own force):*
+   1. Loss of a squad support element or inability to achieve fire superiority.
+   2. Friendly casualty in any squad requiring immediate MEDEVAC.
 
-**4. Essential Elements of Friendly Information (EEFI):**
+**3. Essential Elements of Friendly Information (EEFI):**
    1. SP/LD times and locations
    2. Friendly unit positions and boundaries
    3. Casualty status and combat strength
 
-**5. Reporting:**
+**4. Reporting:**
    - **Report to higher when SP'ing or crossing the line of departure.**
    - **In Position Report:** Upon occupying a squad ORP.
    - **SALUTE Report:** Upon visual confirmation of enemy.
    - **LACE Report:** Upon seizure and consolidation on the objective.
 
-**6. Coordination Between Squads:**
+**5. Coordination Between Squads:**
    - Squads operate independently at their assigned objectives.
    - Squads report contact via SALUTE on the platoon net; adjacent squads monitor but continue their own missions unless directed otherwise by the PL.
    - Squads requiring support request it through the PL.
 
-**7.** This OPORD is effective immediately upon distribution.
+**6.** This OPORD is effective immediately upon distribution.
 
 ---
 

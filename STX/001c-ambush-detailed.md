@@ -146,37 +146,38 @@ Priority of fires to 2nd Squad. Mortar support is available through company on r
    3. Outside the kill zone, engage only on positive identification (PID) of a hostile act or hostile intent; protect noncombatants on shared routes.
    4. Cease fire on the squad leader's signal; do not pursue past the limit of advance. Secure detainees and EPWs humanely.
 
-**2. Priority Intelligence Requirements (PIR):**
+**2. Commander's Critical Information Requirements (CCIR):**
+
+*Priority Intelligence Requirements (PIR — enemy, terrain, weather, civil):*
    1. Confirm VIPER team composition and cargo type at each site.
    2. Identify any weapons, munitions, or materials of intelligence value on VIPER personnel.
    3. Monitor for signs of VIPER coordination between sites or advance warning.
-   4. Assess civilian presence at each site before execution.
+   4. Assess civilian presence at each site before execution; report civilians in or adjacent to any kill zone at time of execution.
+   5. Enemy force composition at any site exceeds squad capability (reinforced element or crew-served weapons).
+   6. Evidence that VIPER teams are coordinating routes or have detected friendly presence.
 
-**3. Commander's Critical Information Requirements (CCIR):**
-   1. Compromise or detection of a squad prior to initiation at any site
-   2. Enemy force composition at a site exceeds squad capability (reinforced element or crew-served weapons)
-   3. Civilian presence in or adjacent to any kill zone at time of execution
-   4. Any friendly casualty that reduces a squad below minimum effective strength
-   5. Evidence that VIPER teams are coordinating routes or have detected friendly presence
+*Friendly Force Information Requirements (FFIR — our own force):*
+   1. Compromise or detection of a squad prior to initiation at any site.
+   2. Any friendly casualty that reduces a squad below minimum effective strength.
 
-**4. Essential Elements of Friendly Information (EEFI):**
+**3. Essential Elements of Friendly Information (EEFI):**
    1. SP/LD times and locations
    2. Friendly unit positions and boundaries
    3. Casualty status and combat strength
 
-**5. Reporting:**
+**4. Reporting:**
    - **Report to higher when SP'ing or crossing the line of departure.**
    - **SALUTE Report:** Upon enemy visual confirmation.
    - **In Position Report:** Upon occupying an ambush site or ORP.
    - **Intelligence Report:** Upon SSE completion — report all weapons and materials found.
    - **LACE Report:** After ambush, within ______ minutes.
 
-**6. Coordination Between Squads:**
+**5. Coordination Between Squads:**
    - Squads operate independently at their assigned sites.
    - Squads report contact via SALUTE on the platoon net; adjacent squads monitor but continue their own missions unless directed otherwise by the PL.
    - Squads requiring support request it through the PL.
 
-**7.** This OPORD is effective immediately upon distribution.
+**6.** This OPORD is effective immediately upon distribution.
 
 ---
 
