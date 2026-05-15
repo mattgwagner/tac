@@ -110,52 +110,44 @@ None.
 
 **1. 1st Squad (Assault — Decisive Operation):**
 
-- **TASK:** Clear and secure buildings along the main axis of advance through OBJ FLUNKER. Neutralize REAPER combatants in each structure. Report sectors clear by phase line. Upon consolidation, establish defensive positions in the central plaza area.
-- **PURPOSE:** Systematically eliminate REAPER's foothold in the urban area so the platoon can occupy and hold OBJ FLUNKER.
+- **TASK:** Clear REAPER from OBJ FLUNKER along the main axis of advance, reporting sectors clear by phase line.
+- **PURPOSE:** Eliminate REAPER's foothold in the urban area so the platoon can occupy and hold OBJ FLUNKER.
 
 **2. 2nd Squad (Support — Shaping Operation):**
 
-- **TASK:** Provide overwatch and suppressive fire as 1st Squad advances. Shift positions forward as phase lines are cleared. Be prepared to reinforce 1st Squad's clearing effort on order. During consolidation, establish defensive positions covering the assigned sector.
-- **PURPOSE:** Suppress REAPER fighters in depth so 1st Squad can close on and clear buildings without receiving flanking fire.
+- **TASK:** Suppress REAPER positions in depth in support of 1st Squad's clearance.
+- **PURPOSE:** Prevent flanking fire on 1st Squad as they close on and clear buildings.
 
 **3. 3rd Squad (Security — Shaping Operation):**
 
-- **TASK:** Secure the flanks and rear of the clearing operation. Block likely REAPER withdrawal and reinforcement routes. Maintain security of cleared sectors as the platoon advances. Monitor for civilian movement and report. During consolidation, establish defensive positions covering the assigned sector.
+- **TASK:** Block REAPER withdrawal and reinforcement and secure cleared sectors as the platoon advances.
 - **PURPOSE:** Prevent REAPER from escaping, reinforcing, or re-infiltrating cleared sectors behind the assault element.
 
 ### e. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
-   1. Engage only confirmed enemy combatants.
-   2. Use minimum force necessary to accomplish the mission.
+   1. PID required before engagement; engage only confirmed combatants.
+   2. Use minimum force necessary.
    3. Avoid civilian casualties and minimize collateral damage.
-   4. Positively identify targets before firing.
-   5. Report civilian casualties immediately.
 
 **2. Commander's Critical Information Requirements (CCIR):**
 
-*Priority Intelligence Requirements (PIR — enemy, terrain, weather, civil):*
-   1. Identify REAPER positions, barricades, and IEDs.
-   2. Monitor for REAPER reinforcements or withdrawal attempts.
-   3. Assess civilian presence and movement in the city; report civilian concentration preventing use of planned fires or maneuver in a sector.
-   4. Identify underground routes or escape tunnels.
-   5. REAPER reinforcements entering the city from outside the cleared area during operations.
-   6. Discovery of NBC materials or indicators in any structure.
+*Priority Intelligence Requirements (PIR):*
+   1. Civilian concentration in a sector preventing planned fires or maneuver.
+   2. IEDs, barricades, or prepared positions on the axis of advance.
+   3. REAPER reinforcements entering the city from outside the cleared area.
+   4. Discovery of NBC materials, hostages, or underground routes in any structure.
 
-*Friendly Force Information Requirements (FFIR — our own force):*
-   1. Loss of communication between clearing teams during operations.
-   2. Friendly casualty rendering a clearing team combat ineffective.
+*Friendly Force Information Requirements (FFIR):*
+   1. Loss of communication between clearing teams.
+   2. Casualty rendering a clearing team combat ineffective.
 
 **3. Essential Elements of Friendly Information (EEFI):**
    1. SP/LD times and locations
-   2. Friendly unit positions and boundaries
+   2. Phase lines and unit positions
    3. Casualty status and combat strength
 
-**4. Reporting:**
-   - **Report to higher when SP'ing or crossing the line of departure.**
-   - **In Position Report:** Upon occupying the ORP or objective.
-   - **LACE Report:** At least once during operation and upon consolidation.
-   - **SALUTE Report:** Upon sighting enemy forces or indicators.
+**4. Reporting:** SP/LD, In Position at the ORP/objective, SALUTE on contact, sector-clear at each phase line, LACE on consolidation.
 
 **5.** This OPORD is effective immediately upon distribution.
 

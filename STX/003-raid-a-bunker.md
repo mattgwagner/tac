@@ -111,57 +111,46 @@ Priority of fires to 3rd Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Independent Raid — OBJ COTTO):**
 
-- **TASK:** Conduct a squad raid at OBJ COTTO (MP 0600 1538) to destroy the small REAPER OP / cache at the Bradenton Ave intersection. Eliminate REAPER personnel at the objective, collect materials of intelligence value, and consolidate. Report enemy strength and findings.
-- **PURPOSE:** Destroy REAPER presence at a key road intersection and deny REAPER the use of this position for observation or resupply.
+- **TASK:** Raid OBJ COTTO (MP 0600 1538) to destroy the REAPER OP / cache at the Bradenton Ave intersection.
+- **PURPOSE:** Deny REAPER use of a key road intersection for observation and resupply.
 
 **2. 2nd Squad (Independent Raid — OBJ WHISKEY):**
 
-- **TASK:** Conduct a squad raid at OBJ WHISKEY (MP 0613 1532) to destroy the small REAPER commo relay / cache in the Conex City NE building. Eliminate REAPER personnel at the objective, collect materials of intelligence value, and consolidate. Report enemy strength and findings.
-- **PURPOSE:** Destroy REAPER communications node in Conex City and degrade REAPER's ability to coordinate across the AO.
+- **TASK:** Raid OBJ WHISKEY (MP 0613 1532) to destroy the REAPER commo relay / cache in the Conex City NE building.
+- **PURPOSE:** Degrade REAPER's ability to coordinate across the AO.
 
-**3. 3rd Squad (Independent Raid — OBJ ZULU):**
+**3. 3rd Squad (Independent Raid — OBJ ZULU) — Main Effort:**
 
-- **TASK:** Conduct a squad raid at OBJ ZULU (MP 0575 1524) to destroy the small REAPER OP at the Arcadia Street / Clearwater Avenue intersection. Eliminate REAPER personnel at the objective, collect materials of intelligence value, and consolidate. Report enemy strength and findings.
-- **PURPOSE:** Destroy REAPER observation capability in the southwestern AO and deny REAPER early warning of friendly movement into the sector.
+- **TASK:** Raid OBJ ZULU (MP 0575 1524) to destroy the REAPER OP at the Arcadia / Clearwater intersection.
+- **PURPOSE:** Deny REAPER early warning of friendly movement into the southwestern AO.
 
 ### e. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
-   1. Engage only confirmed enemy combatants.
+   1. PID required before engagement; engage only confirmed combatants.
    2. Use graduated response appropriate to the threat.
    3. Avoid civilian harm and minimize collateral damage.
-   4. Report civilian casualties immediately.
 
 **2. Commander's Critical Information Requirements (CCIR):**
 
-*Priority Intelligence Requirements (PIR — enemy, terrain, weather, civil):*
-   1. Confirm REAPER personnel count and weapons at each node.
-   2. Identify any crew-served weapons, obstacles, or prepared positions at any objective.
-   3. Collect materials of intelligence value (documents, maps, radios, notebooks) from any objective.
-   4. Assess civilian presence at each objective; report civilians at or near an objective preventing planned fires.
-   5. Enemy strength at any objective exceeds expected composition (reinforced or crew-served weapons present).
-   6. Obstacle or IED on approach routes preventing timely assault.
-   7. REAPER forces massing against a single squad from multiple objectives.
+*Priority Intelligence Requirements (PIR):*
+   1. Civilians at or near an objective preventing planned fires.
+   2. Enemy at an objective exceeds expected composition (reinforced or crew-served weapons).
+   3. Obstacle or IED on an approach route preventing timely assault.
+   4. REAPER massing against a single squad from multiple objectives.
 
-*Friendly Force Information Requirements (FFIR — our own force):*
+*Friendly Force Information Requirements (FFIR):*
    1. Compromise of an assault force prior to actions on the objective.
-   2. Any friendly casualty during an assault requiring immediate MEDEVAC.
+   2. Casualty during an assault requiring immediate MEDEVAC.
 
 **3. Essential Elements of Friendly Information (EEFI):**
    1. SP/LD times and locations
-   2. Friendly unit positions and boundaries
+   2. ORP and objective locations
    3. Casualty status and combat strength
 
-**4. Reporting:**
-   - **Report to higher when SP'ing or crossing the line of departure.**
-   - **In Position Report:** Upon occupying an ORP or objective.
-   - **LACE Report:** At least once during operation and upon consolidation.
-   - **SALUTE Report:** Upon sighting enemy forces or indicators.
+**4. Reporting:** SP/LD, In Position at the ORP/objective, SALUTE on contact, LACE on consolidation. Submit any captured-materials report through the PL after consolidation.
 
-**5. Coordination Between Squads:**
-   - Squads operate independently at their assigned objectives.
-   - Squads report contact via SALUTE on the platoon net; adjacent squads monitor but continue their own missions unless directed otherwise by the PL.
-   - Squads requiring support request it through the PL.
+**5. Coordination Between Squads:** Squads operate independently at their objectives; adjacent squads continue their own mission on contact unless the PL directs otherwise.
 
 **6.** This OPORD is effective immediately upon distribution.
 

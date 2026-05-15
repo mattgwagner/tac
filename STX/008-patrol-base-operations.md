@@ -111,58 +111,47 @@ Defensive fires planned for likely REAPER avenues of approach. Each squad respon
 
 ### d. Tasks to Subordinate Units
 
-**1. 1st Squad (Northern Sector):**
+**1. 1st Squad (Northern Sector) — Main Effort:**
 
-- **TASK:** Occupy and defend the northern sector of PB THUNDER. Establish fighting positions with interlocking fields of fire covering the northern avenues of approach. Provide personnel for LP/OP duty on the elevated ground to the north. Conduct local security patrols as directed. Execute priorities of work within the sector.
-- **PURPOSE:** Secure the most likely avenue of REAPER approach and provide the earliest warning of enemy reconnaissance or assault, giving the platoon time to react.
+- **TASK:** Occupy and defend the northern sector of PB THUNDER, oriented on the elevated ground to the north.
+- **PURPOSE:** Secure the most likely REAPER avenue of approach and provide earliest warning of enemy reconnaissance or assault.
 
 **2. 2nd Squad (Southeastern Sector):**
 
-- **TASK:** Occupy and defend the southeastern sector of PB THUNDER. Establish fighting positions with interlocking fields of fire covering the creek line approach and southeastern avenues. Provide personnel for LP/OP duty oriented toward the creek line. Execute priorities of work within the sector.
-- **PURPOSE:** Deny REAPER use of the creek line as a covered avenue of approach into the patrol base, preventing infiltration from the south and east.
+- **TASK:** Occupy and defend the southeastern sector of PB THUNDER, oriented on the creek line.
+- **PURPOSE:** Deny REAPER use of the creek line as a covered avenue of approach into the patrol base.
 
 **3. 3rd Squad (Southwestern Sector / QRF):**
 
-- **TASK:** Occupy and defend the southwestern sector of PB THUNDER. Establish fighting positions with interlocking fields of fire covering the southwestern avenues of approach. Serve as the platoon QRF, prepared to reinforce any sector under attack or establish a blocking position on a compromised avenue of approach to contain the REAPER penetration and enable the affected sector to reorganize. Rehearse reinforcement routes and blocking positions for 1st and 2nd Squad sectors. Identify and brief withdrawal routes for the platoon.
-- **PURPOSE:** Secure the southwestern perimeter and provide the PL a responsive reserve, ensuring any REAPER probe or assault can be met with concentrated force — either reinforcing the threatened sector or blocking the enemy avenue of approach.
+- **TASK:** Occupy and defend the southwestern sector of PB THUNDER and act as platoon QRF. Rehearse reinforcement to 1st and 2nd Squad sectors.
+- **PURPOSE:** Secure the southwestern perimeter and give the PL a responsive reserve to mass against any REAPER probe or assault.
 
 ### e. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
-   1. Engage only confirmed enemy combatants posing a threat.
+   1. Engage only confirmed combatants posing a threat.
    2. Use graduated response appropriate to the threat.
-   3. Challenge unknown personnel using challenge and password.
-   4. Report all contacts immediately.
+   3. Challenge all unknown personnel.
 
 **2. Commander's Critical Information Requirements (CCIR):**
 
-*Priority Intelligence Requirements (PIR — enemy, terrain, weather, civil):*
-   1. REAPER probing, reconnaissance, or direct contact on any sector of the patrol base.
-   2. Indicators that the patrol base location has been observed or compromised by enemy or civilians.
+*Priority Intelligence Requirements (PIR):*
+   1. REAPER probing, reconnaissance, or direct contact on any sector.
+   2. Indicators the patrol base has been observed by enemy or civilians.
 
-*Friendly Force Information Requirements (FFIR — our own force):*
+*Friendly Force Information Requirements (FFIR):*
    1. Compromise or suspected compromise of the patrol base location.
    2. Loss of communication with any LP/OP.
-   3. Friendly casualty or equipment failure degrading any sector's security.
-   4. Water resupply point inaccessible or contaminated.
+   3. Casualty or equipment failure degrading any sector's security.
 
 **3. Essential Elements of Friendly Information (EEFI):**
    1. Patrol base grid location and limits
    2. LP/OP positions and crew-served weapon orientations
    3. Stand-to schedule and departure/return windows
-   4. Casualty status and combat strength
 
-**4. Reporting:**
-   - **Report to higher when departing current location.**
-   - **In Position Report:** Upon completing patrol base occupation.
-   - **SALUTE Report:** Upon sighting enemy forces or indicators.
-   - **SITREP:** At designated times (every 4 hours minimum).
-   - **LACE Report:** Upon occupation and prior to displacement.
+**4. Reporting:** Departure, In Position on occupation, SALUTE on enemy contact, SITREP every 4 hours, LACE on occupation and prior to displacement.
 
-**5. Stand-To Procedures:**
-   - Stand-to conducted 30 minutes before BMNT and 30 minutes before EENT.
-   - 100% alert during stand-to; all personnel in fighting positions.
-   - Stand-down only after PL or PSG conducts assessment and issues order.
+**5. Stand-To Procedures:** 30 minutes before BMNT and EENT; 100% alert in fighting positions; stand-down only on PL or PSG order.
 
 **6.** This OPORD is effective immediately upon distribution.
 

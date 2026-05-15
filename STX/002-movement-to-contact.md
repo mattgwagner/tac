@@ -109,58 +109,48 @@ Priority of fires to 1st Squad. Mortar support is available through company on r
 
 ### d. Tasks to Subordinate Units
 
-**1. 1st Squad (Western Zone):**
+**1. 1st Squad (Western Zone) — Main Effort:**
 
-- **TASK:** Conduct a movement to contact in the western zone of AO FLUNKER toward OBJ BAINTON (MP 0600 1538). Locate and engage REAPER forces, secure the objective, and report enemy strength and disposition.
-- **PURPOSE:** Clear the western approaches to deny REAPER use of the Bradenton Ave corridor for reinforcement or withdrawal.
+- **TASK:** Movement to contact toward OBJ BAINTON (MP 0600 1538). Develop the situation on contact.
+- **PURPOSE:** Clear the Bradenton Ave corridor to deny REAPER reinforcement and withdrawal through the western AO.
 
 **2. 2nd Squad (Central Zone):**
 
-- **TASK:** Conduct a movement to contact in the central zone of AO FLUNKER toward OBJ HERRERA (MP 0612 1546). Locate and engage REAPER forces, secure the objective, and report enemy strength and disposition.
-- **PURPOSE:** Develop the situation at the road junction to enable the company commander to control the central avenue of approach for follow-on operations.
+- **TASK:** Movement to contact toward OBJ HERRERA (MP 0612 1546). Develop the situation on contact.
+- **PURPOSE:** Develop the enemy picture at the central road junction so the company can control that avenue of approach.
 
 **3. 3rd Squad (Eastern Zone):**
 
-- **TASK:** Conduct a movement to contact in the eastern zone of AO FLUNKER toward OBJ BARLOW (MP 0613 1532). Locate and engage REAPER forces, secure the objective, and report enemy strength and disposition.
-- **PURPOSE:** Clear the eastern sector to prevent REAPER from using the built-up area as a defensive strongpoint or staging area.
+- **TASK:** Movement to contact toward OBJ BARLOW (MP 0613 1532). Develop the situation on contact.
+- **PURPOSE:** Clear the eastern sector to deny REAPER use of the built-up area as a defensive strongpoint.
 
 ### e. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
-   1. Engage only confirmed enemy combatants posing a threat.
+   1. PID required before engagement; engage only confirmed combatants posing a threat.
    2. Use graduated response appropriate to the threat.
-   3. Avoid civilian engagement and minimize collateral damage.
-   4. Report civilian casualties immediately.
+   3. Avoid civilian casualties and minimize collateral damage.
 
 **2. Commander's Critical Information Requirements (CCIR):**
 
-*Priority Intelligence Requirements (PIR — enemy, terrain, weather, civil):*
-   1. Confirm REAPER personnel and weapons in each zone.
-   2. Identify fortifications and defensive positions.
-   3. Monitor REAPER movement between zones.
-   4. Assess civilian presence in each zone.
-   5. Initial contact with REAPER forces in any zone — report size, activity, location, and weapons immediately.
-   6. REAPER forces massing against a single squad from multiple zones.
+*Priority Intelligence Requirements (PIR):*
+   1. Initial contact with REAPER in any zone — report SALUTE immediately.
+   2. Enemy at any zone exceeds squad capability (reinforced or crew-served weapons).
+   3. Civilians in a squad's zone preventing planned fires or maneuver.
+   4. REAPER massing against a single squad from multiple zones.
 
-*Friendly Force Information Requirements (FFIR — our own force):*
-   1. Loss of communication with any squad for more than 10 minutes during movement.
+*Friendly Force Information Requirements (FFIR):*
+   1. Loss of communication with any squad for more than 10 minutes.
    2. Friendly casualty rendering any squad combat ineffective.
 
 **3. Essential Elements of Friendly Information (EEFI):**
    1. SP/LD times and locations
-   2. Friendly unit positions and boundaries
+   2. Friendly unit positions and zone boundaries
    3. Casualty status and combat strength
 
-**4. Reporting:**
-   - **Report to higher when crossing the line of departure.**
-   - **SALUTE Report:** Upon contact with enemy or relevant activity.
-   - **Objective Report:** Upon securing squad objective — report status, enemy situation, and disposition.
-   - **LACE Report:** Upon reaching objective.
+**4. Reporting:** SP/LD, SALUTE on contact, LACE on consolidation at the objective.
 
-**5. Coordination Between Squads:**
-   - Squads operate independently within their zones. Lateral coordination at zone boundaries is the responsibility of adjacent squad leaders.
-   - Squads report contact via SALUTE on the platoon net; adjacent squads monitor but continue their own missions unless directed otherwise by the PL.
-   - Squads requiring support request it through the PL.
+**5. Coordination Between Squads:** Squads operate independently in their zones; adjacent squad leaders coordinate lateral boundaries. On contact, adjacent squads continue their own mission unless the PL directs otherwise.
 
 **6.** This OPORD is effective immediately upon distribution.
 

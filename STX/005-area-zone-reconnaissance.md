@@ -111,53 +111,43 @@ Fires are limited to self-defense only. Avoid engagement unless necessary to bre
 
 **1. 1st Squad (Reconnaissance — Northern Sector):**
 
-- **TASK:** Conduct reconnaissance of the northern sector of AO COTTO. Locate REAPER positions, assess activity, and identify defensive preparations, obstacles, and key terrain. Use covered and concealed routes, maintain noise and light discipline, and avoid detection. Report findings via SALUTE format. Return to ORP upon completion or if compromised.
+- **TASK:** Reconnoiter the northern sector of AO COTTO. Locate REAPER positions and assess strength, defensive preparations, and key terrain without compromise.
 - **PURPOSE:** Confirm or deny REAPER presence in the northern sector so the company can plan follow-on operations against a known enemy picture.
 
-**2. 2nd Squad (Reconnaissance — Southern Sector):**
+**2. 2nd Squad (Reconnaissance — Southern Sector) — Main Effort:**
 
-- **TASK:** Conduct reconnaissance of the southern sector of AO COTTO, including the suspected REAPER position. Locate REAPER positions, assess activity, and identify defensive preparations, obstacles, and key terrain. Use covered and concealed routes, maintain noise and light discipline, and avoid detection. Report findings via SALUTE format. Return to ORP upon completion or if compromised.
+- **TASK:** Reconnoiter the southern sector of AO COTTO, including the suspected REAPER position vic MP 0613 1532. Locate REAPER positions and assess strength, defensive preparations, and key terrain without compromise.
 - **PURPOSE:** Develop the intelligence picture in the sector most likely to contain REAPER's main position, enabling the company to identify objectives for follow-on operations.
 
 **3. 3rd Squad (ORP Security / QRF):**
 
-- **TASK:** Establish and secure the ORP. Maintain 360-degree security during reconnaissance operations. Monitor radio traffic from reconnaissance elements. Be prepared to move to support a compromised squad or provide suppressive fire to enable extraction. Account for all personnel upon return.
-- **PURPOSE:** Ensure the reconnaissance elements have a secure base to return to and a responsive QRF if compromised, preventing a tactical emergency from becoming a decisive engagement.
+- **TASK:** Secure the ORP and stand by as QRF for a compromised reconnaissance element.
+- **PURPOSE:** Provide a secure base and responsive QRF so a compromise does not become a decisive engagement.
 
 ### e. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
-   1. Avoid engagement unless necessary for self-defense or to break contact.
+   1. Engage only for self-defense or to break contact.
    2. Do not compromise the reconnaissance mission unless absolutely necessary.
    3. Avoid civilian contact and minimize detection.
-   4. Report enemy contact immediately but maintain mission focus on intelligence collection.
 
 **2. Commander's Critical Information Requirements (CCIR):**
 
-*Priority Intelligence Requirements (PIR — enemy, terrain, weather, civil):*
-   1. Confirm exact location of REAPER positions.
-   2. Assess REAPER strength, composition, and equipment.
-   3. Identify REAPER defensive positions, obstacles, and security measures.
-   4. Assess terrain features that affect friendly or REAPER operations.
-   5. Monitor for REAPER patrols or movement.
-   6. Enemy force size or disposition significantly different from the intelligence estimate.
-   7. Discovery of prepared defensive positions, obstacles, or IEDs on likely avenues of approach.
+*Priority Intelligence Requirements (PIR):*
+   1. REAPER strength, composition, or disposition significantly different from the intelligence estimate.
+   2. Prepared defensive positions, obstacles, or IEDs on likely avenues of approach.
+   3. Civilian presence in or adjacent to a suspected REAPER position.
 
-*Friendly Force Information Requirements (FFIR — our own force):*
+*Friendly Force Information Requirements (FFIR):*
    1. Compromise of any reconnaissance element.
    2. Loss of communication with any reconnaissance element.
 
 **3. Essential Elements of Friendly Information (EEFI):**
    1. SP/LD times and locations
-   2. Friendly unit positions and boundaries
-   3. Reconnaissance objectives and NAIs
+   2. ORP location and reconnaissance routes
+   3. NAIs and reconnaissance objectives
 
-**4. Reporting:**
-   - **Report to higher when SP'ing or crossing the line of departure.**
-   - **In Position Report:** Upon occupying the ORP.
-   - **SALUTE Report:** Upon sighting enemy forces or indicators.
-   - **Intelligence Report:** Upon completion of reconnaissance or at designated times.
-   - **LACE Report:** At end of reconnaissance phase or upon return to ORP.
+**4. Reporting:** SP/LD, In Position at the ORP, SALUTE on enemy sighting, Intel report on completion of reconnaissance, LACE on return to ORP.
 
 **5.** This OPORD is effective immediately upon distribution.
 

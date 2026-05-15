@@ -49,8 +49,8 @@ For all other operation types (raids, ambushes, defense, recon, etc.), there is 
 
 This is the **single source** of squad-level detail in the OPORD body. Each squad gets:
 
-- **Header:** Squad designation, functional role, and operation type (e.g., "1st Squad (Assault Element — Decisive Operation)")
-- **TASK:** Outcome-focused instructions — what to accomplish and the squad's general area of responsibility. The OPORD body version omits specific positioning grids, directional movement, team-level assignments, and movement sequences. See "Tiered Task Detail" below for the detailed version that lives in Cadre Notes.
+- **Header:** Squad designation, functional role, decisive/shaping designation, and "Main Effort" tag where applicable (e.g., "2nd Squad (Assault — Decisive Operation)").
+- **TASK:** One sentence — outcome and general area, not how. Doctrinally implied steps do NOT belong here: occupy an ORP/SBF, shift/lift/cease fires on signal, assault through the objective, consolidate, reorganize, break contact, withdraw, conduct SSE, collect intelligence, signal "objective secured", report findings. Layout choices (linear/L-shaped ambush, near/far-side recon) are SL planning decisions, not TASK content.
 - **PURPOSE:** Why THIS SQUAD'S task matters to the platoon plan. Not a restatement of Commander's Intent. Test: "If this squad fails, what specifically breaks?"
 
 ### Tiered Task Detail
@@ -78,7 +78,13 @@ Each OPORD maintains two versions of the Tasks to Subordinate Units. Candidates 
 
 ### Coordinating Instructions
 
-Items that apply to two or more units: ROE, CCIR (PIR + FFIR), EEFI, reporting requirements, timelines.
+Items that apply to two or more units: ROE, CCIR (PIR + FFIR), EEFI, reporting requirements, timelines. Keep these tight — every line should drive a decision or constrain a choice. Do not restate SOP, restate the mission, or include "confirm what we are about to find out anyway".
+
+- **ROE:** 3-4 lines. Don't list "PID before engagement" and "engage only confirmed combatants" as two items — pick one.
+- **PIR:** 3-5 lines, each one decision-driving (enemy stronger than expected, civilians at the objective, obstacle blocking the approach, reinforcement from another sector). Not a recon checklist.
+- **FFIR:** 2-3 lines, each tied to a PL decision (loss of comms, casualty rendering an element ineffective, compromise of an element before execution).
+- **EEFI:** 3 items typically — what the enemy would gain operational advantage from knowing.
+- **Reporting:** One line listing the standard reports (SP/LD, In Position, SALUTE on contact, LACE on consolidation). Don't bullet-point each.
 
 **Doctrine note (current ADP/FM 6-0):** CCIR is the umbrella heading. PIR (enemy / terrain / weather / civil) and FFIR (friendly force — combat power, casualties, sustainment, comms) are sub-lists under CCIR. Do NOT list PIR and CCIR as parallel categories. EEFI is a separate category (what we do NOT want the enemy to learn), not nested under CCIR. Full cadre reference: `reference/ccir-pir-eefi-doctrine.md`.
 
