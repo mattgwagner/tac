@@ -111,52 +111,44 @@ None.
 
 **1. 1st Squad (Support by Fire — Shaping Operation):**
 
-- **TASK:** Occupy a support-by-fire position with observation of OBJ HERRERA. On the PL's signal, initiate suppressive fire into REAPER positions at the junction. Suppress or destroy the REAPER support weapon. Shift or cease fires on order as 2nd Squad enters the objective.
-- **PURPOSE:** Fix REAPER in their fighting positions and neutralize the support weapon so 2nd Squad can close on and assault through the objective without receiving aimed fire.
+- **TASK:** Suppress REAPER on OBJ HERRERA from a support-by-fire position. Priority target: the RPK.
+- **PURPOSE:** Fix REAPER and neutralize the support weapon so 2nd Squad can close on and assault through the objective.
 
 **2. 2nd Squad (Assault — Decisive Operation):**
 
-- **TASK:** Move to an assault position near OBJ HERRERA. On order, assault through the objective, clearing through REAPER fighting positions at the junction. Destroy REAPER forces and seize the road junction. Signal "objective secured" upon completion.
+- **TASK:** Seize OBJ HERRERA and destroy REAPER forces at the junction.
 - **PURPOSE:** Destroy the enemy force on the objective and seize the key terrain that controls movement through AO COTTO.
 
 **3. 3rd Squad (Security — Shaping Operation):**
 
-- **TASK:** Isolate OBJ HERRERA prior to the assault. Block REAPER reinforcement and escape routes. Maintain positions through the assault. Collapse security last during platoon consolidation and move to the objective.
-- **PURPOSE:** Prevent REAPER reinforcement from the north so 2nd Squad fights only the force currently at the junction, and secure the platoon's withdrawal route.
+- **TASK:** Isolate OBJ HERRERA prior to the assault and block REAPER reinforcement and escape from the north.
+- **PURPOSE:** Ensure 2nd Squad fights only the force at the junction and secure the platoon's withdrawal route.
 
 ### e. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
-   1. Engage only confirmed enemy combatants.
-   2. Use minimum force necessary to accomplish the mission.
+   1. PID required before engagement; engage only confirmed combatants.
+   2. Use minimum force necessary.
    3. Avoid civilian casualties and collateral damage.
-   4. Positively identify targets before firing.
 
 **2. Commander's Critical Information Requirements (CCIR):**
 
-*Priority Intelligence Requirements (PIR — enemy, terrain, weather, civil):*
-   1. Confirm REAPER positions and strength at OBJ HERRERA, specifically their orientation along Arcadia Street and Bradenton Avenue.
-   2. Locate and confirm the REAPER OP south of the junction along Bradenton Avenue.
-   3. Identify any REAPER reinforcement routes from the north through the woodline or along Clearwater Avenue.
-   4. Assess civilian presence in the area, particularly along Arcadia Street and in the vicinity of structures east of the objective; report civilians on or near the objective preventing planned fires.
-   5. Enemy strength or disposition at OBJ HERRERA significantly different from the intelligence estimate.
-   6. REAPER OP detected on approach route — early warning compromised or not neutralized.
-   7. REAPER reinforcements approaching from the north along Clearwater Avenue or through the woodline.
+*Priority Intelligence Requirements (PIR):*
+   1. REAPER strength or disposition at OBJ HERRERA significantly different from the intelligence estimate.
+   2. REAPER OP detected on the approach route — early warning compromised or not neutralized.
+   3. REAPER reinforcements approaching from the north along Clearwater Ave or through the woodline.
+   4. Civilians on or adjacent to the objective preventing planned fires.
 
-*Friendly Force Information Requirements (FFIR — our own force):*
-   1. Loss of the support-by-fire position or inability to achieve fire superiority over the RPK.
-   2. Friendly casualty in the assault element requiring immediate MEDEVAC.
+*Friendly Force Information Requirements (FFIR):*
+   1. Loss of the SBF position or inability to achieve fire superiority over the RPK.
+   2. Casualty in the assault element requiring immediate MEDEVAC.
 
 **3. Essential Elements of Friendly Information (EEFI):**
    1. SP/LD times and locations
-   2. Friendly unit positions and boundaries
+   2. ORP and SBF positions
    3. Casualty status and combat strength
 
-**4. Reporting:**
-   - **Report to higher when SP'ing or crossing the line of departure.**
-   - **In Position Report:** Upon occupying the ORP and the SBF position.
-   - **SALUTE Report:** Upon visual confirmation of enemy, including the OP.
-   - **LACE Report:** Upon seizure and consolidation on the objective.
+**4. Reporting:** SP/LD, In Position at the ORP and SBF, SALUTE on enemy contact (including the OP), LACE on consolidation.
 
 **5.** This OPORD is effective immediately upon distribution.
 

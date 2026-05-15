@@ -37,10 +37,11 @@ Some missions also have a `-TRAINING-GUIDE.md` variant or `-cadre-notes.md` with
 Each OPORD maintains two versions of Tasks to Subordinate Units. Candidates cycle through the same OPORDs, so early iterations provide scaffolded detail and later iterations require squad leaders to develop their own schemes of maneuver.
 
 **OPORD body (Mission Command version — the base `.md` file):**
-- Squad designation, functional role, and operation type in header
-- TASK states the outcome and general area — what to accomplish, not how to position
-- Does NOT include: specific positioning grids, directional movement, team-level assignments, movement sequencing
-- PURPOSE is always complete
+- Squad designation, functional role, decisive/shaping designation, and "Main Effort" tag in header
+- TASK is one sentence — outcome and general area, not how to position
+- TASK does NOT include: specific positioning grids, directional movement, team-level assignments, movement sequencing, **or doctrinally implied steps** (occupy ORP/SBF, shift/cease fires on signal, assault through, consolidate, reorganize, break contact, withdraw, SSE, collect intelligence, signal "objective secured", report findings)
+- TASK does NOT prescribe layout (linear/L-shaped ambush, near/far-side recon, etc.) — that is an SL planning decision
+- PURPOSE is always complete and answers "if this squad fails, what specifically breaks?"
 
 **Detailed version (`-detailed.md`):**
 - Full version of each squad's TASK with: specific grids, directional movement, approach routes, team assignments, departure order

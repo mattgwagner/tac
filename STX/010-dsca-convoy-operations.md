@@ -129,18 +129,18 @@ Not applicable (DSCA operation).
 
 **1st Platoon (Convoy Element — Main Effort):**
 
-- **TASK:** Plan and execute the logistics convoy from Camp Blanding to Bay County Staging Area. PL leads in HMMWV, navigates the primary route, and makes rerouting decisions at obstacles. PSG trails in HMMWV, monitors convoy integrity, and manages recovery if a vehicle breaks down. Maintain accountability of all personnel and supplies throughout movement. Deliver supplies to the staging area and prepare for follow-on operations.
-- **PURPOSE:** Transport relief supplies along the 200-mile route so humanitarian assistance operations can begin in Bay County.
+- **TASK:** Conduct the logistics convoy from Camp Blanding to the Bay County Staging Area and deliver supplies.
+- **PURPOSE:** Move relief supplies along the 200-mile route so humanitarian assistance can begin in Bay County.
 
 **2nd Platoon:**
 
-- **TASK:** Maintain security of Camp Blanding assembly area and be prepared to dispatch recovery assets if required.
-- **PURPOSE:** Secure the rear area and provide support if the convoy requires recovery or resupply.
+- **TASK:** Secure the Camp Blanding assembly area; be prepared to dispatch recovery assets.
+- **PURPOSE:** Provide rear-area support if the convoy requires recovery or resupply.
 
 **3rd Platoon:**
 
-- **TASK:** Secure Bay County Staging Area, prepare to receive the convoy, and coordinate with county emergency management for supply transfer procedures.
-- **PURPOSE:** Ensure the delivery point is secure and ready so supplies can be offloaded and distributed without delay.
+- **TASK:** Secure the Bay County Staging Area and coordinate with county emergency management for supply transfer.
+- **PURPOSE:** Ensure the delivery point is ready so supplies can be offloaded and distributed without delay.
 
 ### f. Coordinating Instructions
 

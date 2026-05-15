@@ -114,55 +114,45 @@ Priority of fires to 2nd Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Independent Ambush — Western Segment):**
 
-- **TASK:** Conduct a linear ambush at OBJ FLUNKER (MP 0600 1530) along Bradenton Ave. Destroy the REAPER patrol transiting the segment and break contact to an assembly area. Report enemy strength and disposition.
-- **PURPOSE:** Deny REAPER the use of Bradenton Ave as a resupply route through the western portion of AO COTTO.
+- **TASK:** Ambush the REAPER patrol vic OBJ FLUNKER (MP 0600 1530) along Bradenton Ave.
+- **PURPOSE:** Deny REAPER use of Bradenton Ave as a resupply route through western AO COTTO.
 
-**2. 2nd Squad (Independent Ambush — Northwestern Segment):**
+**2. 2nd Squad (Independent Ambush — Northwestern Segment) — Main Effort:**
 
-- **TASK:** Conduct a linear ambush at OBJ KLENDATHU (MP 0585 1559) along the unnamed N-S road in the western LTA. Destroy the REAPER patrol transiting the segment and break contact to an assembly area. Report enemy strength and disposition.
-- **PURPOSE:** Deny REAPER the use of the western movement corridor and disrupt courier traffic in the northwestern sector of AO COTTO.
+- **TASK:** Ambush the REAPER patrol vic OBJ KLENDATHU (MP 0585 1559) along the unnamed N-S road.
+- **PURPOSE:** Deny REAPER use of the western corridor and disrupt courier traffic in the northwestern sector.
 
 **3. 3rd Squad (Independent Ambush — Southwestern Segment):**
 
-- **TASK:** Conduct a linear ambush at OBJ TANGO (MP 0575 1538) at the Clearwater Ave / unnamed road intersection. Destroy the REAPER patrol transiting the intersection and break contact to an assembly area. Report enemy strength and disposition.
-- **PURPOSE:** Deny REAPER the use of the southwestern road junction and disrupt dismounted patrol movement in that portion of AO COTTO.
+- **TASK:** Ambush the REAPER patrol vic OBJ TANGO (MP 0575 1538) at the Clearwater Ave / unnamed road intersection.
+- **PURPOSE:** Deny REAPER use of the southwestern road junction and disrupt dismounted patrol movement in that sector.
 
 ### e. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
-   1. Engage only valid military targets.
-   2. Use minimum force necessary to accomplish the mission.
+   1. PID required before engagement; engage only confirmed combatants.
+   2. Use minimum force necessary.
    3. Avoid civilian casualties and collateral damage.
-   4. Positively identify targets before firing.
 
 **2. Commander's Critical Information Requirements (CCIR):**
 
-*Priority Intelligence Requirements (PIR — enemy, terrain, weather, civil):*
-   1. Confirm REAPER patrol composition at each site.
-   2. Monitor for changes in REAPER routes or reinforcements.
-   3. Assess civilian presence at each site before execution; report civilians in or adjacent to any kill zone at time of execution.
-   4. Enemy force composition at any site exceeds squad capability (reinforced element or crew-served weapons).
-   5. REAPER forces massing against a single squad from multiple sites.
+*Priority Intelligence Requirements (PIR):*
+   1. Civilians in or adjacent to a kill zone at time of execution.
+   2. Enemy at any site exceeds squad capability (reinforced or crew-served weapons).
+   3. REAPER massing against a single squad from multiple sites.
 
-*Friendly Force Information Requirements (FFIR — our own force):*
-   1. Compromise or detection of a squad prior to initiation at any site.
-   2. Any friendly casualty that reduces a squad below minimum effective strength.
+*Friendly Force Information Requirements (FFIR):*
+   1. Compromise of a squad prior to initiation.
+   2. Friendly casualty reducing a squad below effective strength.
 
 **3. Essential Elements of Friendly Information (EEFI):**
    1. SP/LD times and locations
-   2. Friendly unit positions and boundaries
+   2. Ambush site locations
    3. Casualty status and combat strength
 
-**4. Reporting:**
-   - **Report to higher when SP'ing or crossing the line of departure.**
-   - **SALUTE Report:** Upon enemy visual confirmation.
-   - **In Position Report:** Upon occupying an ambush site or ORP.
-   - **LACE Report:** After ambush, within ______ minutes.
+**4. Reporting:** SP/LD, SALUTE on enemy contact, In Position at the ambush site, LACE within ____ minutes of execution.
 
-**5. Coordination Between Squads:**
-   - Squads operate independently at their assigned sites.
-   - Squads report contact via SALUTE on the platoon net; adjacent squads monitor but continue their own missions unless directed otherwise by the PL.
-   - Squads requiring support request it through the PL.
+**5. Coordination Between Squads:** Squads operate independently; adjacent squads continue their own mission on contact unless the PL directs otherwise.
 
 **6.** This OPORD is effective immediately upon distribution.
 

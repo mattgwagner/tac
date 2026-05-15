@@ -138,7 +138,7 @@ Not applicable (DSCA operation).
 
 **1st Platoon (Sectors 1 & 2 — Main Effort):**
 
-- **TASK:** Conduct mounted reconnaissance of Sector 1 (US-231 corridor from county line to Panama City) and Sector 2 (Panama City urban area including US-98 coastal segment). Assess route trafficability for LMTV convoys, document infrastructure damage, identify hazards (downed lines, flooding, structural collapse), and locate potential POD sites (minimum 3). Document all findings with photos/video and grid coordinates. Report immediately upon finding routes CLOSED, bridges DAMAGED, or immediate hazards. Consolidate at the staging area upon completion.
+- **TASK:** Reconnoiter Sector 1 (US-231 corridor) and Sector 2 (Panama City urban area, including US-98 coastal segment). Assess route trafficability for LMTV convoys, identify hazards, and locate POD sites (minimum 3).
 - **PURPOSE:** Provide the route assessment for the primary supply corridor so the battalion can determine whether convoys can reach Bay County and where to establish distribution points.
 
 **Priority Reconnaissance Objectives:**
@@ -151,12 +151,12 @@ Not applicable (DSCA operation).
 
 **2nd Platoon (Sectors 3 & 4):**
 
-- **TASK:** Conduct mounted reconnaissance of Sector 3 (SR-77 corridor) and Sector 4 (western Bay County). Assess alternate route trafficability, document damage, and identify potential POD sites.
+- **TASK:** Reconnoiter Sector 3 (SR-77 corridor) and Sector 4 (western Bay County). Assess alternate route trafficability and locate POD sites.
 - **PURPOSE:** Provide assessment of alternate routes in case the primary corridor is impassable.
 
 **3rd Platoon (Staging Area Security / QRF):**
 
-- **TASK:** Maintain security of Bay County Staging Area. Serve as Quick Reaction Force to support reconnaissance elements if required (vehicle recovery, medical emergency).
+- **TASK:** Secure the Bay County Staging Area and act as QRF for reconnaissance elements.
 - **PURPOSE:** Secure the staging area and provide emergency support so reconnaissance platoons can focus on their sectors.
 
 ### e. Coordinating Instructions

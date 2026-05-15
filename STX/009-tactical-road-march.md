@@ -120,51 +120,43 @@ No planned fires. 1st Squad, as the lead element, has priority of indirect fires
 
 **1. 1st Squad (Lead / Point Security):**
 
-- **TASK:** Lead the march from the SP to RP THUNDER. Provide point security with a minimum two-man point team. Conduct route reconnaissance forward of the main body. Identify and report danger areas and obstacles. Halt and establish near-side security at each danger area before the main body crosses.
-- **PURPOSE:** Provide the platoon early warning and ensure the route is clear, so the main body can move without halting unexpectedly at an unsecured position.
+- **TASK:** Lead the march from SP to RP THUNDER. Reconnoiter forward of the main body and secure near-side of each danger area before the main body crosses.
+- **PURPOSE:** Give the platoon early warning and a cleared route so the main body moves without halting at unsecured ground.
 
 **2. 2nd Squad (Main Body):**
 
-- **TASK:** Move behind platoon headquarters in the order of march. Maintain visual contact with the lead and trail elements. Be prepared to reinforce point security at danger areas or rear security on contact. During security halts, provide local security of the main body's position.
-- **PURPOSE:** Maintain platoon cohesion and provide the PL immediately available combat power to reinforce whichever security element makes contact.
+- **TASK:** Move behind platoon headquarters; be prepared to reinforce point or trail on contact.
+- **PURPOSE:** Maintain platoon cohesion and give the PL immediately available combat power to mass on whichever security element makes contact.
 
 **3. 3rd Squad (Trail / Rear Security):**
 
-- **TASK:** Move as the trail element. Provide rear security throughout the march. Maintain accountability of all personnel and equipment — no one falls behind without report. Report any enemy activity, tracking, or stragglers immediately. Upon arrival at RP THUNDER, confirm to PSG that all personnel have closed on the position.
-- **PURPOSE:** Prevent REAPER from trailing or flanking the formation from the rear, and ensure the platoon arrives at RP THUNDER at full strength.
+- **TASK:** Move as the trail element. Provide rear security and maintain accountability.
+- **PURPOSE:** Prevent REAPER from trailing or flanking from the rear and ensure the platoon arrives at full strength.
 
 ### f. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
-   1. Engage only confirmed enemy combatants posing a threat.
+   1. Engage only confirmed combatants posing a threat.
    2. Use graduated response appropriate to the threat.
    3. Avoid civilian contact and minimize detection.
-   4. Report all contacts immediately.
 
 **2. Commander's Critical Information Requirements (CCIR):**
 
-*Priority Intelligence Requirements (PIR — enemy, terrain, weather, civil):*
-   1. Identify REAPER observation posts or reconnaissance elements along the route.
-   2. Confirm route is clear of obstacles or IEDs; report obstacle or IED blocking the primary route of march.
-   3. Assess civilian presence along the route of march.
-   4. Monitor for changes in enemy activity or posture; report enemy contact that halts movement for more than 15 minutes.
-   5. Route conditions requiring deviation from the planned route.
+*Priority Intelligence Requirements (PIR):*
+   1. Obstacle, IED, or route condition forcing deviation from the planned route.
+   2. REAPER observation or contact along the route.
+   3. Civilian presence concentrated at a danger area or checkpoint.
 
-*Friendly Force Information Requirements (FFIR — our own force):*
-   1. Loss of contact with any element in the march order.
+*Friendly Force Information Requirements (FFIR):*
+   1. Loss of visual contact with any element in the march order.
+   2. Casualty or straggler requiring the platoon to halt.
 
 **3. Essential Elements of Friendly Information (EEFI):**
    1. SP time, route of march, and RP arrival window
    2. Order of march and intervals
    3. Casualty status and combat strength
 
-**4. Reporting:**
-   - **Report to higher when SP'ing from the assembly area.**
-   - **Checkpoint Reports:** Upon reaching each designated checkpoint.
-   - **Danger Area Reports:** Upon clearing each danger area.
-   - **In Position Report:** Upon arrival at RP THUNDER.
-   - **SALUTE Report:** Upon sighting enemy forces or indicators.
-   - **LACE Report:** Upon arrival at RP THUNDER.
+**4. Reporting:** SP, each CP, clearance of each danger area, SALUTE on enemy contact, In Position and LACE at RP THUNDER.
 
 **5. Route and Checkpoints:**
    - SP: Assembly Area (MP 0598 1538)

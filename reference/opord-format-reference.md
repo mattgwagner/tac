@@ -110,9 +110,9 @@ e.  (U) Coordinating Instructions.
 **c. Scheme of Fires** — Priority of indirect fires (which subordinate unit gets first call on indirect fire assets), fire support assets available, and restrictions. Unique information only.
 
 **d. Tasks to Subordinate Units** — The ONE place with squad-specific detail.
-- **TASK:** The squad's outcome-focused instructions — what to accomplish, general area of responsibility, and key coordination (triggers, on-order actions). The OPORD body states tasks at a mission-command level, omitting specific positioning grids, directional movement, and team-level assignments. The detailed version with specific grids, routes, and team assignments lives in the Cadre Notes under "Detailed Squad Tasks (Early Iterations)" for use during initial training iterations.
+- **TASK:** One sentence stating the outcome and general area — what to accomplish, not how. Verbosity confuses candidates and undermines mission command. Doctrinally implied steps **do not** go in TASK: occupy an ORP, occupy an SBF, shift/lift/cease fires on signal, assault through the objective, consolidate, reorganize, break contact, withdraw to an assembly area, conduct SSE, collect intelligence, signal "objective secured", report findings. Layout terms (linear/L-shaped, near/far-side, etc.) also do not belong here — those are SL planning decisions. The detailed version with specific grids, routes, and team assignments lives in the `-detailed.md` companion file for scaffolded iterations.
 - **PURPOSE:** Why THIS SQUAD's task matters to the platoon plan specifically. Test: "If this squad fails, what specifically breaks?" Do not restate the Commander's Intent. A good purpose connects the squad's task to the next phase or another element's success. Identical between lean and detailed versions.
-- Include the element's role (Assault, Support, Security, Reserve) and whether it is the decisive or shaping operation in the header.
+- Include the element's role (Assault, Support, Security, Reserve), the decisive/shaping designation, and a "Main Effort" tag where applicable, in the header.
 
 **e. Coordinating Instructions** — Cross-cutting guidance that applies to two or more units. ROE, CCIR (PIR + FFIR), EEFI, reporting requirements, time hacks, restrictions.
 

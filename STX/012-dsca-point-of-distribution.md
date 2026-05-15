@@ -135,7 +135,7 @@ Not applicable (DSCA operation).
 
 **1st Platoon (POD Site ALPHA — Main Effort):**
 
-- **TASK:** Establish and operate POD Site ALPHA at Panama City High School. Set up traffic flow with a single entry control point, minimum two distribution lanes, and a single exit to prevent return traffic. Distribute emergency supplies (water, ice, MREs, tarps) per household limits. Maintain supply accountability using tally sheets with hourly reports to Company TOC. Request resupply when at 25% remaining. Establish a walk-up area for civilians without vehicles. Transition or close POD on order.
+- **TASK:** Establish and operate POD Site ALPHA at Panama City High School. Distribute supplies per household limits and request resupply at 25% remaining.
 - **PURPOSE:** Serve the maximum number of affected households in the Panama City area while maintaining accountability and order.
 
 **Distribution Limits (per household):**
@@ -155,13 +155,13 @@ Not applicable (DSCA operation).
 
 **2nd Platoon (POD Site BRAVO):**
 
-- **TASK:** Establish and operate POD Site BRAVO at Lynn Haven Community Center using same procedures and distribution limits as POD Site ALPHA.
-- **PURPOSE:** Extend distribution coverage to the Lynn Haven area so the company serves both major population centers.
+- **TASK:** Establish and operate POD Site BRAVO at Lynn Haven Community Center using the same procedures and distribution limits.
+- **PURPOSE:** Extend distribution coverage to Lynn Haven so the company serves both major population centers.
 
 **3rd Platoon (Resupply / QRF):**
 
-- **TASK:** Conduct resupply runs from Bay County Staging Area to POD sites as requested. Serve as Quick Reaction Force to support POD operations (crowd control, medical emergency, vehicle recovery).
-- **PURPOSE:** Keep distribution lanes supplied so neither POD runs out, and provide emergency response so POD personnel can stay focused on distribution.
+- **TASK:** Conduct resupply runs from the Bay County Staging Area to POD sites and act as QRF.
+- **PURPOSE:** Keep distribution lanes supplied and provide emergency response so POD personnel can stay focused on distribution.
 
 ### e. Coordinating Instructions
 
