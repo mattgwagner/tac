@@ -123,17 +123,17 @@ Priority of fires to 1st Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Western Zone):**
 
-- **TASK:** Conduct a movement to contact in the western zone of AO ORANGE to locate and destroy the VIPER blocking element and seize OBJ JACKAL (MP 0600 1538).
+- **TASK:** Conduct a movement to contact in the western zone of AO ORANGE toward OBJ JACKAL (MP 0600 1538) to locate and destroy the VIPER blocking element.
 - **PURPOSE:** Restore friendly freedom of movement along the Bradenton Ave corridor in the western portion of AO ORANGE.
 
 **2. 2nd Squad (Central Zone):**
 
-- **TASK:** Conduct a movement to contact in the central zone of AO ORANGE to locate and destroy the VIPER blocking element and seize OBJ WOLVERINE (MP 0612 1546).
+- **TASK:** Conduct a movement to contact in the central zone of AO ORANGE toward OBJ WOLVERINE (MP 0612 1546) to locate and destroy the VIPER blocking element.
 - **PURPOSE:** Preserve the main avenue of approach into the northern portion of AO ORANGE before VIPER can fully establish blocking positions.
 
 **3. 3rd Squad (Eastern Zone):**
 
-- **TASK:** Conduct a movement to contact in the eastern zone of AO ORANGE to locate and destroy the VIPER blocking element in and around the Conex City structures and seize OBJ FALCON (MP 0613 1532).
+- **TASK:** Conduct a movement to contact in the eastern zone of AO ORANGE toward OBJ FALCON (MP 0613 1532) to locate and destroy the VIPER blocking element in and around the Conex City structures.
 - **PURPOSE:** Deny VIPER use of the Conex City structures as prepared fighting positions and restore friendly access to the eastern sector of AO ORANGE.
 
 ### e. Coordinating Instructions

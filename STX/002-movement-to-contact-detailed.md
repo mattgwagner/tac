@@ -124,17 +124,17 @@ Priority of fires to 1st Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Western Zone):**
 
-- **TASK:** Conduct a movement to contact in the western zone of AO FLUNKER to locate and destroy the REAPER team and seize OBJ BAINTON (MP 0600 1538).
+- **TASK:** Conduct a movement to contact in the western zone of AO FLUNKER toward OBJ BAINTON (MP 0600 1538) to locate and destroy the REAPER team.
 - **PURPOSE:** Deny REAPER use of the Bradenton Ave corridor for reinforcement or withdrawal.
 
 **2. 2nd Squad (Central Zone):**
 
-- **TASK:** Conduct a movement to contact in the central zone of AO FLUNKER to locate and destroy the REAPER team and seize OBJ HERRERA (MP 0612 1546).
+- **TASK:** Conduct a movement to contact in the central zone of AO FLUNKER toward OBJ HERRERA (MP 0612 1546) to locate and destroy the REAPER team.
 - **PURPOSE:** Deny REAPER use of the central avenue of approach through AO FLUNKER and set conditions for follow-on company operations.
 
 **3. 3rd Squad (Eastern Zone):**
 
-- **TASK:** Conduct a movement to contact in the eastern zone of AO FLUNKER to locate and destroy the REAPER team in and around the Conex City structures and seize OBJ BARLOW (MP 0613 1532).
+- **TASK:** Conduct a movement to contact in the eastern zone of AO FLUNKER toward OBJ BARLOW (MP 0613 1532) to locate and destroy the REAPER team in and around the Conex City structures.
 - **PURPOSE:** Deny REAPER use of the built-up area as a defensive strongpoint or staging area in the eastern sector of AO FLUNKER.
 
 ### e. Coordinating Instructions

@@ -79,7 +79,7 @@ REAPER forces are a well-armed irregular force, using OBJ FLUNKER as a base for 
 
 **1. Higher Headquarters:** A Co. 4th BN – 211th INF.
 
-**2. Mission.** A Company clears and secures OBJ FLUNKER to deny REAPER a base of operations and enable follow-on operations in AO Starke.
+**2. Mission.** A Company clears and secures OBJ FLUNKER to deny REAPER a base of operations and enable follow-on operations in AO COTTO.
 
 **3. Commander's Intent.** Seize and secure OBJ FLUNKER, eliminate REAPER presence, and establish a defensive posture to prevent REAPER re-infiltration.
 
@@ -93,7 +93,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon clears OBJ FLUNKER (MP 0611 1530) NLT ____ in order to destroy REAPER forces, deny REAPER a base of operations, and enable follow-on friendly occupation of AO COTTO.
+1st Platoon clears OBJ FLUNKER (MP 0611 1530) NLT ____ in order to deny REAPER a base of operations in AO COTTO.
 
 ---
 
@@ -101,7 +101,7 @@ None.
 
 ### a. Commander's Intent
 
-**Purpose:** Deny REAPER a base of operations in OBJ FLUNKER and enable friendly occupation of the urban area for follow-on operations in AO HERRERA.
+**Purpose:** Deny REAPER a base of operations in OBJ FLUNKER and enable friendly occupation of the urban area for follow-on operations in AO COTTO.
 
 **Key Tasks:** (1) Clear all buildings and key terrain in OBJ FLUNKER. (2) Eliminate REAPER combatants. (3) Establish defensive positions to prevent REAPER re-infiltration.
 
@@ -122,12 +122,12 @@ None.
 
 **2. 2nd Squad (Support — Shaping Operation):**
 
-- **TASK:** Support by fire from positions overwatching OBJ FLUNKER to suppress REAPER combatants in depth; be prepared to reinforce 1st Squad on order.
+- **TASK:** Support by fire onto OBJ FLUNKER to suppress REAPER combatants and be prepared to reinforce 1st Squad on order.
 - **PURPOSE:** Enable 1st Squad to close on and clear buildings without receiving flanking or supporting fires from uncleared structures.
 
 **3. 3rd Squad (Security — Shaping Operation):**
 
-- **TASK:** Isolate OBJ FLUNKER by blocking REAPER withdrawal and reinforcement routes along Bradenton Avenue and Arcadia Street and monitor for civilian movement.
+- **TASK:** Isolate OBJ FLUNKER to prevent REAPER withdrawal and reinforcement and report civilian movement.
 - **PURPOSE:** Prevent REAPER from escaping, reinforcing, or re-infiltrating cleared sectors so 1st Squad can complete the clearance uninterrupted.
 
 ### e. Coordinating Instructions

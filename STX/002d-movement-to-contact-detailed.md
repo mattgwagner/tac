@@ -123,17 +123,17 @@ Priority of fires to 1st Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Western Zone):**
 
-- **TASK:** Conduct a movement to contact in the western zone of AO STEELE to locate and destroy the WRAITH screening element and seize OBJ IRON (MP 0600 1538).
+- **TASK:** Conduct a movement to contact in the western zone of AO STEELE toward OBJ IRON (MP 0600 1538) to locate and destroy the WRAITH screening element.
 - **PURPOSE:** Deny WRAITH early warning along the Bradenton Ave corridor and enable friendly freedom of movement through the western sector of AO STEELE.
 
 **2. 2nd Squad (Central Zone):**
 
-- **TASK:** Conduct a movement to contact in the central zone of AO STEELE to locate and destroy the WRAITH screening element and seize OBJ STEEL (MP 0612 1546).
+- **TASK:** Conduct a movement to contact in the central zone of AO STEELE toward OBJ STEEL (MP 0612 1546) to locate and destroy the WRAITH screening element.
 - **PURPOSE:** Deny WRAITH observation of the main approach into the northern portion of AO STEELE.
 
 **3. 3rd Squad (Eastern Zone):**
 
-- **TASK:** Conduct a movement to contact in the eastern zone of AO STEELE to locate and destroy the WRAITH screening element in and around the Conex City structures and seize OBJ COPPER (MP 0613 1532).
+- **TASK:** Conduct a movement to contact in the eastern zone of AO STEELE toward OBJ COPPER (MP 0613 1532) to locate and destroy the WRAITH screening element in and around the Conex City structures.
 - **PURPOSE:** Deny WRAITH use of the Conex City built-up area as an observation post over the eastern approach into AO STEELE.
 
 ### e. Coordinating Instructions
