@@ -47,7 +47,7 @@ AO FLUNKER occupies the central and eastern Camp Blanding LTA (vic MP 0600 1525 
 
 ### b. Area of Operations
 
-**1. Terrain.** The Camp Blanding LTA is a road-bounded ~1,200m × 550m sector of flat sandy-soil pine and hardwood forest. Improved road grid: Bradenton Ave (N-S, center), Clearwater Ave (N-S, west), Arcadia St (E-W, south), Jacksonville St (E-W, north); two unnamed roads (one N-S in the western LTA, one E-W through the interior) subdivide the woodlines. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors, so the road grid provides the only extended fields of fire. Sandy soil supports dismounted movement everywhere but restricts wheeled traffic to roads. See [LTA Grid Reference](../reference/lta-grid-reference.md) for full terrain notes.
+**1. Terrain.** Flat sandy pine/hardwood forest cut by a paved road grid (see [LTA Grid Reference](../reference/lta-grid-reference.md)). Canopy and palmetto limit observation to ~50m off the roads; the road grid provides the only extended fields of fire and the only wheeled mobility.
 
    - **Key Terrain:** FOB south entrance (MP 0612 1546) controls eastern-sector access from the south; Bradenton/unnamed-road intersection (MP 0600 1538) anchors the central N-S avenue of approach; Conex City (MP 0611 1530) offers concealment and structures in the southeast. Woodlines between Bradenton Ave and Conex City provide covered E-W movement. Likely REAPER contact areas — road junctions, woodline edges, and the built-up area — should be considered when planning movement and actions on contact.
 

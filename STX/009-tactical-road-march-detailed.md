@@ -48,11 +48,11 @@ Platoon Sergeant
 ## 1. SITUATION
 
 ### a. Area of Interest
-The Camp Blanding LTA, Clay County, Florida. AO COTTO covers the central and northeastern LTA along the platoon's route of march from the FOB (SP at MP 0610 1550) to RP THUNDER (MP 0615 1560), bounded north by Jacksonville Street, west by Bradenton Avenue, south by the unnamed east-west road, and east by the LTA perimeter. The area of interest extends west across Bradenton Avenue and north past Jacksonville Street into the woodlines flanking the route, where REAPER observation or interdiction elements could disrupt the platoon's movement before reaching the RP.
+AO COTTO covers the central and northeastern LTA along the platoon's route of march from the FOB (SP at MP 0610 1550) to RP THUNDER (MP 0615 1560). The area of interest extends west across Bradenton Avenue and north past Jacksonville Street into the woodlines flanking the route, where REAPER observation or interdiction elements could disrupt the platoon's movement before reaching the RP.
 
 ### b. Area of Operations
 
-**1. Terrain.** The Camp Blanding LTA is a road-bounded sector of the training area, roughly 1,200m east-west by 550m north-south, set in flat sandy-soil pine and hardwood forest. An improved road grid frames the LTA: Bradenton Avenue (N-S) runs through the center, Clearwater Avenue (N-S) bounds the west, Arcadia Street (E-W) bounds the south, and Jacksonville Street (E-W) bounds the north. Two unnamed roads — one N-S in the western LTA and one E-W through the interior — subdivide the woodlines. The FOB sits at MP 0610 1550 in the northeast; Conex City sits at MP 0611 1530 in the southeast. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors, so the road grid provides the only extended fields of fire and the primary mounted avenues of approach. Sandy soil supports dismounted movement everywhere but restricts wheeled traffic to the roads, particularly after rain.
+**1. Terrain.** Flat sandy pine/hardwood forest cut by a paved road grid (see [LTA Grid Reference](../reference/lta-grid-reference.md)). Canopy and palmetto limit observation to ~50m off the roads; the road grid provides the only extended fields of fire and the only wheeled mobility.
 
    - **Key Terrain:** The route of march includes several danger areas: a road crossing at MP 0605 1545, an open area near MP 0608 1550, and a creek crossing at MP 0612 1555. RP THUNDER at MP 0615 1560 provides good concealment and defensible terrain for the transition to follow-on operations.
 
