@@ -125,18 +125,18 @@ Priority of fires to 3rd Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Independent Deliberate Attack — OBJ BLITZ):**
 
-- **TASK:** Conduct a deliberate attack to seize OBJ BLITZ (MP 0600 1538) at the Bradenton Ave / unnamed east-west road junction and destroy the reinforced VIPER blocking element (4-5 personnel with one support weapon) holding the junction.
-- **PURPOSE:** Deny VIPER use of the central Bradenton Avenue junction and destroy the VIPER blocking element controlling movement through the central corridor of AO ORANGE.
+- **TASK:** Attack to seize OBJ BLITZ (MP 0600 1538) at the Bradenton Ave / unnamed east-west road junction and destroy the reinforced VIPER blocking element holding the junction.
+- **PURPOSE:** Open the central Bradenton Avenue corridor for follow-on company operations through AO ORANGE.
 
 **2. 2nd Squad (Independent Deliberate Attack — OBJ STORM):**
 
-- **TASK:** Conduct a deliberate attack to seize OBJ STORM (MP 0575 1524) at the Arcadia St / Clearwater Ave junction and destroy the reinforced VIPER blocking element (4-5 personnel with one support weapon) holding the junction.
-- **PURPOSE:** Deny VIPER control of the southwestern junction and eliminate the VIPER blocking element threatening the platoon's western flank.
+- **TASK:** Attack to seize OBJ STORM (MP 0575 1524) at the Arcadia St / Clearwater Ave junction and destroy the reinforced VIPER blocking element holding the junction.
+- **PURPOSE:** Protect the platoon's western flank during follow-on operations in AO ORANGE.
 
 **3. 3rd Squad (Independent Deliberate Attack — OBJ SURGE):**
 
-- **TASK:** Conduct a deliberate attack to seize OBJ SURGE (MP 0607 1555) on Bradenton Avenue near the FOB north entrance and destroy the reinforced VIPER blocking element (4-5 personnel with one support weapon) holding the position.
-- **PURPOSE:** Destroy the VIPER blocking force at the FOB north entrance, secure the northern approach, and enable company freedom of movement into the northern portion of AO ORANGE.
+- **TASK:** Attack to seize OBJ SURGE (MP 0607 1555) on Bradenton Avenue near the FOB north entrance and destroy the reinforced VIPER blocking element holding the position.
+- **PURPOSE:** Protect the FOB northern approach and open the northern Bradenton Avenue corridor for follow-on company operations into AO ORANGE.
 
 ### e. Coordinating Instructions
 

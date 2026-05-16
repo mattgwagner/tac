@@ -125,18 +125,18 @@ Priority of fires to 3rd Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Independent Raid — OBJ SIGNAL):**
 
-- **TASK:** Conduct a squad raid at OBJ SIGNAL (MP 0600 1538) to destroy the COBRA road junction relay node and capture communications equipment and message logs.
-- **PURPOSE:** Destroy the COBRA road junction relay node to sever signals traffic along the central Bradenton Avenue corridor and disrupt COBRA coordination in the western portion of AO STARKE.
+- **TASK:** Conduct a squad raid at OBJ SIGNAL (MP 0600 1538) to destroy the COBRA road junction relay node and exploit communications equipment and message logs.
+- **PURPOSE:** Disrupt COBRA signals traffic along the central Bradenton Avenue corridor in the western portion of AO STARKE.
 
 **2. 2nd Squad (Independent Raid — OBJ RELAY):**
 
-- **TASK:** Conduct a squad raid at OBJ RELAY (MP 0613 1532), the Conex City northeast building, to destroy the COBRA radio relay station and capture radio equipment, antenna components, and message logs.
-- **PURPOSE:** Destroy COBRA's primary radio relay station in Conex City to eliminate the main node in the COBRA communications network serving AO STARKE.
+- **TASK:** Conduct a squad raid at OBJ RELAY (MP 0613 1532), the Conex City northeast building, to destroy the COBRA radio relay station and exploit radio equipment, antenna components, and message logs.
+- **PURPOSE:** Disrupt the COBRA communications network serving AO STARKE by eliminating its primary node.
 
 **3. 3rd Squad (Independent Raid — OBJ ECHO):**
 
-- **TASK:** Conduct a squad raid at OBJ ECHO (MP 0575 1524) at the Arcadia/Clearwater junction to destroy the COBRA antenna relay node and capture antenna equipment and message logs.
-- **PURPOSE:** Destroy COBRA's southwestern antenna relay to eliminate signals coverage of the southern approaches and sever the COBRA network link to cells operating south of AO STARKE.
+- **TASK:** Conduct a squad raid at OBJ ECHO (MP 0575 1524) at the Arcadia/Clearwater junction to destroy the COBRA antenna relay node and exploit antenna equipment and message logs.
+- **PURPOSE:** Isolate COBRA cells operating south of AO STARKE by severing signals coverage of the southern approaches.
 
 ### e. Coordinating Instructions
 

@@ -124,18 +124,18 @@ Priority of fires to 3rd Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Independent Raid — OBJ COTTO):**
 
-- **TASK:** Conduct a squad raid at OBJ COTTO (MP 0600 1538) to destroy the small REAPER OP/cache at the Bradenton Avenue / unnamed east-west road intersection and capture materials of intelligence value (documents, maps, radios, notebooks).
-- **PURPOSE:** Destroy REAPER presence at a key road intersection and deny REAPER the use of this position for observation or resupply.
+- **TASK:** Conduct a squad raid at OBJ COTTO (MP 0600 1538) to destroy the small REAPER OP/cache at the Bradenton Avenue / unnamed east-west road intersection and exploit materials of intelligence value (documents, maps, radios, notebooks).
+- **PURPOSE:** Deny REAPER use of the central road intersection for observation or resupply in AO HERRERA.
 
 **2. 2nd Squad (Independent Raid — OBJ WHISKEY):**
 
-- **TASK:** Conduct a squad raid at OBJ WHISKEY (MP 0613 1532) to destroy the small REAPER commo relay/cache operating out of the Conex City northeast building and capture communications equipment and materials of intelligence value.
-- **PURPOSE:** Destroy REAPER communications node in Conex City and degrade REAPER's ability to coordinate across the AO.
+- **TASK:** Conduct a squad raid at OBJ WHISKEY (MP 0613 1532) to destroy the small REAPER commo relay/cache operating out of the Conex City northeast building and exploit communications equipment and materials of intelligence value.
+- **PURPOSE:** Disrupt REAPER's ability to coordinate across AO HERRERA.
 
 **3. 3rd Squad (Independent Raid — OBJ ZULU):**
 
-- **TASK:** Conduct a squad raid at OBJ ZULU (MP 0575 1524) to destroy the small REAPER OP at the Arcadia / Clearwater junction and capture materials of intelligence value (documents, maps, radios, notebooks).
-- **PURPOSE:** Destroy REAPER observation capability in the southwestern AO and deny REAPER early warning of friendly movement into the sector.
+- **TASK:** Conduct a squad raid at OBJ ZULU (MP 0575 1524) to destroy the small REAPER OP at the Arcadia / Clearwater junction and exploit materials of intelligence value (documents, maps, radios, notebooks).
+- **PURPOSE:** Deny REAPER early warning of friendly movement into the southwestern sector of AO HERRERA.
 
 ### e. Coordinating Instructions
 

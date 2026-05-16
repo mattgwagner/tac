@@ -125,18 +125,18 @@ Priority of fires to 1st Squad. Fires are limited to self-defense only. Mortar s
 
 **1. 1st Squad (Independent Area Reconnaissance — NAI FOXHOUND):**
 
-- **TASK:** Conduct an area reconnaissance of NAI FOXHOUND (MP 0613 1532), the northeast building in the Conex City complex. Confirm or deny VIPER presence; assess strength, composition, and staging activity — including any personnel, materials, or fighting position preparation.
-- **PURPOSE:** Confirm or deny VIPER staging activity in the Conex City structure to enable the company to plan follow-on offensive action before VIPER can complete consolidation in the eastern sector.
+- **TASK:** Reconnoiter NAI FOXHOUND (MP 0613 1532) — the Conex City NE structure — to confirm or deny VIPER presence and report strength, composition, and staging activity, including personnel, materials, and fighting position preparation.
+- **PURPOSE:** Enable the company to plan follow-on offensive action before VIPER completes consolidation in the eastern sector of AO CLAY.
 
 **2. 2nd Squad (Independent Area Reconnaissance — NAI VIXEN):**
 
-- **TASK:** Conduct an area reconnaissance of NAI VIXEN (MP 0602 1565), the Bradenton Ave / Jacksonville St intersection. Confirm or deny a VIPER element; assess strength and activity, and identify indicators of staging activity — personnel resting, materials present, or movement awaiting instructions.
-- **PURPOSE:** Determine whether VIPER is staging forces at the Bradenton / Jacksonville intersection to enable the company to plan interdiction or to route around the position during follow-on operations.
+- **TASK:** Reconnoiter NAI VIXEN (MP 0602 1565) — the Bradenton Ave / Jacksonville St intersection — to confirm or deny a VIPER element and report strength, activity, and indicators of staging (personnel resting, materials present, movement awaiting instructions).
+- **PURPOSE:** Enable the company to plan interdiction or alternate routing through the northern AO during follow-on operations.
 
 **3. 3rd Squad (Independent Area Reconnaissance — NAI DINGO):**
 
-- **TASK:** Conduct an area reconnaissance of NAI DINGO (MP 0575 1524), the Arcadia St / Clearwater Ave intersection in the southwestern LTA. Confirm or deny a VIPER element; assess strength and staging activity, and identify likely avenues of approach from the southwest.
-- **PURPOSE:** Confirm or deny VIPER staging in the southwestern sector so the company can protect its western flank and plan movement without threat from that direction during follow-on operations.
+- **TASK:** Reconnoiter NAI DINGO (MP 0575 1524) — the Arcadia St / Clearwater Ave intersection in the southwestern LTA — to confirm or deny a VIPER element and report strength, staging activity, and likely avenues of approach from the southwest.
+- **PURPOSE:** Enable the company to protect its western flank and plan movement free of VIPER threat from that direction during follow-on operations.
 
 ### e. Coordinating Instructions
 

@@ -117,18 +117,18 @@ None.
 
 **1. 1st Squad (Assault — Decisive Operation):**
 
-- **TASK:** Clear and secure buildings through OBJ FLUNKER (MP 0611 1530), neutralizing REAPER combatants in each structure.
-- **PURPOSE:** Systematically eliminate REAPER's foothold in the urban area so the platoon can occupy and hold OBJ FLUNKER.
+- **TASK:** Clear OBJ FLUNKER (MP 0611 1530) of REAPER combatants and secure the structures.
+- **PURPOSE:** Deny REAPER use of the Conex City built-up area as a defensive strongpoint and set conditions for the platoon to occupy and hold OBJ FLUNKER.
 
 **2. 2nd Squad (Support — Shaping Operation):**
 
-- **TASK:** Provide overwatch and suppressive fire in support of 1st Squad's clearance of OBJ FLUNKER. Be prepared to reinforce 1st Squad's clearing effort on order.
-- **PURPOSE:** Suppress REAPER fighters in depth so 1st Squad can close on and clear buildings without receiving flanking fire.
+- **TASK:** Support by fire from positions overwatching OBJ FLUNKER to suppress REAPER combatants in depth; be prepared to reinforce 1st Squad on order.
+- **PURPOSE:** Enable 1st Squad to close on and clear buildings without receiving flanking or supporting fires from uncleared structures.
 
 **3. 3rd Squad (Security — Shaping Operation):**
 
-- **TASK:** Secure the flanks and rear of the clearing operation. Block REAPER withdrawal routes out of OBJ FLUNKER and reinforcement routes from outside the city. Monitor for civilian movement and report.
-- **PURPOSE:** Prevent REAPER from escaping, reinforcing, or re-infiltrating cleared sectors behind the assault element.
+- **TASK:** Isolate OBJ FLUNKER by blocking REAPER withdrawal and reinforcement routes along Bradenton Avenue and Arcadia Street and monitor for civilian movement.
+- **PURPOSE:** Prevent REAPER from escaping, reinforcing, or re-infiltrating cleared sectors so 1st Squad can complete the clearance uninterrupted.
 
 ### e. Coordinating Instructions
 

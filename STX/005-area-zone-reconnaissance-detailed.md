@@ -125,18 +125,18 @@ Priority of fires to 1st Squad. Fires are limited to self-defense only. Avoid en
 
 **1. 1st Squad (Independent Area Reconnaissance — NAI HERRERA):**
 
-- **TASK:** Conduct an area reconnaissance of NAI HERRERA (MP 0613 1532), the northeast building in the Conex City complex. Confirm or deny REAPER presence; assess strength, composition, activity, and any defensive preparations or obstacles.
-- **PURPOSE:** Confirm or deny REAPER presence in the Conex City NE structure, the most likely REAPER occupied position in AO COTTO, to enable the company to plan follow-on operations.
+- **TASK:** Reconnoiter NAI HERRERA (MP 0613 1532) — the Conex City NE structure — to confirm or deny REAPER presence and report strength, composition, activity, and defensive preparations.
+- **PURPOSE:** Enable the company commander to plan follow-on operations against a confirmed enemy picture at the most likely REAPER-occupied position in AO COTTO.
 
 **2. 2nd Squad (Independent Area Reconnaissance — NAI BARLOW):**
 
-- **TASK:** Conduct an area reconnaissance of NAI BARLOW (MP 0602 1565), the Bradenton Ave / Jacksonville St intersection. Confirm or deny a REAPER OP or movement control element; assess strength and activity, and identify avenues of approach and withdrawal.
-- **PURPOSE:** Develop the intelligence picture at a key movement control point in the northern portion of AO COTTO to enable the company to plan movement through or around the intersection.
+- **TASK:** Reconnoiter NAI BARLOW (MP 0602 1565) — the Bradenton Ave / Jacksonville St intersection — to confirm or deny a REAPER OP or movement control element and report strength, activity, and avenues of approach and withdrawal.
+- **PURPOSE:** Enable the company commander to plan movement through or around the key movement control point in the northern portion of AO COTTO.
 
 **3. 3rd Squad (Independent Area Reconnaissance — NAI BAINTON):**
 
-- **TASK:** Conduct an area reconnaissance of NAI BAINTON (MP 0575 1524), the Arcadia St / Clearwater Ave intersection in the southwestern LTA. Confirm or deny a REAPER OP; assess strength and activity, and identify likely positions and terrain.
-- **PURPOSE:** Confirm or deny REAPER presence in the southwestern sector of AO COTTO so the company can protect the flank during follow-on operations.
+- **TASK:** Reconnoiter NAI BAINTON (MP 0575 1524) — the Arcadia St / Clearwater Ave intersection in the southwestern LTA — to confirm or deny a REAPER OP and report strength, activity, and likely positions.
+- **PURPOSE:** Enable the company to protect its southwestern flank during follow-on operations in AO COTTO.
 
 ### e. Coordinating Instructions
 

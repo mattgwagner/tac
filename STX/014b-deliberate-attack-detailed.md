@@ -126,18 +126,18 @@ Priority of fires to 2nd Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Independent Deliberate Attack — OBJ STATION):**
 
-- **TASK:** Conduct a deliberate attack at OBJ STATION (MP 0600 1523) to destroy the COBRA coordination center (3-4 personnel) at the Arcadia / Bradenton junction and capture message logs, courier schedules, and communications materials.
-- **PURPOSE:** Destroy COBRA command and coordination in the southern portion of AO STARKE and seize network materials that expose COBRA courier routes and cell locations.
+- **TASK:** Attack to seize OBJ STATION (MP 0600 1523), destroy the COBRA coordination center at the Arcadia / Bradenton junction, and exploit captured message logs, courier schedules, and communications materials.
+- **PURPOSE:** Deny COBRA command and coordination over the southern portion of AO STARKE and expose COBRA courier routes and cell locations to enable follow-on company operations.
 
 **2. 2nd Squad (Independent Deliberate Attack — OBJ NEXUS):**
 
-- **TASK:** Conduct a deliberate attack at OBJ NEXUS (MP 0602 1565) to destroy the COBRA coordination center (3-4 personnel) at the Bradenton / Jacksonville junction and capture message logs, courier schedules, and communications materials.
-- **PURPOSE:** Destroy COBRA command and coordination in the northern portion of AO STARKE and seize materials that reveal the COBRA network's northern operations.
+- **TASK:** Attack to seize OBJ NEXUS (MP 0602 1565), destroy the COBRA coordination center at the Bradenton / Jacksonville junction, and exploit captured message logs, courier schedules, and communications materials.
+- **PURPOSE:** Deny COBRA command and coordination over the northern portion of AO STARKE and reveal the COBRA network's northern operations to enable follow-on targeting.
 
 **3. 3rd Squad (Independent Deliberate Attack — OBJ HUB):**
 
-- **TASK:** Conduct a deliberate attack at OBJ HUB (MP 0611 1530) to destroy the COBRA coordination center (3-4 personnel) operating out of the Conex City center structure and capture message logs, courier schedules, and communications materials.
-- **PURPOSE:** Destroy COBRA's eastern coordination center and seize materials documenting COBRA activities in the Conex City sector.
+- **TASK:** Attack to seize OBJ HUB (MP 0611 1530), destroy the COBRA coordination center operating out of the Conex City center structure, and exploit captured message logs, courier schedules, and communications materials.
+- **PURPOSE:** Deny COBRA command and coordination over the eastern portion of AO STARKE and expose COBRA activities in the Conex City sector to enable follow-on company operations.
 
 ### e. Coordinating Instructions
 

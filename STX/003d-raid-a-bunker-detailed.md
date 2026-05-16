@@ -125,18 +125,18 @@ Priority of fires to 3rd Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Independent Raid — OBJ NEXUS):**
 
-- **TASK:** Conduct a squad raid at OBJ NEXUS (MP 0600 1538) to destroy the WRAITH terrain analysis team and capture all maps, notebooks, and planning materials.
-- **PURPOSE:** Destroy the WRAITH terrain analysis team at the central road intersection and capture annotated maps and operational notes documenting WRAITH collection activities in the western portion of AO CEDAR.
+- **TASK:** Conduct a squad raid at OBJ NEXUS (MP 0600 1538) to destroy the WRAITH terrain analysis team and exploit all maps, notebooks, and planning materials.
+- **PURPOSE:** Deny WRAITH the terrain intelligence necessary to plan future operations in the western portion of AO CEDAR.
 
 **2. 2nd Squad (Independent Raid — OBJ VERTEX):**
 
-- **TASK:** Conduct a squad raid at OBJ VERTEX (MP 0613 1532), the Conex City northeast building, to destroy the WRAITH analytical cell and capture all maps, photographs, and analytical products from the workspace.
-- **PURPOSE:** Destroy the WRAITH analytical cell in Conex City — the hub of WRAITH intelligence compilation in AO CEDAR — and seize the compiled analytical products representing the most complete WRAITH intelligence picture of the AO.
+- **TASK:** Conduct a squad raid at OBJ VERTEX (MP 0613 1532), the Conex City northeast building, to destroy the WRAITH analytical cell and exploit all maps, photographs, and analytical products from the workspace.
+- **PURPOSE:** Disrupt WRAITH intelligence compilation in AO CEDAR by eliminating the hub that holds the most complete WRAITH intelligence picture of the AO.
 
 **3. 3rd Squad (Independent Raid — OBJ APEX):**
 
-- **TASK:** Conduct a squad raid at OBJ APEX (MP 0575 1524) at the Arcadia/Clearwater junction to destroy the WRAITH terrain survey team and capture survey materials, sketch maps, and binoculars.
-- **PURPOSE:** Destroy the WRAITH terrain survey team in the southwestern sector and capture survey products documenting WRAITH reconnaissance of the southern approaches to AO CEDAR.
+- **TASK:** Conduct a squad raid at OBJ APEX (MP 0575 1524) at the Arcadia/Clearwater junction to destroy the WRAITH terrain survey team and exploit survey materials, sketch maps, and binoculars.
+- **PURPOSE:** Deny WRAITH reconnaissance of the southern approaches to AO CEDAR.
 
 ### e. Coordinating Instructions
 

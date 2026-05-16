@@ -123,18 +123,18 @@ Priority of fires to 1st Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Western Zone):**
 
-- **TASK:** Conduct a movement to contact in the western zone of AO STEELE. Locate and destroy or displace the WRAITH screening element at OBJ IRON (MP 0600 1538) and seize the objective.
-- **PURPOSE:** Destroy the WRAITH screening element in the western zone to eliminate WRAITH early warning along the Bradenton Ave corridor and enable friendly freedom of movement through the western sector.
+- **TASK:** Conduct a movement to contact in the western zone of AO STEELE to locate and destroy the WRAITH screening element and seize OBJ IRON (MP 0600 1538).
+- **PURPOSE:** Deny WRAITH early warning along the Bradenton Ave corridor and enable friendly freedom of movement through the western sector of AO STEELE.
 
 **2. 2nd Squad (Central Zone):**
 
-- **TASK:** Conduct a movement to contact in the central zone of AO STEELE. Locate and destroy or displace the WRAITH screening element at OBJ STEEL (MP 0612 1546) and seize the objective.
-- **PURPOSE:** Destroy the WRAITH screening element at the central junction to eliminate the primary WRAITH observation position over the main approach into the northern AO.
+- **TASK:** Conduct a movement to contact in the central zone of AO STEELE to locate and destroy the WRAITH screening element and seize OBJ STEEL (MP 0612 1546).
+- **PURPOSE:** Deny WRAITH observation of the main approach into the northern portion of AO STEELE.
 
 **3. 3rd Squad (Eastern Zone):**
 
-- **TASK:** Conduct a movement to contact in the eastern zone of AO STEELE. Locate and destroy or displace the WRAITH screening element in and around the Conex City structures at OBJ COPPER (MP 0613 1532) and seize the objective.
-- **PURPOSE:** Destroy the WRAITH screening element in Conex City to eliminate WRAITH observation of the eastern approach and deny WRAITH use of the built-up area as an observation post.
+- **TASK:** Conduct a movement to contact in the eastern zone of AO STEELE to locate and destroy the WRAITH screening element in and around the Conex City structures and seize OBJ COPPER (MP 0613 1532).
+- **PURPOSE:** Deny WRAITH use of the Conex City built-up area as an observation post over the eastern approach into AO STEELE.
 
 ### e. Coordinating Instructions
 

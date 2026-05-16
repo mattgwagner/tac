@@ -125,18 +125,18 @@ Priority of fires to 2nd Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Independent Ambush — OBJ RICO):**
 
-- **TASK:** Conduct an ambush at OBJ RICO (MP 0600 1530) along Bradenton Ave to destroy the VIPER smuggling team moving south to north and secure any weapons, munitions, or materials carried.
-- **PURPOSE:** Deny VIPER the use of Bradenton Ave as a weapons transit route and interdict the northern shipment destined for VIPER caches in the central portion of AO CLAY.
+- **TASK:** Ambush the VIPER smuggling team moving south to north along Bradenton Ave vic OBJ RICO (MP 0600 1530) to destroy the team and secure any weapons, munitions, or materials carried.
+- **PURPOSE:** Deny VIPER use of Bradenton Ave as a weapons transit route and disrupt resupply of VIPER caches in the central portion of AO CLAY.
 
 **2. 2nd Squad (Independent Ambush — OBJ DIZZY):**
 
-- **TASK:** Conduct an ambush at OBJ DIZZY (MP 0585 1559) along the unnamed N-S road in the western LTA to destroy the VIPER smuggling team moving north to south and secure any weapons, munitions, or materials carried.
-- **PURPOSE:** Deny VIPER the use of the western corridor for cache resupply and interdict the southbound weapons load moving through the northwestern sector of AO CLAY.
+- **TASK:** Ambush the VIPER smuggling team moving north to south along the unnamed N-S road in the western LTA vic OBJ DIZZY (MP 0585 1559) to destroy the team and secure any weapons, munitions, or materials carried.
+- **PURPOSE:** Deny VIPER use of the western corridor for cache resupply through the northwestern sector of AO CLAY.
 
 **3. 3rd Squad (Independent Ambush — OBJ CARMEN):**
 
-- **TASK:** Conduct an ambush at OBJ CARMEN (MP 0575 1538) along Clearwater Ave approaching the unnamed road intersection to destroy the VIPER smuggling team moving east to west through the intersection and secure any weapons, munitions, or materials carried.
-- **PURPOSE:** Deny VIPER the use of the southwestern transfer point and interdict the weapons shipment moving toward the VIPER cache network in the western sector.
+- **TASK:** Ambush the VIPER smuggling team moving east to west along Clearwater Ave through the unnamed road intersection vic OBJ CARMEN (MP 0575 1538) to destroy the team and secure any weapons, munitions, or materials carried.
+- **PURPOSE:** Disrupt VIPER weapons distribution to the cache network in the western sector of AO CLAY.
 
 ### e. Coordinating Instructions
 

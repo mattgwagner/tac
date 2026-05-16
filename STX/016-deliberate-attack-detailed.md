@@ -125,18 +125,18 @@ Priority of fires to 3rd Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Independent Deliberate Attack — OBJ MCLELLAN):**
 
-- **TASK:** Conduct a deliberate attack to seize OBJ MCLELLAN (MP 0600 1538) at the Bradenton Ave / unnamed east-west road junction and destroy or displace the small REAPER element (3-4 personnel) holding the junction.
-- **PURPOSE:** Deny REAPER use of the central Bradenton Avenue junction and enable friendly freedom of movement through the central portion of AO COTTO.
+- **TASK:** Attack to seize OBJ MCLELLAN (MP 0600 1538) at the Bradenton Ave / unnamed east-west road junction and destroy or displace the REAPER element holding the junction.
+- **PURPOSE:** Open the central Bradenton Avenue corridor for follow-on company operations through AO COTTO.
 
 **2. 2nd Squad (Independent Deliberate Attack — OBJ NORRIS):**
 
-- **TASK:** Conduct a deliberate attack to seize OBJ NORRIS (MP 0575 1524) at the Arcadia St / Clearwater Ave junction and destroy or displace the small REAPER element (3-4 personnel) holding the junction.
-- **PURPOSE:** Deny REAPER use of the southwestern road junction and protect the platoon's western flank during follow-on operations.
+- **TASK:** Attack to seize OBJ NORRIS (MP 0575 1524) at the Arcadia St / Clearwater Ave junction and destroy or displace the REAPER element holding the junction.
+- **PURPOSE:** Protect the platoon's western flank during follow-on operations in AO COTTO.
 
 **3. 3rd Squad (Independent Deliberate Attack — OBJ FORGE):**
 
-- **TASK:** Conduct a deliberate attack to seize OBJ FORGE (MP 0607 1555) on Bradenton Avenue near the FOB north entrance and destroy or displace the small REAPER element (3-4 personnel) holding the position.
-- **PURPOSE:** Deny REAPER use of the northern Bradenton Avenue junction, secure the northern approach to the FOB, and enable friendly movement into the northern portion of AO COTTO.
+- **TASK:** Attack to seize OBJ FORGE (MP 0607 1555) on Bradenton Avenue near the FOB north entrance and destroy or displace the REAPER element holding the position.
+- **PURPOSE:** Protect the FOB northern approach and open the northern Bradenton Avenue corridor for follow-on company operations into AO COTTO.
 
 ### e. Coordinating Instructions
 

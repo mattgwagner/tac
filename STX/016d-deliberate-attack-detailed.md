@@ -125,17 +125,17 @@ Priority of fires to 3rd Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Independent Deliberate Attack — OBJ CROSSBOW):**
 
-- **TASK:** Conduct a deliberate attack to seize OBJ CROSSBOW (MP 0600 1538) at the Bradenton Ave / unnamed east-west road junction and destroy or displace the WRAITH cordon element (3-4 personnel main body with a 1-2 person OP 200-300m south).
+- **TASK:** Attack to seize OBJ CROSSBOW (MP 0600 1538) at the Bradenton Ave / unnamed east-west road junction and destroy or displace the WRAITH cordon element.
 - **PURPOSE:** Penetrate the WRAITH cordon at the central Bradenton Avenue junction and deny WRAITH use of the junction for screening or early warning of follow-on friendly operations.
 
 **2. 2nd Squad (Independent Deliberate Attack — OBJ JAVELIN):**
 
-- **TASK:** Conduct a deliberate attack to seize OBJ JAVELIN (MP 0575 1524) at the Arcadia St / Clearwater Ave junction and destroy or displace the WRAITH cordon element (3-4 personnel main body with a 1-2 person OP 200-300m south along Clearwater Ave).
+- **TASK:** Attack to seize OBJ JAVELIN (MP 0575 1524) at the Arcadia St / Clearwater Ave junction and destroy or displace the WRAITH cordon element.
 - **PURPOSE:** Collapse the western anchor of the WRAITH cordon and deny WRAITH the ability to screen the platoon's western flank during follow-on operations.
 
 **3. 3rd Squad (Independent Deliberate Attack — OBJ LANCE):**
 
-- **TASK:** Conduct a deliberate attack to seize OBJ LANCE (MP 0607 1555) on Bradenton Avenue near the FOB north entrance and destroy or displace the WRAITH cordon element (3-4 personnel main body with a 1-2 person OP 200-300m south along Bradenton Ave).
+- **TASK:** Attack to seize OBJ LANCE (MP 0607 1555) on Bradenton Avenue near the FOB north entrance and destroy or displace the WRAITH cordon element.
 - **PURPOSE:** Penetrate the northern anchor of the WRAITH cordon at the FOB entrance, deny WRAITH the ability to screen or observe the FOB northern approach, and open the avenue of advance for follow-on company operations into the WRAITH interior.
 
 ### e. Coordinating Instructions

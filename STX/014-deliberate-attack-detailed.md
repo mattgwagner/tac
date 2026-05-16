@@ -126,18 +126,18 @@ Priority of fires to 2nd Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Independent Deliberate Attack — OBJ HERRERA):**
 
-- **TASK:** Conduct a deliberate attack at OBJ HERRERA (MP 0600 1523) to destroy the small REAPER CP (3-4 personnel) at the Arcadia / Bradenton junction and capture documents, maps, and communications materials.
-- **PURPOSE:** Destroy REAPER command and control in the southern portion of AO COTTO and deny REAPER the ability to coordinate operations from the Arcadia / Bradenton junction.
+- **TASK:** Attack to seize OBJ HERRERA (MP 0600 1523), destroy the REAPER CP at the Arcadia / Bradenton junction, and exploit captured documents, maps, and communications materials.
+- **PURPOSE:** Deny REAPER command and control over the southern portion of AO COTTO.
 
 **2. 2nd Squad (Independent Deliberate Attack — OBJ BAINTON):**
 
-- **TASK:** Conduct a deliberate attack at OBJ BAINTON (MP 0602 1565) to destroy the small REAPER CP (3-4 personnel) at the Bradenton / Jacksonville junction and capture documents, maps, and communications materials.
-- **PURPOSE:** Destroy REAPER command and control in the northern portion of AO COTTO and deny REAPER the ability to coordinate operations from the Bradenton / Jacksonville junction.
+- **TASK:** Attack to seize OBJ BAINTON (MP 0602 1565), destroy the REAPER CP at the Bradenton / Jacksonville junction, and exploit captured documents, maps, and communications materials.
+- **PURPOSE:** Deny REAPER command and control over the northern portion of AO COTTO.
 
 **3. 3rd Squad (Independent Deliberate Attack — OBJ BARLOW):**
 
-- **TASK:** Conduct a deliberate attack at OBJ BARLOW (MP 0611 1530) to destroy the small REAPER CP (3-4 personnel) operating out of the Conex City center structure and capture documents, maps, and communications materials.
-- **PURPOSE:** Destroy REAPER command and control in the eastern portion of AO COTTO and deny REAPER the ability to coordinate operations from the Conex City built-up area.
+- **TASK:** Attack to seize OBJ BARLOW (MP 0611 1530), destroy the REAPER CP operating out of the Conex City center structure, and exploit captured documents, maps, and communications materials.
+- **PURPOSE:** Deny REAPER command and control over the eastern portion of AO COTTO.
 
 ### e. Coordinating Instructions
 

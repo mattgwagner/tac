@@ -124,18 +124,18 @@ Priority of fires to 1st Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Western Zone):**
 
-- **TASK:** Conduct a movement to contact in the western zone of AO FLUNKER. Locate and engage the REAPER team in the vicinity of OBJ BAINTON (MP 0600 1538) and seize the objective.
-- **PURPOSE:** Clear the western approaches to deny REAPER use of the Bradenton Ave corridor for reinforcement or withdrawal.
+- **TASK:** Conduct a movement to contact in the western zone of AO FLUNKER to locate and destroy the REAPER team and seize OBJ BAINTON (MP 0600 1538).
+- **PURPOSE:** Deny REAPER use of the Bradenton Ave corridor for reinforcement or withdrawal.
 
 **2. 2nd Squad (Central Zone):**
 
-- **TASK:** Conduct a movement to contact in the central zone of AO FLUNKER. Locate and engage the REAPER team in the vicinity of OBJ HERRERA (MP 0612 1546) and seize the objective.
-- **PURPOSE:** Develop the situation at the road junction to enable the company commander to control the central avenue of approach for follow-on operations.
+- **TASK:** Conduct a movement to contact in the central zone of AO FLUNKER to locate and destroy the REAPER team and seize OBJ HERRERA (MP 0612 1546).
+- **PURPOSE:** Enable the company to control the central avenue of approach for follow-on operations.
 
 **3. 3rd Squad (Eastern Zone):**
 
-- **TASK:** Conduct a movement to contact in the eastern zone of AO FLUNKER. Locate and engage the REAPER team in and around the Conex City structures at OBJ BARLOW (MP 0613 1532) and seize the objective.
-- **PURPOSE:** Clear the eastern sector to prevent REAPER from using the built-up area as a defensive strongpoint or staging area.
+- **TASK:** Conduct a movement to contact in the eastern zone of AO FLUNKER to locate and destroy the REAPER team in and around the Conex City structures and seize OBJ BARLOW (MP 0613 1532).
+- **PURPOSE:** Deny REAPER use of the built-up area as a defensive strongpoint or staging area in the eastern sector of AO FLUNKER.
 
 ### e. Coordinating Instructions
 

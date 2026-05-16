@@ -125,18 +125,18 @@ Priority of fires to 1st Squad. Fires are limited to self-defense only. Mortar s
 
 **1. 1st Squad (Independent Area Reconnaissance — NAI SPECTER):**
 
-- **TASK:** Conduct an area reconnaissance of NAI SPECTER (MP 0613 1532), the northeast building in the Conex City complex and the surrounding area. Confirm or deny a WRAITH OP; assess strength and composition, identify observation equipment (binoculars, radio, stakes), and determine what the OP can observe from its position.
-- **PURPOSE:** Locate the WRAITH OP in Conex City to determine what friendly positions and movement routes WRAITH can observe from that position, enabling the company to plan counter-OP operations.
+- **TASK:** Reconnoiter NAI SPECTER (MP 0613 1532) — the Conex City NE structure and surrounding area — to confirm or deny a WRAITH OP and report strength, composition, observation equipment, and fields of view.
+- **PURPOSE:** Enable the company to plan counter-OP operations and conceal friendly movement from WRAITH surveillance in the eastern AO.
 
 **2. 2nd Squad (Independent Area Reconnaissance — NAI PHANTOM):**
 
-- **TASK:** Conduct an area reconnaissance of NAI PHANTOM (MP 0602 1565), the Bradenton Ave / Jacksonville St intersection. Confirm or deny a WRAITH OP element; assess composition and equipment, and identify what the OP is observing and its fields of view.
-- **PURPOSE:** Determine whether WRAITH has established an OP at the northern movement corridor intersection and assess WRAITH's visibility over Bradenton Ave, enabling the company to plan movement or counter-OP action.
+- **TASK:** Reconnoiter NAI PHANTOM (MP 0602 1565) — the Bradenton Ave / Jacksonville St intersection — to confirm or deny a WRAITH OP and report composition, equipment, and fields of view over Bradenton Ave.
+- **PURPOSE:** Enable the company to plan movement or counter-OP action through the northern movement corridor of AO ARCHER.
 
 **3. 3rd Squad (Independent Area Reconnaissance — NAI SHADE):**
 
-- **TASK:** Conduct an area reconnaissance of NAI SHADE (MP 0575 1524), the Arcadia St / Clearwater Ave intersection in the southwestern LTA. Confirm or deny a WRAITH OP element; assess composition and equipment, and identify WRAITH's fields of observation toward the southern approach routes.
-- **PURPOSE:** Confirm or deny WRAITH OP coverage of the southern approaches to AO ARCHER so the company can plan movement in the western sector without being observed by the WRAITH surveillance network.
+- **TASK:** Reconnoiter NAI SHADE (MP 0575 1524) — the Arcadia St / Clearwater Ave intersection in the southwestern LTA — to confirm or deny a WRAITH OP and report composition, equipment, and fields of observation over the southern approach routes.
+- **PURPOSE:** Enable the company to plan movement in the western sector unobserved by the WRAITH surveillance network.
 
 ### e. Coordinating Instructions
 

@@ -125,18 +125,18 @@ Priority of fires to 1st Squad. Fires are limited to self-defense only. Mortar s
 
 **1. 1st Squad (Independent Area Reconnaissance — NAI CONDOR):**
 
-- **TASK:** Conduct an area reconnaissance of NAI CONDOR (MP 0613 1532), the northeast building in the Conex City complex. Confirm or deny COBRA presence; assess strength, composition, and activity, and identify any cache materials, courier materials, or logistics activity.
-- **PURPOSE:** Confirm or deny COBRA logistics activity in the Conex City structure, the most likely COBRA node in AO KINGSLEY, to enable the company to plan follow-on operations against the network.
+- **TASK:** Reconnoiter NAI CONDOR (MP 0613 1532) — the Conex City NE structure — to confirm or deny COBRA presence and report strength, composition, activity, and any cache materials, courier materials, or logistics indicators.
+- **PURPOSE:** Enable the company commander to plan follow-on operations against the COBRA network at its most likely logistics node in AO KINGSLEY.
 
 **2. 2nd Squad (Independent Area Reconnaissance — NAI OSPREY):**
 
-- **TASK:** Conduct an area reconnaissance of NAI OSPREY (MP 0602 1565), the Bradenton Ave / Jacksonville St intersection. Confirm or deny a COBRA courier exchange or movement control element; assess strength and activity, and identify indicators of regular COBRA use of the intersection.
-- **PURPOSE:** Determine whether the Bradenton / Jacksonville intersection is an active COBRA courier exchange site to enable the company to plan interdiction operations against COBRA movement in the northern AO.
+- **TASK:** Reconnoiter NAI OSPREY (MP 0602 1565) — the Bradenton Ave / Jacksonville St intersection — to confirm or deny a COBRA courier exchange or movement control element and report strength, activity, and indicators of regular COBRA use.
+- **PURPOSE:** Enable the company to plan interdiction operations against COBRA movement through the northern AO.
 
 **3. 3rd Squad (Independent Area Reconnaissance — NAI RAPTOR):**
 
-- **TASK:** Conduct an area reconnaissance of NAI RAPTOR (MP 0575 1524), the Arcadia St / Clearwater Ave intersection in the southwestern LTA. Confirm or deny a COBRA element; assess strength and activity, and identify likely positions and avenues of approach.
-- **PURPOSE:** Confirm or deny COBRA presence in the southwestern sector so the company can protect its flank during follow-on operations against the COBRA network.
+- **TASK:** Reconnoiter NAI RAPTOR (MP 0575 1524) — the Arcadia St / Clearwater Ave intersection in the southwestern LTA — to confirm or deny a COBRA element and report strength, activity, and likely positions and avenues of approach.
+- **PURPOSE:** Enable the company to protect its southwestern flank during follow-on operations against the COBRA network.
 
 ### e. Coordinating Instructions
 

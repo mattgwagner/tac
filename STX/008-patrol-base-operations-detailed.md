@@ -119,18 +119,18 @@ Defensive fires planned for likely REAPER avenues of approach. Each squad respon
 
 **1. 1st Squad (Northern Sector):**
 
-- **TASK:** Occupy and defend the northern sector of PB THUNDER (vicinity MP 0580 1520), covering the northern avenues of approach — the most likely REAPER approach.
-- **PURPOSE:** Secure the most likely avenue of REAPER approach and provide the earliest warning of enemy reconnaissance or assault, giving the platoon time to react.
+- **TASK:** Occupy and defend the northern sector of PB THUNDER (vic MP 0580 1520) to provide early warning and direct fires along the most likely REAPER avenue of approach.
+- **PURPOSE:** Preserve the platoon's freedom of action by detecting and defeating REAPER reconnaissance or assault from the north before it can fix the patrol base.
 
 **2. 2nd Squad (Southeastern Sector):**
 
-- **TASK:** Occupy and defend the southeastern sector of PB THUNDER, covering the creek line and the southeastern avenues of approach.
-- **PURPOSE:** Deny REAPER use of the creek line as a covered avenue of approach into the patrol base, preventing infiltration from the south and east.
+- **TASK:** Occupy and defend the southeastern sector of PB THUNDER to deny REAPER use of the creek line and the southeastern avenues of approach.
+- **PURPOSE:** Protect the patrol base from infiltration along the most concealed approach into the perimeter from the south and east.
 
 **3. 3rd Squad (Southwestern Sector / QRF):**
 
-- **TASK:** Occupy and defend the southwestern sector of PB THUNDER, covering the southwestern avenues of approach. Serve as the platoon QRF, prepared to reinforce any sector under attack or establish a blocking position on a compromised avenue of approach.
-- **PURPOSE:** Secure the southwestern perimeter and provide the PL a responsive reserve, ensuring any REAPER probe or assault can be met with concentrated force — either reinforcing the threatened sector or blocking the enemy avenue of approach.
+- **TASK:** Occupy and defend the southwestern sector of PB THUNDER and serve as the platoon QRF, prepared to reinforce a threatened sector or block a compromised avenue of approach.
+- **PURPOSE:** Provide the PL a responsive reserve to mass against any threatened sector and preserve the platoon's freedom of action across the perimeter.
 
 ### e. Coordinating Instructions
 

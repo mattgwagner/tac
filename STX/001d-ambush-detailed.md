@@ -125,18 +125,18 @@ Priority of fires to 2nd Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Independent Ambush — OBJ ANVIL):**
 
-- **TASK:** Conduct an ambush at OBJ ANVIL (MP 0600 1530) along Bradenton Ave to destroy the WRAITH reconnaissance team moving south to north and capture survey materials, maps, notebooks, and communications equipment.
-- **PURPOSE:** Deny WRAITH the ability to complete terrain surveys along Bradenton Ave and interdict WRAITH reconnaissance of the central movement corridor in AO ARCHER.
+- **TASK:** Ambush the WRAITH reconnaissance team moving south to north along Bradenton Ave vic OBJ ANVIL (MP 0600 1530) to destroy the team and exploit survey materials, maps, notebooks, and communications equipment.
+- **PURPOSE:** Deny WRAITH the terrain intelligence necessary to plan operations along the central movement corridor in AO ARCHER.
 
 **2. 2nd Squad (Independent Ambush — OBJ HAMMER):**
 
-- **TASK:** Conduct an ambush at OBJ HAMMER (MP 0585 1559) along the unnamed N-S road in the western LTA to destroy the WRAITH reconnaissance team moving north to south and capture survey materials, maps, notebooks, and communications equipment.
-- **PURPOSE:** Deny WRAITH the ability to complete terrain surveys along the western corridor and interdict WRAITH reconnaissance of covered movement routes in the northwestern sector.
+- **TASK:** Ambush the WRAITH reconnaissance team moving north to south along the unnamed N-S road in the western LTA vic OBJ HAMMER (MP 0585 1559) to destroy the team and exploit survey materials, maps, notebooks, and communications equipment.
+- **PURPOSE:** Deny WRAITH reconnaissance of covered movement routes through the northwestern sector of AO ARCHER.
 
 **3. 3rd Squad (Independent Ambush — OBJ PIKE):**
 
-- **TASK:** Conduct an ambush at OBJ PIKE (MP 0575 1538) along Clearwater Ave approaching the unnamed road intersection to destroy the WRAITH reconnaissance team moving east to west through the intersection and capture survey materials, maps, notebooks, and communications equipment.
-- **PURPOSE:** Deny WRAITH the ability to complete the terrain survey of the southwestern road junction, which is a key feature in WRAITH's planned operational scheme.
+- **TASK:** Ambush the WRAITH reconnaissance team moving east to west along Clearwater Ave through the unnamed road intersection vic OBJ PIKE (MP 0575 1538) to destroy the team and exploit survey materials, maps, notebooks, and communications equipment.
+- **PURPOSE:** Deny WRAITH terrain intelligence on the southwestern road junction, a key feature in WRAITH's planned operational scheme.
 
 ### e. Coordinating Instructions
 

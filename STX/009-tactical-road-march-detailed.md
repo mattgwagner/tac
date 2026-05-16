@@ -128,18 +128,18 @@ No planned fires. 1st Squad, as the lead element, has priority of indirect fires
 
 **1. 1st Squad (Lead / Point Security):**
 
-- **TASK:** Lead the march from SP (MP 0598 1538) to RP THUNDER (MP 0615 1560). Provide point security forward of the main body and identify the known danger areas along the route: road crossing at CP1 (MP 0605 1545), open area at CP2 (MP 0608 1550), creek crossing at CP3 (MP 0612 1555).
-- **PURPOSE:** Provide the platoon early warning and ensure the route is clear, so the main body can move without halting unexpectedly at an unsecured position.
+- **TASK:** Conduct a tactical road march from SP (MP 0598 1538) to RP THUNDER (MP 0615 1560) as lead squad in the platoon order of march, providing point security forward of the main body across the known danger areas at CP1 (MP 0605 1545), CP2 (MP 0608 1550), and CP3 (MP 0612 1555).
+- **PURPOSE:** Enable the platoon to close on RP THUNDER with intact combat power by providing early warning and a cleared route forward of the main body.
 
 **2. 2nd Squad (Main Body):**
 
-- **TASK:** Move with the main body in the order of march. Be prepared to reinforce point security at danger areas or rear security on contact.
-- **PURPOSE:** Maintain platoon cohesion and provide the PL immediately available combat power to reinforce whichever security element makes contact.
+- **TASK:** Conduct a tactical road march from SP to RP THUNDER as the main body in the platoon order of march; be prepared to reinforce point or rear security on contact.
+- **PURPOSE:** Provide the PL immediately available combat power to mass against whichever security element makes contact.
 
 **3. 3rd Squad (Trail / Rear Security):**
 
-- **TASK:** Provide rear security as the trail element. Maintain accountability of all personnel and equipment throughout the march and confirm closure on RP THUNDER to PSG.
-- **PURPOSE:** Prevent REAPER from trailing or flanking the formation from the rear, and ensure the platoon arrives at RP THUNDER at full strength.
+- **TASK:** Conduct a tactical road march from SP to RP THUNDER as trail squad in the platoon order of march, providing rear security and confirming closure on the RP to the PSG.
+- **PURPOSE:** Protect the platoon from REAPER trailing or flanking the formation from the rear and ensure the platoon closes on RP THUNDER at full strength.
 
 ### f. Coordinating Instructions
 

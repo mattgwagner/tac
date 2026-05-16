@@ -123,18 +123,18 @@ Priority of fires to 1st Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Western Zone):**
 
-- **TASK:** Conduct a movement to contact in the western zone of AO ORANGE. Locate and destroy or displace the VIPER blocking element at OBJ JACKAL (MP 0600 1538) and seize the objective.
-- **PURPOSE:** Clear the VIPER blocking position in the western zone to restore friendly use of the Bradenton Ave corridor and prevent VIPER from interdicting the western approach.
+- **TASK:** Conduct a movement to contact in the western zone of AO ORANGE to locate and destroy the VIPER blocking element and seize OBJ JACKAL (MP 0600 1538).
+- **PURPOSE:** Restore friendly freedom of movement along the Bradenton Ave corridor in the western portion of AO ORANGE.
 
 **2. 2nd Squad (Central Zone):**
 
-- **TASK:** Conduct a movement to contact in the central zone of AO ORANGE. Locate and destroy or displace the VIPER blocking element at OBJ WOLVERINE (MP 0612 1546) and seize the objective.
-- **PURPOSE:** Destroy the VIPER blocking element at the central road junction before it can fully establish positions and interdict the main avenue of approach into the northern portion of AO ORANGE.
+- **TASK:** Conduct a movement to contact in the central zone of AO ORANGE to locate and destroy the VIPER blocking element and seize OBJ WOLVERINE (MP 0612 1546).
+- **PURPOSE:** Preserve the main avenue of approach into the northern portion of AO ORANGE before VIPER can fully establish blocking positions.
 
 **3. 3rd Squad (Eastern Zone):**
 
-- **TASK:** Conduct a movement to contact in the eastern zone of AO ORANGE. Locate and destroy or displace the VIPER blocking element in and around the Conex City structures at OBJ FALCON (MP 0613 1532) and seize the objective.
-- **PURPOSE:** Clear the VIPER blocking element from Conex City to deny VIPER the use of the structures as prepared fighting positions and restore friendly access to the eastern sector.
+- **TASK:** Conduct a movement to contact in the eastern zone of AO ORANGE to locate and destroy the VIPER blocking element in and around the Conex City structures and seize OBJ FALCON (MP 0613 1532).
+- **PURPOSE:** Deny VIPER use of the Conex City structures as prepared fighting positions and restore friendly access to the eastern sector of AO ORANGE.
 
 ### e. Coordinating Instructions
 

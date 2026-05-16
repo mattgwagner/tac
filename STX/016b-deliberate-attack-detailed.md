@@ -126,18 +126,18 @@ Priority of fires to 3rd Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Independent Deliberate Attack — OBJ GRANT):**
 
-- **TASK:** Conduct a deliberate attack to seize OBJ GRANT (MP 0600 1538) at the Bradenton Ave / unnamed east-west road junction and destroy or displace the COBRA checkpoint team (3-4 personnel) holding the junction.
-- **PURPOSE:** Deny COBRA use of the central Bradenton Avenue junction and restore friendly freedom of movement through the central corridor of AO PUTNAM.
+- **TASK:** Attack to seize OBJ GRANT (MP 0600 1538) at the Bradenton Ave / unnamed east-west road junction and destroy or displace the COBRA checkpoint team holding the junction.
+- **PURPOSE:** Restore friendly freedom of movement through the central corridor of AO PUTNAM.
 
 **2. 2nd Squad (Independent Deliberate Attack — OBJ SHERIDAN):**
 
-- **TASK:** Conduct a deliberate attack to seize OBJ SHERIDAN (MP 0575 1524) at the Arcadia St / Clearwater Ave junction and destroy or displace the COBRA checkpoint team (3-4 personnel) holding the junction.
-- **PURPOSE:** Deny COBRA use of the southwestern road junction and eliminate the COBRA interdiction point threatening the platoon's western flank.
+- **TASK:** Attack to seize OBJ SHERIDAN (MP 0575 1524) at the Arcadia St / Clearwater Ave junction and destroy or displace the COBRA checkpoint team holding the junction.
+- **PURPOSE:** Protect the platoon's western flank during follow-on operations in AO PUTNAM.
 
 **3. 3rd Squad (Independent Deliberate Attack — OBJ THOMAS):**
 
-- **TASK:** Conduct a deliberate attack to seize OBJ THOMAS (MP 0607 1555) on Bradenton Avenue near the FOB north entrance and destroy or displace the COBRA checkpoint team (3-4 personnel) holding the position.
-- **PURPOSE:** Destroy the COBRA checkpoint threatening the FOB north entrance, secure the northern approach to the FOB, and enable friendly movement into the northern portion of AO PUTNAM.
+- **TASK:** Attack to seize OBJ THOMAS (MP 0607 1555) on Bradenton Avenue near the FOB north entrance and destroy or displace the COBRA checkpoint team holding the position.
+- **PURPOSE:** Protect the FOB northern approach and open the northern Bradenton Avenue corridor for follow-on company operations into AO PUTNAM.
 
 ### e. Coordinating Instructions
 

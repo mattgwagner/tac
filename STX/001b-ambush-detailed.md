@@ -125,18 +125,18 @@ Priority of fires to 2nd Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Independent Ambush — OBJ MERRILL):**
 
-- **TASK:** Conduct an ambush at OBJ MERRILL (MP 0600 1530) along Bradenton Ave to destroy the COBRA courier team moving south to north and capture any materials of intelligence value (documents, maps, radios, electronics).
-- **PURPOSE:** Deny COBRA the use of Bradenton Ave as a courier transit route and interdict intelligence materials moving through the western portion of AO KINGSLEY.
+- **TASK:** Ambush the COBRA courier team moving south to north along Bradenton Ave vic OBJ MERRILL (MP 0600 1530) to destroy the team and exploit any materials of intelligence value (documents, maps, radios, electronics).
+- **PURPOSE:** Deny COBRA use of Bradenton Ave as a courier transit route through the western portion of AO KINGSLEY.
 
 **2. 2nd Squad (Independent Ambush — OBJ TARAWA):**
 
-- **TASK:** Conduct an ambush at OBJ TARAWA (MP 0585 1559) along the unnamed N-S road in the western LTA to destroy the COBRA courier team moving north to south and capture any materials of intelligence value (documents, maps, radios, electronics).
-- **PURPOSE:** Deny COBRA the use of the western transit corridor and interdict intelligence materials moving through the northwestern sector of AO KINGSLEY.
+- **TASK:** Ambush the COBRA courier team moving north to south along the unnamed N-S road in the western LTA vic OBJ TARAWA (MP 0585 1559) to destroy the team and exploit any materials of intelligence value (documents, maps, radios, electronics).
+- **PURPOSE:** Deny COBRA use of the western transit corridor for courier movement through the northwestern sector of AO KINGSLEY.
 
 **3. 3rd Squad (Independent Ambush — OBJ RODGERS):**
 
-- **TASK:** Conduct an ambush at OBJ RODGERS (MP 0575 1538) along Clearwater Ave approaching the unnamed road intersection to destroy the COBRA courier team moving east to west through the intersection and capture any materials of intelligence value (documents, maps, radios, electronics).
-- **PURPOSE:** Deny COBRA the use of the southwestern road junction and interdict intelligence materials moving toward the COBRA distribution point in that sector.
+- **TASK:** Ambush the COBRA courier team moving east to west along Clearwater Ave through the unnamed road intersection vic OBJ RODGERS (MP 0575 1538) to destroy the team and exploit any materials of intelligence value (documents, maps, radios, electronics).
+- **PURPOSE:** Disrupt COBRA intelligence flow to the distribution point in the southwestern sector of AO KINGSLEY.
 
 ### e. Coordinating Instructions
 
