@@ -172,12 +172,7 @@ Priority of fires to 2nd Squad. Mortar support is available through company on r
    - **Intelligence Report:** Upon SSE completion — report all weapons and materials found.
    - **LACE Report:** After ambush, within ______ minutes.
 
-**5. Coordination Between Squads:**
-   - Squads operate independently at their assigned sites.
-   - Squads report contact via SALUTE on the platoon net; adjacent squads monitor but continue their own missions unless directed otherwise by the PL.
-   - Squads requiring support request it through the PL.
-
-**6.** This OPORD is effective immediately upon distribution.
+**5.** This OPORD is effective immediately upon distribution.
 
 ---
 

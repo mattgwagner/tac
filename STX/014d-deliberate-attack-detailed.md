@@ -174,12 +174,7 @@ Priority of fires to 2nd Squad. Mortar support is available through company on r
    - **Intelligence Report:** Upon completion of hasty SSE — report all plans and materials recovered.
    - **LACE Report:** Upon seizure and consolidation.
 
-**5. Coordination Between Squads:**
-   - Squads operate independently at assigned objectives.
-   - Squads report contact via SALUTE on the platoon net.
-   - Squads requiring support request it through the PL.
-
-**6.** This OPORD is effective immediately upon distribution.
+**5.** This OPORD is effective immediately upon distribution.
 
 ---
 

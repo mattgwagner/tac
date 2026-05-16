@@ -182,12 +182,7 @@ Priority of fires to 1st Squad. Mortar support is available through company on r
    - **LOA reached** — report on the platoon net.
    - **LACE Report** — on consolidation.
 
-**6. Coordination Between Squads:**
-   - Squads operate independently within their zones. Lateral coordination at zone boundaries is the responsibility of adjacent squad leaders.
-   - Squads report contact via SALUTE on the platoon net; adjacent squads monitor but continue their own missions unless directed otherwise by the PL.
-   - Squads requiring support request it through the PL.
-
-**7.** This OPORD is effective immediately upon distribution.
+**6.** This OPORD is effective immediately upon distribution.
 
 ---
 

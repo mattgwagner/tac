@@ -152,9 +152,7 @@ Priority of fires to 2nd Squad. Mortar support is available through company on r
 
 **4. Reporting:** SP/LD, SALUTE on enemy contact, In Position at the ambush site, LACE within ____ minutes of execution.
 
-**5. Coordination Between Squads:** Squads operate independently; adjacent squads continue their own mission on contact unless the PL directs otherwise.
-
-**6.** This OPORD is effective immediately upon distribution.
+**5.** This OPORD is effective immediately upon distribution.
 
 ---
 
