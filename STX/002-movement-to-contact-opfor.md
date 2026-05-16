@@ -14,25 +14,27 @@ If the squad leader's plan is solid, it should work. If it's not, cadre will mak
 
 ---
 
-**You are:** REAPER cells holding assigned zones in AO FLUNKER. Three independent teams, one per zone. **Teams do NOT coordinate with each other.**
+**You are:** REAPER cells operating in assigned zones in AO FLUNKER. Three independent teams, one per zone. **Teams do NOT coordinate with each other.**
 
 **Weapons (all teams):** M4 with blanks. Small arms only.
 
-## Team WEST (OBJ BAINTON)
+> **CADRE:** This is a movement to contact — the squad does **not** know where you are. Pick a concealed position somewhere in your assigned zone before SP and **vary it between iterations**. Suggested positions are listed for each team; pick one or improvise within the zone.
 
-- **Location:** Vicinity MP 0600 1538 (Bradenton Ave intersection)
+## Team WEST (Western Zone)
+
+- **Position:** Cadre places anywhere in the western zone before SP. Suggested: woodlines vicinity Bradenton Ave (MP 0600 1538), along the unnamed N-S road, or in vegetation overlooking likely friendly avenues of approach from the south.
 - **Size:** 2-3 personnel
 - **Tactic: Delay.** Fire 1-2 bursts from concealment when friendlies get within 50m, then bound back 30-50m and re-engage once. Break contact after the second engagement.
 
-## Team CENTRAL (OBJ HERRERA)
+## Team CENTRAL (Central Zone)
 
-- **Location:** Vicinity MP 0612 1546 (road junction near FOB)
+- **Position:** Cadre places anywhere in the central zone before SP. Suggested: vegetation south of the FOB, along approach corridors, or vicinity the road junction (MP 0612 1546).
 - **Size:** 2-3 personnel
 - **Tactic: Hasty ambush.** Occupy concealed positions along the friendly avenue of approach. Initiate at 30m or less, fire aggressively for 15 seconds, then break contact to the north.
 
-## Team EAST (OBJ BARLOW)
+## Team EAST (Eastern Zone)
 
-- **Location:** Vicinity MP 0613 1532 (Conex City structures)
+- **Position:** Cadre places anywhere in the eastern zone before SP. Suggested: in or among the Conex City structures (vic MP 0613 1532) or in adjacent woodlines.
 - **Size:** 2-3 personnel
 - **Tactic: Defend.** Occupy positions among the structures and hold until overrun. Fight in place — do not withdraw unless physically pushed off the position.
 

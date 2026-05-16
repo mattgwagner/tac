@@ -8,21 +8,24 @@
 >
 > **Complexity:** Moderate | **Recommended Phase:** WALK (Blocks 3-4), RUN (Day Iterations)
 >
-> **Mission Summary:** 1st Platoon conducts a movement to contact in AO ORANGE with squads operating independently in assigned zones to locate and engage VIPER combat elements that are establishing blocking positions across the AO.
+> **Mission Summary:** 1st Platoon conducts a movement to contact in AO ORANGE from LD Arcadia St to LOA Jacksonville St. Squads operate independently in assigned zones to gain contact with VIPER combat elements that are believed to be establishing blocking positions across the AO. Exact VIPER positions are unknown.
 >
-> **Training Focus:** This OPORD is designed to evaluate **individual squad leader planning and decision-making**. The PL issues the platoon OPORD, but each squad leader must conduct their own TLP — analyzing terrain, selecting movement techniques, choosing formations, planning actions on contact, and issuing a squad OPORD. Cadre should assign one evaluator per squad to observe the SL's planning process and tactical decisions.
+> **Training Focus:** This OPORD is designed to evaluate **individual squad leader planning and decision-making for movement to contact** (FM 3-90-1; ATP 3-21.8, search and attack). The PL issues the platoon OPORD, but each squad leader must conduct their own TLP — analyzing terrain, selecting movement techniques, choosing formations, planning actions on contact, and issuing a squad OPORD. Cadre should assign one evaluator per squad to observe the SL's planning process and tactical decisions.
 >
-> **Destinations:**
-> - 1st Squad → OBJ JACKAL (vic MP 0600 1538)
-> - 2nd Squad → OBJ WOLVERINE (vic MP 0612 1546)
-> - 3rd Squad → OBJ FALCON (vic MP 0613 1532)
+> **Doctrinal Note (Cadre):** This is a movement to contact, not a deliberate attack against known blocking positions. Squad tasks intentionally give a zone, LD, and LOA — **not** an OBJ grid. If a SL plans an ORP, leader's recon, and pre-planned SBF/assault against a fixed VIPER position, redirect them: positions are not pinpointed. Squads execute React to Contact on first contact, then SL decides whether to hasty-attack the discovered position, fix and report, or break contact. Separate STX (003 raid, 014/016 deliberate attack) cover assault planning against known objectives.
 >
-> **Actions on Objective:** Each squad independently locates and engages VIPER in its zone, secures its objective, and reports. Squads do not depend on or wait for adjacent squads.
+> **Squad Zones:**
+> - 1st Squad → Western Zone of AO ORANGE
+> - 2nd Squad → Central Zone of AO ORANGE
+> - 3rd Squad → Eastern Zone of AO ORANGE (includes Conex City)
+>
+> **Actions on Contact:** Each squad executes React to Contact battle drill on first enemy contact, then develops the situation per the SL's assessment within commander's intent. Squads do not depend on or wait for adjacent squads.
 >
 > **Evaluation Timeline:** For evaluated iterations, candidates will receive this OPORD and have 75 minutes to complete TLP Steps 1-8 before SP. Execution window is 60 minutes. AAR is 15 minutes.
 >
 > **OPFOR/Training Wrinkles:**
-> - Deploy one VIPER combat element (2-3 personnel) per zone, positioned near each squad's objective in hasty fighting positions — VIPER is actively preparing blocking positions.
+> - Deploy one VIPER combat element (2-3 personnel) per zone in hasty fighting positions. **Cadre repositions each element within its zone per iteration** so squads cannot pre-plan against a known grid.
+> - VIPER is actively preparing blocking positions — concealment is improvised, not entrenched.
 > - Each element operates independently — do not coordinate across zones unless running MDCOA.
 > - Introduce a civilian or non-combatant scenario in one zone to test ROE.
 > - Vary VIPER tactics: one team fires aggressively and holds, one conducts a hasty ambush, one delays and falls back.
@@ -31,7 +34,7 @@
 >
 > **See Also:** [LTA Grid Reference](../reference/lta-grid-reference.md)
 >
-> **Iteration Guidance:** This is the detailed version with specific objective grids and zone boundaries in squad tasks. For evaluated iterations and later runs, use [002-movement-to-contact.md](002-movement-to-contact.md) instead.
+> **Iteration Guidance:** This is the detailed version — richer enemy disposition, likely contact areas, control measures, and per-squad task framing. The base [002-movement-to-contact.md](002-movement-to-contact.md) is the leaner mission-command version for later iterations.
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 
@@ -49,13 +52,13 @@ Platoon Sergeant
 ## 1. SITUATION
 
 ### a. Area of Interest
-The Camp Blanding LTA, Clay County, Florida. AO ORANGE covers the central and eastern LTA — the Bradenton Avenue corridor, the FOB south entrance at OBJ WOLVERINE (MP 0612 1546), and Conex City — bounded north by Jacksonville Street, east by the FOB and Conex City perimeters, south by Arcadia Street, and west by Bradenton Avenue (vicinity MP 0600 1525 to MP 0615 1555). The area of interest extends west across Bradenton Avenue into the surrounding woodlines and south of Arcadia Street, where VIPER blocking and interdiction elements are staging from positions outside the LTA.
+The Camp Blanding LTA, Clay County, Florida. AO ORANGE covers the central and eastern LTA — the Bradenton Avenue corridor, the FOB south entrance vicinity (MP 0612 1546), and Conex City — bounded north by Jacksonville Street (LOA), east by the FOB and Conex City perimeters, south by Arcadia Street (LD), and west by Bradenton Avenue (vicinity MP 0600 1525 to MP 0615 1555). The area of interest extends west across Bradenton Avenue into the surrounding woodlines and south of Arcadia Street, where VIPER blocking and interdiction elements are staging from positions outside the LTA.
 
 ### b. Area of Operations
 
 **1. Terrain.** The Camp Blanding LTA is a road-bounded sector of the training area, roughly 1,200m east-west by 550m north-south, set in flat sandy-soil pine and hardwood forest. An improved road grid frames the LTA: Bradenton Avenue (N-S) runs through the center, Clearwater Avenue (N-S) bounds the west, Arcadia Street (E-W) bounds the south, and Jacksonville Street (E-W) bounds the north. Two unnamed roads — one N-S in the western LTA and one E-W through the interior — subdivide the woodlines. The FOB sits at MP 0610 1550 in the northeast; Conex City sits at MP 0611 1530 in the southeast. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors, so the road grid provides the only extended fields of fire and the primary mounted avenues of approach. Sandy soil supports dismounted movement everywhere but restricts wheeled traffic to the roads, particularly after rain.
 
-   - **Key Terrain:** The FOB south entrance (MP 0612 1546) is a key VIPER blocking position controlling the eastern avenue of approach. The Bradenton/unnamed-road intersection (MP 0600 1538) anchors the central N-S axis VIPER is preparing to interdict. Conex City's structures (MP 0611 1530) give VIPER covered fighting positions in the southeastern sector. Woodlines throughout limit observation to under 50m off road corridors.
+   - **Key Terrain:** The FOB south entrance area (MP 0612 1546) controls the eastern avenue of approach and is a likely VIPER blocking position. The Bradenton/unnamed-road intersection (MP 0600 1538) anchors the central N-S axis VIPER is preparing to interdict. Conex City's structures (MP 0611 1530) offer covered fighting positions in the southeastern sector. Woodlines throughout limit observation to under 50m off road corridors. SLs should consider road junctions, woodline edges, and the built-up area as likely contact points.
 
 **2. Weather.**
    - Skies: ________
@@ -68,14 +71,16 @@ The Camp Blanding LTA, Clay County, Florida. AO ORANGE covers the central and ea
    - EENT: ____
 
 ### c. Enemy Forces. VIPER: Vanguard Irregulars of the People's Emergency Republic
-VIPER forces have pushed into AO ORANGE and are actively establishing blocking positions at key terrain features to interdict friendly movement and consolidate territorial control. VIPER combat elements (2-3 personnel) are digging in at road junctions and built-up areas. VIPER personnel are motivated and aggressive — they will fight from their positions, but their coordination is limited and their discipline uneven.
+VIPER forces have pushed into AO ORANGE and are believed to be establishing blocking positions at key terrain to interdict friendly movement and consolidate territorial control. VIPER combat elements (2-3 personnel) are reported to be digging in somewhere in each zone, but exact positions are not pinpointed. VIPER personnel are motivated and aggressive — they will fight from their positions, but their coordination is limited and their discipline uneven.
 
 **1. Composition.** Three independent VIPER combat elements, each 2-3 combatants with small arms in hasty fighting positions. Total 6-9 combatants distributed across AO ORANGE.
 
-**2. Disposition.** VIPER elements are dispersed across the AO:
-   - Western element: establishing a blocking position at the Bradenton Avenue intersection (vic MP 0600 1538), using the road junction and surrounding woodlines for fields of fire.
-   - Central element: occupying the road junction south of the FOB (vic MP 0612 1546), in hasty positions oriented south and east to interdict friendly approach routes.
-   - Eastern element: using the Conex City structures (vic MP 0613 1532) for covered fighting positions, oriented to control movement into the built-up area.
+**2. Disposition.** **Exact positions unknown.** Reporting places one VIPER combat element somewhere in each of the three squad zones — western, central, and eastern. Elements are likely in hasty fighting positions oriented south or south-east toward friendly approach routes. Likely contact areas based on prior reporting:
+   - Western zone: road junctions along Bradenton Avenue and the unnamed N-S road, with adjacent woodlines providing fields of fire.
+   - Central zone: vegetation and approach corridors south of the FOB; the road junction area is a likely blocking-position site.
+   - Eastern zone: in and around the Conex City structures and adjacent woodlines.
+   
+   Each element operates independently with limited lateral coordination.
 
 **3. Most Probable Course of Action (MPCOA).** Each VIPER element fires from its position when friendly forces enter its area, attempting to hold the blocking position. If flanked or overrun, the element fights briefly then withdraws into available cover. Elements fight independently without coordinating with adjacent zones.
 
@@ -85,9 +90,9 @@ VIPER forces have pushed into AO ORANGE and are actively establishing blocking p
 
 **1. Higher Headquarters:** A Co. 4th BN – 211th INF.
 
-**2. Mission.** A Company attacks to locate and destroy VIPER blocking elements in AO ORANGE before VIPER can consolidate positions and interdict friendly movement through the AO.
+**2. Mission.** A Company conducts movement to contact in AO ORANGE to locate VIPER blocking elements, develop the situation, and restore friendly freedom of movement before VIPER can consolidate positions.
 
-**3. Commander's Intent.** Locate and destroy VIPER combat elements across AO ORANGE before their blocking positions are established, restoring friendly freedom of movement through the AO.
+**3. Commander's Intent.** Establish contact with VIPER combat elements across AO ORANGE before their blocking positions are consolidated, develop the situation, and restore friendly freedom of movement through the AO.
 
 ### e. Civil Considerations
 Civilians present near road junctions and in the vicinity of Conex City. Avoid civilian harm and unnecessary engagement near populated areas.
@@ -99,7 +104,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon conducts a movement to contact in AO ORANGE NLT ____ in order to locate and destroy VIPER blocking elements and restore friendly freedom of movement throughout the AO.
+1st Platoon conducts a movement to contact in AO ORANGE NLT ____ from LD Arcadia St to LOA Jacksonville St in order to establish contact with VIPER blocking elements, develop the situation, and restore friendly freedom of movement throughout the AO.
 
 ---
 
@@ -107,33 +112,33 @@ None.
 
 ### a. Commander's Intent
 
-**Purpose:** Locate and destroy VIPER combat elements across AO ORANGE before blocking positions are consolidated, restoring friendly freedom of movement and denying VIPER territorial control of the AO.
+**Purpose:** Establish contact with VIPER combat elements across AO ORANGE before blocking positions are consolidated, develop the situation, and restore friendly freedom of movement to deny VIPER territorial control of the AO.
 
-**Key Tasks:** (1) Each squad locates and engages VIPER forces in its assigned zone and reports strength and disposition. (2) Each squad secures its objective and establishes a hasty defensive position. (3) Squads maintain freedom to maneuver independently throughout the engagement.
+**Key Tasks:** (1) Each squad establishes contact with VIPER forces in its assigned zone and reports strength, location, and activity. (2) On contact, develop the situation — fix, hasty-attack, or report — based on the SL's assessment within commander's intent. (3) Squads maintain freedom to maneuver independently throughout the engagement and reach LOA Jacksonville St.
 
-**End State:** VIPER blocking elements located and destroyed in all three zones, all three objectives secured, squads in hasty defensive positions and prepared for follow-on operations.
+**End State:** VIPER blocking elements located and engaged in all three zones, squads at or short of LOA with contact developed, prepared for follow-on operations.
 
 ### b. Concept of Operations
-1st Platoon conducts a decentralized movement to contact across three assigned squad zones in AO ORANGE. Each squad advances toward its own objective, locating and engaging VIPER blocking elements. **1st Squad is the main effort.** Squad leaders select their own movement techniques, formations, and routes based on terrain and enemy analysis. Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
+1st Platoon conducts a decentralized movement to contact across three assigned squad zones in AO ORANGE from LD Arcadia St to LOA Jacksonville St. Each squad clears its zone at its own pace to gain and develop contact with VIPER blocking elements. **1st Squad is the main effort.** Squad leaders select their own movement techniques, formations, and routes based on terrain and likely-enemy analysis. On contact, squads execute the React to Contact battle drill, then develop the situation — hasty attack, fix and report, or break contact — within commander's intent. Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
 
 ### c. Scheme of Fires
 Priority of fires to 1st Squad. Mortar support is available through company on request; any squad may request fires through the PL.
 
 ### d. Tasks to Subordinate Units
 
-**1. 1st Squad (Western Zone):**
+**1. 1st Squad (Western Zone) — Main Effort:**
 
-- **TASK:** Conduct a movement to contact in the western zone of AO ORANGE toward OBJ JACKAL (MP 0600 1538) to locate and destroy the VIPER blocking element.
+- **TASK:** Movement to contact in the western zone of AO ORANGE from LD Arcadia St to LOA Jacksonville St to establish contact with the VIPER blocking element operating in the zone (2-3 personnel, small arms in hasty fighting positions; exact location unknown) and develop the situation.
 - **PURPOSE:** Restore friendly freedom of movement along the Bradenton Ave corridor in the western portion of AO ORANGE.
 
 **2. 2nd Squad (Central Zone):**
 
-- **TASK:** Conduct a movement to contact in the central zone of AO ORANGE toward OBJ WOLVERINE (MP 0612 1546) to locate and destroy the VIPER blocking element.
+- **TASK:** Movement to contact in the central zone of AO ORANGE from LD Arcadia St to LOA Jacksonville St to establish contact with the VIPER blocking element operating in the zone (2-3 personnel, small arms in hasty fighting positions; exact location unknown) and develop the situation.
 - **PURPOSE:** Preserve the main avenue of approach into the northern portion of AO ORANGE before VIPER can fully establish blocking positions.
 
 **3. 3rd Squad (Eastern Zone):**
 
-- **TASK:** Conduct a movement to contact in the eastern zone of AO ORANGE toward OBJ FALCON (MP 0613 1532) to locate and destroy the VIPER blocking element in and around the Conex City structures.
+- **TASK:** Movement to contact in the eastern zone of AO ORANGE from LD Arcadia St to LOA Jacksonville St to establish contact with the VIPER blocking element operating in the zone (2-3 personnel, small arms in hasty fighting positions; likely in or around the Conex City structures) and develop the situation.
 - **PURPOSE:** Deny VIPER use of the Conex City structures as prepared fighting positions and restore friendly access to the eastern sector of AO ORANGE.
 
 ### e. Coordinating Instructions
@@ -163,18 +168,25 @@ Priority of fires to 1st Squad. Mortar support is available through company on r
    2. Friendly unit positions and boundaries
    3. Casualty status and combat strength
 
-**4. Reporting:**
-   - **Report to higher when crossing the line of departure.**
-   - **SALUTE Report:** Upon contact with enemy or relevant activity.
-   - **Objective Report:** Upon securing squad objective — report status and enemy situation.
-   - **LACE Report:** Upon reaching objective.
+**4. Control Measures:**
+   - **LD:** Arcadia St (southern AO boundary). Squads cross LD moving north into their assigned zone at SP time.
+   - **LOA:** Jacksonville St (northern AO boundary). Squads do not advance beyond LOA without PL approval.
+   - **PL BLUE:** Unnamed E-W road through the interior (vic northing 1538). Report when crossing.
+   - **Zones:** Western, Central, Eastern as assigned. SLs coordinate lateral boundaries directly with adjacent SLs prior to SP.
 
-**5. Coordination Between Squads:**
-   - Squads operate independently within their zones.
+**5. Reporting:**
+   - **SP/LD crossing** — report on the platoon net.
+   - **SALUTE Report** — upon contact with enemy or relevant activity.
+   - **PL BLUE crossing** — report on the platoon net.
+   - **LOA reached** — report on the platoon net.
+   - **LACE Report** — on consolidation.
+
+**6. Coordination Between Squads:**
+   - Squads operate independently within their zones. Lateral coordination at zone boundaries is the responsibility of adjacent squad leaders.
    - Squads report contact via SALUTE on the platoon net; adjacent squads monitor but continue their own missions unless directed otherwise by the PL.
    - Squads requiring support request it through the PL.
 
-**6.** This OPORD is effective immediately upon distribution.
+**7.** This OPORD is effective immediately upon distribution.
 
 ---
 

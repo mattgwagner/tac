@@ -8,30 +8,33 @@
 >
 > **Complexity:** Moderate | **Recommended Phase:** WALK (Blocks 3-4), RUN (Day Iterations)
 >
-> **Mission Summary:** 1st Platoon conducts a movement to contact in AO PUTNAM with squads operating independently in assigned zones to locate and engage COBRA logistics cells that have established forward supply caches across the AO.
+> **Mission Summary:** 1st Platoon conducts a movement to contact in AO PUTNAM from LD Arcadia St to LOA Jacksonville St. Squads operate independently in assigned zones to gain contact with COBRA logistics cells and develop the situation. Suspected supply caches may exist somewhere in the AO but exact locations are unknown.
 >
-> **Training Focus:** This OPORD is designed to evaluate **individual squad leader planning and decision-making**. The PL issues the platoon OPORD, but each squad leader must conduct their own TLP — analyzing terrain, selecting movement techniques, choosing formations, planning actions on contact, and issuing a squad OPORD. Cadre should assign one evaluator per squad to observe the SL's planning process and tactical decisions.
+> **Training Focus:** This OPORD is designed to evaluate **individual squad leader planning and decision-making for movement to contact** (FM 3-90-1; ATP 3-21.8, search and attack). The PL issues the platoon OPORD, but each squad leader must conduct their own TLP — analyzing terrain, selecting movement techniques, choosing formations, planning actions on contact, and issuing a squad OPORD. Cadre should assign one evaluator per squad to observe the SL's planning process and tactical decisions.
 >
-> **Destinations:**
-> - 1st Squad → OBJ RANGER (vic MP 0600 1538)
-> - 2nd Squad → OBJ AIRBORNE (vic MP 0612 1546)
-> - 3rd Squad → OBJ INFANTRY (vic MP 0613 1532)
+> **Doctrinal Note (Cadre):** This is a movement to contact, not a raid or deliberate attack on a known cache. Squad tasks intentionally give a zone, LD, and LOA — **not** a cache grid or OBJ grid. If a SL plans an ORP, leader's recon, and pre-planned SBF/assault against a fixed cache location, redirect them: cache locations are not known. On contact, squads execute React to Contact, then develop the situation — including SSE of any cache discovered — per the SL's assessment. Separate STX (003 raid, 014/016 deliberate attack) cover assault planning against known objectives.
 >
-> **Actions on Objective:** Each squad independently locates and engages COBRA in its zone, secures its objective, and reports. Squads do not depend on or wait for adjacent squads.
+> **Squad Zones:**
+> - 1st Squad → Western Zone of AO PUTNAM
+> - 2nd Squad → Central Zone of AO PUTNAM
+> - 3rd Squad → Eastern Zone of AO PUTNAM (includes Conex City)
+>
+> **Actions on Contact:** Each squad executes React to Contact battle drill on first enemy contact, then develops the situation per the SL's assessment. If a cache is discovered, conduct hasty SSE and report — do not let cache exploitation become the primary effort. Squads do not depend on or wait for adjacent squads.
 >
 > **Evaluation Timeline:** For evaluated iterations, candidates will receive this OPORD and have 75 minutes to complete TLP Steps 1-8 before SP. Execution window is 60 minutes. AAR is 15 minutes.
 >
 > **OPFOR/Training Wrinkles:**
-> - Deploy one COBRA logistics element (2-3 personnel) per zone, positioned near each squad's objective with simulated cache materials (ammo cans, rucksacks).
+> - Deploy one COBRA logistics element (2-3 personnel) per zone with simulated cache materials (ammo cans, rucksacks). **Cadre repositions each element within its zone per iteration** so squads cannot pre-plan against a known grid.
+> - OPFOR may patrol within the zone or hold a single concealed position — cadre's call.
 > - Each element operates independently — do not coordinate across zones unless running MDCOA.
 > - Introduce a civilian or non-combatant scenario in one zone to test ROE.
-> - Vary COBRA tactics across zones (one team delays, one ambushes, one defends the cache).
+> - Vary COBRA tactics across zones (one team delays, one ambushes, one defends the cache position).
 >
 > **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
 >
 > **See Also:** [LTA Grid Reference](../reference/lta-grid-reference.md)
 >
-> **Iteration Guidance:** This is the detailed version with specific objective grids and zone boundaries in squad tasks. For evaluated iterations and later runs, use [002-movement-to-contact.md](002-movement-to-contact.md) instead.
+> **Iteration Guidance:** This is the detailed version — richer enemy disposition, likely contact areas, control measures, and per-squad task framing. The base [002-movement-to-contact.md](002-movement-to-contact.md) is the leaner mission-command version for later iterations.
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 
@@ -49,13 +52,13 @@ Platoon Sergeant
 ## 1. SITUATION
 
 ### a. Area of Interest
-The Camp Blanding LTA, Clay County, Florida. AO PUTNAM covers the central and eastern LTA — the Bradenton Avenue corridor, the FOB south entrance at OBJ AIRBORNE (MP 0612 1546), and Conex City — bounded north by Jacksonville Street, east by the FOB and Conex City perimeters, south by Arcadia Street, and west by Bradenton Avenue (vicinity MP 0600 1525 to MP 0615 1555). The area of interest extends west across Bradenton Avenue into the surrounding woodlines and south of Arcadia Street, where COBRA caching and resupply elements stage from positions outside the LTA.
+The Camp Blanding LTA, Clay County, Florida. AO PUTNAM covers the central and eastern LTA — the Bradenton Avenue corridor, the FOB south entrance vicinity (MP 0612 1546), and Conex City — bounded north by Jacksonville Street (LOA), east by the FOB and Conex City perimeters, south by Arcadia Street (LD), and west by Bradenton Avenue (vicinity MP 0600 1525 to MP 0615 1555). The area of interest extends west across Bradenton Avenue into the surrounding woodlines and south of Arcadia Street, where COBRA caching and resupply elements stage from positions outside the LTA.
 
 ### b. Area of Operations
 
 **1. Terrain.** The Camp Blanding LTA is a road-bounded sector of the training area, roughly 1,200m east-west by 550m north-south, set in flat sandy-soil pine and hardwood forest. An improved road grid frames the LTA: Bradenton Avenue (N-S) runs through the center, Clearwater Avenue (N-S) bounds the west, Arcadia Street (E-W) bounds the south, and Jacksonville Street (E-W) bounds the north. Two unnamed roads — one N-S in the western LTA and one E-W through the interior — subdivide the woodlines. The FOB sits at MP 0610 1550 in the northeast; Conex City sits at MP 0611 1530 in the southeast. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors, so the road grid provides the only extended fields of fire and the primary mounted avenues of approach. Sandy soil supports dismounted movement everywhere but restricts wheeled traffic to the roads, particularly after rain.
 
-   - **Key Terrain:** The FOB south entrance (MP 0612 1546) controls access to the eastern sector and is a likely COBRA cache distribution point. The Bradenton/unnamed-road intersection (MP 0600 1538) anchors the central N-S avenue of approach used for COBRA resupply movement. Conex City (MP 0611 1530) offers concealment and structures for forward caching operations in the southeastern AO. Woodlines between Bradenton Avenue and Conex City provide covered E-W movement; visibility off road corridors is under 50m.
+   - **Key Terrain:** The FOB south entrance (MP 0612 1546) controls access to the eastern sector and is a suspected COBRA cache distribution area. The Bradenton/unnamed-road intersection (MP 0600 1538) anchors the central N-S avenue of approach used for COBRA resupply movement. Conex City (MP 0611 1530) offers concealment and structures suitable for forward caching in the southeastern AO. Woodlines between Bradenton Avenue and Conex City provide covered E-W movement; visibility off road corridors is under 50m. Likely COBRA contact areas — concealed positions near junctions, woodline edges, and the built-up area — should be considered when planning movement and actions on contact.
 
 **2. Weather.**
    - Skies: ________
@@ -68,16 +71,18 @@ The Camp Blanding LTA, Clay County, Florida. AO PUTNAM covers the central and ea
    - EENT: ____
 
 ### c. Enemy Forces. COBRA: Covert Border Resistance Army
-COBRA has established a network of forward logistics cells across AO PUTNAM to support sustained operations. Small COBRA elements (2-3 personnel) have emplaced supply caches at key terrain features and road junctions, enabling COBRA to sustain operations without large convoys. Elements are organized, security-conscious, and armed with small arms. They will delay, ambush, or defend their cache sites depending on available cover.
+COBRA is believed to operate a network of forward logistics cells across AO PUTNAM to support sustained operations. Small COBRA elements (2-3 personnel) are reported to be moving and emplacing supply caches at concealed positions, enabling COBRA to sustain operations without large convoys. Elements are organized, security-conscious, and armed with small arms. They will delay, ambush, or defend cache sites depending on available cover. **Exact cache and element locations are not known.**
 
-**1. Composition.** Three independent COBRA logistics elements, each 2-3 combatants with small arms. Cache materials present at each position. Total 6-9 combatants distributed across AO PUTNAM.
+**1. Composition.** Three independent COBRA logistics elements, each 2-3 combatants with small arms. Cache materials likely present at element positions. Total 6-9 combatants distributed across AO PUTNAM.
 
-**2. Disposition.** COBRA elements are dispersed across the AO:
-   - Western element: vicinity the Bradenton Avenue intersection (vic MP 0600 1538), maintaining a cache at the road junction using surrounding woodlines for concealment.
-   - Central element: vicinity the road junction south of the FOB (vic MP 0612 1546), guarding a cache at the junction and using the vegetation for observation and defense.
-   - Eastern element: vicinity Conex City (vic MP 0613 1532), using the structures for cover while maintaining a cache inside the built-up area.
+**2. Disposition.** **Exact positions unknown.** Reporting places one COBRA logistics element operating somewhere in each of the three squad zones — western, central, and eastern. Elements use terrain, vegetation, and structures for concealment, and may patrol within their zone or hold a concealed cache position. Likely contact areas based on prior reporting:
+   - Western zone: woodlines along Bradenton Avenue and the unnamed N-S road, with road junctions providing observation.
+   - Central zone: vegetation and approach corridors south of the FOB; the road junction area offers concealment for cache positions.
+   - Eastern zone: in and around the Conex City structures and adjacent woodlines.
+   
+   Each element operates independently with limited lateral coordination.
 
-**3. Most Probable Course of Action (MPCOA).** Each COBRA element initiates harassing fire from concealed positions when friendly forces enter its area, then breaks contact to avoid being fixed, attempting to protect the cache or destroy it before withdrawing. Elements fight independently without reinforcement from adjacent zones.
+**3. Most Probable Course of Action (MPCOA).** Each COBRA element initiates harassing fire from concealed positions when friendly forces enter detection range, then breaks contact to avoid being fixed, attempting to protect the cache or destroy it before withdrawing. Elements fight independently without reinforcement from adjacent zones.
 
 **4. Most Dangerous Course of Action (MDCOA).** COBRA elements coordinate across zones, feeding location reports on each friendly squad to enable one COBRA team to reposition and conduct a flank attack while the other elements continue to fix their respective squads in place.
 
@@ -85,9 +90,9 @@ COBRA has established a network of forward logistics cells across AO PUTNAM to s
 
 **1. Higher Headquarters:** A Co. 4th BN – 211th INF.
 
-**2. Mission.** A Company locates and destroys COBRA forward logistics cells in AO PUTNAM to deny COBRA the ability to sustain distributed operations in the region.
+**2. Mission.** A Company conducts movement to contact in AO PUTNAM to locate COBRA logistics cells, develop the situation, and degrade COBRA's ability to sustain distributed operations in the region.
 
-**3. Commander's Intent.** Locate and destroy COBRA logistics elements and their associated caches across AO PUTNAM to degrade COBRA's ability to sustain forward operations.
+**3. Commander's Intent.** Establish contact with COBRA logistics elements throughout the AO, develop the situation, and destroy or report cache materials encountered to degrade COBRA's ability to sustain forward operations.
 
 ### e. Civil Considerations
 Civilians present in the AO, particularly near road junctions. Avoid unnecessary disturbances and ensure civilian safety throughout the operation.
@@ -99,7 +104,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon conducts a movement to contact in AO PUTNAM NLT ____ in order to locate and destroy COBRA logistics cells and deny COBRA the ability to sustain forward operations in the AO.
+1st Platoon conducts a movement to contact in AO PUTNAM NLT ____ from LD Arcadia St to LOA Jacksonville St in order to establish contact with COBRA logistics cells, develop the situation, and deny COBRA the ability to sustain forward operations in the AO.
 
 ---
 
@@ -107,33 +112,33 @@ None.
 
 ### a. Commander's Intent
 
-**Purpose:** Locate and destroy COBRA logistics cells across AO PUTNAM to deny COBRA the forward caching capability needed to sustain operations and threaten friendly forces in the region.
+**Purpose:** Establish contact with COBRA logistics cells across AO PUTNAM, develop the situation, and degrade COBRA's forward caching capability to disrupt sustained operations in the region.
 
-**Key Tasks:** (1) Each squad locates and engages COBRA forces in its assigned zone and reports strength, disposition, and cache materials. (2) Each squad destroys or secures COBRA cache materials at its objective. (3) Squads maintain freedom to maneuver independently throughout the engagement.
+**Key Tasks:** (1) Each squad establishes contact with COBRA forces in its assigned zone and reports strength, location, and activity. (2) On contact, develop the situation — fix, destroy, or report — based on the SL's assessment within commander's intent; conduct hasty SSE of any cache encountered. (3) Squads maintain freedom to maneuver independently throughout the engagement and reach LOA Jacksonville St.
 
-**End State:** COBRA logistics elements located and destroyed in all three zones, cache materials secured or destroyed and reported, squads consolidated and prepared for follow-on operations.
+**End State:** COBRA logistics elements located and engaged in all three zones, cache materials encountered exploited and reported, squads at or short of LOA prepared for follow-on operations.
 
 ### b. Concept of Operations
-1st Platoon conducts a decentralized movement to contact across three assigned squad zones in AO PUTNAM. Each squad advances toward its own objective at its own pace, locating and engaging COBRA logistics elements within its assigned zone. **1st Squad is the main effort.** Squad leaders select their own movement techniques, formations, and routes based on their analysis of terrain and enemy situation. Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
+1st Platoon conducts a decentralized movement to contact across three assigned squad zones in AO PUTNAM from LD Arcadia St to LOA Jacksonville St. Each squad clears its zone at its own pace to gain and develop contact with COBRA logistics elements. **1st Squad is the main effort.** Squad leaders select their own movement techniques, formations, and routes based on terrain and likely-enemy analysis. On contact, squads execute the React to Contact battle drill, then develop the situation — fix and report, hasty attack, or break contact — within commander's intent. If a cache is discovered, conduct hasty SSE and continue the mission. Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
 
 ### c. Scheme of Fires
 Priority of fires to 1st Squad. Mortar support is available through company on request; any squad may request fires through the PL.
 
 ### d. Tasks to Subordinate Units
 
-**1. 1st Squad (Western Zone):**
+**1. 1st Squad (Western Zone) — Main Effort:**
 
-- **TASK:** Conduct a movement to contact in the western zone of AO PUTNAM toward OBJ RANGER (MP 0600 1538) to locate and destroy the COBRA logistics element and exploit cache materials of intelligence value.
-- **PURPOSE:** Deny COBRA use of the Bradenton Ave junction as a forward cache site and resupply node.
+- **TASK:** Movement to contact in the western zone of AO PUTNAM from LD Arcadia St to LOA Jacksonville St to establish contact with the COBRA logistics element operating in the zone (2-3 personnel, small arms, cache materials likely present; exact location unknown) and develop the situation.
+- **PURPOSE:** Deny COBRA use of the Bradenton Ave corridor as a forward cache and resupply route.
 
 **2. 2nd Squad (Central Zone):**
 
-- **TASK:** Conduct a movement to contact in the central zone of AO PUTNAM toward OBJ AIRBORNE (MP 0612 1546) to locate and destroy the COBRA logistics element and exploit cache materials of intelligence value.
+- **TASK:** Movement to contact in the central zone of AO PUTNAM from LD Arcadia St to LOA Jacksonville St to establish contact with the COBRA logistics element operating in the zone (2-3 personnel, small arms, cache materials likely present; exact location unknown) and develop the situation.
 - **PURPOSE:** Disrupt COBRA's ability to coordinate resupply movement through the central portion of AO PUTNAM.
 
 **3. 3rd Squad (Eastern Zone):**
 
-- **TASK:** Conduct a movement to contact in the eastern zone of AO PUTNAM toward OBJ INFANTRY (MP 0613 1532) to locate and destroy the COBRA logistics element in and around the Conex City structures and exploit cache materials of intelligence value.
+- **TASK:** Movement to contact in the eastern zone of AO PUTNAM from LD Arcadia St to LOA Jacksonville St to establish contact with the COBRA logistics element operating in the zone (2-3 personnel, small arms, cache materials likely present; likely in or around the Conex City structures) and develop the situation.
 - **PURPOSE:** Deny COBRA use of the Conex City built-up area as a forward cache site and distribution point.
 
 ### e. Coordinating Instructions
@@ -163,18 +168,26 @@ Priority of fires to 1st Squad. Mortar support is available through company on r
    2. Friendly unit positions and boundaries
    3. Casualty status and combat strength
 
-**4. Reporting:**
-   - **Report to higher when crossing the line of departure.**
-   - **SALUTE Report:** Upon contact with enemy or relevant activity.
-   - **Objective Report:** Upon securing squad objective — report status, enemy situation, cache materials found.
-   - **LACE Report:** Upon reaching objective.
+**4. Control Measures:**
+   - **LD:** Arcadia St (southern AO boundary). Squads cross LD moving north into their assigned zone at SP time.
+   - **LOA:** Jacksonville St (northern AO boundary). Squads do not advance beyond LOA without PL approval.
+   - **PL BLUE:** Unnamed E-W road through the interior (vic northing 1538). Report when crossing.
+   - **Zones:** Western, Central, Eastern as assigned. SLs coordinate lateral boundaries directly with adjacent SLs prior to SP.
 
-**5. Coordination Between Squads:**
+**5. Reporting:**
+   - **SP/LD crossing** — report on the platoon net.
+   - **SALUTE Report** — upon contact with enemy or relevant activity.
+   - **Cache Report** — if cache materials are discovered, report type and approximate quantity.
+   - **PL BLUE crossing** — report on the platoon net.
+   - **LOA reached** — report on the platoon net.
+   - **LACE Report** — on consolidation.
+
+**6. Coordination Between Squads:**
    - Squads operate independently within their zones. Lateral coordination at zone boundaries is the responsibility of adjacent squad leaders.
    - Squads report contact via SALUTE on the platoon net; adjacent squads monitor but continue their own missions unless directed otherwise by the PL.
    - Squads requiring support request it through the PL.
 
-**6.** This OPORD is effective immediately upon distribution.
+**7.** This OPORD is effective immediately upon distribution.
 
 ---
 

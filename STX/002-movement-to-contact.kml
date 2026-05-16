@@ -2,15 +2,15 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>OPORD 002 - Movement to Contact</name>
-  <description>AO FLUNKER - 1st PLT, A CO, 4-211 INF. Three independent squad zones. FOR TRAINING USE ONLY.</description>
+  <description>AO FLUNKER - 1st PLT, A CO, 4-211 INF. Three independent squad zones. Movement to contact: LD Arcadia St to LOA Jacksonville St. OPFOR positions are not fixed - cadre repositions per iteration. FOR TRAINING USE ONLY.</description>
 
-  <Style id="style-enemy">
+  <Style id="style-control">
     <IconStyle>
-      <color>ff0000ff</color>
-      <scale>1.3</scale>
-      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/target.png</href></Icon>
+      <color>ff00ffff</color>
+      <scale>1.2</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href></Icon>
     </IconStyle>
-    <LabelStyle><color>ff0000ff</color><scale>1.0</scale></LabelStyle>
+    <LabelStyle><color>ff00ffff</color><scale>1.0</scale></LabelStyle>
   </Style>
   <Style id="style-friendly">
     <IconStyle>
@@ -20,29 +20,37 @@
     </IconStyle>
     <LabelStyle><color>ffff6600</color><scale>0.9</scale></LabelStyle>
   </Style>
+  <Style id="style-likely-contact">
+    <IconStyle>
+      <color>ff0000ff</color>
+      <scale>1.0</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><color>ff0000ff</color><scale>0.9</scale></LabelStyle>
+  </Style>
 
   <Folder>
-    <name>Enemy Objectives</name>
+    <name>Control Measures</name>
 
     <Placemark>
-      <name>OBJ BAINTON (1st SQD)</name>
-      <description>MP 0600 1538 - Western zone. REAPER team 2-3 PAX at Bradenton Ave intersection. Small arms, concealed positions.</description>
-      <styleUrl>#style-enemy</styleUrl>
-      <Point><coordinates>-81.9742627,29.9656653,0</coordinates></Point>
+      <name>LD (Arcadia St)</name>
+      <description>Line of Departure - southern AO boundary. Squads cross LD moving north into their assigned zone at SP time.</description>
+      <styleUrl>#style-control</styleUrl>
+      <Point><coordinates>-81.9742627,29.9640000,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>OBJ HERRERA (2nd SQD)</name>
-      <description>MP 0612 1546 - Central zone. REAPER team 2-3 PAX at road junction south of FOB. Small arms, defensive positions.</description>
-      <styleUrl>#style-enemy</styleUrl>
-      <Point><coordinates>-81.9730262,29.9663963,0</coordinates></Point>
+      <name>PL BLUE (unnamed E-W road)</name>
+      <description>Interior phase line vic northing 1538. Report when crossing on platoon net.</description>
+      <styleUrl>#style-control</styleUrl>
+      <Point><coordinates>-81.9730000,29.9656653,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>OBJ BARLOW (3rd SQD)</name>
-      <description>MP 0613 1532 - Eastern zone. REAPER team 2-3 PAX in/around Conex City structures. Small arms, concealed positions.</description>
-      <styleUrl>#style-enemy</styleUrl>
-      <Point><coordinates>-81.9729102,29.9651338,0</coordinates></Point>
+      <name>LOA (Jacksonville St)</name>
+      <description>Limit of Advance - northern AO boundary. Do not advance beyond LOA without PL approval.</description>
+      <styleUrl>#style-control</styleUrl>
+      <Point><coordinates>-81.9730000,29.9680000,0</coordinates></Point>
     </Placemark>
   </Folder>
 
@@ -50,23 +58,49 @@
     <name>Squad Zones</name>
 
     <Placemark>
-      <name>1st SQD Zone (Western)</name>
-      <description>MTC toward OBJ BAINTON. Move N along/west of Bradenton Ave corridor. Secure objective, hasty defense oriented N and W.</description>
+      <name>1st SQD Zone (Western) - Main Effort</name>
+      <description>Movement to contact in the western zone of AO FLUNKER from LD to LOA. Establish contact with REAPER and develop the situation. Likely contact along Bradenton Ave corridor.</description>
       <styleUrl>#style-friendly</styleUrl>
       <Point><coordinates>-81.9742627,29.9656653,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
       <name>2nd SQD Zone (Central)</name>
-      <description>MTC toward OBJ HERRERA. Move N through wooded area between Bradenton corridor and Conex City. Secure road junction.</description>
+      <description>Movement to contact in the central zone of AO FLUNKER from LD to LOA. Establish contact with REAPER and develop the situation. Likely contact south of FOB.</description>
       <styleUrl>#style-friendly</styleUrl>
       <Point><coordinates>-81.9730262,29.9663963,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
       <name>3rd SQD Zone (Eastern)</name>
-      <description>MTC toward OBJ BARLOW. Move N toward Conex City. Clear structures, hasty defense oriented N and E.</description>
+      <description>Movement to contact in the eastern zone of AO FLUNKER from LD to LOA. Establish contact with REAPER and develop the situation. Likely contact in/around Conex City structures.</description>
       <styleUrl>#style-friendly</styleUrl>
+      <Point><coordinates>-81.9729102,29.9651338,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+  <Folder>
+    <name>Likely Contact Areas (cadre reference - do NOT brief as known OPFOR locations)</name>
+    <description>These are likely-contact areas based on terrain. OPFOR positions are not fixed - cadre repositions per iteration within each squad zone.</description>
+
+    <Placemark>
+      <name>Likely contact - Western zone</name>
+      <description>Vicinity Bradenton Ave intersection (MP 0600 1538). Woodlines and road junctions. CADRE: position OPFOR anywhere in zone.</description>
+      <styleUrl>#style-likely-contact</styleUrl>
+      <Point><coordinates>-81.9742627,29.9656653,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Likely contact - Central zone</name>
+      <description>Vicinity road junction south of FOB (MP 0612 1546). CADRE: position OPFOR anywhere in zone.</description>
+      <styleUrl>#style-likely-contact</styleUrl>
+      <Point><coordinates>-81.9730262,29.9663963,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Likely contact - Eastern zone</name>
+      <description>Vicinity Conex City structures (MP 0613 1532). CADRE: position OPFOR anywhere in zone.</description>
+      <styleUrl>#style-likely-contact</styleUrl>
       <Point><coordinates>-81.9729102,29.9651338,0</coordinates></Point>
     </Placemark>
   </Folder>

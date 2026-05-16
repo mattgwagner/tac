@@ -8,16 +8,19 @@
 >
 > **Complexity:** Moderate | **Recommended Phase:** WALK (Blocks 3-4), RUN (Day Iterations)
 >
-> **Training Focus:** Evaluates **individual squad leader planning and decision-making**. The PL issues the platoon OPORD; each SL conducts their own TLP — terrain analysis, movement techniques, formations, actions on contact, and squad OPORD. Assign one evaluator per squad.
+> **Training Focus:** Evaluates **individual squad leader planning and decision-making for movement to contact** (FM 3-90-1; ATP 3-21.8, search and attack). The enemy situation is vague — no fixed objective grid. Each SL conducts their own TLP — terrain analysis, movement techniques, formations, actions on contact, and squad OPORD. SLs must plan to **establish contact and develop the situation**, not to assault a known position. Assign one evaluator per squad.
+>
+> **Doctrinal Note (Cadre):** This is a movement to contact, not a raid or deliberate attack. Squad tasks intentionally give a zone, LD, and LOA — **not** an OBJ grid. If a SL plans an ORP, leader's recon, and pre-planned SBF/assault against a fixed location, redirect them: the enemy location is not known. Squads execute the **React to Contact** battle drill on contact, then SL decides whether to hasty-attack, fix and report, or break contact based on the situation developed.
 >
 > **Evaluation Timeline:** 75 min for TLP Steps 1-8 before SP. 60 min execution window. 15 min AAR.
 >
 > **OPFOR/Training Wrinkles:**
-> - One OPFOR team (2-3 personnel) per zone, positioned near each squad's objective.
+> - One OPFOR team (2-3 personnel) per zone. **Cadre repositions each team within its zone per iteration** so squads cannot pre-plan against a known grid.
+> - OPFOR may patrol within the zone or hold a single concealed position — cadre's call.
 > - Teams operate independently — do not coordinate across zones unless running MDCOA.
 > - Introduce a civilian in one zone to test ROE.
 > - Cadre may inject intel updates, obstacles, or equipment malfunctions per zone.
-> - Vary OPFOR tactics across zones (one delays, one ambushes, one defends) to create distinct planning problems for each SL.
+> - Vary OPFOR tactics across zones (one delays, one ambushes, one defends) to create distinct contact problems for each SL.
 > - UAS/Counter-UAS injects are OPTIONAL and only if authorized by the Commandant and in the approved POI.
 >
 > **Iteration Guidance:** Mission command version — squad tasks state outcomes without prescribing layout or positioning. For scaffolded iterations, use [002-movement-to-contact-detailed.md](002-movement-to-contact-detailed.md).
@@ -40,13 +43,13 @@ Platoon Sergeant
 ## 1. SITUATION
 
 ### a. Area of Interest
-AO FLUNKER occupies the central and eastern Camp Blanding LTA (vic MP 0600 1525 to MP 0615 1555), covering the Bradenton Ave corridor, the FOB south entrance at OBJ HERRERA (MP 0612 1546), and Conex City. Area of interest extends west across Bradenton Ave and south of Arcadia St, where REAPER probing elements may stage or withdraw.
+AO FLUNKER occupies the central and eastern Camp Blanding LTA (vic MP 0600 1525 to MP 0615 1555), covering the Bradenton Ave corridor, the FOB south entrance vicinity, and Conex City. Area of interest extends west across Bradenton Ave and south of Arcadia St, where REAPER probing elements may stage or withdraw.
 
 ### b. Area of Operations
 
 **1. Terrain.** The Camp Blanding LTA is a road-bounded ~1,200m × 550m sector of flat sandy-soil pine and hardwood forest. Improved road grid: Bradenton Ave (N-S, center), Clearwater Ave (N-S, west), Arcadia St (E-W, south), Jacksonville St (E-W, north); two unnamed roads (one N-S in the western LTA, one E-W through the interior) subdivide the woodlines. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors, so the road grid provides the only extended fields of fire. Sandy soil supports dismounted movement everywhere but restricts wheeled traffic to roads. See [LTA Grid Reference](../reference/lta-grid-reference.md) for full terrain notes.
 
-   - **Key Terrain:** FOB south entrance (MP 0612 1546) controls eastern-sector access from the south; Bradenton/unnamed-road intersection (MP 0600 1538) anchors the central N-S avenue of approach; Conex City (MP 0611 1530) offers concealment and structures in the southeast. Woodlines between Bradenton Ave and Conex City provide covered E-W movement.
+   - **Key Terrain:** FOB south entrance (MP 0612 1546) controls eastern-sector access from the south; Bradenton/unnamed-road intersection (MP 0600 1538) anchors the central N-S avenue of approach; Conex City (MP 0611 1530) offers concealment and structures in the southeast. Woodlines between Bradenton Ave and Conex City provide covered E-W movement. Likely REAPER contact areas — road junctions, woodline edges, and the built-up area — should be considered when planning movement and actions on contact.
 
 **2. Weather.**
    - Skies: ________
@@ -63,9 +66,9 @@ REAPER forces are a small, organized group of irregular fighters, likely part of
 
 **1. Composition.** Three independent REAPER teams, each 2-3 combatants with small arms and a possible crew-served weapon. Total 6-9 combatants distributed across AO FLUNKER.
 
-**2. Disposition.** REAPER teams are dispersed across the AO, with one team operating in each sector — western (vicinity the Bradenton Avenue intersection), central (vicinity the road junction south of the FOB), and eastern (vicinity Conex City). Each team uses terrain and vegetation for concealment. Teams operate independently with limited lateral coordination.
+**2. Disposition.** **Exact locations unknown.** Reporting places one REAPER team operating in each of the three squad zones — western, central, and eastern. Teams use terrain and vegetation for concealment and may patrol within their zones or hold concealed positions. Last reported activity is along the road grid and at woodline edges, but no team has been pinpointed. Teams operate independently with limited lateral coordination.
 
-**3. Most Probable Course of Action (MPCOA).** Each REAPER team initiates harassing fire from concealed positions when friendly forces enter its area, then breaks contact to avoid being fixed. Teams may leave behind simple obstacles or early warning devices but do not attempt to decisively engage. Each team fights independently without reinforcement from adjacent teams.
+**3. Most Probable Course of Action (MPCOA).** Each REAPER team initiates harassing fire from concealed positions when friendly forces enter detection range, then breaks contact to avoid being fixed. Teams may leave behind simple obstacles or early warning devices but do not attempt to decisively engage. Each team fights independently without reinforcement from adjacent teams.
 
 **4. Most Dangerous Course of Action (MDCOA).** REAPER teams coordinate across sectors to mass against one friendly squad, concentrating fires from multiple directions. The isolated squad faces a coordinated ambush while adjacent squads are unaware or too distant to provide immediate support.
 
@@ -87,7 +90,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon conducts a movement to contact in AO FLUNKER NLT ____ in order to develop the situation, destroy REAPER forces in the AO, and enable follow-on company operations.
+1st Platoon conducts a movement to contact in AO FLUNKER NLT ____ from LD Arcadia St to LOA Jacksonville St in order to establish contact with REAPER forces, develop the situation, and enable follow-on company operations.
 
 ---
 
@@ -95,14 +98,14 @@ None.
 
 ### a. Commander's Intent
 
-**Purpose:** Develop the situation with REAPER forces across AO FLUNKER to enable the company commander to make informed decisions for follow-on operations.
+**Purpose:** Establish contact with REAPER forces across AO FLUNKER and develop the situation so the company commander can make informed decisions for follow-on operations.
 
-**Key Tasks:** (1) Each squad locates REAPER forces in its assigned zone and reports their strength and disposition. (2) Fix or destroy REAPER forces upon contact. (3) Squads maintain freedom to maneuver independently throughout the engagement.
+**Key Tasks:** (1) Each squad establishes contact with REAPER forces in its assigned zone and reports their strength, location, and activity. (2) On contact, develop the situation — fix, destroy, or report — based on the SL's assessment within commander's intent. (3) Squads maintain freedom to maneuver independently throughout the engagement and reach LOA Jacksonville St.
 
-**End State:** REAPER forces located and assessed in all three zones, squad objectives secured, friendly forces maintaining tactical advantage and prepared for follow-on operations.
+**End State:** REAPER forces located and assessed in all three zones, squads at or short of LOA with contact developed, friendly forces maintaining tactical advantage and prepared for follow-on operations.
 
 ### b. Concept of Operations
-1st Platoon conducts a decentralized movement to contact across three assigned squad zones in AO FLUNKER. Each squad advances toward its own objective at its own pace, locating and engaging REAPER forces within its assigned zone. **1st Squad is the main effort.** Squad leaders select their own movement techniques, formations, and routes based on their analysis of terrain and enemy situation. Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
+1st Platoon conducts a decentralized movement to contact across three assigned squad zones in AO FLUNKER from LD Arcadia St to LOA Jacksonville St. Each squad clears its zone at its own pace to gain and develop contact with REAPER forces. **1st Squad is the main effort.** Squad leaders select their own movement techniques, formations, and routes based on their analysis of terrain and likely enemy positions. On contact, squads execute the React to Contact battle drill, then develop the situation — fix and report, hasty attack, or break contact — within commander's intent. Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
 
 ### c. Scheme of Fires
 Priority of fires to 1st Squad. Mortar support is available through company on request; any squad may request fires through the PL.
@@ -111,17 +114,17 @@ Priority of fires to 1st Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Western Zone) — Main Effort:**
 
-- **TASK:** Movement to contact toward OBJ BAINTON (MP 0600 1538). Develop the situation on contact.
+- **TASK:** Movement to contact in the western zone of AO FLUNKER from LD to LOA. Develop the situation on contact.
 - **PURPOSE:** Clear the Bradenton Ave corridor to deny REAPER reinforcement and withdrawal through the western AO.
 
 **2. 2nd Squad (Central Zone):**
 
-- **TASK:** Movement to contact toward OBJ HERRERA (MP 0612 1546). Develop the situation on contact.
-- **PURPOSE:** Develop the enemy picture at the central road junction so the company can control that avenue of approach.
+- **TASK:** Movement to contact in the central zone of AO FLUNKER from LD to LOA. Develop the situation on contact.
+- **PURPOSE:** Develop the enemy picture in the central corridor so the company can control that avenue of approach.
 
 **3. 3rd Squad (Eastern Zone):**
 
-- **TASK:** Movement to contact toward OBJ BARLOW (MP 0613 1532). Develop the situation on contact.
+- **TASK:** Movement to contact in the eastern zone of AO FLUNKER from LD to LOA. Develop the situation on contact.
 - **PURPOSE:** Clear the eastern sector to deny REAPER use of the built-up area as a defensive strongpoint.
 
 ### e. Coordinating Instructions
@@ -148,11 +151,17 @@ Priority of fires to 1st Squad. Mortar support is available through company on r
    2. Friendly unit positions and zone boundaries
    3. Casualty status and combat strength
 
-**4. Reporting:** SP/LD, SALUTE on contact, LACE on consolidation at the objective.
+**4. Control Measures:**
+   - **LD:** Arcadia St (southern AO boundary). Squads cross LD moving north into their assigned zone at SP time.
+   - **LOA:** Jacksonville St (northern AO boundary). Squads do not advance beyond LOA without PL approval.
+   - **PL BLUE:** Unnamed E-W road through the interior (vic northing 1538). Report when crossing.
+   - **Zones:** Western, Central, and Eastern as assigned. SLs coordinate lateral boundaries directly with adjacent SLs prior to SP.
 
-**5. Coordination Between Squads:** Squads operate independently in their zones; adjacent squad leaders coordinate lateral boundaries. On contact, adjacent squads continue their own mission unless the PL directs otherwise.
+**5. Reporting:** SP/LD crossing, SALUTE on contact, PL BLUE crossing, LOA reached, LACE on consolidation.
 
-**6.** This OPORD is effective immediately upon distribution.
+**6. Coordination Between Squads:** Squads operate independently in their zones; adjacent squad leaders coordinate lateral boundaries. On contact, adjacent squads continue their own mission unless the PL directs otherwise.
+
+**7.** This OPORD is effective immediately upon distribution.
 
 ---
 
