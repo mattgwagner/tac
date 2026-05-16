@@ -50,11 +50,11 @@ Platoon Sergeant
 ## 1. SITUATION
 
 ### a. Area of Interest
-The Camp Blanding LTA, Clay County, Florida. AO CEDAR is the Bradenton Avenue corridor between Arcadia Street (south) and Jacksonville Street (north), bounded west by Clearwater Avenue and east by the FOB and Conex City perimeters (vicinity MP 0575 1523 to MP 0615 1565). The area of interest extends north along Bradenton Avenue past Jacksonville Street and south of Arcadia Street into the broader training area, where WRAITH analysis teams operate from staging sites outside the LTA.
+AO CEDAR is the Bradenton Avenue corridor between Arcadia Street (south) and Jacksonville Street (north) (vicinity MP 0575 1523 to MP 0615 1565). The area of interest extends north along Bradenton Avenue past Jacksonville Street and south of Arcadia Street into the broader training area, where WRAITH analysis teams operate from staging sites outside the LTA.
 
 ### b. Area of Operations
 
-**1. Terrain.** The Camp Blanding LTA is a road-bounded sector of the training area, roughly 1,200m east-west by 550m north-south, set in flat sandy-soil pine and hardwood forest. An improved road grid frames the LTA: Bradenton Avenue (N-S) runs through the center, Clearwater Avenue (N-S) bounds the west, Arcadia Street (E-W) bounds the south, and Jacksonville Street (E-W) bounds the north. Two unnamed roads — one N-S in the western LTA and one E-W through the interior — subdivide the woodlines. The FOB sits at MP 0610 1550 in the northeast; Conex City sits at MP 0611 1530 in the southeast. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors, so the road grid provides the only extended fields of fire and the primary mounted avenues of approach. Sandy soil supports dismounted movement everywhere but restricts wheeled traffic to the roads, particularly after rain.
+**1. Terrain.** Flat sandy pine/hardwood forest cut by a paved road grid (see [LTA Grid Reference](../reference/lta-grid-reference.md)). Canopy and palmetto limit observation to ~50m off the roads; the road grid provides the only extended fields of fire and the only wheeled mobility.
 
    - **Key Terrain:** The Bradenton Avenue / unnamed east-west road intersection provides sight lines in multiple directions and is a key WRAITH terrain analysis point. The Conex City northeast building provides a covered working environment for WRAITH analysis teams. The Arcadia Street / Clearwater Avenue junction is a key terrain feature being mapped and assessed for future WRAITH operations. Woodlines surrounding each location provide concealed approaches for assault elements.
 

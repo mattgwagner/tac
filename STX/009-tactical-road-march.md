@@ -44,7 +44,7 @@ AO COTTO covers the central and northeastern Camp Blanding LTA along the platoon
 
 ### b. Area of Operations
 
-**1. Terrain.** The Camp Blanding LTA is a road-bounded ~1,200m × 550m sector of flat sandy-soil pine and hardwood forest. Improved road grid: Bradenton Ave (N-S, center), Clearwater Ave (N-S, west), Arcadia St (E-W, south), Jacksonville St (E-W, north); two unnamed roads (one N-S in the western LTA, one E-W through the interior) subdivide the woodlines. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors, so the road grid provides the only extended fields of fire. Sandy soil supports dismounted movement everywhere but restricts wheeled traffic to roads. See [LTA Grid Reference](../reference/lta-grid-reference.md) for full terrain notes.
+**1. Terrain.** Flat sandy pine/hardwood forest cut by a paved road grid (see [LTA Grid Reference](../reference/lta-grid-reference.md)). Canopy and palmetto limit observation to ~50m off the roads; the road grid provides the only extended fields of fire and the only wheeled mobility.
 
    - **Key Terrain:** Route of march includes danger areas at a road crossing (MP 0605 1545), an open area (MP 0608 1550), and a creek crossing (MP 0612 1555). RP THUNDER (MP 0615 1560) offers concealment and defensible terrain for the transition to follow-on operations.
 

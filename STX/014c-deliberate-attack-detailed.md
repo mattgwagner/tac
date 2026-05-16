@@ -51,11 +51,11 @@ Platoon Sergeant
 ## 1. SITUATION
 
 ### a. Area of Interest
-The Camp Blanding LTA, Clay County, Florida. AO BAKER covers the southern LTA along the Bradenton Avenue and Arcadia Street corridors, with OBJ HERRERA at the Arcadia/Bradenton junction (MP 0600 1523), bounded north by the unnamed east-west road, east by Conex City, south by the LTA perimeter beyond Arcadia Street, and west by Clearwater Avenue (vicinity MP 0570 1515 to MP 0615 1540). The area of interest extends north along Bradenton Avenue past the unnamed east-west road, where VIPER reinforcements would stage, and south of Arcadia Street into the broader training area — the likely VIPER withdrawal corridor.
+AO BAKER covers the southern LTA along the Bradenton Avenue and Arcadia Street corridors, with OBJ HERRERA at the Arcadia/Bradenton junction (MP 0600 1523) (vicinity MP 0570 1515 to MP 0615 1540). The area of interest extends north along Bradenton Avenue past the unnamed east-west road, where VIPER reinforcements would stage, and south of Arcadia Street into the broader training area — the likely VIPER withdrawal corridor.
 
 ### b. Area of Operations
 
-**1. Terrain.** The Camp Blanding LTA is a road-bounded sector of the training area, roughly 1,200m east-west by 550m north-south, set in flat sandy-soil pine and hardwood forest. An improved road grid frames the LTA: Bradenton Avenue (N-S) runs through the center, Clearwater Avenue (N-S) bounds the west, Arcadia Street (E-W) bounds the south, and Jacksonville Street (E-W) bounds the north. Two unnamed roads — one N-S in the western LTA and one E-W through the interior — subdivide the woodlines. The FOB sits at MP 0610 1550 in the northeast; Conex City sits at MP 0611 1530 in the southeast. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors, so the road grid provides the only extended fields of fire and the primary mounted avenues of approach. Sandy soil supports dismounted movement everywhere but restricts wheeled traffic to the roads, particularly after rain.
+**1. Terrain.** Flat sandy pine/hardwood forest cut by a paved road grid (see [LTA Grid Reference](../reference/lta-grid-reference.md)). Canopy and palmetto limit observation to ~50m off the roads; the road grid provides the only extended fields of fire and the only wheeled mobility.
 
    - **Key Terrain:** The Arcadia Street / Bradenton Avenue junction is a VIPER leadership meeting site in the southern AO. The Bradenton Avenue / Jacksonville Street junction is where the northern VIPER cell commander operates. The Conex City center provides a covered structure for VIPER's eastern cell leadership. Each junction and the Conex City structures are exploited by VIPER for line-of-sight and local movement control.
 

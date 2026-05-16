@@ -53,11 +53,11 @@ Platoon Sergeant
 ## 1. SITUATION
 
 ### a. Area of Interest
-The Camp Blanding LTA, Clay County, Florida. AO FLUNKER covers the central and eastern LTA — the Bradenton Avenue corridor, the FOB south entrance vicinity (MP 0612 1546), and Conex City — bounded north by Jacksonville Street (LOA), east by the FOB and Conex City perimeters, south by Arcadia Street (LD), and west by Bradenton Avenue (vicinity MP 0600 1525 to MP 0615 1555). The area of interest extends west across Bradenton Avenue into the surrounding woodlines and south of Arcadia Street, where REAPER probing elements may withdraw to or stage from positions outside the LTA.
+AO FLUNKER covers the central and eastern LTA — the Bradenton Avenue corridor, the FOB south entrance vicinity (MP 0612 1546), and Conex City (vicinity MP 0600 1525 to MP 0615 1555). The area of interest extends west across Bradenton Avenue into the surrounding woodlines and south of Arcadia Street, where REAPER probing elements may withdraw to or stage from positions outside the LTA.
 
 ### b. Area of Operations
 
-**1. Terrain.** The Camp Blanding LTA is a road-bounded sector of the training area, roughly 1,200m east-west by 550m north-south, set in flat sandy-soil pine and hardwood forest. An improved road grid frames the LTA: Bradenton Avenue (N-S) runs through the center, Clearwater Avenue (N-S) bounds the west, Arcadia Street (E-W) bounds the south, and Jacksonville Street (E-W) bounds the north. Two unnamed roads — one N-S in the western LTA and one E-W through the interior — subdivide the woodlines. The FOB sits at MP 0610 1550 in the northeast; Conex City sits at MP 0611 1530 in the southeast. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors, so the road grid provides the only extended fields of fire and the primary mounted avenues of approach. Sandy soil supports dismounted movement everywhere but restricts wheeled traffic to the roads, particularly after rain.
+**1. Terrain.** Flat sandy pine/hardwood forest cut by a paved road grid (see [LTA Grid Reference](../reference/lta-grid-reference.md)). Canopy and palmetto limit observation to ~50m off the roads; the road grid provides the only extended fields of fire and the only wheeled mobility.
 
    - **Key Terrain:** The FOB south entrance (MP 0612 1546) controls access to the eastern sector from the south. The Bradenton/unnamed-road intersection (MP 0600 1538) anchors the central road grid and is a primary N-S avenue of approach. Conex City (MP 0611 1530) offers concealment and structures in the southeastern AO. Woodlines between Bradenton Avenue and Conex City provide covered E-W movement; visibility off road corridors is under 50m.
 
