@@ -125,17 +125,17 @@ Priority of fires to 2nd Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Independent Ambush — OBJ RICO):**
 
-- **TASK:** Conduct a linear ambush at OBJ RICO (MP 0600 1530) along Bradenton Ave. Occupy an ORP in the woodline west of Bradenton Ave and emplace ambush positions oriented east onto the road, initiating on the VIPER team moving south to north. Destroy the team in the kill zone, secure any weapons or materials, and break contact west to the ORP. Report enemy strength, materials found, and disposition.
+- **TASK:** Conduct an ambush at OBJ RICO (MP 0600 1530) along Bradenton Ave to destroy the VIPER smuggling team moving south to north and secure any weapons, munitions, or materials carried.
 - **PURPOSE:** Deny VIPER the use of Bradenton Ave as a weapons transit route and interdict the northern shipment destined for VIPER caches in the central portion of AO CLAY.
 
 **2. 2nd Squad (Independent Ambush — OBJ DIZZY):**
 
-- **TASK:** Conduct a linear ambush at OBJ DIZZY (MP 0585 1559) along the unnamed N-S road in the western LTA. Occupy an ORP in the woodline west of the road and emplace ambush positions oriented east onto the road, initiating on the VIPER team moving north to south. Destroy the team in the kill zone, secure any weapons or materials, and break contact west to the ORP. Report enemy strength, materials found, and disposition.
+- **TASK:** Conduct an ambush at OBJ DIZZY (MP 0585 1559) along the unnamed N-S road in the western LTA to destroy the VIPER smuggling team moving north to south and secure any weapons, munitions, or materials carried.
 - **PURPOSE:** Deny VIPER the use of the western corridor for cache resupply and interdict the southbound weapons load moving through the northwestern sector of AO CLAY.
 
 **3. 3rd Squad (Independent Ambush — OBJ CARMEN):**
 
-- **TASK:** Conduct a linear ambush at OBJ CARMEN (MP 0575 1538) along Clearwater Ave approaching the unnamed road intersection. Occupy an ORP in the woodline south of Clearwater Ave and emplace ambush positions oriented north onto the road, initiating on the VIPER team moving east to west through the intersection. Destroy the team in the kill zone, secure any weapons or materials, and break contact south to the ORP. Report enemy strength, materials found, and disposition.
+- **TASK:** Conduct an ambush at OBJ CARMEN (MP 0575 1538) along Clearwater Ave approaching the unnamed road intersection to destroy the VIPER smuggling team moving east to west through the intersection and secure any weapons, munitions, or materials carried.
 - **PURPOSE:** Deny VIPER the use of the southwestern transfer point and interdict the weapons shipment moving toward the VIPER cache network in the western sector.
 
 ### e. Coordinating Instructions

@@ -125,17 +125,17 @@ Priority of fires to 2nd Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Independent Ambush — OBJ MERRILL):**
 
-- **TASK:** Conduct a linear ambush at OBJ MERRILL (MP 0600 1530) along Bradenton Ave. Occupy an ORP in the woodline west of Bradenton Ave and emplace ambush positions oriented east onto the road, initiating on the COBRA courier team moving south to north. Destroy the team in the kill zone, collect any materials of intelligence value, and break contact west to the ORP. Report enemy strength, materials found, and disposition.
+- **TASK:** Conduct an ambush at OBJ MERRILL (MP 0600 1530) along Bradenton Ave to destroy the COBRA courier team moving south to north and capture any materials of intelligence value (documents, maps, radios, electronics).
 - **PURPOSE:** Deny COBRA the use of Bradenton Ave as a courier transit route and interdict intelligence materials moving through the western portion of AO KINGSLEY.
 
 **2. 2nd Squad (Independent Ambush — OBJ TARAWA):**
 
-- **TASK:** Conduct a linear ambush at OBJ TARAWA (MP 0585 1559) along the unnamed N-S road in the western LTA. Occupy an ORP in the woodline west of the road and emplace ambush positions oriented east onto the road, initiating on the COBRA courier team moving north to south. Destroy the team in the kill zone, collect any materials of intelligence value, and break contact west to the ORP. Report enemy strength, materials found, and disposition.
+- **TASK:** Conduct an ambush at OBJ TARAWA (MP 0585 1559) along the unnamed N-S road in the western LTA to destroy the COBRA courier team moving north to south and capture any materials of intelligence value (documents, maps, radios, electronics).
 - **PURPOSE:** Deny COBRA the use of the western transit corridor and interdict intelligence materials moving through the northwestern sector of AO KINGSLEY.
 
 **3. 3rd Squad (Independent Ambush — OBJ RODGERS):**
 
-- **TASK:** Conduct a linear ambush at OBJ RODGERS (MP 0575 1538) along Clearwater Ave approaching the unnamed road intersection. Occupy an ORP in the woodline south of Clearwater Ave and emplace ambush positions oriented north onto the road, initiating on the COBRA courier team moving east to west through the intersection. Destroy the team in the kill zone, collect any materials of intelligence value, and break contact south to the ORP. Report enemy strength, materials found, and disposition.
+- **TASK:** Conduct an ambush at OBJ RODGERS (MP 0575 1538) along Clearwater Ave approaching the unnamed road intersection to destroy the COBRA courier team moving east to west through the intersection and capture any materials of intelligence value (documents, maps, radios, electronics).
 - **PURPOSE:** Deny COBRA the use of the southwestern road junction and interdict intelligence materials moving toward the COBRA distribution point in that sector.
 
 ### e. Coordinating Instructions

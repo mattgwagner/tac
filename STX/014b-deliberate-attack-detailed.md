@@ -117,7 +117,7 @@ None.
 **End State:** All three COBRA coordination centers destroyed, network materials collected and reported, squads consolidated and prepared for follow-on operations.
 
 ### b. Concept of Operations
-1st Platoon conducts a decentralized deliberate attack on three independent small COBRA coordination centers in AO STARKE. Each squad establishes a squad ORP, conducts leader's recon, sets a support element, assaults through, conducts a hasty SSE, and consolidates. **2nd Squad is the main effort.** Speed is critical — assault before operators can destroy materials. Squads do not wait on adjacent squads.
+1st Platoon conducts a decentralized deliberate attack on three independent small COBRA coordination centers in AO STARKE. Each squad executes its own squad-level attack on its assigned center. **2nd Squad is the main effort.** Speed is critical — assault before operators can destroy materials. Squads do not wait on adjacent squads.
 
 ### c. Scheme of Fires
 Priority of fires to 2nd Squad. Mortar support is available through company on request.
@@ -126,17 +126,17 @@ Priority of fires to 2nd Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Independent Deliberate Attack — OBJ STATION):**
 
-- **TASK:** Conduct a deliberate attack to destroy the COBRA coordination center at OBJ STATION (MP 0600 1523). Establish a squad ORP in the woodline west or southwest of the objective. Conduct leader's recon. Designate a squad-internal support element to suppress COBRA fighting positions from the south along Bradenton Avenue. Assault east through the objective from the western woodline. Conduct a hasty SSE of message logs, schedules, and communications materials. Consolidate and report.
+- **TASK:** Conduct a deliberate attack at OBJ STATION (MP 0600 1523) to destroy the COBRA coordination center (3-4 personnel) at the Arcadia / Bradenton junction and capture message logs, courier schedules, and communications materials.
 - **PURPOSE:** Destroy COBRA command and coordination in the southern portion of AO STARKE and seize network materials that expose COBRA courier routes and cell locations.
 
 **2. 2nd Squad (Independent Deliberate Attack — OBJ NEXUS):**
 
-- **TASK:** Conduct a deliberate attack to destroy the COBRA coordination center at OBJ NEXUS (MP 0602 1565). Establish a squad ORP in the woodline west of the objective. Conduct leader's recon. Designate a squad-internal support element to suppress COBRA fighting positions from the south along Bradenton Avenue. Assault east through the objective. Conduct a hasty SSE. Consolidate and report.
+- **TASK:** Conduct a deliberate attack at OBJ NEXUS (MP 0602 1565) to destroy the COBRA coordination center (3-4 personnel) at the Bradenton / Jacksonville junction and capture message logs, courier schedules, and communications materials.
 - **PURPOSE:** Destroy COBRA command and coordination in the northern portion of AO STARKE and seize materials that reveal the COBRA network's northern operations.
 
 **3. 3rd Squad (Independent Deliberate Attack — OBJ HUB):**
 
-- **TASK:** Conduct a deliberate attack to destroy the COBRA coordination center at OBJ HUB (MP 0611 1530) in the Conex City center. Establish a squad ORP west or south of Conex City. Conduct leader's recon. Designate a support element to suppress and cover CP entrances. Assault through the structure, clear COBRA personnel, and destroy equipment. Conduct a hasty SSE. Consolidate and report.
+- **TASK:** Conduct a deliberate attack at OBJ HUB (MP 0611 1530) to destroy the COBRA coordination center (3-4 personnel) operating out of the Conex City center structure and capture message logs, courier schedules, and communications materials.
 - **PURPOSE:** Destroy COBRA's eastern coordination center and seize materials documenting COBRA activities in the Conex City sector.
 
 ### e. Coordinating Instructions

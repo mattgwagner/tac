@@ -108,7 +108,7 @@ None.
 **End State:** OBJ FLUNKER cleared, REAPER forces eliminated, friendly forces occupying the city in a defensive posture.
 
 ### b. Concept of Operations
-1st Platoon conducts a deliberate clearing operation of OBJ FLUNKER in two phases. In **Phase 1 (Isolate and Clear)**, the platoon moves from the ORP to isolate the objective. The assault element, as the main effort, clears buildings along the main axis while the support element provides overwatch from key intersections. The security element blocks REAPER withdrawal and reinforcement routes. The platoon advances by phase lines, clearing and securing each sector before moving forward. In **Phase 2 (Consolidate)**, the platoon establishes defensive positions to hold the city and prevent re-infiltration.
+1st Platoon conducts a deliberate clearing operation of OBJ FLUNKER in two phases. In **Phase 1 (Isolate and Clear)**, the platoon isolates the objective; the assault element (main effort) clears buildings while the support element provides overwatch and the security element blocks REAPER withdrawal and reinforcement routes. In **Phase 2 (Consolidate)**, the platoon establishes defensive positions to hold the city and prevent re-infiltration.
 
 ### c. Scheme of Fires
 1st Squad, as the decisive effort, has priority of indirect fires. Mortar support and smoke available through company on request.
@@ -117,17 +117,17 @@ None.
 
 **1. 1st Squad (Assault — Decisive Operation):**
 
-- **TASK:** SP from ORP in squad column. Clear and secure buildings along the main axis of advance through OBJ FLUNKER, beginning at the eastern approach (vic MP 0611 1530). Neutralize REAPER combatants in each structure. Report sectors clear by phase line. Upon consolidation, establish defensive positions in the central plaza area.
+- **TASK:** Clear and secure buildings through OBJ FLUNKER (MP 0611 1530), neutralizing REAPER combatants in each structure.
 - **PURPOSE:** Systematically eliminate REAPER's foothold in the urban area so the platoon can occupy and hold OBJ FLUNKER.
 
 **2. 2nd Squad (Support — Shaping Operation):**
 
-- **TASK:** Provide overwatch and suppressive fire from key intersections and rooftops as 1st Squad advances. Shift positions forward as phase lines are cleared. Be prepared to reinforce 1st Squad's clearing effort on order. During consolidation, establish defensive positions covering southern approaches.
+- **TASK:** Provide overwatch and suppressive fire in support of 1st Squad's clearance of OBJ FLUNKER. Be prepared to reinforce 1st Squad's clearing effort on order.
 - **PURPOSE:** Suppress REAPER fighters in depth so 1st Squad can close on and clear buildings without receiving flanking fire.
 
 **3. 3rd Squad (Security — Shaping Operation):**
 
-- **TASK:** Secure the flanks and rear of the clearing operation. Block likely REAPER withdrawal routes to the north and reinforcement routes from outside the city. Maintain security of cleared sectors as the platoon advances. Monitor for civilian movement and report. During consolidation, establish defensive positions covering northern and western approaches.
+- **TASK:** Secure the flanks and rear of the clearing operation. Block REAPER withdrawal routes out of OBJ FLUNKER and reinforcement routes from outside the city. Monitor for civilian movement and report.
 - **PURPOSE:** Prevent REAPER from escaping, reinforcing, or re-infiltrating cleared sectors behind the assault element.
 
 ### e. Coordinating Instructions

@@ -110,7 +110,7 @@ None.
 **End State:** PB THUNDER occupied and secure, security posture maintained through BMNT/EENT cycles, platoon rested and prepared for follow-on operations.
 
 ### b. Concept of Operations
-1st Platoon occupies PB THUNDER using a deliberate occupation technique (triangle or cigar-shaped based on terrain). A leader's reconnaissance confirms site suitability before committing the platoon. Three squads occupy assigned perimeter sectors with interlocking fields of fire. LP/OPs extend early warning onto likely enemy avenues of approach. The platoon executes priorities of work — security, weapons maintenance, rest rotation — while maintaining the ability to defend in place or displace. Stand-to at BMNT and EENT. One squad serves as QRF throughout.
+1st Platoon occupies PB THUNDER and conducts patrol base operations to provide continuous security and enable sustainment. Three squads occupy assigned perimeter sectors with interlocking fields of fire; one squad serves as QRF. The platoon maintains the ability to defend in place or displace on order. Stand-to at BMNT and EENT.
 
 ### c. Scheme of Fires
 Defensive fires planned for likely REAPER avenues of approach. Each squad responsible for direct fires within assigned sector. 1st Squad, covering the most likely avenue of approach, has priority of indirect fires. Final protective fires (FPF) designated and briefed.
@@ -119,17 +119,17 @@ Defensive fires planned for likely REAPER avenues of approach. Each squad respon
 
 **1. 1st Squad (Northern Sector):**
 
-- **TASK:** Occupy and defend the northern sector of PB THUNDER (vicinity MP 0580 1520). Establish fighting positions with interlocking fields of fire covering the northern avenues of approach. Provide personnel for LP/OP duty on the elevated ground to the north. Conduct local security patrols as directed. Execute priorities of work within the sector.
+- **TASK:** Occupy and defend the northern sector of PB THUNDER (vicinity MP 0580 1520), covering the northern avenues of approach — the most likely REAPER approach.
 - **PURPOSE:** Secure the most likely avenue of REAPER approach and provide the earliest warning of enemy reconnaissance or assault, giving the platoon time to react.
 
 **2. 2nd Squad (Southeastern Sector):**
 
-- **TASK:** Occupy and defend the southeastern sector of PB THUNDER. Establish fighting positions with interlocking fields of fire covering the creek line approach and southeastern avenues. Provide personnel for LP/OP duty oriented toward the creek line. Execute priorities of work within the sector.
+- **TASK:** Occupy and defend the southeastern sector of PB THUNDER, covering the creek line and the southeastern avenues of approach.
 - **PURPOSE:** Deny REAPER use of the creek line as a covered avenue of approach into the patrol base, preventing infiltration from the south and east.
 
 **3. 3rd Squad (Southwestern Sector / QRF):**
 
-- **TASK:** Occupy and defend the southwestern sector of PB THUNDER. Establish fighting positions with interlocking fields of fire covering the southwestern avenues of approach. Serve as the platoon QRF, prepared to reinforce any sector under attack or establish a blocking position on a compromised avenue of approach to contain the REAPER penetration and enable the affected sector to reorganize. Rehearse reinforcement routes and blocking positions for 1st and 2nd Squad sectors. Identify and brief withdrawal routes for the platoon.
+- **TASK:** Occupy and defend the southwestern sector of PB THUNDER, covering the southwestern avenues of approach. Serve as the platoon QRF, prepared to reinforce any sector under attack or establish a blocking position on a compromised avenue of approach.
 - **PURPOSE:** Secure the southwestern perimeter and provide the PL a responsive reserve, ensuring any REAPER probe or assault can be met with concentrated force — either reinforcing the threatened sector or blocking the enemy avenue of approach.
 
 ### e. Coordinating Instructions

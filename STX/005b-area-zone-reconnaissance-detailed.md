@@ -116,7 +116,7 @@ None.
 **End State:** All three NAIs reconnoitered, COBRA elements located and assessed, intelligence reported to higher, squads consolidated and prepared for follow-on operations, no friendly forces decisively engaged or compromised.
 
 ### b. Concept of Operations
-1st Platoon conducts a decentralized area reconnaissance across three independent squad NAIs in AO KINGSLEY. Each squad moves to its assigned NAI using covered and concealed routes, establishes observation, collects intelligence, and returns to friendly lines. **1st Squad is the main effort.** Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
+1st Platoon conducts a decentralized area reconnaissance across three independent squad NAIs in AO KINGSLEY. Each squad executes its own squad-level area reconnaissance of its assigned NAI. **1st Squad is the main effort.** Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
 
 ### c. Scheme of Fires
 Priority of fires to 1st Squad. Fires are limited to self-defense only. Mortar support available through company on request to support disengagement.
@@ -125,17 +125,17 @@ Priority of fires to 1st Squad. Fires are limited to self-defense only. Mortar s
 
 **1. 1st Squad (Independent Area Reconnaissance — NAI CONDOR):**
 
-- **TASK:** Conduct an area reconnaissance of NAI CONDOR (MP 0613 1532), the northeast building in the Conex City complex. Use covered and concealed routes to establish observation of the structure and surrounding area. Locate COBRA positions, assess strength, composition, and activity, and identify any cache materials, courier materials, or logistics activity. Use noise and light discipline and avoid detection. Report findings via SALUTE format. Return to friendly lines upon completion or if compromised.
+- **TASK:** Conduct an area reconnaissance of NAI CONDOR (MP 0613 1532), the northeast building in the Conex City complex. Confirm or deny COBRA presence; assess strength, composition, and activity, and identify any cache materials, courier materials, or logistics activity.
 - **PURPOSE:** Confirm or deny COBRA logistics activity in the Conex City structure, the most likely COBRA node in AO KINGSLEY, to enable the company to plan follow-on operations against the network.
 
 **2. 2nd Squad (Independent Area Reconnaissance — NAI OSPREY):**
 
-- **TASK:** Conduct an area reconnaissance of NAI OSPREY (MP 0602 1565), the Bradenton Ave / Jacksonville St intersection. Use covered and concealed routes through woodlines to establish observation of the intersection. Locate any COBRA courier exchange or movement control element, assess strength and activity, and identify indicators of regular COBRA use of the intersection. Use noise and light discipline and avoid detection. Report findings via SALUTE format. Return to friendly lines upon completion or if compromised.
+- **TASK:** Conduct an area reconnaissance of NAI OSPREY (MP 0602 1565), the Bradenton Ave / Jacksonville St intersection. Confirm or deny a COBRA courier exchange or movement control element; assess strength and activity, and identify indicators of regular COBRA use of the intersection.
 - **PURPOSE:** Determine whether the Bradenton / Jacksonville intersection is an active COBRA courier exchange site to enable the company to plan interdiction operations against COBRA movement in the northern AO.
 
 **3. 3rd Squad (Independent Area Reconnaissance — NAI RAPTOR):**
 
-- **TASK:** Conduct an area reconnaissance of NAI RAPTOR (MP 0575 1524), the Arcadia St / Clearwater Ave intersection in the southwestern LTA. Use covered and concealed routes to establish observation of the intersection and surrounding vegetation. Locate any COBRA element, assess strength and activity, and identify likely positions and avenues of approach. Use noise and light discipline and avoid detection. Report findings via SALUTE format. Return to friendly lines upon completion or if compromised.
+- **TASK:** Conduct an area reconnaissance of NAI RAPTOR (MP 0575 1524), the Arcadia St / Clearwater Ave intersection in the southwestern LTA. Confirm or deny a COBRA element; assess strength and activity, and identify likely positions and avenues of approach.
 - **PURPOSE:** Confirm or deny COBRA presence in the southwestern sector so the company can protect its flank during follow-on operations against the COBRA network.
 
 ### e. Coordinating Instructions

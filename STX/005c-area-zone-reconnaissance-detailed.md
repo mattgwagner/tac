@@ -116,7 +116,7 @@ None.
 **End State:** All three NAIs reconnoitered, VIPER elements located and staging activities assessed, intelligence reported to higher, squads consolidated and prepared for follow-on operations, no friendly forces decisively engaged.
 
 ### b. Concept of Operations
-1st Platoon conducts a decentralized area reconnaissance across three independent squad NAIs in AO CLAY. Each squad moves to its assigned NAI using covered and concealed routes, establishes observation, collects intelligence, and returns to friendly lines. **1st Squad is the main effort.** Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
+1st Platoon conducts a decentralized area reconnaissance across three independent squad NAIs in AO CLAY. Each squad executes its own squad-level area reconnaissance of its assigned NAI. **1st Squad is the main effort.** Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
 
 ### c. Scheme of Fires
 Priority of fires to 1st Squad. Fires are limited to self-defense only. Mortar support available through company on request to support disengagement.
@@ -125,17 +125,17 @@ Priority of fires to 1st Squad. Fires are limited to self-defense only. Mortar s
 
 **1. 1st Squad (Independent Area Reconnaissance — NAI FOXHOUND):**
 
-- **TASK:** Conduct an area reconnaissance of NAI FOXHOUND (MP 0613 1532), the northeast building in the Conex City complex. Use covered and concealed routes to establish observation of the structure and surrounding area. Locate VIPER positions, assess strength, composition, and staging activity — including any personnel, materials, or fighting position preparation. Use noise and light discipline and avoid detection. Report findings via SALUTE format. Return to friendly lines upon completion or if compromised.
+- **TASK:** Conduct an area reconnaissance of NAI FOXHOUND (MP 0613 1532), the northeast building in the Conex City complex. Confirm or deny VIPER presence; assess strength, composition, and staging activity — including any personnel, materials, or fighting position preparation.
 - **PURPOSE:** Confirm or deny VIPER staging activity in the Conex City structure to enable the company to plan follow-on offensive action before VIPER can complete consolidation in the eastern sector.
 
 **2. 2nd Squad (Independent Area Reconnaissance — NAI VIXEN):**
 
-- **TASK:** Conduct an area reconnaissance of NAI VIXEN (MP 0602 1565), the Bradenton Ave / Jacksonville St intersection. Use covered and concealed routes to establish observation of the intersection. Locate any VIPER element, assess strength and activity, and identify indicators of staging activity — personnel resting, materials present, or movement awaiting instructions. Report findings via SALUTE format. Return to friendly lines upon completion or if compromised.
+- **TASK:** Conduct an area reconnaissance of NAI VIXEN (MP 0602 1565), the Bradenton Ave / Jacksonville St intersection. Confirm or deny a VIPER element; assess strength and activity, and identify indicators of staging activity — personnel resting, materials present, or movement awaiting instructions.
 - **PURPOSE:** Determine whether VIPER is staging forces at the Bradenton / Jacksonville intersection to enable the company to plan interdiction or to route around the position during follow-on operations.
 
 **3. 3rd Squad (Independent Area Reconnaissance — NAI DINGO):**
 
-- **TASK:** Conduct an area reconnaissance of NAI DINGO (MP 0575 1524), the Arcadia St / Clearwater Ave intersection in the southwestern LTA. Use covered and concealed routes to establish observation of the intersection and surrounding vegetation. Locate any VIPER element, assess strength and staging activity, and identify likely avenues of approach from the southwest. Report findings via SALUTE format. Return to friendly lines upon completion or if compromised.
+- **TASK:** Conduct an area reconnaissance of NAI DINGO (MP 0575 1524), the Arcadia St / Clearwater Ave intersection in the southwestern LTA. Confirm or deny a VIPER element; assess strength and staging activity, and identify likely avenues of approach from the southwest.
 - **PURPOSE:** Confirm or deny VIPER staging in the southwestern sector so the company can protect its western flank and plan movement without threat from that direction during follow-on operations.
 
 ### e. Coordinating Instructions

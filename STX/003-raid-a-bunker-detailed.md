@@ -115,7 +115,7 @@ None.
 **End State:** All three REAPER nodes destroyed, friendly forces consolidated, intelligence reported to higher, platoon prepared for follow-on operations.
 
 ### b. Concept of Operations
-1st Platoon conducts a decentralized raid operation across three independent squad objectives in AO HERRERA. Each squad establishes its own squad ORP, conducts leader's recon, sets a squad-internal support element, and assaults the small REAPER node. **3rd Squad is the main effort.** Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
+1st Platoon conducts a decentralized raid operation across three independent squad objectives in AO HERRERA. Each squad executes its own squad-level raid on its assigned REAPER node. **3rd Squad is the main effort.** Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
 
 ### c. Scheme of Fires
 Priority of fires to 3rd Squad. Mortar support is available through company on request; any squad may request fires through the PL.
@@ -124,17 +124,17 @@ Priority of fires to 3rd Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Independent Raid — OBJ COTTO):**
 
-- **TASK:** Conduct a squad raid at OBJ COTTO (MP 0600 1538). Establish a squad ORP in the woodline southwest of the objective. From the ORP, set a squad support element oriented onto the REAPER position, then assault through from the west. Eliminate REAPER personnel, collect materials of intelligence value, and consolidate at the ORP. Report enemy strength and findings.
+- **TASK:** Conduct a squad raid at OBJ COTTO (MP 0600 1538) to destroy the small REAPER OP/cache at the Bradenton Avenue / unnamed east-west road intersection and capture materials of intelligence value (documents, maps, radios, notebooks).
 - **PURPOSE:** Destroy REAPER presence at a key road intersection and deny REAPER the use of this position for observation or resupply.
 
 **2. 2nd Squad (Independent Raid — OBJ WHISKEY):**
 
-- **TASK:** Conduct a squad raid at OBJ WHISKEY (MP 0613 1532). Establish a squad ORP in the woodline west of Conex City. From the ORP, set a squad support element to isolate the NE building and assault from the west or south, clearing the structure. Eliminate REAPER personnel, collect communications equipment and materials of intelligence value, and consolidate at the ORP. Report enemy strength and findings.
+- **TASK:** Conduct a squad raid at OBJ WHISKEY (MP 0613 1532) to destroy the small REAPER commo relay/cache operating out of the Conex City northeast building and capture communications equipment and materials of intelligence value.
 - **PURPOSE:** Destroy REAPER communications node in Conex City and degrade REAPER's ability to coordinate across the AO.
 
 **3. 3rd Squad (Independent Raid — OBJ ZULU):**
 
-- **TASK:** Conduct a squad raid at OBJ ZULU (MP 0575 1524). Establish a squad ORP in the woodline north or west of the Arcadia/Clearwater junction. From the ORP, set a squad support element oriented onto the REAPER position and assault from the concealed woodline. Eliminate REAPER personnel, collect materials of intelligence value, and consolidate at the ORP. Report enemy strength and findings.
+- **TASK:** Conduct a squad raid at OBJ ZULU (MP 0575 1524) to destroy the small REAPER OP at the Arcadia / Clearwater junction and capture materials of intelligence value (documents, maps, radios, notebooks).
 - **PURPOSE:** Destroy REAPER observation capability in the southwestern AO and deny REAPER early warning of friendly movement into the sector.
 
 ### e. Coordinating Instructions

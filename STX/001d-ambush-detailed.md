@@ -125,17 +125,17 @@ Priority of fires to 2nd Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Independent Ambush — OBJ ANVIL):**
 
-- **TASK:** Conduct a linear ambush at OBJ ANVIL (MP 0600 1530) along Bradenton Ave. Occupy an ORP in the woodline west of Bradenton Ave and emplace ambush positions oriented east onto the road, initiating on the WRAITH team moving south to north. Destroy the team in the kill zone, collect any survey materials or documents, and break contact west to the ORP. Report enemy strength, materials found, and disposition.
+- **TASK:** Conduct an ambush at OBJ ANVIL (MP 0600 1530) along Bradenton Ave to destroy the WRAITH reconnaissance team moving south to north and capture survey materials, maps, notebooks, and communications equipment.
 - **PURPOSE:** Deny WRAITH the ability to complete terrain surveys along Bradenton Ave and interdict WRAITH reconnaissance of the central movement corridor in AO ARCHER.
 
 **2. 2nd Squad (Independent Ambush — OBJ HAMMER):**
 
-- **TASK:** Conduct a linear ambush at OBJ HAMMER (MP 0585 1559) along the unnamed N-S road in the western LTA. Occupy an ORP in the woodline west of the road and emplace ambush positions oriented east onto the road, initiating on the WRAITH team moving north to south. Destroy the team in the kill zone, collect any survey materials or documents, and break contact west to the ORP. Report enemy strength, materials found, and disposition.
+- **TASK:** Conduct an ambush at OBJ HAMMER (MP 0585 1559) along the unnamed N-S road in the western LTA to destroy the WRAITH reconnaissance team moving north to south and capture survey materials, maps, notebooks, and communications equipment.
 - **PURPOSE:** Deny WRAITH the ability to complete terrain surveys along the western corridor and interdict WRAITH reconnaissance of covered movement routes in the northwestern sector.
 
 **3. 3rd Squad (Independent Ambush — OBJ PIKE):**
 
-- **TASK:** Conduct a linear ambush at OBJ PIKE (MP 0575 1538) along Clearwater Ave approaching the unnamed road intersection. Occupy an ORP in the woodline south of Clearwater Ave and emplace ambush positions oriented north onto the road, initiating on the WRAITH team moving east to west through the intersection. Destroy the team in the kill zone, collect any survey materials or documents, and break contact south to the ORP. Report enemy strength, materials found, and disposition.
+- **TASK:** Conduct an ambush at OBJ PIKE (MP 0575 1538) along Clearwater Ave approaching the unnamed road intersection to destroy the WRAITH reconnaissance team moving east to west through the intersection and capture survey materials, maps, notebooks, and communications equipment.
 - **PURPOSE:** Deny WRAITH the ability to complete the terrain survey of the southwestern road junction, which is a key feature in WRAITH's planned operational scheme.
 
 ### e. Coordinating Instructions

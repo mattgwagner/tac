@@ -124,17 +124,17 @@ Priority of fires to 1st Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Western Zone):**
 
-- **TASK:** Conduct a movement to contact in the western zone of AO FLUNKER toward OBJ BAINTON (MP 0600 1538). Move north from the assembly area along or west of the Bradenton Ave corridor. Locate and engage REAPER forces in the vicinity of the road intersection at OBJ BAINTON. Secure the objective and establish a hasty defensive position oriented north and west. Report enemy strength and disposition.
+- **TASK:** Conduct a movement to contact in the western zone of AO FLUNKER. Locate and engage the REAPER team in the vicinity of OBJ BAINTON (MP 0600 1538) and seize the objective.
 - **PURPOSE:** Clear the western approaches to deny REAPER use of the Bradenton Ave corridor for reinforcement or withdrawal.
 
 **2. 2nd Squad (Central Zone):**
 
-- **TASK:** Conduct a movement to contact in the central zone of AO FLUNKER toward OBJ HERRERA (MP 0612 1546). Move north from the assembly area through the wooded area between the Bradenton corridor and Conex City. Locate and engage REAPER forces in the vicinity of the road junction at OBJ HERRERA. Secure the objective and establish a hasty defensive position oriented north. Report enemy strength and disposition.
+- **TASK:** Conduct a movement to contact in the central zone of AO FLUNKER. Locate and engage the REAPER team in the vicinity of OBJ HERRERA (MP 0612 1546) and seize the objective.
 - **PURPOSE:** Develop the situation at the road junction to enable the company commander to control the central avenue of approach for follow-on operations.
 
 **3. 3rd Squad (Eastern Zone):**
 
-- **TASK:** Conduct a movement to contact in the eastern zone of AO FLUNKER toward OBJ BARLOW (MP 0613 1532). Move north from the assembly area toward Conex City. Locate and engage REAPER forces in and around the structures at OBJ BARLOW. Secure the objective and establish a hasty defensive position oriented north and east. Report enemy strength and disposition.
+- **TASK:** Conduct a movement to contact in the eastern zone of AO FLUNKER. Locate and engage the REAPER team in and around the Conex City structures at OBJ BARLOW (MP 0613 1532) and seize the objective.
 - **PURPOSE:** Clear the eastern sector to prevent REAPER from using the built-up area as a defensive strongpoint or staging area.
 
 ### e. Coordinating Instructions

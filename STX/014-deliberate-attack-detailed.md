@@ -117,7 +117,7 @@ None.
 **End State:** All three REAPER CPs destroyed, intelligence materials collected and reported, squads consolidated and prepared for follow-on operations, no friendly forces decisively engaged.
 
 ### b. Concept of Operations
-1st Platoon conducts a decentralized deliberate attack on three independent small REAPER command post positions in AO COTTO. Each squad executes its own squad-level attack on its assigned CP: establish a squad ORP, conduct leader's reconnaissance, set a squad-internal support element, assault through the CP, conduct a hasty SSE, and consolidate. **2nd Squad is the main effort.** Speed is critical at each site: the assault must overrun the CP before staff can destroy intelligence materials or displace. Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
+1st Platoon conducts a decentralized deliberate attack on three independent small REAPER command post positions in AO COTTO. Each squad executes its own squad-level attack on its assigned CP. **2nd Squad is the main effort.** Speed is critical at each site: the assault must overrun the CP before staff can destroy intelligence materials or displace. Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
 
 ### c. Scheme of Fires
 Priority of fires to 2nd Squad. Mortar support is available through company on request; any squad may request fires through the PL.
@@ -126,17 +126,17 @@ Priority of fires to 2nd Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Independent Deliberate Attack — OBJ HERRERA):**
 
-- **TASK:** Conduct a deliberate attack to destroy the small REAPER CP at OBJ HERRERA (MP 0600 1523). Establish a squad ORP in the woodline west or southwest of the objective. Conduct leader's reconnaissance. Designate a squad-internal support element to suppress REAPER fighting positions from the south along Bradenton Avenue. Assault east through the objective from a covered approach in the western woodline, clearing through REAPER positions on the north side of the junction. Conduct a hasty SSE of documents, maps, and communications materials. Consolidate and report.
+- **TASK:** Conduct a deliberate attack at OBJ HERRERA (MP 0600 1523) to destroy the small REAPER CP (3-4 personnel) at the Arcadia / Bradenton junction and capture documents, maps, and communications materials.
 - **PURPOSE:** Destroy REAPER command and control in the southern portion of AO COTTO and deny REAPER the ability to coordinate operations from the Arcadia / Bradenton junction.
 
 **2. 2nd Squad (Independent Deliberate Attack — OBJ BAINTON):**
 
-- **TASK:** Conduct a deliberate attack to destroy the small REAPER CP at OBJ BAINTON (MP 0602 1565). Establish a squad ORP in the woodline west of the objective. Conduct leader's reconnaissance. Designate a squad-internal support element to suppress REAPER fighting positions from the south along Bradenton Avenue. Assault east through the objective from a covered approach, clearing through REAPER positions at the Bradenton / Jacksonville junction. Conduct a hasty SSE of documents, maps, and communications materials. Consolidate and report.
+- **TASK:** Conduct a deliberate attack at OBJ BAINTON (MP 0602 1565) to destroy the small REAPER CP (3-4 personnel) at the Bradenton / Jacksonville junction and capture documents, maps, and communications materials.
 - **PURPOSE:** Destroy REAPER command and control in the northern portion of AO COTTO and deny REAPER the ability to coordinate operations from the Bradenton / Jacksonville junction.
 
 **3. 3rd Squad (Independent Deliberate Attack — OBJ BARLOW):**
 
-- **TASK:** Conduct a deliberate attack to destroy the small REAPER CP at OBJ BARLOW (MP 0611 1530) in the Conex City center. Establish a squad ORP in covered terrain west or south of Conex City. Conduct leader's reconnaissance. Designate a squad-internal support element to suppress REAPER fighting positions and cover entrances to the CP structure. Assault through the structure, clearing REAPER personnel and destroying equipment. Conduct a hasty SSE of documents, maps, and communications materials. Consolidate and report.
+- **TASK:** Conduct a deliberate attack at OBJ BARLOW (MP 0611 1530) to destroy the small REAPER CP (3-4 personnel) operating out of the Conex City center structure and capture documents, maps, and communications materials.
 - **PURPOSE:** Destroy REAPER command and control in the eastern portion of AO COTTO and deny REAPER the ability to coordinate operations from the Conex City built-up area.
 
 ### e. Coordinating Instructions

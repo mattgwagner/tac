@@ -116,7 +116,7 @@ None.
 **End State:** All three COBRA nodes destroyed, communications equipment and message logs collected and reported to higher, squads consolidated and prepared for follow-on operations, COBRA signals network disrupted.
 
 ### b. Concept of Operations
-1st Platoon conducts a decentralized raid operation across three independent squad objectives in AO STARKE. Each squad establishes its own squad ORP, conducts leader's recon, sets a squad-internal support element, and assaults the COBRA communications node. **3rd Squad is the main effort.** Speed is important — the assault must reach the node before operators can fully destroy materials. Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
+1st Platoon conducts a decentralized raid operation across three independent squad objectives in AO STARKE. Each squad executes its own squad-level raid on its assigned COBRA communications node. **3rd Squad is the main effort.** Speed is important — the assault must reach the node before operators can fully destroy materials. Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
 
 ### c. Scheme of Fires
 Priority of fires to 3rd Squad. Mortar support is available through company on request; any squad may request fires through the PL.
@@ -125,17 +125,17 @@ Priority of fires to 3rd Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Independent Raid — OBJ SIGNAL):**
 
-- **TASK:** Conduct a squad raid at OBJ SIGNAL (MP 0600 1538). Establish a squad ORP in the woodline southwest of the objective. From the ORP, set a squad support element oriented onto the COBRA position, then assault through from the west. Eliminate COBRA personnel, collect communications equipment and message logs, and consolidate at the ORP. Report enemy strength and findings.
+- **TASK:** Conduct a squad raid at OBJ SIGNAL (MP 0600 1538) to destroy the COBRA road junction relay node and capture communications equipment and message logs.
 - **PURPOSE:** Destroy the COBRA road junction relay node to sever signals traffic along the central Bradenton Avenue corridor and disrupt COBRA coordination in the western portion of AO STARKE.
 
 **2. 2nd Squad (Independent Raid — OBJ RELAY):**
 
-- **TASK:** Conduct a squad raid at OBJ RELAY (MP 0613 1532). Establish a squad ORP in the woodline west of Conex City. From the ORP, set a squad support element to isolate the NE building and assault from the west or south, clearing the structure. Eliminate COBRA personnel, collect radio equipment, antenna components, and message logs, and consolidate at the ORP. Report enemy strength and findings.
+- **TASK:** Conduct a squad raid at OBJ RELAY (MP 0613 1532), the Conex City northeast building, to destroy the COBRA radio relay station and capture radio equipment, antenna components, and message logs.
 - **PURPOSE:** Destroy COBRA's primary radio relay station in Conex City to eliminate the main node in the COBRA communications network serving AO STARKE.
 
 **3. 3rd Squad (Independent Raid — OBJ ECHO):**
 
-- **TASK:** Conduct a squad raid at OBJ ECHO (MP 0575 1524). Establish a squad ORP in the woodline north or west of the Arcadia/Clearwater junction. From the ORP, set a squad support element oriented onto the COBRA position and assault from the concealed woodline. Eliminate COBRA personnel, collect antenna equipment and message logs, and consolidate at the ORP. Report enemy strength and findings.
+- **TASK:** Conduct a squad raid at OBJ ECHO (MP 0575 1524) at the Arcadia/Clearwater junction to destroy the COBRA antenna relay node and capture antenna equipment and message logs.
 - **PURPOSE:** Destroy COBRA's southwestern antenna relay to eliminate signals coverage of the southern approaches and sever the COBRA network link to cells operating south of AO STARKE.
 
 ### e. Coordinating Instructions

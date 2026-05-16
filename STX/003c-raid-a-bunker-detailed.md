@@ -116,7 +116,7 @@ None.
 **End State:** All three VIPER cache sites raided and destroyed, weapons and materials secured or rendered unusable and reported, squads consolidated and prepared for follow-on operations.
 
 ### b. Concept of Operations
-1st Platoon conducts a decentralized raid operation across three independent squad objectives in AO BAKER. Each squad establishes its own squad ORP, conducts leader's recon, sets a squad-internal support element, and assaults the VIPER cache position. **3rd Squad is the main effort.** Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
+1st Platoon conducts a decentralized raid operation across three independent squad objectives in AO BAKER. Each squad executes its own squad-level raid on its assigned VIPER cache site. **3rd Squad is the main effort.** Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
 
 ### c. Scheme of Fires
 Priority of fires to 3rd Squad. Mortar support is available through company on request; any squad may request fires through the PL.
@@ -125,17 +125,17 @@ Priority of fires to 3rd Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Independent Raid — OBJ STASH):**
 
-- **TASK:** Conduct a squad raid at OBJ STASH (MP 0600 1538). Establish a squad ORP in the woodline southwest of the objective. From the ORP, set a squad support element oriented onto the VIPER guard position, then assault through from the west. Eliminate VIPER guards, secure weapons and materiel from the cache, and consolidate at the ORP. Report enemy strength and cache contents.
+- **TASK:** Conduct a squad raid at OBJ STASH (MP 0600 1538) to destroy the VIPER cache guard element at the central road intersection and secure the weapons and materiel stored in the cache.
 - **PURPOSE:** Destroy VIPER presence and the weapons cache at the central road intersection, denying VIPER a forward arms distribution point in the western portion of AO BAKER.
 
 **2. 2nd Squad (Independent Raid — OBJ DEPOT):**
 
-- **TASK:** Conduct a squad raid at OBJ DEPOT (MP 0613 1532). Establish a squad ORP in the woodline west of Conex City. From the ORP, set a squad support element to isolate the NE building and assault from the west or south, clearing the structure. Eliminate VIPER guards, secure all weapons and materiel stored in the structure, and consolidate at the ORP. Report enemy strength and cache contents.
+- **TASK:** Conduct a squad raid at OBJ DEPOT (MP 0613 1532), the Conex City northeast building, to destroy the VIPER cache guard element and secure all weapons and materiel stored in the structure.
 - **PURPOSE:** Destroy the VIPER arms depot in Conex City — the largest and most significant of the three cache sites — and eliminate VIPER's primary forward storage capability in AO BAKER.
 
 **3. 3rd Squad (Independent Raid — OBJ CACHE):**
 
-- **TASK:** Conduct a squad raid at OBJ CACHE (MP 0575 1524). Establish a squad ORP in the woodline north or west of the Arcadia/Clearwater junction. From the ORP, set a squad support element oriented onto the VIPER position and assault from the concealed woodline. Eliminate VIPER guards, secure weapons and materiel, and consolidate at the ORP. Report enemy strength and cache contents.
+- **TASK:** Conduct a squad raid at OBJ CACHE (MP 0575 1524) at the Arcadia/Clearwater junction to destroy the VIPER cache guard element and secure weapons and materiel from the cache.
 - **PURPOSE:** Destroy VIPER's southwestern cache site, denying VIPER the ability to arm elements operating south and west of AO BAKER and protecting the company's western flank.
 
 ### e. Coordinating Instructions

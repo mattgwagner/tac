@@ -128,17 +128,17 @@ No planned fires. 1st Squad, as the lead element, has priority of indirect fires
 
 **1. 1st Squad (Lead / Point Security):**
 
-- **TASK:** Lead the march from SP (MP 0598 1538) to RP THUNDER (MP 0615 1560). Provide point security with a minimum two-man point team. Conduct route reconnaissance forward of the main body. Identify and report danger areas (road crossing at CP1 MP 0605 1545, open area at CP2 MP 0608 1550, creek crossing at CP3 MP 0612 1555) and obstacles. Halt and establish near-side security at each danger area before the main body crosses.
+- **TASK:** Lead the march from SP (MP 0598 1538) to RP THUNDER (MP 0615 1560). Provide point security forward of the main body and identify the known danger areas along the route: road crossing at CP1 (MP 0605 1545), open area at CP2 (MP 0608 1550), creek crossing at CP3 (MP 0612 1555).
 - **PURPOSE:** Provide the platoon early warning and ensure the route is clear, so the main body can move without halting unexpectedly at an unsecured position.
 
 **2. 2nd Squad (Main Body):**
 
-- **TASK:** Move behind platoon headquarters in the order of march. Maintain visual contact with the lead and trail elements. Be prepared to reinforce point security at danger areas or rear security on contact. During security halts, provide local security of the main body's position.
+- **TASK:** Move with the main body in the order of march. Be prepared to reinforce point security at danger areas or rear security on contact.
 - **PURPOSE:** Maintain platoon cohesion and provide the PL immediately available combat power to reinforce whichever security element makes contact.
 
 **3. 3rd Squad (Trail / Rear Security):**
 
-- **TASK:** Move as the trail element. Provide rear security throughout the march. Maintain accountability of all personnel and equipment — no one falls behind without report. Report any enemy activity, tracking, or stragglers immediately. Upon arrival at RP THUNDER, confirm to PSG that all personnel have closed on the position.
+- **TASK:** Provide rear security as the trail element. Maintain accountability of all personnel and equipment throughout the march and confirm closure on RP THUNDER to PSG.
 - **PURPOSE:** Prevent REAPER from trailing or flanking the formation from the rear, and ensure the platoon arrives at RP THUNDER at full strength.
 
 ### f. Coordinating Instructions

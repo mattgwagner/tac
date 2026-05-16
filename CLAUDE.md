@@ -44,9 +44,12 @@ Each OPORD maintains two versions of Tasks to Subordinate Units. Candidates cycl
 - PURPOSE is always complete and answers "if this squad fails, what specifically breaks?"
 
 **Detailed version (`-detailed.md`):**
-- Full version of each squad's TASK with: specific grids, directional movement, approach routes, team assignments, departure order
+- TASK adds mission-specific WHAT — specific OPFOR composition at the objective, specific items/materials to capture or destroy, what success on the objective looks like. NOT how to maneuver.
+- TASK still does NOT prescribe scheme of maneuver: no ORP positioning, no support-element instruction, no direction of assault or clearing, no movement routes from the AA, no leader's-recon mention, no ambush layout (linear/L-shape), no hasty-defense orientation, no SSE/consolidate/withdraw verbiage, no reporting reminders. Those are SL planning decisions and are doctrinally implied.
+- Enemy information (e.g., direction the patrol is moving) is fine — it describes the enemy, not friendly maneuver.
 - PURPOSE is identical to the Mission Command version
-- Contains Cadre/OPFOR Notes blockquote with iteration guidance
+- Detail beyond the TASK comes from richer Situation (fuller OPFOR composition/disposition, more elaborate MPCOA/MDCOA, civil considerations) and the Cadre/OPFOR Notes blockquote — not from scripting the squad's plan in 3.d or 3.b.
+- Concept of Operations follows the same rule: do not list doctrinal squad steps (ORP → leader's recon → support → assault → SSE → consolidate). State the operation type, element roles by function, and main effort.
 
 ## Execution Paragraph (Para III) Format
 

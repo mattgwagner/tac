@@ -117,7 +117,7 @@ None.
 **End State:** All three WRAITH planning cells destroyed, operational plans and intelligence products collected and reported, squads consolidated and prepared for follow-on operations.
 
 ### b. Concept of Operations
-1st Platoon conducts a decentralized deliberate attack on three independent WRAITH planning cells in AO CEDAR. Each squad establishes an ORP, conducts leader's recon, sets a support element, assaults through, conducts hasty SSE, and consolidates. **2nd Squad is the main effort.** Speed is critical — assault before planners can destroy materials. Squads do not wait on adjacent squads.
+1st Platoon conducts a decentralized deliberate attack on three independent WRAITH planning cells in AO CEDAR. Each squad executes its own squad-level attack on its assigned cell. **2nd Squad is the main effort.** Speed is critical — assault before planners can destroy materials. Squads do not wait on adjacent squads.
 
 ### c. Scheme of Fires
 Priority of fires to 2nd Squad. Mortar support is available through company on request.
@@ -126,17 +126,17 @@ Priority of fires to 2nd Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Independent Deliberate Attack — OBJ SIGMA):**
 
-- **TASK:** Conduct a deliberate attack to destroy the WRAITH planning cell at OBJ SIGMA (MP 0600 1523). Establish a squad ORP in the woodline west or southwest. Conduct leader's recon. Designate a squad-internal support element to suppress WRAITH security from the south along Bradenton Avenue. Assault east through the objective from the western woodline. Conduct a hasty SSE of operational plans, maps, and intelligence products. Consolidate and report.
+- **TASK:** Conduct a deliberate attack at OBJ SIGMA (MP 0600 1523) to destroy the WRAITH planning cell (1-2 planners with 2 security) at the Arcadia / Bradenton junction and capture operational plans, annotated maps, and intelligence products.
 - **PURPOSE:** Destroy WRAITH planning capacity in the southern portion of AO CEDAR and seize operational plans documenting WRAITH's intended operations in that sector.
 
 **2. 2nd Squad (Independent Deliberate Attack — OBJ OMEGA):**
 
-- **TASK:** Conduct a deliberate attack to destroy the WRAITH planning cell at OBJ OMEGA (MP 0602 1565). Establish a squad ORP in the woodline west. Conduct leader's recon. Designate a support element to suppress WRAITH security from the south. Assault east through the objective. Conduct a hasty SSE. Consolidate and report.
+- **TASK:** Conduct a deliberate attack at OBJ OMEGA (MP 0602 1565) to destroy the WRAITH planning cell (1-2 planners with 2 security) at the Bradenton / Jacksonville junction and capture operational plans, annotated maps, and intelligence products.
 - **PURPOSE:** Destroy WRAITH planning capacity in the northern portion of AO CEDAR and seize operational plans that likely cover WRAITH's highest-priority objectives in the northern sector.
 
 **3. 3rd Squad (Independent Deliberate Attack — OBJ ALPHA):**
 
-- **TASK:** Conduct a deliberate attack to destroy the WRAITH planning cell at OBJ ALPHA (MP 0611 1530) in the Conex City structure. Establish a squad ORP west or south of Conex City. Conduct leader's recon. Designate a support element to suppress WRAITH security and cover structure entrances. Assault through the structure. Conduct a hasty SSE of all planning materials. Consolidate and report.
+- **TASK:** Conduct a deliberate attack at OBJ ALPHA (MP 0611 1530) to destroy the WRAITH planning cell (1-2 planners with 2 security) operating out of the Conex City structure and capture operational plans, annotated maps, and intelligence products — this cell holds WRAITH's most comprehensive planning materials for the AO.
 - **PURPOSE:** Destroy WRAITH's primary planning cell — the one with the most compiled materials — and seize operational plans documenting WRAITH's comprehensive scheme of maneuver across AO CEDAR.
 
 ### e. Coordinating Instructions

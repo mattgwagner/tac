@@ -116,7 +116,7 @@ None.
 **End State:** All three NAIs reconnoitered, REAPER elements located and assessed, intelligence reported to higher, squads consolidated and prepared for follow-on operations, no friendly forces decisively engaged or compromised.
 
 ### b. Concept of Operations
-1st Platoon conducts a decentralized area reconnaissance across three independent squad NAIs in AO COTTO. Each squad moves to its assigned NAI using covered and concealed routes, establishes observation, collects intelligence, and returns to friendly lines. **1st Squad is the main effort.** Squad leaders select their own routes, observation positions, and reporting cycles. Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
+1st Platoon conducts a decentralized area reconnaissance across three independent squad NAIs in AO COTTO. Each squad executes its own squad-level area reconnaissance of its assigned NAI. **1st Squad is the main effort.** Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
 
 ### c. Scheme of Fires
 Priority of fires to 1st Squad. Fires are limited to self-defense only. Avoid engagement unless necessary to break contact. Mortar support is available through company on request to support disengagement.
@@ -125,17 +125,17 @@ Priority of fires to 1st Squad. Fires are limited to self-defense only. Avoid en
 
 **1. 1st Squad (Independent Area Reconnaissance — NAI HERRERA):**
 
-- **TASK:** Conduct an area reconnaissance of NAI HERRERA (MP 0613 1532), the northeast building in the Conex City complex. Use covered and concealed routes to establish observation of the structure and surrounding area. Locate REAPER positions, assess strength, composition, and activity, and identify any defensive preparations or obstacles. Use noise and light discipline and avoid detection. Report findings via SALUTE format as intelligence is developed. Return to friendly lines upon completion or if compromised.
+- **TASK:** Conduct an area reconnaissance of NAI HERRERA (MP 0613 1532), the northeast building in the Conex City complex. Confirm or deny REAPER presence; assess strength, composition, activity, and any defensive preparations or obstacles.
 - **PURPOSE:** Confirm or deny REAPER presence in the Conex City NE structure, the most likely REAPER occupied position in AO COTTO, to enable the company to plan follow-on operations.
 
 **2. 2nd Squad (Independent Area Reconnaissance — NAI BARLOW):**
 
-- **TASK:** Conduct an area reconnaissance of NAI BARLOW (MP 0602 1565), the Bradenton Ave / Jacksonville St intersection. Use covered and concealed routes through the woodlines to establish observation of the intersection. Locate any REAPER OP or movement control element, assess strength and activity, and identify avenues of approach and withdrawal. Use noise and light discipline and avoid detection. Report findings via SALUTE format. Return to friendly lines upon completion or if compromised.
+- **TASK:** Conduct an area reconnaissance of NAI BARLOW (MP 0602 1565), the Bradenton Ave / Jacksonville St intersection. Confirm or deny a REAPER OP or movement control element; assess strength and activity, and identify avenues of approach and withdrawal.
 - **PURPOSE:** Develop the intelligence picture at a key movement control point in the northern portion of AO COTTO to enable the company to plan movement through or around the intersection.
 
 **3. 3rd Squad (Independent Area Reconnaissance — NAI BAINTON):**
 
-- **TASK:** Conduct an area reconnaissance of NAI BAINTON (MP 0575 1524), the Arcadia St / Clearwater Ave intersection in the southwestern LTA. Use covered and concealed routes to establish observation of the intersection and surrounding vegetation. Locate any REAPER OP, assess strength and activity, and identify likely positions and terrain. Use noise and light discipline and avoid detection. Report findings via SALUTE format. Return to friendly lines upon completion or if compromised.
+- **TASK:** Conduct an area reconnaissance of NAI BAINTON (MP 0575 1524), the Arcadia St / Clearwater Ave intersection in the southwestern LTA. Confirm or deny a REAPER OP; assess strength and activity, and identify likely positions and terrain.
 - **PURPOSE:** Confirm or deny REAPER presence in the southwestern sector of AO COTTO so the company can protect the flank during follow-on operations.
 
 ### e. Coordinating Instructions

@@ -123,17 +123,17 @@ Priority of fires to 1st Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Western Zone):**
 
-- **TASK:** Conduct a movement to contact in the western zone of AO STEELE toward OBJ IRON (MP 0600 1538). Move north from the assembly area along or west of the Bradenton Ave corridor. Locate and engage the WRAITH screening element at the road intersection. Destroy or displace WRAITH, secure the objective, and establish a hasty defensive position oriented north and west. Report enemy strength and disposition.
+- **TASK:** Conduct a movement to contact in the western zone of AO STEELE. Locate and destroy or displace the WRAITH screening element at OBJ IRON (MP 0600 1538) and seize the objective.
 - **PURPOSE:** Destroy the WRAITH screening element in the western zone to eliminate WRAITH early warning along the Bradenton Ave corridor and enable friendly freedom of movement through the western sector.
 
 **2. 2nd Squad (Central Zone):**
 
-- **TASK:** Conduct a movement to contact in the central zone of AO STEELE toward OBJ STEEL (MP 0612 1546). Move north from the assembly area through the wooded area between the Bradenton corridor and Conex City. Locate and engage the WRAITH screening element at the road junction. Destroy or displace WRAITH, secure the objective, and establish a hasty defensive position oriented north. Report enemy strength and disposition.
+- **TASK:** Conduct a movement to contact in the central zone of AO STEELE. Locate and destroy or displace the WRAITH screening element at OBJ STEEL (MP 0612 1546) and seize the objective.
 - **PURPOSE:** Destroy the WRAITH screening element at the central junction to eliminate the primary WRAITH observation position over the main approach into the northern AO.
 
 **3. 3rd Squad (Eastern Zone):**
 
-- **TASK:** Conduct a movement to contact in the eastern zone of AO STEELE toward OBJ COPPER (MP 0613 1532). Move north toward Conex City. Locate and engage the WRAITH screening element in and around the structures. Destroy or displace WRAITH, secure the objective, and establish a hasty defensive position oriented north and east. Report enemy strength and disposition.
+- **TASK:** Conduct a movement to contact in the eastern zone of AO STEELE. Locate and destroy or displace the WRAITH screening element in and around the Conex City structures at OBJ COPPER (MP 0613 1532) and seize the objective.
 - **PURPOSE:** Destroy the WRAITH screening element in Conex City to eliminate WRAITH observation of the eastern approach and deny WRAITH use of the built-up area as an observation post.
 
 ### e. Coordinating Instructions

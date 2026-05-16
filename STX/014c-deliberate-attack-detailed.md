@@ -117,7 +117,7 @@ None.
 **End State:** All three VIPER leadership elements eliminated, planning materials collected, squads consolidated and prepared for follow-on operations.
 
 ### b. Concept of Operations
-1st Platoon conducts a decentralized deliberate attack on three independent VIPER leadership positions in AO BAKER. Each squad establishes an ORP, conducts leader's recon, sets a support element, assaults through, conducts hasty SSE, and consolidates. **2nd Squad is the main effort.** Speed is critical — assault before leaders can escape with materials. Squads do not wait on adjacent squads.
+1st Platoon conducts a decentralized deliberate attack on three independent VIPER leadership positions in AO BAKER. Each squad executes its own squad-level attack on its assigned position. **2nd Squad is the main effort.** Speed is critical — assault before leaders can escape with materials. Squads do not wait on adjacent squads.
 
 ### c. Scheme of Fires
 Priority of fires to 2nd Squad. Mortar support is available through company on request.
@@ -126,17 +126,17 @@ Priority of fires to 2nd Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Independent Deliberate Attack — OBJ PYTHON):**
 
-- **TASK:** Conduct a deliberate attack to destroy the VIPER leadership element at OBJ PYTHON (MP 0600 1523). Establish a squad ORP in the woodline west or southwest of the objective. Conduct leader's recon. Designate a squad-internal support element to suppress VIPER bodyguards from the south. Assault east through the objective. Conduct a hasty SSE of planning materials, maps, and any communications equipment. Consolidate and report.
+- **TASK:** Conduct a deliberate attack at OBJ PYTHON (MP 0600 1523) to destroy the VIPER leadership element (1-2 cell leaders with 2 aggressive bodyguards) at the Arcadia / Bradenton junction and capture planning materials, maps, notebooks, and cell phones.
 - **PURPOSE:** Eliminate VIPER cell leadership in the southern portion of AO BAKER and seize planning materials that expose VIPER operations and cell contacts.
 
 **2. 2nd Squad (Independent Deliberate Attack — OBJ MAMBA):**
 
-- **TASK:** Conduct a deliberate attack to destroy the VIPER leadership element at OBJ MAMBA (MP 0602 1565). Establish a squad ORP in the woodline west of the objective. Conduct leader's recon. Designate a squad-internal support element to suppress VIPER bodyguards from the south. Assault east through the objective. Conduct a hasty SSE. Consolidate and report.
+- **TASK:** Conduct a deliberate attack at OBJ MAMBA (MP 0602 1565) to destroy the VIPER leadership element (1-2 cell leaders with 2 aggressive bodyguards) at the Bradenton / Jacksonville junction and capture planning materials, maps, notebooks, and cell phones.
 - **PURPOSE:** Eliminate VIPER cell leadership in the northern portion of AO BAKER and deny VIPER the ability to coordinate operations from the Bradenton / Jacksonville junction.
 
 **3. 3rd Squad (Independent Deliberate Attack — OBJ COBRA):**
 
-- **TASK:** Conduct a deliberate attack to destroy the VIPER leadership element at OBJ COBRA (MP 0611 1530) in the Conex City center. Establish a squad ORP west or south of Conex City. Conduct leader's recon. Designate a support element to suppress bodyguards and cover structure entrances. Assault through the structure, neutralize VIPER personnel, and conduct a hasty SSE of planning materials. Consolidate and report.
+- **TASK:** Conduct a deliberate attack at OBJ COBRA (MP 0611 1530) to destroy the VIPER leadership element (1-2 cell leaders with 2 aggressive bodyguards) operating out of the Conex City center structure and capture planning materials, maps, notebooks, and cell phones.
 - **PURPOSE:** Eliminate VIPER cell leadership in the eastern sector and seize planning materials documenting VIPER operations in the Conex City area.
 
 ### e. Coordinating Instructions

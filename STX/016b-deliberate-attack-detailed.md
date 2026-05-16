@@ -117,7 +117,7 @@ None.
 **End State:** All three road junctions seized, COBRA checkpoint teams destroyed or displaced, squads consolidated on objectives with hasty perimeters, platoon prepared for follow-on operations.
 
 ### b. Concept of Operations
-1st Platoon conducts a decentralized deliberate attack on three independent COBRA checkpoint positions in AO PUTNAM. Each squad establishes a squad ORP, conducts leader's reconnaissance, sets a support element, assaults through, and consolidates. **3rd Squad is the main effort.** Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
+1st Platoon conducts a decentralized deliberate attack on three independent COBRA checkpoint positions in AO PUTNAM. Each squad executes its own squad-level attack on its assigned junction. **3rd Squad is the main effort.** Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
 
 ### c. Scheme of Fires
 Priority of fires to 3rd Squad. Mortar support is available through company on request; any squad may request fires through the PL.
@@ -126,17 +126,17 @@ Priority of fires to 3rd Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Independent Deliberate Attack — OBJ GRANT):**
 
-- **TASK:** Conduct a deliberate attack to seize OBJ GRANT (MP 0600 1538) at the Bradenton Ave / unnamed east-west road junction. Establish a squad ORP in the woodline west or south of the objective. Conduct leader's reconnaissance. Designate a squad-internal support element to suppress COBRA fighting positions from a covered position south of the junction. Assault through the junction from a covered approach in the western woodline, clearing COBRA positions. Consolidate on the objective with a hasty perimeter oriented north and east. Report.
+- **TASK:** Conduct a deliberate attack to seize OBJ GRANT (MP 0600 1538) at the Bradenton Ave / unnamed east-west road junction and destroy or displace the COBRA checkpoint team (3-4 personnel) holding the junction.
 - **PURPOSE:** Deny COBRA use of the central Bradenton Avenue junction and restore friendly freedom of movement through the central corridor of AO PUTNAM.
 
 **2. 2nd Squad (Independent Deliberate Attack — OBJ SHERIDAN):**
 
-- **TASK:** Conduct a deliberate attack to seize OBJ SHERIDAN (MP 0575 1524) at the Arcadia St / Clearwater Ave junction. Establish a squad ORP in the woodline north or west of the objective. Conduct leader's reconnaissance. Designate a squad-internal support element to suppress COBRA fighting positions from a covered position west of the junction. Assault through the junction, clearing COBRA positions. Consolidate with a hasty perimeter oriented south and east. Report.
+- **TASK:** Conduct a deliberate attack to seize OBJ SHERIDAN (MP 0575 1524) at the Arcadia St / Clearwater Ave junction and destroy or displace the COBRA checkpoint team (3-4 personnel) holding the junction.
 - **PURPOSE:** Deny COBRA use of the southwestern road junction and eliminate the COBRA interdiction point threatening the platoon's western flank.
 
 **3. 3rd Squad (Independent Deliberate Attack — OBJ THOMAS):**
 
-- **TASK:** Conduct a deliberate attack to seize OBJ THOMAS (MP 0607 1555) on Bradenton Avenue near the FOB north entrance. Establish a squad ORP in the woodline west or south of the objective. Conduct leader's reconnaissance. Designate a squad-internal support element to suppress COBRA fighting positions from a covered position south of the objective. Assault through the position from a covered approach in the woodline, clearing COBRA fighting positions. Consolidate with a hasty perimeter oriented north and east. Report.
+- **TASK:** Conduct a deliberate attack to seize OBJ THOMAS (MP 0607 1555) on Bradenton Avenue near the FOB north entrance and destroy or displace the COBRA checkpoint team (3-4 personnel) holding the position.
 - **PURPOSE:** Destroy the COBRA checkpoint threatening the FOB north entrance, secure the northern approach to the FOB, and enable friendly movement into the northern portion of AO PUTNAM.
 
 ### e. Coordinating Instructions
