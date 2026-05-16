@@ -159,9 +159,7 @@ Priority of fires to 1st Squad. Mortar support is available through company on r
 
 **5. Reporting:** SP/LD crossing, SALUTE on contact, PL BLUE crossing, LOA reached, LACE on consolidation.
 
-**6. Coordination Between Squads:** Squads operate independently in their zones; adjacent squad leaders coordinate lateral boundaries. On contact, adjacent squads continue their own mission unless the PL directs otherwise.
-
-**7.** This OPORD is effective immediately upon distribution.
+**6.** This OPORD is effective immediately upon distribution.
 
 ---
 

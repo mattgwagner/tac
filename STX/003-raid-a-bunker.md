@@ -150,9 +150,7 @@ Priority of fires to 3rd Squad. Mortar support is available through company on r
 
 **4. Reporting:** SP/LD, In Position at the ORP/objective, SALUTE on contact, LACE on consolidation. Submit any captured-materials report through the PL after consolidation.
 
-**5. Coordination Between Squads:** Squads operate independently at their objectives; adjacent squads continue their own mission on contact unless the PL directs otherwise.
-
-**6.** This OPORD is effective immediately upon distribution.
+**5.** This OPORD is effective immediately upon distribution.
 
 ---
 

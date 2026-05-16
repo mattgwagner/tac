@@ -172,12 +172,7 @@ Priority of fires to 3rd Squad. Mortar support is available through company on r
    - **SALUTE Report:** Upon visual confirmation of enemy.
    - **LACE Report:** Upon seizure and consolidation on the objective.
 
-**5. Coordination Between Squads:**
-   - Squads operate independently at their assigned objectives.
-   - Squads report contact via SALUTE on the platoon net; adjacent squads monitor but continue their own missions unless directed otherwise by the PL.
-   - Squads requiring support request it through the PL.
-
-**6.** This OPORD is effective immediately upon distribution.
+**5.** This OPORD is effective immediately upon distribution.
 
 ---
 
