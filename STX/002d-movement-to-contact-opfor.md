@@ -18,21 +18,23 @@ If the squad leader's plan is solid, it should work. If it's not, cadre will mak
 
 **Weapons (all elements):** M4 with blanks. Small arms only.
 
-## Element WEST (OBJ IRON)
+> **CADRE:** This is a movement to contact — the squad does **not** know where you are. Pick a concealed observation position somewhere in your assigned zone before SP and **vary it between iterations**. Suggested positions are listed; pick one or improvise within the zone.
 
-- **Location:** Vicinity MP 0600 1538 (Bradenton Ave intersection)
+## Element WEST (Western Zone)
+
+- **Position:** Cadre places anywhere in the western zone before SP. Suggested: concealed observation positions in woodlines along Bradenton Ave (MP 0600 1538), along the unnamed N-S road, or in vegetation overlooking likely approach routes.
 - **Size:** 2-3 personnel
 - **Tactic: Screen and delay.** Observe the friendly approach from concealment. When friendlies get within 50m, fire 1-2 short bursts to alert and delay, then bound back 30-40m. Re-engage with 1 more short burst, then break contact **north**. WRAITH screens — it does not hold ground.
 
-## Element CENTRAL (OBJ STEEL)
+## Element CENTRAL (Central Zone)
 
-- **Location:** Vicinity MP 0612 1546 (road junction near FOB)
+- **Position:** Cadre places anywhere in the central zone before SP. Suggested: concealed observation positions in vegetation south of the FOB or vicinity the road junction (MP 0612 1546).
 - **Size:** 2-3 personnel
 - **Tactic: Hasty ambush then withdraw.** Occupy concealed positions along the approach. Initiate at 30m, fire for 10-15 seconds, then immediately break contact **north**. WRAITH does not linger — one engagement and gone.
 
-## Element EAST (OBJ COPPER)
+## Element EAST (Eastern Zone)
 
-- **Location:** Vicinity MP 0613 1532 (Conex City structures)
+- **Position:** Cadre places anywhere in the eastern zone before SP. Suggested: observation positions in or adjacent to the Conex City structures (vic MP 0613 1532).
 - **Size:** 2-3 personnel
 - **Tactic: Observe and delay.** Use the structures for observation. When friendlies approach within 50m, fire 1 burst from the structure entrance, then withdraw **north through** the structure and break contact. Do NOT hold the structure.
 

@@ -51,9 +51,10 @@ The following grids are used in current OPORDs:
 | 001 - Ambush | `MP 0600 1530` | OBJ FLUNKER | Ambush site on Bradenton Ave |
 | 001 - Ambush | `MP 0600 1534` | 2nd Squad SBF | North end of kill zone |
 | 001 - Ambush | `MP 0610 1550` | 3rd Squad Security | FOB center |
-| 002 - MTC | `MP 0600 1538` | OBJ BAINTON (1st Sqd) | Bradenton Ave intersection |
-| 002 - MTC | `MP 0612 1546` | OBJ HERRERA (2nd Sqd) | South entrance to FOB |
-| 002 - MTC | `MP 0613 1532` | OBJ BARLOW (3rd Sqd) | Conex City NE bldg |
+| 002 - MTC | `MP 06__ 1523` | LD (Arcadia St) | Southern AO boundary; squads cross LD moving north |
+| 002 - MTC | `MP 06__ 1538` | PL BLUE (unnamed E-W road) | Interior phase line; report when crossing |
+| 002 - MTC | `MP 06__ 1565` | LOA (Jacksonville St) | Northern AO boundary; do not cross without PL approval |
+| 002 - MTC | (cadre's call) | OPFOR contact (1st/2nd/3rd Sqd) | Cadre positions OPFOR within squad zone per iteration — no fixed grid; this is a movement to contact |
 | 003 - Raid | `MP 0600 1538` | OBJ COTTO (Bunker) | Bradenton Ave intersection |
 | 004 - Clear City | `MP 0611 1530` | OBJ FLUNKER (Urban) | Conex City center |
 | 005 - Recon | `MP 0613 1532` | Suspected Enemy Position | Conex City NE bldg |

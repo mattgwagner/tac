@@ -14,25 +14,27 @@ If the squad leader's plan is solid, it should work. If it's not, cadre will mak
 
 ---
 
-**You are:** VIPER combat elements establishing blocking positions in AO ORANGE. Three independent elements, one per zone. **Elements do NOT coordinate with each other.**
+**You are:** VIPER combat elements establishing blocking positions in assigned zones in AO ORANGE. Three independent elements, one per zone. **Elements do NOT coordinate with each other.**
 
 **Weapons (all elements):** M4 with blanks. Small arms only. One member of each element may carry a marked "support weapon" (marked rifle) to represent a crew-served.
 
-## Element WEST (OBJ JACKAL)
+> **CADRE:** This is a movement to contact — the squad does **not** know where you are. Pick a hasty fighting position somewhere in your assigned zone before SP and **vary it between iterations**. Suggested positions are listed; pick one or improvise within the zone.
 
-- **Location:** Vicinity MP 0600 1538 (Bradenton Ave intersection)
+## Element WEST (Western Zone)
+
+- **Position:** Cadre places anywhere in the western zone before SP. Suggested: concealed positions along the friendly approach vicinity Bradenton Ave (MP 0600 1538) or along the unnamed N-S road.
 - **Size:** 2-3 personnel
 - **Tactic: Hasty ambush.** Occupy concealed positions along the friendly approach. Fire aggressively when friendlies get within 40m — VIPER fights hard. After 15-20 seconds of fire, break contact north.
 
-## Element CENTRAL (OBJ WOLVERINE)
+## Element CENTRAL (Central Zone)
 
-- **Location:** Vicinity MP 0612 1546 (road junction near FOB)
+- **Position:** Cadre places anywhere in the central zone before SP. Suggested: fighting positions vicinity the road junction (MP 0612 1546) or in vegetation south of the FOB, oriented south.
 - **Size:** 2-3 personnel
-- **Tactic: Hold the junction.** Occupy fighting positions at the junction oriented south. Fire aggressively and hold position until the assault element closes to within 15m, then take "casualties" on cadre call. VIPER wants this ground.
+- **Tactic: Hold the position.** Occupy fighting positions oriented south. Fire aggressively and hold position until the squad closes to within 15m, then take "casualties" on cadre call. VIPER wants this ground.
 
-## Element EAST (OBJ FALCON)
+## Element EAST (Eastern Zone)
 
-- **Location:** Vicinity MP 0613 1532 (Conex City structures)
+- **Position:** Cadre places anywhere in the eastern zone before SP. Suggested: inside or adjacent to the Conex City structures (vic MP 0613 1532) or in adjacent woodlines.
 - **Size:** 2-3 personnel
 - **Tactic: Delay.** Fire from inside or adjacent to the structures when friendlies approach within 50m. Bound back through the structures, re-engage once more, then break contact north. VIPER uses the structures for cover but doesn't hold them.
 

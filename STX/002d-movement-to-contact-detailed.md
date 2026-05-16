@@ -8,21 +8,24 @@
 >
 > **Complexity:** Moderate | **Recommended Phase:** WALK (Blocks 3-4), RUN (Day Iterations)
 >
-> **Mission Summary:** 1st Platoon conducts a movement to contact in AO STEELE with squads operating independently in assigned zones to locate and engage WRAITH security elements screening key terrain features across the AO.
+> **Mission Summary:** 1st Platoon conducts a movement to contact in AO STEELE from LD Arcadia St to LOA Jacksonville St. Squads operate independently in assigned zones to gain contact with WRAITH security elements believed to be screening key terrain across the AO. Exact WRAITH positions are unknown.
 >
-> **Training Focus:** This OPORD is designed to evaluate **individual squad leader planning and decision-making**. The PL issues the platoon OPORD, but each squad leader must conduct their own TLP — analyzing terrain, selecting movement techniques, choosing formations, planning actions on contact, and issuing a squad OPORD. Cadre should assign one evaluator per squad to observe the SL's planning process and tactical decisions.
+> **Training Focus:** This OPORD is designed to evaluate **individual squad leader planning and decision-making for movement to contact** (FM 3-90-1; ATP 3-21.8, search and attack). The PL issues the platoon OPORD, but each squad leader must conduct their own TLP — analyzing terrain, selecting movement techniques, choosing formations, planning actions on contact, and issuing a squad OPORD. Cadre should assign one evaluator per squad to observe the SL's planning process and tactical decisions.
 >
-> **Destinations:**
-> - 1st Squad → OBJ IRON (vic MP 0600 1538)
-> - 2nd Squad → OBJ STEEL (vic MP 0612 1546)
-> - 3rd Squad → OBJ COPPER (vic MP 0613 1532)
+> **Doctrinal Note (Cadre):** This is a movement to contact, not a raid or deliberate attack. Squad tasks intentionally give a zone, LD, and LOA — **not** an OBJ grid. If a SL plans an ORP, leader's recon, and pre-planned SBF/assault against a fixed location, redirect them: WRAITH positions are not pinpointed and WRAITH does not hold ground (they screen and withdraw). Squads execute React to Contact on first contact, then SL decides whether to fix/pursue, fix and report, or break contact. Separate STX (003 raid, 014/016 deliberate attack) cover assault planning against known objectives.
 >
-> **Actions on Objective:** Each squad independently locates and engages WRAITH in its zone, secures its objective, and reports. Squads do not depend on or wait for adjacent squads.
+> **Squad Zones:**
+> - 1st Squad → Western Zone of AO STEELE
+> - 2nd Squad → Central Zone of AO STEELE
+> - 3rd Squad → Eastern Zone of AO STEELE (includes Conex City)
+>
+> **Actions on Contact:** Each squad executes React to Contact battle drill on first enemy contact, then develops the situation per the SL's assessment within commander's intent. WRAITH withdraws quickly — pursuit is often unproductive; fix-and-report typically gets more value. Squads do not depend on or wait for adjacent squads.
 >
 > **Evaluation Timeline:** For evaluated iterations, candidates will receive this OPORD and have 75 minutes to complete TLP Steps 1-8 before SP. Execution window is 60 minutes. AAR is 15 minutes.
 >
 > **OPFOR/Training Wrinkles:**
-> - Deploy one WRAITH security element (2-3 personnel) per zone, positioned near each squad's objective. WRAITH is not fortified — they're screening, not defending in depth.
+> - Deploy one WRAITH security element (2-3 personnel) per zone. **Cadre repositions each element within its zone per iteration** so squads cannot pre-plan against a known grid.
+> - WRAITH is not fortified — they're screening, not defending in depth.
 > - Each element operates independently — do not coordinate across zones unless running MDCOA.
 > - Introduce a civilian or non-combatant scenario in one zone to test ROE.
 > - Vary WRAITH tactics: one team delays and falls back methodically, one team holds briefly then withdraws, one team conducts a short-duration ambush then breaks contact.
@@ -31,7 +34,7 @@
 >
 > **See Also:** [LTA Grid Reference](../reference/lta-grid-reference.md)
 >
-> **Iteration Guidance:** This is the detailed version with specific objective grids and zone boundaries in squad tasks. For evaluated iterations and later runs, use [002-movement-to-contact.md](002-movement-to-contact.md) instead.
+> **Iteration Guidance:** This is the detailed version — richer enemy disposition, likely contact areas, control measures, and per-squad task framing. The base [002-movement-to-contact.md](002-movement-to-contact.md) is the leaner mission-command version for later iterations.
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 
@@ -49,13 +52,13 @@ Platoon Sergeant
 ## 1. SITUATION
 
 ### a. Area of Interest
-The Camp Blanding LTA, Clay County, Florida. AO STEELE covers the central and eastern LTA — the Bradenton Avenue corridor, the FOB south entrance at OBJ STEEL (MP 0612 1546), and Conex City — bounded north by Jacksonville Street, east by the FOB and Conex City perimeters, south by Arcadia Street, and west by Bradenton Avenue (vicinity MP 0600 1525 to MP 0615 1555). The area of interest extends west across Bradenton Avenue into the surrounding woodlines and south of Arcadia Street, where WRAITH screening and surveillance teams operate from positions outside the LTA.
+The Camp Blanding LTA, Clay County, Florida. AO STEELE covers the central and eastern LTA — the Bradenton Avenue corridor, the FOB south entrance vicinity (MP 0612 1546), and Conex City — bounded north by Jacksonville Street (LOA), east by the FOB and Conex City perimeters, south by Arcadia Street (LD), and west by Bradenton Avenue (vicinity MP 0600 1525 to MP 0615 1555). The area of interest extends west across Bradenton Avenue into the surrounding woodlines and south of Arcadia Street, where WRAITH screening and surveillance teams operate from positions outside the LTA.
 
 ### b. Area of Operations
 
 **1. Terrain.** The Camp Blanding LTA is a road-bounded sector of the training area, roughly 1,200m east-west by 550m north-south, set in flat sandy-soil pine and hardwood forest. An improved road grid frames the LTA: Bradenton Avenue (N-S) runs through the center, Clearwater Avenue (N-S) bounds the west, Arcadia Street (E-W) bounds the south, and Jacksonville Street (E-W) bounds the north. Two unnamed roads — one N-S in the western LTA and one E-W through the interior — subdivide the woodlines. The FOB sits at MP 0610 1550 in the northeast; Conex City sits at MP 0611 1530 in the southeast. Dense pine canopy and palmetto understory limit observation to under 50m off the road corridors, so the road grid provides the only extended fields of fire and the primary mounted avenues of approach. Sandy soil supports dismounted movement everywhere but restricts wheeled traffic to the roads, particularly after rain.
 
-   - **Key Terrain:** The FOB south entrance (MP 0612 1546) is a key screening position WRAITH uses to monitor friendly movement into the eastern sector. The Bradenton/unnamed-road intersection (MP 0600 1538) is the primary central N-S approach axis. Conex City's structures (MP 0611 1530) give WRAITH observation positions and cover in the southeastern sector. Dense vegetation limits observation to under 50m off road corridors.
+   - **Key Terrain:** The FOB south entrance area (MP 0612 1546) is a likely WRAITH screening position monitoring friendly movement into the eastern sector. The Bradenton/unnamed-road intersection (MP 0600 1538) is the primary central N-S approach axis. Conex City's structures (MP 0611 1530) offer observation positions and cover in the southeastern sector. Dense vegetation limits observation to under 50m off road corridors. SLs should consider road junctions, woodline edges, and the built-up area as likely WRAITH observation/contact points.
 
 **2. Weather.**
    - Skies: ________
@@ -72,10 +75,12 @@ WRAITH has deployed security elements across AO STEELE to screen friendly approa
 
 **1. Composition.** Three independent WRAITH security elements, each 2-3 combatants with small arms. Total 6-9 combatants distributed across AO STEELE.
 
-**2. Disposition.** WRAITH elements are positioned across the AO:
-   - Western element: screening the Bradenton Avenue intersection (vic MP 0600 1538) from concealed positions in the woodlines, oriented south along Bradenton Ave.
-   - Central element: screening the road junction south of the FOB (vic MP 0612 1546) from concealed positions in the vegetation, oriented south toward the friendly assembly area.
-   - Eastern element: occupying observation positions in and around the Conex City structures (vic MP 0613 1532), monitoring approaches from the south and west.
+**2. Disposition.** **Exact positions unknown.** Reporting places one WRAITH security element operating somewhere in each of the three squad zones — western, central, and eastern. Elements use vegetation and structures for concealment and are oriented to observe likely friendly approach routes. Likely contact areas based on prior reporting:
+   - Western zone: woodlines along Bradenton Avenue and the unnamed N-S road, with road junctions providing observation.
+   - Central zone: vegetation south of the FOB; the road junction area offers concealed observation over likely approach routes.
+   - Eastern zone: in and around the Conex City structures and adjacent woodlines.
+   
+   Each element operates independently with limited lateral coordination.
 
 **3. Most Probable Course of Action (MPCOA).** Each WRAITH element reports friendly movement when detected, then initiates limited harassing fire and withdraws methodically — their priority is reporting, not fighting. Each element falls back to successive screening positions before breaking contact entirely. Elements do not reinforce each other.
 
@@ -85,9 +90,9 @@ WRAITH has deployed security elements across AO STEELE to screen friendly approa
 
 **1. Higher Headquarters:** A Co. 4th BN – 211th INF.
 
-**2. Mission.** A Company attacks to destroy WRAITH screening elements in AO STEELE to degrade WRAITH early warning capability and enable follow-on operations against WRAITH's main effort deeper in the AO.
+**2. Mission.** A Company conducts movement to contact in AO STEELE to locate WRAITH screening elements, develop the situation, and degrade WRAITH early warning capability to enable follow-on operations against WRAITH's main effort deeper in the AO.
 
-**3. Commander's Intent.** Locate and destroy WRAITH screening elements across AO STEELE to blind WRAITH to friendly movement and create conditions for follow-on offensive operations.
+**3. Commander's Intent.** Establish contact with WRAITH screening elements throughout the AO, develop the situation, and degrade WRAITH's ability to observe friendly movement, creating conditions for follow-on offensive operations.
 
 ### e. Civil Considerations
 Civilians present near road junctions and in the vicinity of the built-up area. Avoid civilian harm throughout the operation.
@@ -99,7 +104,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon conducts a movement to contact in AO STEELE NLT ____ in order to locate and destroy WRAITH screening elements and degrade WRAITH early warning capability throughout the AO.
+1st Platoon conducts a movement to contact in AO STEELE NLT ____ from LD Arcadia St to LOA Jacksonville St in order to establish contact with WRAITH screening elements, develop the situation, and degrade WRAITH early warning capability throughout the AO.
 
 ---
 
@@ -107,33 +112,33 @@ None.
 
 ### a. Commander's Intent
 
-**Purpose:** Locate and destroy WRAITH security elements across AO STEELE to eliminate WRAITH's ability to screen friendly movement, creating conditions for follow-on operations against WRAITH's main effort.
+**Purpose:** Establish contact with WRAITH security elements across AO STEELE and develop the situation to degrade WRAITH's ability to screen friendly movement, creating conditions for follow-on operations against WRAITH's main effort.
 
-**Key Tasks:** (1) Each squad locates and engages WRAITH forces in its assigned zone and reports strength and disposition. (2) Each squad secures its objective and destroys or displaces WRAITH screening elements. (3) Squads maintain freedom to maneuver independently throughout the engagement.
+**Key Tasks:** (1) Each squad establishes contact with WRAITH forces in its assigned zone and reports strength, location, and activity. (2) On contact, develop the situation — fix, destroy, displace, or report — based on the SL's assessment within commander's intent. (3) Squads maintain freedom to maneuver independently throughout the engagement and reach LOA Jacksonville St.
 
-**End State:** WRAITH screening elements destroyed or displaced in all three zones, WRAITH early warning network degraded, squads consolidated and prepared for follow-on operations.
+**End State:** WRAITH screening elements engaged and displaced or destroyed in all three zones, WRAITH early warning network degraded, squads at or short of LOA prepared for follow-on operations.
 
 ### b. Concept of Operations
-1st Platoon conducts a decentralized movement to contact across three assigned squad zones in AO STEELE. Each squad advances toward its own objective, locating and engaging WRAITH screening elements. **1st Squad is the main effort.** Squad leaders select their own movement techniques, formations, and routes based on terrain and enemy analysis. Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
+1st Platoon conducts a decentralized movement to contact across three assigned squad zones in AO STEELE from LD Arcadia St to LOA Jacksonville St. Each squad clears its zone at its own pace to gain and develop contact with WRAITH screening elements. **1st Squad is the main effort.** Squad leaders select their own movement techniques, formations, and routes based on terrain and likely-enemy analysis. On contact, squads execute the React to Contact battle drill, then develop the situation — fix and report, hasty pursuit, or break contact — within commander's intent. Squads do not wait on adjacent squads; each executes its own actions on contact per SOP and reports.
 
 ### c. Scheme of Fires
 Priority of fires to 1st Squad. Mortar support is available through company on request; any squad may request fires through the PL.
 
 ### d. Tasks to Subordinate Units
 
-**1. 1st Squad (Western Zone):**
+**1. 1st Squad (Western Zone) — Main Effort:**
 
-- **TASK:** Conduct a movement to contact in the western zone of AO STEELE toward OBJ IRON (MP 0600 1538) to locate and destroy the WRAITH screening element.
-- **PURPOSE:** Deny WRAITH early warning along the Bradenton Ave corridor and enable friendly freedom of movement through the western sector of AO STEELE.
+- **TASK:** Movement to contact in the western zone of AO STEELE from LD Arcadia St to LOA Jacksonville St to establish contact with the WRAITH screening element operating in the zone (2-3 personnel, small arms, screens and withdraws; exact location unknown) and develop the situation.
+- **PURPOSE:** Deny WRAITH early warning along the Bradenton Ave corridor and restore friendly freedom of movement through the western sector of AO STEELE.
 
 **2. 2nd Squad (Central Zone):**
 
-- **TASK:** Conduct a movement to contact in the central zone of AO STEELE toward OBJ STEEL (MP 0612 1546) to locate and destroy the WRAITH screening element.
+- **TASK:** Movement to contact in the central zone of AO STEELE from LD Arcadia St to LOA Jacksonville St to establish contact with the WRAITH screening element operating in the zone (2-3 personnel, small arms, screens and withdraws; exact location unknown) and develop the situation.
 - **PURPOSE:** Deny WRAITH observation of the main approach into the northern portion of AO STEELE.
 
 **3. 3rd Squad (Eastern Zone):**
 
-- **TASK:** Conduct a movement to contact in the eastern zone of AO STEELE toward OBJ COPPER (MP 0613 1532) to locate and destroy the WRAITH screening element in and around the Conex City structures.
+- **TASK:** Movement to contact in the eastern zone of AO STEELE from LD Arcadia St to LOA Jacksonville St to establish contact with the WRAITH screening element operating in the zone (2-3 personnel, small arms, screens and withdraws; likely in or around the Conex City structures) and develop the situation.
 - **PURPOSE:** Deny WRAITH use of the Conex City built-up area as an observation post over the eastern approach into AO STEELE.
 
 ### e. Coordinating Instructions
@@ -163,18 +168,25 @@ Priority of fires to 1st Squad. Mortar support is available through company on r
    2. Friendly unit positions and boundaries
    3. Casualty status and combat strength
 
-**4. Reporting:**
-   - **Report to higher when crossing the line of departure.**
-   - **SALUTE Report:** Upon contact with enemy or relevant activity.
-   - **Objective Report:** Upon securing squad objective — report status and enemy situation.
-   - **LACE Report:** Upon reaching objective.
+**4. Control Measures:**
+   - **LD:** Arcadia St (southern AO boundary). Squads cross LD moving north into their assigned zone at SP time.
+   - **LOA:** Jacksonville St (northern AO boundary). Squads do not advance beyond LOA without PL approval.
+   - **PL BLUE:** Unnamed E-W road through the interior (vic northing 1538). Report when crossing.
+   - **Zones:** Western, Central, Eastern as assigned. SLs coordinate lateral boundaries directly with adjacent SLs prior to SP.
 
-**5. Coordination Between Squads:**
-   - Squads operate independently within their zones.
+**5. Reporting:**
+   - **SP/LD crossing** — report on the platoon net.
+   - **SALUTE Report** — upon contact with enemy or relevant activity.
+   - **PL BLUE crossing** — report on the platoon net.
+   - **LOA reached** — report on the platoon net.
+   - **LACE Report** — on consolidation.
+
+**6. Coordination Between Squads:**
+   - Squads operate independently within their zones. Lateral coordination at zone boundaries is the responsibility of adjacent squad leaders.
    - Squads report contact via SALUTE on the platoon net; adjacent squads monitor but continue their own missions unless directed otherwise by the PL.
    - Squads requiring support request it through the PL.
 
-**6.** This OPORD is effective immediately upon distribution.
+**7.** This OPORD is effective immediately upon distribution.
 
 ---
 
