@@ -123,17 +123,17 @@ Priority of fires to 1st Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Western Zone):**
 
-- **TASK:** Conduct a movement to contact in the western zone of AO PUTNAM to locate and destroy the COBRA logistics element, seize OBJ RANGER (MP 0600 1538), and secure the cache materials at the position.
+- **TASK:** Conduct a movement to contact in the western zone of AO PUTNAM to locate and destroy the COBRA logistics element, seize OBJ RANGER (MP 0600 1538), and exploit cache materials of intelligence value.
 - **PURPOSE:** Deny COBRA use of the Bradenton Ave junction as a forward cache site and resupply node.
 
 **2. 2nd Squad (Central Zone):**
 
-- **TASK:** Conduct a movement to contact in the central zone of AO PUTNAM to locate and destroy the COBRA logistics element, seize OBJ AIRBORNE (MP 0612 1546), and secure the cache materials at the position.
+- **TASK:** Conduct a movement to contact in the central zone of AO PUTNAM to locate and destroy the COBRA logistics element, seize OBJ AIRBORNE (MP 0612 1546), and exploit cache materials of intelligence value.
 - **PURPOSE:** Disrupt COBRA's ability to coordinate resupply movement through the central portion of AO PUTNAM.
 
 **3. 3rd Squad (Eastern Zone):**
 
-- **TASK:** Conduct a movement to contact in the eastern zone of AO PUTNAM to locate and destroy the COBRA logistics element in and around the Conex City structures, seize OBJ INFANTRY (MP 0613 1532), and secure the cache materials at the position.
+- **TASK:** Conduct a movement to contact in the eastern zone of AO PUTNAM to locate and destroy the COBRA logistics element in and around the Conex City structures, seize OBJ INFANTRY (MP 0613 1532), and exploit cache materials of intelligence value.
 - **PURPOSE:** Deny COBRA use of the Conex City built-up area as a forward cache site and distribution point.
 
 ### e. Coordinating Instructions

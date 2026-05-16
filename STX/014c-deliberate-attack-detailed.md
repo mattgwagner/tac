@@ -126,17 +126,17 @@ Priority of fires to 2nd Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Independent Deliberate Attack — OBJ PYTHON):**
 
-- **TASK:** Attack to seize OBJ PYTHON (MP 0600 1523), destroy the VIPER leadership element (1-2 cell leaders with 2 aggressive bodyguards) at the Arcadia / Bradenton junction, and exploit captured planning materials, maps, notebooks, and cell phones.
+- **TASK:** Attack to seize OBJ PYTHON (MP 0600 1523), destroy the VIPER leadership element at the Arcadia / Bradenton junction, and exploit captured planning materials, maps, notebooks, and cell phones.
 - **PURPOSE:** Disrupt VIPER cell operations in the southern portion of AO BAKER and expose VIPER cell contacts to enable follow-on targeting.
 
 **2. 2nd Squad (Independent Deliberate Attack — OBJ MAMBA):**
 
-- **TASK:** Attack to seize OBJ MAMBA (MP 0602 1565), destroy the VIPER leadership element (1-2 cell leaders with 2 aggressive bodyguards) at the Bradenton / Jacksonville junction, and exploit captured planning materials, maps, notebooks, and cell phones.
+- **TASK:** Attack to seize OBJ MAMBA (MP 0602 1565), destroy the VIPER leadership element at the Bradenton / Jacksonville junction, and exploit captured planning materials, maps, notebooks, and cell phones.
 - **PURPOSE:** Disrupt VIPER cell operations in the northern portion of AO BAKER and deny VIPER coordination from the Bradenton / Jacksonville junction.
 
 **3. 3rd Squad (Independent Deliberate Attack — OBJ COBRA):**
 
-- **TASK:** Attack to seize OBJ COBRA (MP 0611 1530), destroy the VIPER leadership element (1-2 cell leaders with 2 aggressive bodyguards) operating out of the Conex City center structure, and exploit captured planning materials, maps, notebooks, and cell phones.
+- **TASK:** Attack to seize OBJ COBRA (MP 0611 1530), destroy the VIPER leadership element operating out of the Conex City center structure, and exploit captured planning materials, maps, notebooks, and cell phones.
 - **PURPOSE:** Disrupt VIPER cell operations in the eastern sector and expose VIPER operations in the Conex City area to enable follow-on targeting.
 
 ### e. Coordinating Instructions

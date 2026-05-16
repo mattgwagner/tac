@@ -130,7 +130,7 @@ Priority of fires to 1st Squad. Mortar support is available through company on r
 **2. 2nd Squad (Central Zone):**
 
 - **TASK:** Conduct a movement to contact in the central zone of AO FLUNKER to locate and destroy the REAPER team and seize OBJ HERRERA (MP 0612 1546).
-- **PURPOSE:** Enable the company to control the central avenue of approach for follow-on operations.
+- **PURPOSE:** Deny REAPER use of the central avenue of approach through AO FLUNKER and set conditions for follow-on company operations.
 
 **3. 3rd Squad (Eastern Zone):**
 

@@ -126,17 +126,17 @@ Priority of fires to 2nd Squad. Mortar support is available through company on r
 
 **1. 1st Squad (Independent Deliberate Attack — OBJ SIGMA):**
 
-- **TASK:** Attack to seize OBJ SIGMA (MP 0600 1523), destroy the WRAITH planning cell (1-2 planners with 2 security) at the Arcadia / Bradenton junction, and exploit captured operational plans, annotated maps, and intelligence products.
+- **TASK:** Attack to seize OBJ SIGMA (MP 0600 1523), destroy the WRAITH planning cell at the Arcadia / Bradenton junction, and exploit captured operational plans, annotated maps, and intelligence products.
 - **PURPOSE:** Disrupt WRAITH planning capacity in the southern portion of AO CEDAR and expose WRAITH's intended operations in that sector to enable follow-on company action.
 
 **2. 2nd Squad (Independent Deliberate Attack — OBJ OMEGA):**
 
-- **TASK:** Attack to seize OBJ OMEGA (MP 0602 1565), destroy the WRAITH planning cell (1-2 planners with 2 security) at the Bradenton / Jacksonville junction, and exploit captured operational plans, annotated maps, and intelligence products.
+- **TASK:** Attack to seize OBJ OMEGA (MP 0602 1565), destroy the WRAITH planning cell at the Bradenton / Jacksonville junction, and exploit captured operational plans, annotated maps, and intelligence products.
 - **PURPOSE:** Disrupt WRAITH planning capacity in the northern portion of AO CEDAR and expose WRAITH's highest-priority objectives in the northern sector to enable follow-on company action.
 
 **3. 3rd Squad (Independent Deliberate Attack — OBJ ALPHA):**
 
-- **TASK:** Attack to seize OBJ ALPHA (MP 0611 1530), destroy the WRAITH planning cell (1-2 planners with 2 security) operating out of the Conex City structure, and exploit captured operational plans, annotated maps, and intelligence products — this cell holds WRAITH's most comprehensive planning materials for the AO.
+- **TASK:** Attack to seize OBJ ALPHA (MP 0611 1530), destroy the WRAITH planning cell operating out of the Conex City structure, and exploit captured operational plans, annotated maps, and intelligence products.
 - **PURPOSE:** Disrupt WRAITH's primary planning effort and expose WRAITH's comprehensive scheme of maneuver across AO CEDAR to enable follow-on company action.
 
 ### e. Coordinating Instructions
